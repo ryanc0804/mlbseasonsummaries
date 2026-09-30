@@ -24,8 +24,8 @@ export function StatsBar({ stats, team }: StatsBarProps) {
   ];
 
   return (
-    <div className="border-t border-white/10 px-4 py-3 overflow-x-auto">
-      <div className="flex items-center gap-6 min-w-max">
+    <div className="border-t border-white/10 px-4 py-3">
+      <div className="flex items-center gap-x-6 gap-y-2 flex-wrap">
         {stats.playoffResult && (
           <div
             className="flex-shrink-0 text-xs font-semibold px-2.5 py-1 rounded-full"

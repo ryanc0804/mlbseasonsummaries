@@ -137,17 +137,31 @@ for (const [teamId, name] of teams) {
   if (state.exists) fs.rmSync(cacheFile(teamId));
 
   process.stdout.write(`  GEN  ${name} … `);
-  try {
-    const res = await fetch(`${baseUrl}/api/recap?teamId=${teamId}&year=${year}`);
-    if (!res.ok) {
-      const body = await res.json().catch(() => ({}));
-      throw new Error(body?.error ?? `HTTP ${res.status}`);
+  // Savant throws transient 5xx errors under load — retry a couple of times
+  const ATTEMPTS = 3;
+  let lastError;
+  for (let attempt = 1; attempt <= ATTEMPTS; attempt++) {
+    try {
+      const res = await fetch(`${baseUrl}/api/recap?teamId=${teamId}&year=${year}`);
+      if (!res.ok) {
+        const body = await res.json().catch(() => ({}));
+        throw new Error(body?.error ?? `HTTP ${res.status}`);
+      }
+      console.log(attempt > 1 ? `ok (attempt ${attempt})` : "ok");
+      await resolveVideos(teamId, name);
+      generated++;
+      lastError = null;
+      break;
+    } catch (e) {
+      lastError = e;
+      if (attempt < ATTEMPTS) {
+        process.stdout.write(`retry ${attempt} (${e.message}) … `);
+        await new Promise((r) => setTimeout(r, 30_000));
+      }
     }
-    console.log("ok");
-    await resolveVideos(teamId, name);
-    generated++;
-  } catch (e) {
-    console.log(`FAILED — ${e.message}`);
+  }
+  if (lastError) {
+    console.log(`FAILED — ${lastError.message}`);
     failed++;
   }
 }

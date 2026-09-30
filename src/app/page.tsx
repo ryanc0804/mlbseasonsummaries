@@ -128,7 +128,7 @@ export default function HomePage() {
               }
             `}
           >
-            Generate Recap →
+            View Recap →
           </button>
         </div>
       </div>

@@ -25,15 +25,15 @@ export async function GET(req: NextRequest) {
   if (year < 2015 || year > new Date().getFullYear()) {
     return NextResponse.json({ error: "Year out of range (2015–present)" }, { status: 400 });
   }
-  if (!process.env.ANTHROPIC_API_KEY) {
-    return NextResponse.json({ error: "ANTHROPIC_API_KEY not configured" }, { status: 500 });
-  }
-
-  // Disk cache hit — instant return
+  // Disk cache hit — instant return, no API key needed to serve pregenerated recaps
   const cached = loadCachedRecap(teamId, year);
   if (cached) {
     console.log(`[recap] Cache hit: ${teamId}/${year}`);
     return NextResponse.json(cached);
+  }
+
+  if (!process.env.ANTHROPIC_API_KEY) {
+    return NextResponse.json({ error: "ANTHROPIC_API_KEY not configured" }, { status: 500 });
   }
 
   const key = `${teamId}-${year}`;

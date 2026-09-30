@@ -8,8 +8,10 @@ export default function HomePage() {
   const router = useRouter();
   const currentYear = new Date().getFullYear();
   const years = Array.from({ length: 10 }, (_, i) => currentYear - i);
+  // Default to the current season (before April, that's still last year's)
+  const currentSeason = new Date().getMonth() >= 3 ? currentYear : currentYear - 1;
   const [selectedTeam, setSelectedTeam] = useState<MLBTeam | null>(null);
-  const [selectedYear, setSelectedYear] = useState<number>(currentYear - 1);
+  const [selectedYear, setSelectedYear] = useState<number>(currentSeason);
 
   function handleGenerate() {
     if (!selectedTeam) return;

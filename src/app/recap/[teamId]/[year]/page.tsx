@@ -53,7 +53,7 @@ export default function RecapPage({
   }
 
   return (
-    <main className="flex-1 flex flex-col overflow-hidden">
+    <main className="h-dvh flex flex-col overflow-hidden">
       {/* Header */}
       <header
         className="border-b border-white/10 px-6 py-4 flex items-center gap-4 flex-shrink-0"

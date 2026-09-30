@@ -1,5 +1,6 @@
 "use client";
 
+import { useEffect, useRef } from "react";
 import type { Clip, Chapter } from "@/lib/types";
 import type { MLBTeam } from "@/lib/teams";
 
@@ -38,6 +39,12 @@ export function ChapterSidebar({
   const activeChapterIndex = chapters.findIndex(
     (ch) => currentClipIndex >= ch.startClipIndex && currentClipIndex <= ch.endClipIndex
   );
+
+  // Keep the active clip visible as the recap auto-advances
+  const activeClipRef = useRef<HTMLButtonElement>(null);
+  useEffect(() => {
+    activeClipRef.current?.scrollIntoView({ behavior: "smooth", block: "nearest" });
+  }, [currentClipIndex]);
 
   return (
     <div className="w-72 flex-shrink-0 border-l border-white/10 flex flex-col overflow-hidden">
@@ -94,6 +101,7 @@ export function ChapterSidebar({
                   return (
                     <button
                       key={clip.id}
+                      ref={isActive ? activeClipRef : undefined}
                       onClick={() => onSelectClip(clipIndex)}
                       className="w-full flex items-center gap-3 px-4 py-2 hover:bg-white/5 transition-colors"
                       style={isActive ? { backgroundColor: team.primaryColor + "15" } : {}}
@@ -123,7 +131,7 @@ export function ChapterSidebar({
                           {clip.wpa !== undefined && (
                             <span
                               className="ml-1.5"
-                              style={{ color: clip.wpa >= 0 ? team.primaryColor : "#f87171" }}
+                              style={{ color: clip.wpa >= 0 ? "#4ade80" : "#f87171" }}
                             >
                               {clip.wpa >= 0 ? "+" : ""}{(clip.wpa * 100).toFixed(0)}%
                             </span>

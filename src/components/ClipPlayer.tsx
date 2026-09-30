@@ -156,7 +156,7 @@ useEffect(() => {
       <div className="px-4 py-3 border-b border-white/10">
         <div className="flex items-start justify-between gap-2">
           <h3 className="font-semibold text-sm leading-snug">{clip.title}</h3>
-          <WPABadge wpa={clip.wpa} color={team.primaryColor} />
+          <WPABadge wpa={clip.wpa} />
         </div>
         <p className="text-xs text-white/50 mt-1">{clip.description}</p>
         <div className="flex items-center gap-3 text-[10px] text-white/30 mt-1.5">
@@ -167,43 +167,18 @@ useEffect(() => {
         </div>
       </div>
 
-      {/* Thumbnail strip */}
-      <div className="flex gap-1.5 overflow-x-auto px-4 py-3 scrollbar-hide">
-        {clips.map((c, i) => (
-          <button
-            key={c.id}
-            onClick={() => onSelectClip(i)}
-            style={i === currentIndex ? { borderColor: team.primaryColor } : {}}
-            className={`flex-shrink-0 w-16 h-10 rounded overflow-hidden border transition-all ${
-              i === currentIndex ? "scale-105" : "border-white/10 opacity-50 hover:opacity-80"
-            }`}
-          >
-            {c.thumbnailUrl ? (
-              // eslint-disable-next-line @next/next/no-img-element
-              <img src={c.thumbnailUrl} alt={c.title} className="w-full h-full object-cover" />
-            ) : (
-              <div
-                className="w-full h-full flex items-center justify-center text-[8px] font-bold"
-                style={{ backgroundColor: team.primaryColor + "20", color: team.primaryColor }}
-              >
-                {i + 1}
-              </div>
-            )}
-          </button>
-        ))}
-      </div>
     </div>
   );
 }
 
-function WPABadge({ wpa, color }: { wpa: number; color: string }) {
+function WPABadge({ wpa }: { wpa: number }) {
   const isPositive = wpa >= 0;
   return (
     <span
       className="flex-shrink-0 text-[10px] font-mono rounded px-1.5 py-0.5"
       style={{
-        backgroundColor: isPositive ? color + "20" : "#ef444420",
-        color: isPositive ? color : "#f87171",
+        backgroundColor: isPositive ? "#22c55e20" : "#ef444420",
+        color: isPositive ? "#4ade80" : "#f87171",
       }}
     >
       {isPositive ? "+" : ""}{(wpa * 100).toFixed(1)}% WPA

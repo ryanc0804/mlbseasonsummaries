@@ -81,8 +81,8 @@ useEffect(() => {
 
   return (
     <div className="flex flex-col">
-      {/* Video */}
-      <div className="relative bg-black aspect-video">
+      {/* Video — height capped so wide screens don't push everything below the fold */}
+      <div className="relative bg-black aspect-video max-h-[70vh] w-full">
         {videoUrl ? (
           <video
             ref={videoRef}

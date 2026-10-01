@@ -51,8 +51,11 @@ export async function generateNarrative(
 
   const systemPrompt = `You are an expert baseball analyst and storyteller. Your job is to look at a season's most impactful plays (by Win Probability Added) and craft a compelling narrative of how the season unfolded. Respond with valid JSON only — no text before or after the JSON object.`;
 
+  // Seasons aren't final until the postseason wraps (~Dec 1)
+  const seasonInProgress = new Date() < new Date(`${year}-12-01T00:00:00Z`);
+
   const userPrompt = `Team: ${team.city} ${team.name}
-Season: ${year}
+Season: ${year}${seasonInProgress ? " (SEASON STILL IN PROGRESS — anything ongoing, especially the postseason, must be written in present tense with no final outcomes declared)" : ""}
 Record: ${stats.wins}-${stats.losses}
 Runs: ${stats.runsScored} scored, ${stats.runsAllowed} allowed
 Home runs: ${stats.homeRuns} | ERA: ${stats.teamEra} | OPS: ${stats.teamOps}

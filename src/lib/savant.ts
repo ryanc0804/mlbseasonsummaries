@@ -205,8 +205,8 @@ async function fetchPlayoffResult(teamId: number, year: number): Promise<string 
     if (!res.ok) return undefined;
     const data = await res.json();
 
-    // Collect all completed postseason games involving this team, grouped by round
-    const gamesByRound = new Map<string, Array<{ date: string; won: boolean }>>();
+    // Completed postseason games involving this team, grouped by round
+    const gamesByRound = new Map<string, { wins: number; losses: number; gamesInSeries: number }>();
     for (const dateEntry of data?.dates ?? []) {
       for (const game of dateEntry?.games ?? []) {
         if (game?.status?.codedGameState !== "F") continue; // finals only
@@ -214,25 +214,36 @@ async function fetchPlayoffResult(teamId: number, year: number): Promise<string 
         const side = home?.team?.id === teamId ? home : away?.team?.id === teamId ? away : null;
         if (!side) continue;
         const round = game.gameType as string;
-        if (!gamesByRound.has(round)) gamesByRound.set(round, []);
-        gamesByRound.get(round)!.push({ date: game.gameDate, won: side.isWinner === true });
+        if (!gamesByRound.has(round)) {
+          gamesByRound.set(round, { wins: 0, losses: 0, gamesInSeries: Number(game.gamesInSeries) || 7 });
+        }
+        const rec = gamesByRound.get(round)!;
+        side.isWinner === true ? rec.wins++ : rec.losses++;
       }
     }
     if (gamesByRound.size === 0) return undefined;
 
-    // Furthest round reached; the winner of a series' final game is the series winner
-    const lastRound = ROUND_ORDER.filter((r) => gamesByRound.has(r)).pop()!;
-    const games = gamesByRound.get(lastRound)!.sort((a, b) => a.date.localeCompare(b.date));
-    const wonSeries = games[games.length - 1].won;
-
     const lg = team.league; // AL | NL
-    switch (lastRound) {
-      case "W": return wonSeries ? "Won the World Series" : "Lost the World Series";
-      case "L": return wonSeries ? `Won the ${lg}CS` : `Lost in the ${lg}CS`;
-      case "D": return wonSeries ? `Won the ${lg}DS` : `Lost in the ${lg}DS`;
-      case "F": return wonSeries ? "Won the Wild Card round" : "Lost in the Wild Card round";
-      default:  return undefined;
+    const ROUND_NAME: Record<string, string> = {
+      F: "Wild Card round", D: `${lg}DS`, L: `${lg}CS`, W: "World Series",
+    };
+
+    // Furthest round reached. A series is only decided once a side has the
+    // required wins (best-of-N) — an in-progress series must not be called.
+    const lastRound = ROUND_ORDER.filter((r) => gamesByRound.has(r)).pop()!;
+    const { wins, losses, gamesInSeries } = gamesByRound.get(lastRound)!;
+    const needed = Math.floor(gamesInSeries / 2) + 1;
+    const name = ROUND_NAME[lastRound];
+
+    if (losses >= needed) {
+      return lastRound === "W" ? "Lost the World Series" : `Lost in the ${name}`;
     }
+    if (wins >= needed) {
+      if (lastRound === "W") return "Won the World Series";
+      // Won this round but the next hasn't started yet — postseason still alive
+      return `Won the ${name} — postseason in progress`;
+    }
+    return `Postseason in progress — ${name}, series ${wins}-${losses}`;
   } catch {
     return undefined;
   }

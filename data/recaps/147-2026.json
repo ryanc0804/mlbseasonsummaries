@@ -1,55 +1,47 @@
 {
   "teamId": 147,
   "year": 2026,
-  "narrative": "The 2026 New York Yankees opened the season with a jolt — an early stumble against Jake Bird's sharp double put them on notice that nothing would come easy, but the roster responded with vigor. Amed Rosario's three-run blast on April 7th set the tone for a team with real pop across the lineup, and José Caballero proved to be an unlikely catalyst, delivering two massive doubles in the first two weeks that swung games decisively in New York's favor. By late April, the Yankees had established themselves as a legitimate contender, their 3.24 ERA underpinning a pitching staff that could carry the offense on off nights.\n\nMay, however, brought turbulence. Closer David Bednar became a liability, surrendering a soul-crushing homer to Brice Turang and then an even more damaging three-run shot to Tyrone Taylor, the latter erasing a late lead in devastating fashion. The bullpen's struggles were real, and for stretches the Yankees looked more like a flawed pretender than a playoff lock. Fernando Cruz added to the misery, and for a team trying to separate itself from the Wild Card pack, these late-game collapses threatened to define the summer.\n\nThe midsummer months told a different story. Jazz Chisholm Jr.'s booming two-run homer on July 10th ignited a stretch of three consecutive clutch performances — Trent Grisham's home run and Ben Rice's two-RBI triple followed in succession — and the Yankees suddenly looked like the team their talent suggested they could be. Ben Rice in particular emerged as a force, his home run total climbing into the twenties while Anthony Volpe and Austin Wells provided timely hits in critical moments. Luis García Jr. joined the party with his 24th home run of the year in August, and the lineup hummed with a depth that masked individual slumps.\n\nSeptember tested their resolve one final time, as Paul Blackburn surrendered a brutal two-run homer to Luis Campusano that cost the Yankees a crucial game, and Nolan Arenado's grand slam off Brent Headrick sent shockwaves through the clubhouse in the final weeks. But the Yankees steadied themselves enough to claim a Wild Card berth at 93-68, and when October arrived, they were ready. Ben Rice's solo home run and a grinding, disciplined offensive performance against Boston's bullpen carried New York through the Wild Card round, with George Lombard Jr. and Austin Wells delivering when it mattered most. The Yankees had punched their ticket to the Division Series, a scrappy, imperfect, and thoroughly compelling team that proved 93 wins was no accident.",
+  "narrative": "The 2026 New York Yankees opened the season with a burst of energy, racing out to a 4-1 mark in March before sustaining that momentum through a productive April. A roster built around firepower — 223 home runs on the season — showed its teeth early, with timely contributions from unexpected heroes like Amed Rosario and José Caballero setting the tone. The Yankees were winning games in multiple ways, and the Bronx faithful sensed something real was brewing.\n\nMay brought turbulence, as the bullpen — David Bednar in particular — became a source of anxiety rather than comfort, surrendering leads in late-game situations that should have been locked up. A rough June (12-14) compounded the unease, and the Yankees briefly looked like a team that might fritter away its early-season dividends. Yet the underlying talent never disappeared, and the rotation's 3.24 ERA kept the club competitive even when the offense sputtered and the back-end relievers faltered.\n\nJuly reignited belief. Jazz Chisholm Jr. delivered one of the season's signature moments with a go-ahead home run, and a mid-July series featured back-to-back fireworks from Trent Grisham and Ben Rice that announced the Yankees were not going quietly. August and September saw the club grind its way to 93 wins, weathering late-season scares — including a brutal grand slam off Brent Headrick and a costly Paul Blackburn meltdown — to clinch a Wild Card berth. The machine was not always pretty, but it was durable.\n\nNow October belongs to New York. The Yankees lead their Wild Card series one game to none, with Ben Rice — who has been one of the most consistent offensive forces all season — delivering a home run in Game 1 to stake the club to an early advantage. Anthony Volpe and Austin Wells are contributing with runners on base, the defense is turning double plays at the right moments, and the pitching has kept Boston's lineup off-balance. The Bronx Bombers are one win away from advancing, and with momentum on their side, the questions that dogged them through the dog days of summer feel very far away.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Early Sparks",
-      "description": "The Yankees absorb an opening stumble but respond with a flurry of clutch hits and home runs to stake their claim as contenders.",
+      "title": "Fast Start, Big Swings",
+      "description": "The Yankees burst out of the gate in March and April, with Rosario, Caballero, and an offense full of surprises staking New York to an early winning record.",
       "startClipIndex": 0,
       "endClipIndex": 6,
       "tone": "triumph"
     },
     {
       "id": "ch2",
-      "title": "Bednar's Nightmare",
-      "description": "A brutal stretch of bullpen failures, led by David Bednar's repeated late-inning collapses, threatens to derail the Yankees' season.",
+      "title": "Bednar's Blues",
+      "description": "The bullpen — and Bednar in particular — becomes a recurring headache as May and June test the Yankees' depth and resilience.",
       "startClipIndex": 7,
-      "endClipIndex": 10,
+      "endClipIndex": 14,
       "tone": "struggle"
     },
     {
       "id": "ch3",
-      "title": "Midsummer Surge",
-      "description": "Anthony Volpe's clutch single and a run of big moments ignite a turning point that restores the Yankees' confidence heading into summer.",
-      "startClipIndex": 11,
-      "endClipIndex": 14,
+      "title": "July Ignition",
+      "description": "Jazz Chisholm Jr., Trent Grisham, and Ben Rice deliver a string of high-leverage hits that reignite the Yankees and remind everyone why this roster is dangerous.",
+      "startClipIndex": 15,
+      "endClipIndex": 17,
       "tone": "turning_point"
     },
     {
       "id": "ch4",
-      "title": "Jazz, Rice, and the July Blitz",
-      "description": "Jazz Chisholm Jr., Ben Rice, and Trent Grisham combine for a three-game stretch of fireworks that cements New York's playoff standing.",
-      "startClipIndex": 15,
-      "endClipIndex": 20,
-      "tone": "triumph"
+      "title": "Grinding to October",
+      "description": "August and September demand resilience as the Yankees absorb late-inning gut punches but find enough clutch moments to reach 93 wins and secure a Wild Card spot.",
+      "startClipIndex": 18,
+      "endClipIndex": 25,
+      "tone": "clutch"
     },
     {
       "id": "ch5",
-      "title": "September Scars",
-      "description": "Late-season grand slams and untimely homers allowed expose the Yankees' vulnerabilities, turning the final Wild Card push into a nail-biter.",
-      "startClipIndex": 21,
-      "endClipIndex": 25,
-      "tone": "struggle"
-    },
-    {
-      "id": "ch6",
-      "title": "October Clutch",
-      "description": "Ben Rice's home run and a resilient offensive performance carry the Yankees past the Wild Card round and into the Division Series.",
+      "title": "October Is Ours",
+      "description": "The Wild Card round is underway and the Yankees hold a 1-0 series lead, with Ben Rice homering and the lineup delivering when it counts most.",
       "startClipIndex": 26,
       "endClipIndex": 33,
-      "tone": "clutch"
+      "tone": "triumph"
     }
   ],
   "clips": [
@@ -793,9 +785,9 @@
     "teamEra": 3.24,
     "teamAvg": 0.235,
     "teamOps": 0.72,
-    "playoffResult": "Won the Wild Card round",
+    "playoffResult": "Postseason in progress — Wild Card round, series 1-0",
     "division": "AL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-09-30T23:22:57.721Z"
+  "generatedAt": "2026-10-01T00:14:13.475Z"
 }

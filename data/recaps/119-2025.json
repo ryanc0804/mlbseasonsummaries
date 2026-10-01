@@ -1,54 +1,62 @@
 {
   "teamId": 119,
   "year": 2025,
-  "narrative": "The 2025 Los Angeles Dodgers opened their championship campaign with immediate fireworks, setting the tone for a season of offensive dominance and star power. On Opening Day, Teoscar Hern\u00e1ndez launched a three-run blast to center field, plating Shohei Ohtani and Mookie Betts in a moment that announced the Dodgers' intentions to the rest of baseball. The very next night, Will Smith's clutch single rescued a tense situation, and early April brought a pair of massive blows from Max Muncy and Ohtani himself. Los Angeles was not a team that intended to wait around.\n\nThe middle months told a story of excellence punctuated by frustrating cracks. Tanner Scott, tasked with closing games, became both a hero and a source of anxiety \u2014 his name appearing repeatedly on the wrong side of the ledger as opponents found ways to punish him in high-leverage moments. A brutal September 6th outing, in which a single he allowed led to Gunnar Henderson and Jorge Mateo scoring in a -0.724 WPA collapse, stood as the low point of the bullpen's struggles. Yet the offense kept answering every setback. Shohei Ohtani's 52nd home run of the season in late September, a three-run shot that scored Andy Pages and Enrique Hern\u00e1ndez, was a reminder that the Dodgers possessed one of the most dangerous lineups in baseball history.\n\nFrequent clutch contributions came from unexpected corners. Freddie Freeman's line drive single on July 23rd, scoring Betts and Ohtani and registering a staggering 0.753 WPA, was the single biggest regular-season swing of the year. Max Muncy's grand slam in June, Andy Pages' 25th home run in September, and a parade of Will Smith clutch moments stitched together a 93-win season that was never truly in doubt even when the bullpen wobbled. The Dodgers scored 825 runs, clubbed 244 home runs, and carried a relentless sense of inevitability into October.\n\nThe postseason confirmed what the regular season had suggested: this team was built for October. Teoscar Hern\u00e1ndez opened the Division Series with a three-run home run, and a fortunate fielding error by pitcher Orion Kerkering kept a rally alive in the decisive moments of the NLDS. Blake Treinen slammed the door in the Championship Series with a key strikeout of Brice Turang. The World Series against the Toronto Blue Jays brought the grandest moments of all \u2014 Freddie Freeman homered, Miguel Rojas added a surprise blast, Will Smith put the exclamation mark on Game 7 with a go-ahead home run, and Yoshinobu Yamamoto induced a game-sealing double play that sent Dodger Blue into delirium. Los Angeles stood alone as World Series champions once more.",
+  "narrative": "The 2025 Los Angeles Dodgers announced themselves immediately, racing through March with a perfect 6-0 record powered by a lineup that looked capable of scoring in bunches every single night. Teoscar Hernández's three-run blast on Opening Day set the tone, and even when the bullpen wobbled — as it would throughout the year — hitters like Will Smith, Max Muncy, and Shohei Ohtani kept finding answers. April and May were steady if unspectacular, as the Dodgers built a winning rhythm despite closer Tanner Scott proving to be one of the most maddening storylines of the summer, surrendering crucial home runs and clutch hits at the worst possible moments.\n\nJune represented the team's clearest statement of intent. A 17-10 record made it the best full month of the season, fueled by Muncy's grand slam, a go-ahead Smith homer, and Tanner Scott's bullpen redemption in the form of inducing a game-ending double play against Kansas City. The offense was humming, the rotation was holding, and Los Angeles looked every bit like a World Series favorite. Then July arrived and the wheels wobbled — a 10-14 month that could easily have derailed the whole enterprise. Tanner Scott continued to bleed games, yet Freddie Freeman delivered the season's single most valuable hit on July 23rd, a line drive to left that plated three runners and rescued a game that seemed lost.\n\nAugust and September saw the Dodgers grind back to winning records, steadied by milestone moments: Andy Pages slugging his 25th home run in a pennant-race spot, Shohei Ohtani reaching 52 home runs on September 19th — a breathtaking individual achievement woven into a team victory. Scott continued to haunt the bullpen ledger with damaging outings deep into September, but the roster's collective depth absorbed every setback. At 93-69, Los Angeles entered October as a battle-tested champion-in-waiting rather than a pristine favorite.\n\nThe postseason was a coronation earned through adversity. Hernández's three-run shot ignited the Division Series, and the Dodgers dispatched each opponent with a blend of clutch hitting and lockdown pitching. By the World Series against Toronto, the Dodgers were playing their best baseball: Freeman homering in Game 1, Tyler Glasnow conjuring a pivotal double play in Game 5, and on November 1st Miguel Rojas and Will Smith going back-to-back while Yoshinobu Yamamoto induced a clinching double play to seal Los Angeles's championship. It was a season that tested every roster depth chart and every bullpen phone call — and in the end, the Dodgers answered every test.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Opening Fireworks",
-      "description": "The Dodgers announce their dominance with a barrage of clutch hits and home runs in the opening weeks of the season.",
+      "title": "Perfect Start, Fast Statement",
+      "description": "The Dodgers roar out of the gate with a flawless March and carry early momentum into April, with big bats and immediate heroics establishing championship expectations.",
       "startClipIndex": 0,
-      "endClipIndex": 4,
+      "endClipIndex": 7,
       "tone": "triumph"
     },
     {
       "id": "ch2",
-      "title": "Cracks in the Armor",
-      "description": "The bullpen, particularly Tanner Scott, begins to show vulnerability as opponents exploit high-leverage situations.",
-      "startClipIndex": 5,
-      "endClipIndex": 11,
-      "tone": "struggle"
-    },
-    {
-      "id": "ch3",
-      "title": "The Offense Answers",
-      "description": "Led by Freeman's heroics and a relentless lineup, the Dodgers respond to every setback with timely power and clutch hitting.",
-      "startClipIndex": 12,
-      "endClipIndex": 25,
+      "title": "Grinding Through the Middle Months",
+      "description": "May's .556 winning percentage masks a turbulent mix of Ohtani power surges, Hernández clutch shots, and a Tanner Scott bullpen that keeps giving games away.",
+      "startClipIndex": 8,
+      "endClipIndex": 12,
       "tone": "turning_point"
     },
     {
+      "id": "ch3",
+      "title": "June's Best Month and a Scott Saves the Day",
+      "description": "The Dodgers post their finest month at 17-10, propelled by Muncy's grand slam, Smith's timely home runs, and Scott finally contributing a pivotal double-play escape.",
+      "startClipIndex": 13,
+      "endClipIndex": 17,
+      "tone": "triumph"
+    },
+    {
       "id": "ch4",
-      "title": "September Resolve",
-      "description": "Despite late-season bullpen meltdowns, Ohtani's historic home run chase and Andy Pages' breakout power keep Los Angeles locked in.",
-      "startClipIndex": 26,
-      "endClipIndex": 31,
-      "tone": "clutch"
+      "title": "The July Stumble and Freeman's Rescue",
+      "description": "A brutal 10-14 July threatens to unravel the season, but Freddie Freeman's three-RBI single — the highest-WPA regular-season play of the year — keeps the Dodgers alive.",
+      "startClipIndex": 18,
+      "endClipIndex": 22,
+      "tone": "struggle"
     },
     {
       "id": "ch5",
+      "title": "Ohtani's 52 and the September Surge",
+      "description": "August and September see the Dodgers stabilize with key contributions from Pages, Ohtani's historic homer chase, and enough wins to enter October tested and ready.",
+      "startClipIndex": 23,
+      "endClipIndex": 31,
+      "tone": "milestone"
+    },
+    {
+      "id": "ch6",
       "title": "October Champions",
-      "description": "The Dodgers storm through the playoffs with big postseason moments from Hern\u00e1ndez, Freeman, Rojas, and Smith to claim the World Series title.",
+      "description": "From Hernández's NLDS blast to Freeman's World Series homer and a climactic November 1st double play sealed by Yamamoto, the Dodgers claim the championship in commanding fashion.",
       "startClipIndex": 32,
       "endClipIndex": 39,
-      "tone": "triumph"
+      "tone": "clutch"
     }
   ],
   "clips": [
     {
       "id": "778546-45-5",
-      "title": "Home Run \u2014 Teoscar Hern\u00e1ndez",
-      "description": "Teoscar Hern\u00e1ndez homers (1) on a fly ball to center field. Shohei Ohtani scores. Mookie Betts scores.",
+      "title": "Home Run — Teoscar Hernández",
+      "description": "Teoscar Hernández homers (1) on a fly ball to center field. Shohei Ohtani scores. Mookie Betts scores.",
       "playId": "785698db-bad9-30a8-8b4c-f8e9b0f42b88",
       "videoUrl": "https://sporty-clips.mlb.com/WU9ycnlfV0ZRVkV3dEdEUT09X0FRbFVVbDBNQWxBQVdnTldYd0FIQVZkZUFGbFhWd0lBVkYxUUNWRUZWd2RYVWdwZQ==.mp4",
       "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/cms1cy3fleesbwxer1xm.jpg",
@@ -57,7 +65,7 @@
       "atBatNumber": 45,
       "inning": 5,
       "isTopInning": false,
-      "batter": "Teoscar Hern\u00e1ndez",
+      "batter": "Teoscar Hernández",
       "pitcher": "",
       "exitVelocity": 108.3,
       "launchAngle": 31,
@@ -69,7 +77,7 @@
     },
     {
       "id": "778544-76-10",
-      "title": "Triple \u2014 Luis Garc\u00eda",
+      "title": "Triple — Luis García",
       "description": "Dillon Dingler triples (1) on a line drive to left fielder Michael Conforto. Riley Greene scores. Zach McKinstry scores.",
       "playId": "1dea422a-0abf-33cf-b7f7-fcde38a9cba3",
       "date": "2025-03-28",
@@ -77,7 +85,7 @@
       "atBatNumber": 76,
       "inning": 10,
       "isTopInning": true,
-      "batter": "Luis Garc\u00eda",
+      "batter": "Luis García",
       "pitcher": "",
       "exitVelocity": 81,
       "launchAngle": 25,
@@ -90,8 +98,8 @@
     },
     {
       "id": "778544-80-10",
-      "title": "Single \u2014 Will Smith",
-      "description": "Will Smith singles on a ground ball to left fielder Riley Greene, deflected by third baseman Javier B\u00e1ez. Michael Conforto scores.",
+      "title": "Single — Will Smith",
+      "description": "Will Smith singles on a ground ball to left fielder Riley Greene, deflected by third baseman Javier Báez. Michael Conforto scores.",
       "playId": "b1c79667-36ad-3b8b-ad6b-bd2c58f59a07",
       "videoUrl": "https://sporty-clips.mlb.com/MTZXV1lfWGw0TUFRPT1fVkFBQ1UxMENVQVVBQzFSVEFnQUhVdzRFQUFCUlZRTUFVQUVIVXdZTlZ3WmNVUUpS.mp4",
       "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/glsgb2dnfmdlakobwfof.jpg",
@@ -112,7 +120,7 @@
     },
     {
       "id": "778472-72-8",
-      "title": "Double \u2014 Max Muncy",
+      "title": "Double — Max Muncy",
       "description": "Max Muncy doubles (2) on a sharp line drive to center fielder Michael Harris II. Michael Conforto scores. Will Smith scores.",
       "playId": "38bf6c5d-64d5-3993-ad46-1f2ae7e45005",
       "videoUrl": "https://sporty-clips.mlb.com/ckRXS2RfWGw0TUFRPT1fQlFrREFsSlhVMVlBRGxaV1V3QUhDQTlWQUFCUlYxY0FBd01IVVZZQ1ZBZFFBQUpU.mp4",
@@ -134,7 +142,7 @@
     },
     {
       "id": "778472-78-9",
-      "title": "Home Run \u2014 Shohei Ohtani",
+      "title": "Home Run — Shohei Ohtani",
       "description": "Shohei Ohtani homers (3) on a fly ball to center field.",
       "playId": "e7a36d50-f6b2-3b32-807d-dc1a13b6aeab",
       "videoUrl": "https://sporty-clips.mlb.com/ckRXS2RfWGw0TUFRPT1fVXdZQVYxSlFVd0lBWGxSUVZBQUhVd1ZVQUZrRlZBVUFWZ1lFVVFJR1V3VUVWVk1F.mp4",
@@ -156,8 +164,8 @@
     },
     {
       "id": "778251-64-9",
-      "title": "Home Run \u2014 Kirby Yates",
-      "description": "Adolis Garc\u00eda homers (4) on a fly ball to left center field. Josh Smith scores.",
+      "title": "Home Run — Kirby Yates",
+      "description": "Adolis García homers (4) on a fly ball to left center field. Josh Smith scores.",
       "playId": "0faa647b-0693-35ad-9bb2-3657ed1e1ba6",
       "date": "2025-04-19",
       "gamePk": 778251,
@@ -177,7 +185,7 @@
     },
     {
       "id": "778220-85-9",
-      "title": "Home Run \u2014 Tanner Scott",
+      "title": "Home Run — Tanner Scott",
       "description": "Miguel Amaya homers (2) on a fly ball to center field.",
       "playId": "e3ccfb2c-4fff-308e-8d63-7c88109f8230",
       "date": "2025-04-22",
@@ -198,8 +206,8 @@
     },
     {
       "id": "778132-84-10",
-      "title": "Single \u2014 Tommy Edman",
-      "description": "Tommy Edman singles on a line drive to right fielder Jes\u00fas S\u00e1nchez. Michael Conforto scores. Andy Pages scores.",
+      "title": "Single — Tommy Edman",
+      "description": "Tommy Edman singles on a line drive to right fielder Jesús Sánchez. Michael Conforto scores. Andy Pages scores.",
       "playId": "9a286451-e2a5-38bf-b737-54d8b2d0da1f",
       "videoUrl": "https://sporty-clips.mlb.com/MDRXcnhfWGw0TUFRPT1fRDFCVFhGSUFVd01BWFZCVFV3QUhDVlFBQUFNQ1VGWUFCMUZSQ0ZFSFZRTUJVUU1B.mp4",
       "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/eqjoq7qetrmj7r9l9hrq.jpg",
@@ -220,7 +228,7 @@
     },
     {
       "id": "777988-88-9",
-      "title": "Home Run \u2014 Shohei Ohtani",
+      "title": "Home Run — Shohei Ohtani",
       "description": "Shohei Ohtani homers (12) on a fly ball to right center field. Hyeseong Kim scores. Michael Conforto scores.",
       "playId": "02b7da4f-e984-307b-9e24-ec03a5594df7",
       "videoUrl": "https://sporty-clips.mlb.com/MTZxNVJfWGw0TUFRPT1fQmdNRFV3QlZVbFFBWFZzS1VnQUhBUUVFQUZoUVVWVUFWd1lGQTFJQUJBcFJWRlJS.mp4",
@@ -242,7 +250,7 @@
     },
     {
       "id": "777884-62-7",
-      "title": "Home Run \u2014 Kirby Yates",
+      "title": "Home Run — Kirby Yates",
       "description": "Logan O'Hoppe homers (10) on a fly ball to right center field. Nolan Schanuel scores. Jorge Soler scores.",
       "playId": "ee0a8bc4-43eb-3c36-b66c-2f54dbcc7900",
       "date": "2025-05-17",
@@ -263,7 +271,7 @@
     },
     {
       "id": "777866-61-7",
-      "title": "Home Run \u2014 Will Smith",
+      "title": "Home Run — Will Smith",
       "description": "Will Smith homers (4) on a line drive to left field. Michael Conforto scores. Shohei Ohtani scores.",
       "playId": "acf6c553-5478-3ff1-bdbf-64cab0e37904",
       "videoUrl": "https://sporty-clips.mlb.com/N3lSa2tfWGw0TUFRPT1fVjFJSFVnY0JVd0VBRFZZRlhnQUhWMUJYQUFOUkFRY0FCRkZXVVZFRlZBQlNDUUpT.mp4",
@@ -285,7 +293,7 @@
     },
     {
       "id": "777838-72-10",
-      "title": "Home Run \u2014 Tanner Scott",
+      "title": "Home Run — Tanner Scott",
       "description": "Corbin Carroll homers (15) on a fly ball to left center field. Tim Tawa scores.",
       "playId": "690cad3d-447c-364b-99dd-bc2d28617ee2",
       "date": "2025-05-20",
@@ -306,8 +314,8 @@
     },
     {
       "id": "777824-46-6",
-      "title": "Home Run \u2014 Teoscar Hern\u00e1ndez",
-      "description": "Teoscar Hern\u00e1ndez homers (10) on a fly ball to center field. Miguel Rojas scores. Mookie Betts scores.",
+      "title": "Home Run — Teoscar Hernández",
+      "description": "Teoscar Hernández homers (10) on a fly ball to center field. Miguel Rojas scores. Mookie Betts scores.",
       "playId": "6c39a201-2b51-3409-95e9-e23b09a36c57",
       "videoUrl": "https://sporty-clips.mlb.com/ZU44UDZfWGw0TUFRPT1fQUZKU1hRVUdWZ01BQ2dBSFZ3QUhCUVpmQUZnQUJsZ0FWMWNHVWdNTVVBQlRVd2RS.mp4",
       "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/xe3vnjz2kq7h5pjuimub.jpg",
@@ -316,7 +324,7 @@
       "atBatNumber": 46,
       "inning": 6,
       "isTopInning": false,
-      "batter": "Teoscar Hern\u00e1ndez",
+      "batter": "Teoscar Hernández",
       "pitcher": "",
       "exitVelocity": 108.2,
       "launchAngle": 34,
@@ -328,7 +336,7 @@
     },
     {
       "id": "777657-71-9",
-      "title": "Home Run \u2014 Max Muncy",
+      "title": "Home Run — Max Muncy",
       "description": "Max Muncy homers (9) on a fly ball to right center field.",
       "playId": "c33a441a-9771-31f2-988d-133f5525a834",
       "videoUrl": "https://sporty-clips.mlb.com/YkI5cndfWGw0TUFRPT1fVlFKU0JWQUFWMU1BQVZVRlZ3QUhBRkJVQUZnTld3VUFBMVlHVmdZQUF3WUVDQUZT.mp4",
@@ -350,7 +358,7 @@
     },
     {
       "id": "777457-66-9",
-      "title": "Double \u2014 Justin Wrobleski",
+      "title": "Double — Justin Wrobleski",
       "description": "Xander Bogaerts doubles (13) on a sharp line drive to center fielder Andy Pages. Manny Machado scores. Brandon Lockridge to 3rd.",
       "playId": "c03a70be-b9fc-3e16-bdca-a67b9097e970",
       "date": "2025-06-18",
@@ -371,7 +379,7 @@
     },
     {
       "id": "777457-70-9",
-      "title": "Home Run \u2014 Will Smith",
+      "title": "Home Run — Will Smith",
       "description": "Will Smith homers (8) on a fly ball to right center field.",
       "playId": "8cfcd7b7-7395-352e-91fa-3b243171f661",
       "videoUrl": "https://sporty-clips.mlb.com/YkI5MU9fWGw0TUFRPT1fRGxJSEJ3QURCQVVBRDFFTFV3QUhCQVFEQUZnRUJRQUFBUWNIQkFBRUJnSURCZ1JY.mp4",
@@ -393,7 +401,7 @@
     },
     {
       "id": "777398-47-6",
-      "title": "Home Run \u2014 Max Muncy",
+      "title": "Home Run — Max Muncy",
       "description": "Max Muncy hits a grand slam (10) to left center field. Dalton Rushing scores. Shohei Ohtani scores. Freddie Freeman scores.",
       "playId": "6c8e1138-aa90-312b-aa55-d0afab564d43",
       "videoUrl": "https://sporty-clips.mlb.com/OTc5NFdfWGw0TUFRPT1fQUZKWkFWVUZWUW9BV1FNTFZnQUhBQVFFQUFCVVZsUUFWbFZVVmxKWEJBVlJWQVpW.mp4",
@@ -415,7 +423,7 @@
     },
     {
       "id": "777335-78-9",
-      "title": "Grounded Into Double Play \u2014 Tanner Scott",
+      "title": "Grounded Into Double Play — Tanner Scott",
       "description": "Jac Caglianone grounds into a double play, second baseman Tommy Edman to shortstop Mookie Betts to first baseman Freddie Freeman. Salvador Perez out at 2nd. Jac Caglianone out at 1st.",
       "playId": "681dfa96-0a5b-319f-b21a-f3e8011b26aa",
       "date": "2025-06-27",
@@ -436,7 +444,7 @@
     },
     {
       "id": "777267-78-9",
-      "title": "Single \u2014 Freddie Freeman",
+      "title": "Single — Freddie Freeman",
       "description": "Freddie Freeman singles on a sharp line drive to right fielder Mike Tauchman. Shohei Ohtani scores. Will Smith to 2nd.",
       "playId": "cb4b1546-a5c5-35ad-81bd-e4e91931c161",
       "videoUrl": "https://sporty-clips.mlb.com/Uk8yd2VfWGw0TUFRPT1fVlZOVkJsVUJVZ1FBV1ZkUlV3QUhCRmNDQUZrRUFRVUFWMUZRQ1FJTUFnSUdBUVJY.mp4",
@@ -458,7 +466,7 @@
     },
     {
       "id": "777175-74-9",
-      "title": "Single \u2014 Tanner Scott",
+      "title": "Single — Tanner Scott",
       "description": "Andrew Vaughn singles on a line drive to center fielder Hyeseong Kim. Isaac Collins scores. Caleb Durbin to 3rd.",
       "playId": "ba5ae3ee-cf3d-3803-a8ac-7b6a735c49f8",
       "date": "2025-07-09",
@@ -479,7 +487,7 @@
     },
     {
       "id": "777119-65-9",
-      "title": "Home Run \u2014 Tanner Scott",
+      "title": "Home Run — Tanner Scott",
       "description": "Luis Matos homers (5) on a fly ball to left center field. Matt Chapman scores.",
       "playId": "5115ff56-a8e2-3d27-ba68-c03665d1c846",
       "date": "2025-07-13",
@@ -500,7 +508,7 @@
     },
     {
       "id": "777022-75-9",
-      "title": "Single \u2014 Freddie Freeman",
+      "title": "Single — Freddie Freeman",
       "description": "Freddie Freeman singles on a line drive to left fielder Harrison Bader. Mookie Betts scores. Shohei Ohtani scores. Esteury Ruiz to 2nd.",
       "playId": "20ae80d5-1b4c-38d5-8834-274c9dffd0f4",
       "videoUrl": "https://sporty-clips.mlb.com/N3lSeDBfWGw0TUFRPT1fQkFFQUFWd0VBZ2NBQ1FBR0JRQUhDVkpUQUZrTlVGVUFBRklCVXdwUlYxVUJBRlJT.mp4",
@@ -522,7 +530,7 @@
     },
     {
       "id": "776963-74-9",
-      "title": "Double \u2014 Will Smith",
+      "title": "Double — Will Smith",
       "description": "Will Smith doubles (17) on a line drive to left fielder Gavin Lux. James Outman scores.",
       "playId": "e6036214-49f8-3a4d-8a85-bf09974c8aef",
       "videoUrl": "https://sporty-clips.mlb.com/MnJPYW9fWGw0TUFRPT1fVXdkUlYxSUdWd1lBREZ0VVhnQUhVQUlDQUZsVVcxUUFVQU1GQ1FvQ0JWQmRVVmNB.mp4",
@@ -544,7 +552,7 @@
     },
     {
       "id": "776839-62-8",
-      "title": "Single \u2014 Alex Vesia",
+      "title": "Single — Alex Vesia",
       "description": "Jordan Walker singles on a line drive to center fielder Andy Pages. Alec Burleson scores. Masyn Winn scores. Jordan Walker to 2nd. Throwing error by third baseman Alex Freeland.",
       "playId": "69f79af9-6848-31c4-b060-8b110e37122e",
       "date": "2025-08-06",
@@ -565,7 +573,7 @@
     },
     {
       "id": "776752-72-8",
-      "title": "Single \u2014 Edgardo Henriquez",
+      "title": "Single — Edgardo Henriquez",
       "description": "Logan O'Hoppe singles on a line drive to center fielder Andy Pages. Taylor Ward scores. Christian Moore scores. Jo Adell to 2nd.",
       "playId": "666813d6-9dba-3387-915d-9775d20cafdd",
       "date": "2025-08-13",
@@ -586,7 +594,7 @@
     },
     {
       "id": "776509-70-9",
-      "title": "Home Run \u2014 Will Smith",
+      "title": "Home Run — Will Smith",
       "description": "Will Smith homers (17) on a fly ball to left center field.",
       "playId": "5e4afe5f-8ce7-335a-9bf0-b056f3a0a717",
       "videoUrl": "https://sporty-clips.mlb.com/SzRsMWVfWGw0TUFRPT1fQTFSVkJRSlJVMVFBQUFGWFVRQUhBZ01IQUZoWEJWRUFVRlVBQmxVR1VBTUVCd05S.mp4",
@@ -608,7 +616,7 @@
     },
     {
       "id": "776454-71-9",
-      "title": "Home Run \u2014 Tanner Scott",
+      "title": "Home Run — Tanner Scott",
       "description": "Samuel Basallo homers (2) on a fly ball to right center field.",
       "playId": "18aaaa29-a6fa-3eef-8935-3f9fa30380fa",
       "date": "2025-09-05",
@@ -629,7 +637,7 @@
     },
     {
       "id": "776443-71-9",
-      "title": "Single \u2014 Tanner Scott",
+      "title": "Single — Tanner Scott",
       "description": "Emmanuel Rivera singles on a line drive to center fielder Justin Dean. Gunnar Henderson scores. Jorge Mateo scores. Colton Cowser to 2nd.",
       "playId": "a31830e1-b33d-3af2-bf00-eb98a2ff4ee6",
       "date": "2025-09-06",
@@ -650,7 +658,7 @@
     },
     {
       "id": "776311-72-9",
-      "title": "Home Run \u2014 Andy Pages",
+      "title": "Home Run — Andy Pages",
       "description": "Andy Pages homers (25) on a fly ball to left field.",
       "playId": "3e81158e-dce0-3d70-983d-84ddc79cae3b",
       "videoUrl": "https://sporty-clips.mlb.com/TUFLZFdfWGw0TUFRPT1fQlZSWlZWVUJYbGNBWEFGWFZnQUhWUUZXQUZnTlVBVUFDbEZSVkZBQ0NGQUVWUUVF.mp4",
@@ -672,8 +680,8 @@
     },
     {
       "id": "776297-71-9",
-      "title": "Home Run \u2014 Blake Treinen",
-      "description": "Rafael March\u00e1n homers (2) on a line drive to right field. Weston Wilson scores. Bryson Stott scores.",
+      "title": "Home Run — Blake Treinen",
+      "description": "Rafael Marchán homers (2) on a line drive to right field. Weston Wilson scores. Bryson Stott scores.",
       "playId": "085fb3b7-2719-3c56-8246-cb243ab3a0f0",
       "date": "2025-09-16",
       "gamePk": 776297,
@@ -693,8 +701,8 @@
     },
     {
       "id": "776256-42-5",
-      "title": "Home Run \u2014 Shohei Ohtani",
-      "description": "Shohei Ohtani homers (52) on a fly ball to left field. Andy Pages scores. Enrique Hern\u00e1ndez scores.",
+      "title": "Home Run — Shohei Ohtani",
+      "description": "Shohei Ohtani homers (52) on a fly ball to left field. Andy Pages scores. Enrique Hernández scores.",
       "playId": "11d778cf-cc47-38f0-b520-836ed3e41e8b",
       "videoUrl": "https://sporty-clips.mlb.com/ek1XeVpfV0ZRVkV3dEdEUT09X0J3QUZVMU1NQlZRQVd3RUdVUUFIQ1ZCV0FBTUFVVkVBQ2xZRFZWY0dWQWRVVlFvRQ==.mp4",
       "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/jk8psowfrur9ifn4qmhz.jpg",
@@ -715,7 +723,7 @@
     },
     {
       "id": "776213-71-9",
-      "title": "Single \u2014 Tanner Scott",
+      "title": "Single — Tanner Scott",
       "description": "Geraldo Perdomo singles on a line drive to left fielder Alex Call. Tim Tawa scores.",
       "playId": "5dcae605-5bde-3bd3-a5a2-c38d2a84e061",
       "date": "2025-09-23",
@@ -736,8 +744,8 @@
     },
     {
       "id": "813051-53-7",
-      "title": "Home Run \u2014 Teoscar Hern\u00e1ndez",
-      "description": "Teoscar Hern\u00e1ndez homers (3) on a fly ball to right center field. Andy Pages scores. Will Smith scores.",
+      "title": "Home Run — Teoscar Hernández",
+      "description": "Teoscar Hernández homers (3) on a fly ball to right center field. Andy Pages scores. Will Smith scores.",
       "playId": "53f46e68-6526-3839-9750-926d27277de3",
       "videoUrl": "https://sporty-clips.mlb.com/NHlqYThfV0ZRVkV3dEdEUT09X0F3SUhVRkpSVUFvQURsY0FVQUFIQ1FWZkFGZ0NWbEVBQzFjRFZBRUNBd1JTVkZkVg==.mp4",
       "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/fndlcylnivaufwdlokcc.jpg",
@@ -746,7 +754,7 @@
       "atBatNumber": 53,
       "inning": 7,
       "isTopInning": true,
-      "batter": "Teoscar Hern\u00e1ndez",
+      "batter": "Teoscar Hernández",
       "pitcher": "",
       "exitVelocity": 102.9,
       "launchAngle": 36,
@@ -758,8 +766,8 @@
     },
     {
       "id": "813042-86-11",
-      "title": "Field Error \u2014 Andy Pages",
-      "description": "Andy Pages reaches on a fielding error by pitcher Orion Kerkering. Hyeseong Kim scores. Max Muncy to 3rd. Enrique Hern\u00e1ndez to 2nd.",
+      "title": "Field Error — Andy Pages",
+      "description": "Andy Pages reaches on a fielding error by pitcher Orion Kerkering. Hyeseong Kim scores. Max Muncy to 3rd. Enrique Hernández to 2nd.",
       "playId": "89726e6b-7019-38bc-af70-3f14f880410a",
       "date": "2025-10-09",
       "gamePk": 813042,
@@ -779,7 +787,7 @@
     },
     {
       "id": "813036-71-9",
-      "title": "Strikeout \u2014 Blake Treinen",
+      "title": "Strikeout — Blake Treinen",
       "description": "Brice Turang strikes out swinging.",
       "playId": "642cc29e-0362-3cd1-b652-114e3c90a051",
       "date": "2025-10-13",
@@ -797,7 +805,7 @@
     },
     {
       "id": "813032-153-18",
-      "title": "Home Run \u2014 Freddie Freeman",
+      "title": "Home Run — Freddie Freeman",
       "description": "Freddie Freeman homers (2) on a fly ball to center field.",
       "playId": "1b148aed-a2b7-3b9c-a0c4-6bb88a732ec8",
       "videoUrl": "https://sporty-clips.mlb.com/MDRkQWdfV0ZRVkV3dEdEUT09X0IxTlFVRnhWQTFZQVdWQlFVUUFIVXc4RkFBQUZBRlVBQkFkWENBdFVCZ0JYVlZGZQ==.mp4",
@@ -819,8 +827,8 @@
     },
     {
       "id": "813025-71-9",
-      "title": "Double Play \u2014 Tyler Glasnow",
-      "description": "Blue Jays challenged (force play), call on the field was upheld: Andr\u00e9s Gim\u00e9nez lines into a double play, left fielder Enrique Hern\u00e1ndez to second baseman Miguel Rojas. Addison Barger out at 2nd.",
+      "title": "Double Play — Tyler Glasnow",
+      "description": "Blue Jays challenged (force play), call on the field was upheld: Andrés Giménez lines into a double play, left fielder Enrique Hernández to second baseman Miguel Rojas. Addison Barger out at 2nd.",
       "playId": "a7d531da-9ee0-34fc-8c43-9b1be39ee12e",
       "date": "2025-10-31",
       "gamePk": 813025,
@@ -840,7 +848,7 @@
     },
     {
       "id": "813024-74-9",
-      "title": "Home Run \u2014 Miguel Rojas",
+      "title": "Home Run — Miguel Rojas",
       "description": "Miguel Rojas homers (1) on a fly ball to left field.",
       "playId": "7df05ee7-24b5-3c34-84aa-89316ec41110",
       "videoUrl": "https://sporty-clips.mlb.com/ZU40SzZfVjBZQUhRPT1fQVZVSFZGRlJBd1VBQ2xaUVV3QUhVZ1ZTQUZrQkFnQUFDbHdHQVFWUVVnZFVBUU5X.mp4",
@@ -862,7 +870,7 @@
     },
     {
       "id": "813024-94-11",
-      "title": "Home Run \u2014 Will Smith",
+      "title": "Home Run — Will Smith",
       "description": "Will Smith homers (2) on a fly ball to left field.",
       "playId": "bc6d4f80-9572-3273-898f-736dc49e9fd1",
       "videoUrl": "https://sporty-clips.mlb.com/ZU40SzZfVjBZQUhRPT1fVkZKWEFGQlNYZ0lBQVZjRlZBQUhBd0ZWQUZrTVd3Y0FCVllEVkZBQkNGWmNWbFpY.mp4",
@@ -884,7 +892,7 @@
     },
     {
       "id": "813024-99-11",
-      "title": "Grounded Into Double Play \u2014 Yoshinobu Yamamoto",
+      "title": "Grounded Into Double Play — Yoshinobu Yamamoto",
       "description": "Alejandro Kirk grounds into a double play, shortstop Mookie Betts to first baseman Freddie Freeman. Addison Barger out at 2nd. Alejandro Kirk out at 1st.",
       "playId": "4bd58b6c-0729-3fd0-9c57-f12555bc2a86",
       "date": "2025-11-01",
@@ -917,5 +925,5 @@
     "division": "NL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-09-30T22:12:52.878Z"
+  "generatedAt": "2026-10-01T00:07:27.740Z"
 }

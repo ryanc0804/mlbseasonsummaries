@@ -114,6 +114,16 @@ export function ChapterSidebar({
                         {clip.thumbnailUrl ? (
                           // eslint-disable-next-line @next/next/no-img-element
                           <img src={clip.thumbnailUrl} alt="" className="w-full h-full object-cover" />
+                        ) : clip.videoUrl ? (
+                          // No still image exists for raw plays — show the video's own
+                          // first frame (metadata preload keeps the download tiny)
+                          <video
+                            src={`${clip.videoUrl}#t=0.5`}
+                            preload="metadata"
+                            muted
+                            playsInline
+                            className="w-full h-full object-cover pointer-events-none"
+                          />
                         ) : (
                           clipIndex + 1
                         )}

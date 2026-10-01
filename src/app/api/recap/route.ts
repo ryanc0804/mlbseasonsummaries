@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { fetchTopClips, fetchSeasonStats } from "@/lib/savant";
+import { fetchTopClips, fetchSeasonStats, fetchMonthlyRecords } from "@/lib/savant";
 import { generateNarrative } from "@/lib/narrative";
 import { loadCachedRecap, saveRecapToCache } from "@/lib/cache";
 import { TEAM_BY_ID } from "@/lib/teams";
@@ -55,9 +55,10 @@ export async function GET(req: NextRequest) {
 }
 
 async function generate(teamId: number, year: number): Promise<RecapData> {
-  const [clips, seasonStats] = await Promise.all([
+  const [clips, seasonStats, monthlyRecords] = await Promise.all([
     fetchTopClips(teamId, year),
     fetchSeasonStats(teamId, year),
+    fetchMonthlyRecords(teamId, year),
   ]);
 
   if (clips.length === 0) {
@@ -67,7 +68,7 @@ async function generate(teamId: number, year: number): Promise<RecapData> {
   }
 
   const { narrative, chapters, orderedClips } = await generateNarrative(
-    clips, seasonStats, teamId, year
+    clips, seasonStats, teamId, year, monthlyRecords
   );
 
   const recap: RecapData = { teamId, year, narrative, chapters, clips: orderedClips, seasonStats };

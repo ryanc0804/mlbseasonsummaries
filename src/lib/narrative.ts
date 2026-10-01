@@ -14,7 +14,8 @@ export async function generateNarrative(
   clips: Clip[],
   stats: SeasonStats,
   teamId: number,
-  year: number
+  year: number,
+  monthlyRecords?: string
 ): Promise<NarrativeResult> {
   const team = TEAM_BY_ID[teamId];
 
@@ -56,6 +57,7 @@ Record: ${stats.wins}-${stats.losses}
 Runs: ${stats.runsScored} scored, ${stats.runsAllowed} allowed
 Home runs: ${stats.homeRuns} | ERA: ${stats.teamEra} | OPS: ${stats.teamOps}
 ${stats.playoffResult ? `Postseason: ${stats.playoffResult}` : "Missed playoffs"}
+${monthlyRecords ? `Month-by-month record: ${monthlyRecords}` : ""}
 
 The season's top plays in chronological order (WPA already adjusted for team perspective — positive = helped ${team.name}, negative = hurt ${team.name}):
 ${JSON.stringify(clipsJson, null, 2)}
@@ -81,6 +83,7 @@ Requirements:
 - Each chapter's startIndex is the index of the first clip in that era; the chapter runs until the next chapter begins (the last chapter runs to the end)
 - The first chapter must have startIndex 0, and startIndex must be strictly increasing across chapters
 - Place boundaries where the story actually turns (a slump begins, a streak ignites, the postseason starts)
+- IMPORTANT: the clips are the season's highest-leverage plays, which skews toward dramatic losses — a stretch can look bleak in clips even when the team was winning. Judge each era by the month-by-month record first; title a winning stretch as winning (e.g. "Winning Ugly") even if its biggest moments were painful, and reserve collapse/slump framing for stretches where the record actually fell apart
 - If any clips have a postseason stage (Wild Card, Division Series, Championship Series, World Series), the final chapter must begin at the first postseason clip and cover the playoff run, and the narrative must tell the October story
 - tone must be one of: triumph, struggle, turning_point, clutch, milestone
 - narrative must be plain text only (no markdown)`;

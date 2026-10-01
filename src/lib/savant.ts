@@ -157,6 +157,42 @@ export async function fetchSeasonStats(teamId: number, year: number): Promise<Se
 }
 
 // ---------------------------------------------------------------------------
+// Month-by-month record — grounds the narrative so a winning month isn't
+// mischaracterized just because its highest-leverage clips were losses.
+// ---------------------------------------------------------------------------
+
+export async function fetchMonthlyRecords(teamId: number, year: number): Promise<string> {
+  try {
+    const res = await fetch(
+      `${MLB_STATS_BASE}/schedule?sportId=1&teamId=${teamId}&season=${year}&gameType=R`
+    );
+    if (!res.ok) return "";
+    const data = await res.json();
+
+    const order: string[] = [];
+    const records = new Map<string, { w: number; l: number }>();
+    for (const dateEntry of data?.dates ?? []) {
+      for (const game of dateEntry?.games ?? []) {
+        if (game?.status?.codedGameState !== "F") continue;
+        const home = game?.teams?.home, away = game?.teams?.away;
+        const side = home?.team?.id === teamId ? home : away?.team?.id === teamId ? away : null;
+        if (!side) continue;
+        const month = new Date(game.gameDate).toLocaleString("en-US", {
+          month: "short",
+          timeZone: "America/New_York",
+        });
+        if (!records.has(month)) { records.set(month, { w: 0, l: 0 }); order.push(month); }
+        const rec = records.get(month)!;
+        side.isWinner === true ? rec.w++ : rec.l++;
+      }
+    }
+    return order.map((m) => `${m} ${records.get(m)!.w}-${records.get(m)!.l}`).join(", ");
+  } catch {
+    return "";
+  }
+}
+
+// ---------------------------------------------------------------------------
 // Playoff result — how far did the team get in October?
 // ---------------------------------------------------------------------------
 

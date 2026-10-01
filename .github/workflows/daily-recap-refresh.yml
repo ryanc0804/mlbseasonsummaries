@@ -1,0 +1,61 @@
+name: Daily recap refresh
+
+on:
+  schedule:
+    # 10:30 UTC = 6:30 AM ET (summer) — after Savant finishes processing last night's games
+    - cron: "30 10 * * *"
+  workflow_dispatch: {}
+
+concurrency: daily-recap-refresh
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build and start server
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          npm run build
+          nohup npm run start > server.log 2>&1 &
+          for i in $(seq 1 60); do
+            curl -sf -o /dev/null http://localhost:3000 && break
+            sleep 2
+          done
+          curl -sf -o /dev/null http://localhost:3000 || { echo "server failed to start"; cat server.log; exit 1; }
+
+      - name: Refresh in-progress season
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          YEAR=$(date -u +%Y)
+          [ "$(date -u +%m)" -lt 4 ] && YEAR=$((YEAR-1))
+          echo "Refreshing season $YEAR"
+          node scripts/pregenerate.mjs --year "$YEAR"
+
+      - name: Commit and push updated recaps
+        run: |
+          if [ -n "$(git status --porcelain data/recaps)" ]; then
+            git config user.name "recap-bot"
+            git config user.email "actions@github.com"
+            git add data/recaps
+            git commit -m "Daily recap refresh"
+            git pull --rebase origin main
+            git push origin main
+          else
+            echo "No recap changes"
+          fi

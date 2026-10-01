@@ -22,10 +22,6 @@ export default function HomePage() {
     <main className="flex-1 flex flex-col items-center px-4 py-12 md:py-20">
       {/* Header */}
       <div className="text-center mb-12">
-        <div className="inline-flex items-center gap-2 bg-white/5 border border-white/10 rounded-full px-4 py-1.5 text-sm text-white/60 mb-6">
-          <span className="w-2 h-2 rounded-full bg-red-500 inline-block" />
-          AI-Powered Season Recaps
-        </div>
         <h1 className="text-5xl md:text-6xl font-bold tracking-tight mb-4">
           MLB Season
           <span className="block text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-red-400">
@@ -33,8 +29,8 @@ export default function HomePage() {
           </span>
         </h1>
         <p className="text-white/50 text-lg max-w-md mx-auto">
-          Pick a team and year. We&apos;ll pull the biggest moments from Baseball
-          Savant and let AI tell the story of their season.
+          Pick a team and year. Relive the biggest moments of the season,
+          told as one story.
         </p>
       </div>
 

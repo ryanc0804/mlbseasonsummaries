@@ -109,16 +109,18 @@ export default function RecapPage({
             />
             <StatsBar stats={recap.seasonStats} team={team} />
 
-            {/* AI Narrative */}
-            <div className="px-6 py-6 border-t border-white/10 space-y-4 max-w-3xl">
-              <h2 className="text-xs font-semibold uppercase tracking-widest text-white/30">
+            {/* AI Narrative — two columns on wide screens so the width gets used */}
+            <div className="px-6 py-6 border-t border-white/10">
+              <h2 className="text-xs font-semibold uppercase tracking-widest text-white/30 mb-4">
                 AI Season Summary
               </h2>
-              {recap.narrative.split("\n\n").map((para, i) => (
-                <p key={i} className="text-sm text-white/70 leading-relaxed">
-                  {para}
-                </p>
-              ))}
+              <div className="max-w-3xl xl:max-w-6xl xl:columns-2 xl:gap-12">
+                {recap.narrative.split("\n\n").map((para, i) => (
+                  <p key={i} className="text-sm text-white/70 leading-relaxed mb-4 break-inside-avoid">
+                    {para}
+                  </p>
+                ))}
+              </div>
             </div>
           </div>
 

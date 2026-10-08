@@ -1,0 +1,66 @@
+name: Generate season recaps
+
+on:
+  workflow_dispatch:
+    inputs:
+      season:
+        description: "Season year to generate (skips teams already cached), or 'backfill' to redo stale/missing recaps across all years"
+        required: true
+        type: string
+
+concurrency: recap-generation
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build and start server
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          npm run build
+          nohup npm run start > server.log 2>&1 &
+          for i in $(seq 1 60); do
+            curl -sf -o /dev/null http://localhost:3000 && break
+            sleep 2
+          done
+          curl -sf -o /dev/null http://localhost:3000 || { echo "server failed to start"; cat server.log; exit 1; }
+
+      - name: Generate
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          git config user.name "recap-bot"
+          git config user.email "actions@github.com"
+          if [ "${{ inputs.season }}" = "backfill" ]; then
+            node scripts/backfill-stale.mjs --cutoff 2026-10-01T00:09:19Z --years 2017-2026
+          else
+            node scripts/pregenerate.mjs --year "${{ inputs.season }}" || true
+          fi
+
+      - name: Commit and push
+        run: |
+          if [ -n "$(git status --porcelain data/recaps)" ]; then
+            git config user.name "recap-bot"
+            git config user.email "actions@github.com"
+            git add data/recaps
+            git commit -m "Recaps: ${{ inputs.season }} (cloud generation)"
+            git pull --rebase origin main
+            git push origin main
+          else
+            echo "No changes"
+          fi

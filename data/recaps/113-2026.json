@@ -1,55 +1,47 @@
 {
   "teamId": 113,
   "year": 2026,
-  "narrative": "The 2026 Cincinnati Reds opened the year with a jarring reminder of what the season would often feel like: a gut-punch on Opening Day when Emilio Pagán surrendered a home run that swung the win probability by more than a third of a game. The very next night, Eugenio Suárez answered with a three-run blast that signaled the veteran third baseman might be the heartbeat of this offense. That early push-and-pull set the tone for a Cincinnati team that would spend the entire spring chasing stability it could never quite grab.\n\nApril and May were defined by flashes of brilliance buried under a cascade of pitching disasters. TJ Friedl's sharp two-run double in late April was the kind of highlight fans replayed all week, but Tony Santillan and Emilio Pagán kept surrendering momentum at the worst moments. Kerry Carpenter, Pete Crow-Armstrong, and Bryson Stott all victimized Cincinnati's bullpen in high-leverage situations, and by the time June arrived the Reds were already swimming against a strong current. The run differential told a brutal story: a pitching staff that would finish with a 4.83 ERA and allow 826 runs over the course of a long summer.\n\nThe dog days of summer brought a brief, tantalizing surge built around the young core. Sal Stewart, who would finish with an eye-popping home run total, launched a monstrous three-run shot in July and kept the lineup afloat with clutch hits through late July and into August. Eugenio Suárez continued to be a force, and Matt McLain's grand slam on August 20 felt like a statement game — but on the very same afternoon, a catastrophic fielding error by Dane Myers in center field cost Brock Burke two runs and swung the win probability by nearly seven-tenths of a game in the opposition's favor. That sequence, a grand slam followed hours later by a brutal defensive meltdown, was the Reds in miniature: tantalizing potential, self-inflicted wounds.\n\nCincinnati finished 75-87, missing the playoffs for another painful autumn. The 213 home runs showed a lineup with genuine pop, and young players like Stewart, McLain, and Friedl gave the fanbase reasons for optimism. But the pitching staff was simply not good enough, and the bullpen's repeated collapses in high-leverage spots — game after game, month after month — made the margin for error razor-thin and ultimately insurmountable. The 2026 Reds were a team that lost more than it won, but planted seeds worth watching as the next rebuild cycle begins.",
+  "narrative": "The 2026 Cincinnati Reds opened the year with genuine optimism, and for a brief, shining stretch in April, that optimism looked justified. After a respectable 3-2 showing in the abbreviated March schedule, the Reds caught fire to go 17-9 in April — one of the best records in the National League that month. Nathaniel Lowe's go-ahead two-run blast on April 24th, a play that swung win probability by nearly a full win, was the defining image of a team that looked ready to contend. TJ Friedl's clutch extra-base hit earlier that month had already signaled that Cincinnati could manufacture big moments when it mattered most. It felt, briefly, like the year everything would click.\n\nThen May arrived, and the wheels came off. The bullpen, anchored by the unreliable Emilio Pagán and a struggling Tony Santillan, began hemorrhaging games at an alarming rate. Opponent after opponent — Pete Crow-Armstrong, Kerry Carpenter, Bryson Stott — took Cincinnati pitching deep at the worst possible moments. Graham Ashcraft couldn't hold leads. The Reds went 10-17 in May, and June offered no relief, producing an identical 9-17 mark. By the time Sam Moll surrendered a go-ahead homer to Lars Nootbaar in early June, and Dane Myers grounded into a backbreaking double play late in the month, Cincinnati had buried itself twelve games under .500 and effectively ended its playoff hopes before the All-Star break.\n\nJuly brought modest stabilization — a 13-12 record that at least stopped the bleeding — powered by Eugenio Suárez continuing to provide veteran pop and young slugger Sal Stewart reminding everyone why the organization had been so excited about him. Stewart's 21st home run on July 22nd, a three-run shot that energized Great American Ball Park, was a symbol of the youth movement quietly taking shape beneath a disappointing season. August started with promise — McLain's grand slam and Stewart's continued home run barrage gave fans genuine reasons to watch — but the bullpen continued to betray the lineup, with Brock Burke's costly error on August 20th erasing a potential momentum swing.\n\nIn the end, the 2026 Reds finished 75-87, missing the playoffs and ranking among the league's most porous pitching staffs with a 4.83 ERA and 826 runs allowed. The story of the season was the chasm between a lineup capable of genuine thunder — 213 home runs, with Stewart and Suárez leading the charge — and a pitching staff that simply could not protect leads. September was a slow, quiet denouement, a 10-14 month that confirmed what the standings already said. But the youth at the core of this roster, Stewart in particular, offers reason to believe the Reds are building toward something real, even if 2026 wasn't the year it arrived.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Opening Jabs",
-      "description": "Cincinnati trades early blows in the first week, with Pagán's Opening Day blunder answered by Suárez's dramatic three-run shot the very next evening.",
+      "title": "April Believers",
+      "description": "A blazing 17-9 April, fueled by Lowe's go-ahead blast and Friedl's clutch hitting, turns the Reds into early contenders.",
       "startClipIndex": 0,
-      "endClipIndex": 1,
-      "tone": "turning_point"
+      "endClipIndex": 5,
+      "tone": "triumph"
     },
     {
       "id": "ch2",
-      "title": "April Sparks, Bullpen Fires",
-      "description": "Friedl's clutch double and Lowe's towering blast provide hope, but Cincinnati's relievers keep dousing the flames with costly home runs allowed.",
-      "startClipIndex": 2,
-      "endClipIndex": 5,
-      "tone": "struggle"
-    },
-    {
-      "id": "ch3",
-      "title": "May Meltdown",
-      "description": "A relentless string of high-leverage home runs surrendered by the Cincinnati pitching staff turns May into a month of damage control.",
+      "title": "The Bullpen Burns It Down",
+      "description": "A 10-17 May collapse, driven by Pagán, Santillan, and Ashcraft repeatedly surrendering leads at critical moments, unravels Cincinnati's early promise.",
       "startClipIndex": 6,
       "endClipIndex": 11,
       "tone": "struggle"
     },
     {
-      "id": "ch4",
-      "title": "Summer Lifelines",
-      "description": "Will Benson and Eugenio Suárez provide brief bursts of offense in June and early July that keep the Reds from completely falling out of contention.",
+      "id": "ch3",
+      "title": "Sinking in June",
+      "description": "Another 9-17 month buries the Reds' playoff hopes as blown saves, costly errors, and a backbreaking double play pile up.",
       "startClipIndex": 12,
-      "endClipIndex": 17,
-      "tone": "clutch"
+      "endClipIndex": 16,
+      "tone": "struggle"
+    },
+    {
+      "id": "ch4",
+      "title": "Stewart Steps Forward",
+      "description": "A steadying 13-12 July, anchored by Sal Stewart's power surge and Eugenio Suárez's veteran presence, stops the bleeding and hints at a brighter future.",
+      "startClipIndex": 17,
+      "endClipIndex": 20,
+      "tone": "turning_point"
     },
     {
       "id": "ch5",
-      "title": "Stewart's Rise",
-      "description": "Sal Stewart emerges as a legitimate star in mid-summer, launching home runs deep into July and August and carrying the Cincinnati offense on his back.",
-      "startClipIndex": 18,
-      "endClipIndex": 21,
-      "tone": "milestone"
-    },
-    {
-      "id": "ch6",
-      "title": "So Close, So Far",
-      "description": "McLain's grand slam and Myers' homer hint at a late charge, but a catastrophic defensive error on the same day as the slam embodies the Reds' inability to put it all together.",
-      "startClipIndex": 22,
+      "title": "Thunder Without Lightning",
+      "description": "August showcases the Reds' raw offensive firepower — McLain's grand slam, Stewart's continued home run barrage — but the bullpen keeps undermining the lineup's best efforts.",
+      "startClipIndex": 21,
       "endClipIndex": 25,
-      "tone": "struggle"
+      "tone": "clutch"
     }
   ],
   "clips": [
@@ -623,5 +615,5 @@
     "division": "NL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-09-30T23:48:23.416Z"
+  "generatedAt": "2026-10-09T17:37:26.208Z"
 }

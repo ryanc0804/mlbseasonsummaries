@@ -1,55 +1,47 @@
 {
   "teamId": 134,
   "year": 2026,
-  "narrative": "The 2026 Pittsburgh Pirates opened their season with a gut punch. On Opening Day, Luis Robert Jr. launched a three-run homer off Hunter Barco, and the early weeks were defined by a bullpen that couldn't hold leads and an offense prone to killing its own rallies. The Pirates stumbled through April, watching opponents capitalize on late-inning mistakes while Pittsburgh's hitters grounded into double plays at the worst possible moments. It was a rocky start that left the club searching for an identity.\n\nMay and June brought signs of life — and signs of trouble existing side by side. Bryan Reynolds delivered an enormous two-run walk-off homer on May 29th that reminded everyone of his star power, and Henry Davis's grand slam in early June hinted at a potent lineup lurking beneath the surface. But the bullpen remained a persistent wound. Gregory Soto surrendered three-run homers, Evan Sisk gave up critical doubles, and Mason Montgomery was torched for a pivotal two-run double that swung a late June game. The Pirates felt like a team that could beat anyone on a given night but couldn't string wins together consistently.\n\nThe second half offered genuine hope. Esmerlyn Valdez's grand slam in July and a crucial double play turned by Gregory Soto that preserved a lead showed Pittsburgh capable of winning ugly when it mattered. Brandon Lowe emerged as one of the team's most reliable offensive forces, smashing home runs through August and September — his 27th and 33rd round-trippers arriving at clutch moments. Rafael Flores Jr. added punch from an unexpected source, and Oneil Cruz's moonshot in late August gave the Pirates life in a tight pennant chase.\n\nIn the end, the Pirates finished 82-80 — a winning record that felt bittersweet. A two-run homer by Eduardo Valencia off Mason Montgomery on the penultimate weekend of the season served as a brutal reminder of how thin the margins were all year. Pittsburgh scored more runs than they allowed, hit 186 home runs, and played competitive baseball from wire to wire, yet it wasn't enough to crack the playoff field. The 2026 Pirates were a team that proved they belonged — now they have to prove they can take the next step.",
+  "narrative": "The 2026 Pittsburgh Pirates entered the season with genuine optimism, and the early returns were mixed at best. A rough Opening Series gave way to a competitive April that ended 14-13, but the highlights were often defined by what went wrong — Gregory Soto surrendering big moments, a bullpen that couldn't hold leads, and a lineup that ground its teeth through close losses. Still, the Pirates were in the hunt, and flashes of what this team could be kept the PNC Park faithful engaged.\n\nMay told a more encouraging story. The rotation steadied, the offense found some pop, and a Bryan Reynolds walk-off home run on May 29th — a towering shot to left that plated Tyler Callihan and shifted the entire emotional tenor of the month — became the season's signature moment of joy. The Pirates closed May 16-12, their best month of the year, and briefly looked like a team that could force its way into the playoff conversation. June, however, was crueler. A 11-15 record exposed the bullpen's fragility, with Gregory Soto's three-run homer surrender to Eugenio Suárez on June 27th standing as perhaps the most damaging single play of the entire campaign, a gut-punch that encapsulated everything that was holding this club back.\n\nJuly and August kept Pittsburgh hovering at the margins of relevance without ever truly threatening. Brandon Lowe emerged as the lineup's most reliable force, blasting home runs deep into the summer and carrying the offense on stretches when nobody else could. Esmerlyn Valdez's grand slam in July provided a memorable lift, and Oneil Cruz's August blast reminded fans of the electric ceiling this roster possessed. But the losses kept coming in bunches, the bullpen continued to betray the starters, and by the time August closed at 12-15, the playoff window had effectively shut.\n\nSeptember became a victory lap of sorts — a chance to play meaningful baseball for pride and individual milestones. The Pirates surged to 15-9, with Brandon Lowe launching his 33rd home run and Rafael Flores Jr. announcing himself as a legitimate piece of the future. A devastating Eduardo Valencia home run off Mason Montgomery on September 26th served as the season's final exclamation point, a reminder that even in a winning month, the Pirates could still break your heart. They finished 82-80, a winning record that fell just short of October, and a foundation that offers genuine reasons to believe 2027 might be different.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "A Rough Beginning",
-      "description": "The Pirates stumble out of the gate in April, with the bullpen imploding and the offense undercutting itself with double plays.",
+      "title": "False Starts and Early Turbulence",
+      "description": "Pittsburgh stumbles out of the gate in March before grinding through a competitive but frustrating April defined by bullpen meltdowns and missed opportunities.",
       "startClipIndex": 0,
-      "endClipIndex": 10,
+      "endClipIndex": 7,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "Reynolds Sparks a Pulse",
-      "description": "Bryan Reynolds delivers a massive home run that breathes life into a struggling Pirates team as May turns to June.",
-      "startClipIndex": 11,
-      "endClipIndex": 12,
-      "tone": "turning_point"
+      "title": "Reynolds Ignites a Winning May",
+      "description": "The Pirates catch fire in May, riding Bryan Reynolds's walk-off heroics and a steadied rotation to their best month of the season.",
+      "startClipIndex": 8,
+      "endClipIndex": 11,
+      "tone": "triumph"
     },
     {
       "id": "ch3",
-      "title": "Two Steps Forward, One Step Back",
-      "description": "Pittsburgh's offense flashes star power with grand slams and clutch homers, but the bullpen keeps giving runs right back.",
-      "startClipIndex": 13,
-      "endClipIndex": 20,
+      "title": "June Unravels",
+      "description": "A brutal 11-15 June exposes the bullpen's fragility, with Gregory Soto's late-game implosions and a double-play controversy draining the life from Pittsburgh's playoff hopes.",
+      "startClipIndex": 12,
+      "endClipIndex": 19,
       "tone": "struggle"
     },
     {
       "id": "ch4",
-      "title": "The Second Half Push",
-      "description": "Esmerlyn Valdez's grand slam and a series of clutch defensive plays ignite a summer surge that keeps Pittsburgh in the hunt.",
-      "startClipIndex": 21,
-      "endClipIndex": 24,
-      "tone": "triumph"
+      "title": "Lowe and Valdez Keep Hope Alive",
+      "description": "Brandon Lowe and Esmerlyn Valdez power Pittsburgh through a competitive summer stretch that keeps the Pirates just close enough to dream.",
+      "startClipIndex": 20,
+      "endClipIndex": 28,
+      "tone": "turning_point"
     },
     {
       "id": "ch5",
-      "title": "Lowe and Flores Carry the Flag",
-      "description": "Brandon Lowe and Rafael Flores Jr. take turns delivering home runs in August and September, keeping the Pirates alive in the wild card race.",
-      "startClipIndex": 25,
-      "endClipIndex": 30,
-      "tone": "clutch"
-    },
-    {
-      "id": "ch6",
-      "title": "Falling Just Short",
-      "description": "A crushing late-season home run off Mason Montgomery symbolizes the slim margins that kept the 82-win Pirates out of October baseball.",
-      "startClipIndex": 31,
+      "title": "September Pride",
+      "description": "With the playoffs out of reach, the Pirates play their best baseball of the second half, finishing 15-9 as Lowe reaches 33 home runs and Flores Jr. cements his future role.",
+      "startClipIndex": 29,
       "endClipIndex": 33,
-      "tone": "struggle"
+      "tone": "triumph"
     }
   ],
   "clips": [
@@ -787,11 +779,11 @@
     "runsScored": 767,
     "runsAllowed": 739,
     "homeRuns": 186,
-    "teamEra": 4.15,
+    "teamEra": 4.14,
     "teamAvg": 0.253,
     "teamOps": 0.734,
     "division": "NL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-09-30T23:51:03.873Z"
+  "generatedAt": "2026-10-09T17:39:55.355Z"
 }

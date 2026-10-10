@@ -1,47 +1,55 @@
 {
   "teamId": 114,
   "year": 2026,
-  "narrative": "The 2026 Cleveland Guardians opened the year with a familiar identity: a pitching-first club that would grind out wins even when the offense sputtered. March and April were a coin-flip at 16-16 combined, but the early calendar masked genuine drama. A rocky start from Gavin Williams and back-to-back bullpen meltdowns from Cade Smith threatened to bury Cleveland before the season found its legs. What saved April was the kind of homegrown heroism the Guardians have become known for — Daniel Schneemann's grand slam, a Brayan Rocchio three-run shot, and Chase DeLauter coming up clutch in consecutive late-inning spots reminded fans that this team never stopped competing.\n\nMay was the turning point that defined the season. Cleveland went 18-11, their best month by a wide margin, riding a suddenly locked-in rotation and a lineup that finally started doing damage. Kyle Manzardo's go-ahead blast in late May crystallized the feeling: this team had found something. June brought the inevitable regression — a 10-15 record haunted by more Cade Smith misfortune and a brutal late-game single that flipped a win into a loss — but the Guardians never fully collapsed. July and August were a collective tread-water at 25-26, yet Brayan Rocchio delivered a signature moment on July 2nd, a two-run home run that swung nearly 80 win probability points in Cleveland's favor, keeping the team in the thick of a tight American League race.\n\nSeptember became the month Brayan Rocchio announced himself as the heart of this ballclub. He homered twice in a single September 4th game, then delivered a stunning two-run double on September 15th — a .789 WPA swing — to essentially will the Guardians toward the postseason. Petey Halpin added a clutch three-run shot two days later when Cleveland needed it most, and the team closed 16-9 to finish 85-77 and punch their ticket to the ALDS. It was not a dominant regular season, but it was a resilient one, built on late-game toughness and the emergence of a core that refused to let a difficult June and July define them.\n\nNow the Guardians find themselves locked in a tense ALDS, the series knotted at 2-2 with everything on the line. Jo Adell has emerged as an unexpected postseason catalyst, delivering two clutch triples to spark Cleveland rallies, while José Ramírez reminded everyone why he remains the franchise's cornerstone with a go-ahead home run in Game 4. The bullpen has shown flashes of brilliance — a critical double play and a lineout to strand runners — and the defense has held when it had to. With the series tied and a winner-take-all game on the horizon, the Guardians' season now rests on a single game. Everything that came before was prologue.",
+  "narrative": "The 2026 Cleveland Guardians opened the year with a split personality, playing .500 baseball through March and April while their bullpen — particularly Cade Smith — gave back leads at the worst possible moments. The season's early identity was forged in those painful late-inning surrenders, yet it was also in April that the heroes began to emerge: Daniel Schneemann's grand slam, Brayan Rocchio's go-ahead blast, and Chase DeLauter's clutch extra-base hits signaled that this roster had genuine weapons.\n\nMay became the Guardians' best month, a stretch of 18-11 ball where Kyle Manzardo's big home run and a locked-in rotation gave Cleveland its first real taste of what this team could be. But the momentum stalled hard in June, when the bullpen unraveled again — Cade Smith's catastrophic single that nearly cost a playoff spot, and a disastrous three-game stretch against Houston — dragging the club to 10-15 and raising real questions about whether Stephen Vogt's group could hold it together. The summer months of July and August were a grind, with Brayan Rocchio's two-run walk-off homer on July 2nd standing as the emotional high point of an otherwise exhausting stretch of .500 baseball.\n\nSeptember saved everything. A 16-9 surge driven by Rocchio's stunning late-season double, Petey Halpin's clutch three-run blast, and Angel Martínez's two-run shot pushed Cleveland into the postseason at 85-77. Rocchio in particular emerged as the team's most important player down the stretch, his bat appearing in nearly every pivotal moment. The Guardians had done what Guardians teams do — survive long enough to make it matter in October.\n\nNow Cleveland finds itself knotted at two games apiece in the ALDS, a series that has delivered everything the regular season promised: gut-punch moments from the opposition, clutch answers from Rocchio, Ramírez, and the newly vital Jo Adell, whose back-to-back postseason triples have given the lineup an unexpected lift. With the series tied and the pressure at its peak, the 2026 Guardians are right where they've lived all year — one big moment from moving on, one bad inning from going home.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Shaky Starts, Stubborn Survival",
-      "description": "Early pitching meltdowns and bullpen collapses make for a brutal opening, but the Guardians grind to a .500 mark through March and April.",
+      "title": "Shaky Footing",
+      "description": "A brutal opening week of bullpen collapses and opponent home runs sets a rocky tone for Cleveland's young season.",
       "startClipIndex": 0,
-      "endClipIndex": 7,
+      "endClipIndex": 2,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "May Ignition",
-      "description": "Cleveland catches fire with an 18-11 month, led by timely offense and a rotation that finally locks in.",
-      "startClipIndex": 8,
-      "endClipIndex": 8,
-      "tone": "triumph"
+      "title": "April Answers",
+      "description": "Rocchio, Schneemann, and DeLauter step up with clutch extra-base hits to keep Cleveland afloat at .500 through a chaotic April.",
+      "startClipIndex": 3,
+      "endClipIndex": 7,
+      "tone": "clutch"
     },
     {
       "id": "ch3",
-      "title": "Summer Turbulence",
-      "description": "A tough June and an uneven July-August test Cleveland's resolve, with Cade Smith's rough outings and a see-saw bullpen keeping the team from pulling away.",
-      "startClipIndex": 9,
+      "title": "May Surge, June Collapse",
+      "description": "The Guardians ride their best month behind Kyle Manzardo and a stingy rotation, only for Cade Smith and a brutal Houston series to send June spiraling.",
+      "startClipIndex": 8,
+      "endClipIndex": 12,
+      "tone": "turning_point"
+    },
+    {
+      "id": "ch4",
+      "title": "Grinding Through Summer",
+      "description": "Brayan Rocchio's walk-off blast ignites a July that never fully caught fire, as Cleveland battles through a pair of .500 months to stay in the race.",
+      "startClipIndex": 13,
       "endClipIndex": 14,
       "tone": "struggle"
     },
     {
-      "id": "ch4",
-      "title": "Rocchio's September",
-      "description": "Brayan Rocchio delivers a series of season-defining moments in the final month, powering a 16-9 September surge that carries Cleveland into the postseason.",
+      "id": "ch5",
+      "title": "September Surge",
+      "description": "A 16-9 September run fueled by Rocchio's heroics, Halpin's three-run shot, and Martínez's clutch power clinches Cleveland a postseason berth.",
       "startClipIndex": 15,
       "endClipIndex": 22,
-      "tone": "clutch"
+      "tone": "triumph"
     },
     {
-      "id": "ch5",
-      "title": "October on the Brink",
-      "description": "The Guardians battle to a 2-2 ALDS deadlock, with Jo Adell's clutch triples and José Ramírez's home run keeping Cleveland alive as a winner-take-all game looms.",
+      "id": "ch6",
+      "title": "October on the Edge",
+      "description": "The Guardians and their ALDS opponent are locked in a 2-2 series, with Adell's unexpected triples and Ramírez's home run keeping Cleveland alive in the hunt.",
       "startClipIndex": 23,
       "endClipIndex": 30,
-      "tone": "turning_point"
+      "tone": "clutch"
     }
   ],
   "clips": [
@@ -725,5 +733,5 @@
     "division": "AL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-09T17:17:54.495Z"
+  "generatedAt": "2026-10-10T21:18:54.414Z"
 }

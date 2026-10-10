@@ -1,47 +1,55 @@
 {
   "teamId": 112,
   "year": 2026,
-  "narrative": "The 2026 Chicago Cubs arrived with genuine ambitions, and April validated every bit of the optimism. Alex Bregman delivered immediately, his RBI single on April 11 setting the tone for a veteran-led offense that would carry this team deep into October. Michael Busch, Michael Conforto, and a suddenly dangerous Moisés Ballesteros — whose grand slam on April 27 announced his arrival in style — helped the Cubs race to a 17-9 April, their best month of the season and a statement that Wrigley Field housed a genuine contender.\n\nMay brought the first tremors of doubt. Pete Crow-Armstrong sparkled with a triple and home run on May 4, and another homer two days later, flashing the star power the organization had long projected from him. But the bullpen cracked badly in mid-May, with opposing hitters tagging Phil Maton and Ryan Rolison for back-to-back crushing home runs on May 17, and the Cubs stumbled to a 13-16 record that month. June and July, however, told a more resilient story. Crow-Armstrong continued to be electric — his 11th homer of the year on June 6 was one of the season's signature moments — while Jordan Wicks induced a crucial double play to preserve a win and the offense kept manufacturing runs in clutch spots. The Cubs posted 16-10 and 14-10 records over those two months, grinding forward even as the bullpen, particularly Jacob Webb, began showing alarming cracks.\n\nAugust was the most turbulent month of the season, a white-knuckle stretch that tested the Cubs' character. Bregman hit his 12th and 18th home runs, Nico Hoerner came through with a clutch RBI single, and Ian Happ delivered a grand slam on August 23 that felt like a season-saving blow. But Jacob Webb became a recurring nightmare, surrendering three devastating home runs across August that collectively swung nearly three full wins away from Chicago. Randy Arozarena's two-run shot on August 22 — a minus-0.901 WPA gut punch — was the single most damaging play of the entire season. The Cubs still managed a 16-12 record that month, surviving Webb's meltdowns through sheer offensive force.\n\nSeptember brought a slow fade to 11-13, just enough to cling to a Wild Card berth at 89-73. The postseason arrived with hope but delivered heartbreak. Matthew Boyd struggled in Game 1, surrendering home runs to Fernando Tatis Jr. and Manny Machado, and the Cubs could not fully recover across the series. Nico Hoerner provided a spark with a clutch RBI single in Game 2, but Dansby Swanson's strikeout and flyout in key moments, combined with Daniel Palencia's two-run home run allowed in the late innings, proved too much to overcome. The Wild Card round is still being contested, with the Cubs fighting to extend their season against a San Diego lineup that has shown it can hurt this pitching staff in a hurry.",
+  "narrative": "The 2026 Chicago Cubs arrived with genuine expectations, and they wasted no time delivering on them. A scorching April — going 17-9 — announced that this roster had real teeth, powered by a revamped lineup featuring Alex Bregman's veteran savvy, a blossoming Pete Crow-Armstrong, and timely contributions throughout the order. Bregman's RBI single on April 11th, Michael Busch's clutch two-run knock the next day, and Moisés Ballesteros's grand slam on April 27th set the tone: this was a team that could manufacture runs and come through in pressure moments.\n\nMay brought some turbulence. The Cubs slipped to 13-16, a dip driven in part by the bullpen's vulnerability — back-to-back crushing home runs allowed in a single May 17th loss exposed a relievers-under-fire problem that would haunt the season. Yet even in that messy stretch, Pete Crow-Armstrong emerged as a genuine star, his triple and home run in the same game on May 4th followed by another big shot two days later signaling that the center fielder was ready for a breakout campaign. The Cubs were lumpy, but they were not broken.\n\nJune and July steadied the ship and then some. A 16-10 June — buoyed by Crow-Armstrong's 11th homer, a pivotal double play turned by Jordan Wicks in a late-game squeeze, and Seiya Suzuki's clutch run-scoring single — showed a team that had found its footing. July continued the winning ways at 14-10, even as the bullpen kept finding new ways to bleed leads. August was the emotional heart of the season: Alex Bregman had a monster month, Jacob Webb repeatedly broke hearts in high-leverage spots, and Ian Happ's grand slam on August 23rd provided one of the season's great rallying moments. The Cubs finished 89-73, earning a Wild Card berth and carrying real momentum into October.\n\nThe postseason, however, was a gut punch. Matthew Boyd was roughed up in Game 1 as Fernando Tatis Jr. and Manny Machado took turns doing damage, and the Cubs could never quite close the gap. Game 2 offered flickers — Nico Hoerner's run-scoring single kept the pulse alive — but a Gavin Sheets home run off Daniel Palencia in a key spot sealed Chicago's fate. The Wild Card exit stung precisely because this team was good enough to go further. At 89-73 with 850 runs scored and a lineup that could beat anyone on a given night, the Cubs left October with unfinished business and every reason to believe 2027 will demand more.",
   "chapters": [
     {
       "id": "ch1",
       "title": "April Believers",
-      "description": "Bregman, Busch, Conforto, and Ballesteros power a dominant 17-9 April that announces the Cubs as genuine contenders.",
+      "description": "A red-hot 17-9 April powered by Bregman, Busch, and Ballesteros establishes the Cubs as a legitimate contender.",
       "startClipIndex": 0,
       "endClipIndex": 4,
       "tone": "triumph"
     },
     {
       "id": "ch2",
-      "title": "Crow-Armstrong Rises, Bullpen Burns",
-      "description": "Pete Crow-Armstrong emerges as a star in May while the bullpen surrenders crushing back-to-back home runs that sink the month.",
+      "title": "May Stumble, Stars Rising",
+      "description": "A 13-16 May reveals bullpen cracks even as Pete Crow-Armstrong announces himself with a series of explosive performances.",
       "startClipIndex": 5,
       "endClipIndex": 9,
       "tone": "turning_point"
     },
     {
       "id": "ch3",
-      "title": "Grinding Through Summer",
-      "description": "The Cubs post winning records in June and July on the backs of clutch hits and Crow-Armstrong's power, even as Jacob Webb and Trent Thornton deliver painful late-game losses.",
+      "title": "Summer Surge",
+      "description": "Back-to-back winning months in June and July, fueled by clutch hits from Crow-Armstrong, Swanson, and Suzuki, cement the Cubs' playoff position.",
       "startClipIndex": 10,
       "endClipIndex": 21,
       "tone": "triumph"
     },
     {
       "id": "ch4",
-      "title": "Webb's Nightmare August",
-      "description": "Ian Happ and Alex Bregman keep the Cubs afloat with big home runs while Jacob Webb surrenders three season-defining blasts, including Randy Arozarena's devastating walk-off two-run shot.",
+      "title": "August Chaos",
+      "description": "A 16-12 August is defined by Jacob Webb's costly blown saves and Bregman's and Happ's heroics keeping the Cubs afloat in a month of wild swings.",
       "startClipIndex": 22,
+      "endClipIndex": 30,
+      "tone": "clutch"
+    },
+    {
+      "id": "ch5",
+      "title": "Fading Light",
+      "description": "An 11-13 September raises doubts as the team limps into the Wild Card round with their playoff seeding on the line.",
+      "startClipIndex": 31,
       "endClipIndex": 31,
       "tone": "struggle"
     },
     {
-      "id": "ch5",
-      "title": "October on the Brink",
-      "description": "The Cubs claw into the Wild Card round but face a stiff San Diego lineup, with Matthew Boyd struggling early and the offense searching for enough late-game heroics to stay alive.",
+      "id": "ch6",
+      "title": "Wild Card Exit",
+      "description": "Boyd is battered early, Palencia surrenders the dagger home run in Game 2, and the Cubs' promising season ends in the first round against San Diego.",
       "startClipIndex": 32,
       "endClipIndex": 39,
-      "tone": "clutch"
+      "tone": "struggle"
     }
   ],
   "clips": [
@@ -915,5 +923,5 @@
     "division": "NL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-09T17:36:03.994Z"
+  "generatedAt": "2026-10-10T21:36:13.286Z"
 }

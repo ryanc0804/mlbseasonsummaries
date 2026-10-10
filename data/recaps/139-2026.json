@@ -1,12 +1,12 @@
 {
   "teamId": 139,
   "year": 2026,
-  "narrative": "The 2026 Tampa Bay Rays opened the year with a stumble, going just 2-3 in March, but the early calendar was already revealing the characters who would define their season. Catcher Nick Fortes announced himself as an unlikely hero in the first weekend, delivering clutch hits that kept Tampa Bay competitive even as the bullpen — Bryan Baker in particular — repeatedly found ways to let leads slip away. April blossomed into a 16-9 month, and the Rays never really looked back, even when the moments that made the highlight reel were more gut-punch than fist-pump.\n\nThe heart of the season belonged to Junior Caminero, who evolved from promising youngster into a bonafide middle-of-the-order force, slugging his 41st home run in mid-September as an exclamation point on a remarkable campaign. Around him, Yandy Díaz provided veteran steadiness, Jonathan Aranda delivered clutch extra-base hits, and Jonny DeLuca emerged as a late-game weapon. The Rays rode an 18-8 August — their best month — to cement their position atop the standings, finishing 98-64 and punching their ticket to October with authority.\n\nThe postseason brought the Yankees and a new level of intensity. Victor Mesa Jr., a name few had circled coming into the playoffs, delivered a stunning two-run homer to swing momentum in Game 2, and the Rays' patchwork roster of contributors proved again that Tampa Bay's model of collective contribution could survive the pressure of October baseball. The ALDS has been won, and the Rays now press forward into the Championship Series with confidence and momentum.\n\nThis is a team built on depth, resilience, and the willingness to absorb a bad inning and answer back. The bullpen has been a source of anxiety all year — Baker's name appearing on the wrong side of the ledger more than anyone would like — but Tampa Bay has consistently found a way to outscore their own vulnerabilities. With 98 wins behind them and the pennant still in play, the 2026 Rays are writing one of the more compelling stories in the American League.",
+  "narrative": "The 2026 Tampa Bay Rays opened the season with a split personality, winning their April series on the backs of clutch contributions from catcher Nick Fortes while their bullpen — particularly Bryan Baker — showed early vulnerability. Still, the Rays surged through April at 16-9, establishing themselves as a legitimate American League contender powered by a balanced roster and a pitching staff that kept runs off the board at an elite rate.\n\nMay and June tested that identity. A Daulton Varsho grand slam off Aaron Brooks represented the season's single most damaging play and threatened to unravel a team riding a hot streak, and a 13-13 June raised real questions about whether Tampa Bay could sustain its pace. But the Rays never truly collapsed — veterans like Yandy Díaz and young stars like Junior Caminero and Jonathan Aranda kept delivering in the biggest moments, preventing any prolonged freefall and keeping the club well above .500 through the summer's toughest stretch.\n\nThe final two months were where this team announced itself. August and September brought a combined 34-19 record, fueled by Jonny DeLuca's clutch home run power, Junior Caminero's historic 41-homer campaign, and a pitching staff that suffocated opponents down the stretch. The Rays finished 98-64 — a statement season by any measure — and dispatched their ALDS opponent behind postseason contributions from unlikely heroes like Victor Mesa Jr. and Ryan Vilade, who stepped up on the October stage.\n\nNow the Rays find themselves alive in the postseason, having survived a tense ALDS in which Bryan Baker's relief work and late-inning grit proved the difference. Junior Caminero, Aranda, and a bullpen that has steadied itself after a rocky regular season are carrying Tampa Bay forward as the October chase continues, with the franchise chasing its deepest postseason run in years.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Rocky Start, Hidden Promise",
-      "description": "The Rays stumble through March and into early April, with Nick Fortes flashing star quality while the bullpen bleeds crucial leads.",
+      "title": "Fast Starts and False Alarms",
+      "description": "Nick Fortes sparks early offense but the bullpen's fragility surfaces immediately in a promising yet uneven opening week.",
       "startClipIndex": 0,
       "endClipIndex": 3,
       "tone": "turning_point"
@@ -14,39 +14,31 @@
     {
       "id": "ch2",
       "title": "Winning Ugly in April and May",
-      "description": "Tampa Bay runs up a combined 34-17 record over April and May despite a bullpen that keeps finding new ways to give games away.",
+      "description": "Bryan Baker and the bullpen absorb punishment, but Yandy Díaz, Jonathan Aranda, and the lineup keep delivering clutch hits to push Tampa Bay to the top of the AL standings.",
       "startClipIndex": 4,
-      "endClipIndex": 11,
+      "endClipIndex": 5,
       "tone": "triumph"
     },
     {
       "id": "ch3",
-      "title": "Midsummer Grind",
-      "description": "A .500 June tests the Rays' depth before a strong July steadies the ship, with Jonny DeLuca and the lineup picking up the slack.",
-      "startClipIndex": 12,
+      "title": "Midsummer Turbulence",
+      "description": "A grand slam, a rough stretch of relief outings, and a 13-13 June test the Rays' depth, but the roster refuses to buckle.",
+      "startClipIndex": 6,
       "endClipIndex": 13,
       "tone": "struggle"
     },
     {
       "id": "ch4",
-      "title": "August Surge",
-      "description": "An 18-10 August — the team's best month — sees Junior Caminero, Yandy Díaz, and Jonny DeLuca deliver a string of game-breaking moments that lock up the division.",
+      "title": "Caminero and the Closing Surge",
+      "description": "Junior Caminero's monster home run chase headlines a dominant August-September run that cements Tampa Bay's identity as a postseason-bound powerhouse.",
       "startClipIndex": 14,
-      "endClipIndex": 17,
-      "tone": "triumph"
-    },
-    {
-      "id": "ch5",
-      "title": "September Statement",
-      "description": "Caminero's 41st homer and a series of clutch hits carry the Rays to a 16-9 September and a 98-win season.",
-      "startClipIndex": 18,
       "endClipIndex": 21,
       "tone": "milestone"
     },
     {
-      "id": "ch6",
+      "id": "ch5",
       "title": "October Rising",
-      "description": "The Rays navigate a hard-fought ALDS against the Yankees — Victor Mesa Jr.'s postseason home run a defining moment — and now advance with the pennant in their sights.",
+      "description": "The Rays survive a dramatic ALDS with unexpected heroes stepping up, as Victor Mesa Jr., Ryan Vilade, and a locked-in bullpen push Tampa Bay deeper into the October spotlight.",
       "startClipIndex": 22,
       "endClipIndex": 29,
       "tone": "clutch"
@@ -708,5 +700,5 @@
     "division": "AL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-09T17:13:53.967Z"
+  "generatedAt": "2026-10-10T21:15:08.098Z"
 }

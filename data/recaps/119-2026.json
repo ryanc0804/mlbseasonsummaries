@@ -1,52 +1,44 @@
 {
   "teamId": 119,
   "year": 2026,
-  "narrative": "The 2026 Los Angeles Dodgers announced themselves immediately. On Opening Day, catcher Will Smith launched a two-run bomb to center field that swung nearly two-thirds of a win probability unit in their favor — a declaration that this team had come to play. They carried that energy through April and May, posting a combined 34-20 record while Kyle Tucker's game-winning single on April 27th and Dalton Rushing's clutch two-RBI single in June showcased the depth of a lineup that could hurt opponents in a dozen different ways.\n\nJune was the Dodgers' most dominant month of the year, going 18-9 as the offense hummed and the pitching held firm. Teoscar Hernández's grand slam on July 3rd pushed the celebration into summer, but July proved more grinding than glorious at 13-11. The real turbulence arrived in August, when closer Edwin Díaz surrendered a brutal game-changing home run on August 7th and then allowed back-to-back triples the very next evening. The bullpen — specifically Tanner Scott and Alex Vesia — leaked runs at uncomfortable moments throughout the late summer stretch. Yet even as the relievers sputtered, the offense kept bailing them out: Max Muncy's three-run homer on August 13th, Tommy Edman's clutch single on August 21st, and Mookie Betts' three-run shot on September 6th all kept the ship righted.\n\nSeptember was a revelation, the Dodgers going 18-7 to close the regular season and finishing 100-62. Teoscar Hernández's sharp double on September 3rd and Tommy Edman's three-run homer two days later signaled that whatever demons had haunted the bullpen in August had been exorcised. The team was healthy, hungry, and rolling into October with real momentum.\n\nNow the Dodgers are making their case in October. After dispatching their Division Series opponents to advance, they are still dancing — each game a high-wire act with the roster's full arsenal on display. Teoscar Hernández and Kyle Tucker delivered back-to-back homers in Game 1 of the NLDS, Freeman added a solo shot in Game 2, and Andy Pages came through with a go-ahead single in the latest chapter of the story. The postseason is still being written, and this Dodger team, forged through a summer of both brilliance and adversity, is determined to write the final line themselves.",
+  "narrative": "The 2026 Los Angeles Dodgers announced themselves immediately, with catcher Will Smith's two-run blast on Opening Day setting the tone for a team that would finish with 100 wins. March and April were mostly business as usual for this star-studded roster — Kyle Tucker, the major offseason acquisition, announced himself with a go-ahead single in a dramatic April 27th comeback, and Max Muncy provided pop throughout an early stretch that had the Dodgers sitting comfortably above .500 as summer approached.\n\nThe summer months brought the Dodgers to their apex and then briefly tested their resolve. June was dominant at 18-9, headlined by Dalton Rushing's walk-off single and Teoscar Hernández's Independence Day grand slam. But August proved turbulent — Edwin Díaz surrendered a crushing home run on August 7th, then served up back-to-back extra-base hits to Arizona the following night, and the bullpen showed cracks as the Dodgers stumbled to a 13-14 record in the dog days. Yet even in a losing month, Max Muncy provided a three-run blast on August 13th, and Tommy Edman chipped in clutch singles to remind the league this roster never truly goes quietly.\n\nSeptember was the Dodgers' best month of the year. Hernández's two-run double on September 3rd ignited a stretch that saw Los Angeles go 18-7 down the stretch, with Mookie Betts blasting a three-run homer and Tommy Edman adding a clutch three-run shot to put the division away in style. The team finished 100-62, scoring 801 runs and posting a 3.55 ERA — a complete team in every sense.\n\nNow the Dodgers are alive and dangerous in the postseason. They've already dispatched their NLDS opponents, with Teoscar Hernández homering in Game 1, Kyle Tucker adding his own shot, Freddie Freeman going deep in Game 2, and Enrique Hernández hitting a crucial home run in Game 3. The series continues, and with Andy Pages delivering a two-run single to push runs across in Game 4, the Dodgers are making noise in October once again. The full story is still being written.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Opening Statement",
-      "description": "The Dodgers roar out of the gate, with Will Smith's Opening Day blast and a dominant April setting the tone for a championship-caliber season.",
+      "title": "Opening Statements",
+      "description": "The Dodgers come out swinging in March and April, with Will Smith, Kyle Tucker, and Max Muncy establishing the team's offensive identity early.",
       "startClipIndex": 0,
-      "endClipIndex": 1,
+      "endClipIndex": 7,
       "tone": "triumph"
     },
     {
       "id": "ch2",
-      "title": "Tucker's Redemption Night",
-      "description": "A wild April 27th game encapsulates everything about this team — they absorb a three-run homer, battle back, and Tucker delivers the knockout blow.",
-      "startClipIndex": 2,
-      "endClipIndex": 4,
-      "tone": "clutch"
+      "title": "June Surge",
+      "description": "Los Angeles catches fire with an 18-9 June, fueled by a stunning Dalton Rushing single and Teoscar Hernández's grand slam around the Fourth of July.",
+      "startClipIndex": 8,
+      "endClipIndex": 14,
+      "tone": "triumph"
     },
     {
       "id": "ch3",
-      "title": "Winning Ugly",
-      "description": "Through May, June, and into July the Dodgers keep piling up wins despite bullpen misfires from Scott and Vesia, relying on a deep lineup to paper over the cracks.",
-      "startClipIndex": 5,
-      "endClipIndex": 14,
-      "tone": "turning_point"
-    },
-    {
-      "id": "ch4",
-      "title": "Díaz and the August Storm",
-      "description": "August brings real turbulence as Edwin Díaz has a catastrophic back-to-back stretch and the bullpen wobbles, yet clutch hitting from Muncy, Edman, and Betts keeps the Dodgers afloat.",
+      "title": "August Turbulence",
+      "description": "The Dodgers hit their roughest patch as the bullpen — especially Edwin Díaz — absorbs punishing blows, leading to a 13-14 August despite flashes of offensive brilliance.",
       "startClipIndex": 15,
       "endClipIndex": 24,
       "tone": "struggle"
     },
     {
-      "id": "ch5",
-      "title": "September Surge",
-      "description": "The Dodgers go 18-7 to close the regular season, with Hernández, Edman, and Betts fueling a dominant stretch that cements their 100-win finish.",
+      "id": "ch4",
+      "title": "September Statement",
+      "description": "The Dodgers storm back with an 18-7 September, with Hernández, Edman, and Betts delivering big hits to close out the regular season in dominant fashion.",
       "startClipIndex": 25,
       "endClipIndex": 28,
       "tone": "triumph"
     },
     {
-      "id": "ch6",
-      "title": "October Is Ours to Lose",
-      "description": "The Dodgers advance through the NLDS and are still alive in the postseason, with Hernández, Tucker, Freeman, and Pages delivering in the sport's biggest moments.",
+      "id": "ch5",
+      "title": "October Rising",
+      "description": "The Dodgers are rolling through the postseason, winning the NLDS behind home runs from Hernández, Tucker, Freeman, and Enrique Hernández as they push deeper into October.",
       "startClipIndex": 29,
       "endClipIndex": 36,
       "tone": "clutch"
@@ -863,5 +855,5 @@
     "division": "NL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-09T17:44:56.327Z"
+  "generatedAt": "2026-10-10T21:44:54.019Z"
 }

@@ -1,55 +1,55 @@
 {
   "teamId": 109,
   "year": 2026,
-  "narrative": "The 2026 Arizona Diamondbacks were a team defined by near-misses and frustrating inconsistency, a roster talented enough to flirt with contention but never quite steady enough to seize it. They opened March in rough fashion, dropping three of five as opposing bats — most memorably Will Smith's two-run blast on Opening Weekend — set the tone for a bullpen that would be tested all year. April offered some encouragement, a 14-11 month where the roster found its footing, and a few timely defensive gems kept the ship upright even as the late-inning arms gave up their share of crushing homers.\n\nMay and June told the real story of this team's ceiling and its cracks. Ketel Marte announced himself as a force with a monstrous six-RBI stretch, but the very same month saw Paul Sewald and Juan Morillo surrender leads that should have been safe, and a brutal May 13th doubleheader of blown saves put Arizona in a hole they could never fully escape. June went 12-15, the worst month of the year, as the pitching staff frayed and opposing hitters feasted on a rotation and bullpen that too often left games on the table.\n\nJuly was the season's most encouraging stretch — a 15-10 record that gave the fanbase real hope — powered by a resurgent offense and a few clutch Sewald outings that went the right way for once. But August and September refused to let Arizona get comfortable. Ryan Waldschmidt's back-to-back walk-off home runs against the D-backs in August, combined with Corbin Carroll's late-September blast, were the exclamation points on a pennant race that quietly slipped away. The Diamondbacks finished 86-76, a winning record that nonetheless left them on the outside of the playoff picture looking in.\n\nThis was a season of moments that almost were. The run differential — just nine runs over 162 games — speaks to a team that was never truly out of it but never truly locked in. Morillo and Sewald each had stretches where they looked like late-inning solutions and stretches where they were the problem. Marte and Carroll flashed star quality. But in a competitive National League, almost was not enough, and the Diamondbacks will enter the offseason searching for the finishing piece that turns a winning team into a playoff team.",
+  "narrative": "The 2026 Arizona Diamondbacks opened the year with a thud, dropping three of their first five games as opposing hitters punished a shaky bullpen from the very start. Will Smith's two-run shot on Opening Weekend and Jose Fernandez's three-run blast on the final day of March set an ominous tone, leaving Arizona 2-3 and searching for answers before April had truly begun. It was a rocky introduction to a season that would never quite find a smooth groove — but one that would prove resilient enough to matter in the end.\n\nApril and May offered a study in contradictions. The Diamondbacks fought back to finish April at 14-11, with Paul Sewald delivering a key save and the defense flashing at the right moments, but May brought turbulence. Ketel Marte's stunning three-run homer — his sixth of the year — crushed a late comeback bid and became the signature gut-punch of a 15-13 month that felt harder than the record suggested. June was genuinely difficult, the team falling to 12-15 as opposing offenses ran wild and the pitching staff failed to hold leads, including a brutal stretch where both Corbin Carroll and Nolan Arenado haunted their own side with costly allowed home runs.\n\nJuly changed everything. The Diamondbacks went 15-10, their best month of the season, leaning on a rotation that finally stabilized and a lineup that started producing with runners on base. Even when Paul Sewald surrendered Bryan Reynolds's home run late in July, the team absorbed the blow and kept winning. August was a grind — 15-14 — with Ryan Waldschmidt providing two of the most deflating moments of the entire season, his August 7th and August 25th home runs both coming at the worst possible times, each costing the team games that felt winnable. Yet Arizona's character showed in how they refused to collapse.\n\nSeptember brought the finish line into view. The Diamondbacks went 13-10 down the stretch, including a critical Taylor Clarke outing on September 15th where Esteury Ruiz's double keyed a multi-run rally to help steal a win. Nolan Arenado's grand slam on September 20th — his 27th home run — served as a final sting, but Arizona had already banked enough wins to close at 86-76. It was not a dominant season by any measure, but it was one built on stubbornness: a team that bled leads, weathered opponents' clutch moments, and still found a way to win more than they lost across a long and unforgiving 162 games.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "A Rough Welcome Back",
-      "description": "The Diamondbacks stumble out of the gate in March, surrendering big home runs and finishing 2-3 as the bullpen immediately raises questions.",
+      "title": "A Rough Awakening",
+      "description": "The Diamondbacks stumble out of the gate as opposing hitters crush the bullpen in the opening days of the season.",
       "startClipIndex": 0,
       "endClipIndex": 1,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "Finding Their Footing",
-      "description": "A 14-11 April sees Arizona grind out wins behind timely defense and a few Sewald saves, even as opposing bats keep things uncomfortable.",
+      "title": "Fighting to Stay Afloat",
+      "description": "Arizona battles through a mixed April and May, scraping out wins even as key relievers and the pitching staff repeatedly falter at the worst moments.",
       "startClipIndex": 2,
-      "endClipIndex": 5,
+      "endClipIndex": 10,
       "tone": "turning_point"
     },
     {
       "id": "ch3",
-      "title": "Marte Surges, Bullpen Burns",
-      "description": "May and June are a tale of two halves — Ketel Marte's power breaks out while the late-inning arms repeatedly squander leads, sending Arizona to a 12-15 June.",
-      "startClipIndex": 6,
+      "title": "June Swoon",
+      "description": "A 12-15 June exposes real cracks as the offense stalls and opposing bats deliver a series of backbreaking blows.",
+      "startClipIndex": 11,
       "endClipIndex": 13,
       "tone": "struggle"
     },
     {
       "id": "ch4",
-      "title": "The July Push",
-      "description": "Arizona catches fire at 15-10 in July, with the offense clicking and Sewald finally delivering some crucial outs, briefly stoking playoff dreams.",
+      "title": "July Surge",
+      "description": "The Diamondbacks reel off their best month at 15-10, finding a winning formula even as the bullpen remains unpredictable.",
       "startClipIndex": 14,
       "endClipIndex": 17,
       "tone": "triumph"
     },
     {
       "id": "ch5",
-      "title": "August Wounds",
-      "description": "Back-to-back Waldschmidt home runs and a pair of agonizing August losses at 15-14 drain the life from the pennant race just as it was heating up.",
+      "title": "August Grit",
+      "description": "A brutal pair of Waldschmidt home runs and a multi-hit attack on August 8th test Arizona's resolve during a hard-fought 15-14 month.",
       "startClipIndex": 18,
       "endClipIndex": 22,
-      "tone": "struggle"
+      "tone": "clutch"
     },
     {
       "id": "ch6",
-      "title": "September's Slow Goodbye",
-      "description": "A 13-10 September cannot mask the damage done — late homers by Carroll, Arenado, and a parade of opponents seal Arizona's fate one painful at-bat at a time.",
+      "title": "Closing Strong",
+      "description": "The Diamondbacks grind through September at 13-10, weathering late-season adversity to finish at 86-76 and keep their postseason hopes alive.",
       "startClipIndex": 23,
       "endClipIndex": 27,
-      "tone": "struggle"
+      "tone": "triumph"
     }
   ],
   "clips": [
@@ -668,5 +668,5 @@
     "division": "NL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-09T17:42:32.490Z"
+  "generatedAt": "2026-10-10T21:42:35.314Z"
 }

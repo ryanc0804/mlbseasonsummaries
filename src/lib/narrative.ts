@@ -59,7 +59,7 @@ Season: ${year}${seasonInProgress ? " (SEASON STILL IN PROGRESS — anything ong
 Record: ${stats.wins}-${stats.losses}
 Runs: ${stats.runsScored} scored, ${stats.runsAllowed} allowed
 Home runs: ${stats.homeRuns} | ERA: ${stats.teamEra} | OPS: ${stats.teamOps}
-${stats.playoffResult ? `Postseason: ${stats.playoffResult}` : "Missed playoffs"}
+${stats.playoffResult ? `Postseason: ${stats.playoffResult}` : seasonInProgress ? "Postseason: not applicable yet (no postseason games for this team so far — do NOT say they missed the playoffs unless the record makes elimination certain)" : "Missed playoffs"}
 ${monthlyRecords ? `Month-by-month record: ${monthlyRecords}` : ""}
 
 The season's top plays in chronological order (WPA already adjusted for team perspective — positive = helped ${team.name}, negative = hurt ${team.name}):

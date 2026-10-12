@@ -1,47 +1,47 @@
 {
   "teamId": 110,
   "year": 2026,
-  "narrative": "The 2026 Baltimore Orioles entered the season with legitimate aspirations, built around a young core that had flashed brilliance in recent years. April was a tale of two forces: Pete Alonso and the newly emerging Jeremiah Jackson delivering thunderbolts, while the pitching staff — particularly the relievers — kept finding ways to give games back. The Orioles played .500 ball in April, a reflection of a team that could explode offensively but couldn't yet string wins together consistently.\n\nMay and June brought the most turbulent stretch of the season. The bullpen, anchored too often by Andrew Kittredge in high-leverage situations, became a recurring liability, and opposing hitters feasted on the back end of the staff. A catastrophic June 19 loss — when Ryan Helsley surrendered a walk-off single that swung nearly a full win of probability — encapsulated a brutal two-month stretch that saw Baltimore go a combined 24-32. The team was sinking, and questions about the roster's ceiling grew louder with each bullpen implosion.\n\nJuly changed everything. The Orioles caught fire at 15-8, their best month of the season by a wide margin. Jeremiah Jackson's clutch doubling, Coby Mayo emerging as a genuine power threat, and Dylan Beavers delivering in big moments gave the lineup a different look. The rotation steadied just enough, and Baltimore reminded the baseball world what this young core was capable of when it clicked. August kept the momentum alive at 15-13, with Samuel Basallo and Gunnar Henderson continuing to anchor the middle of the order with big swings.\n\nSeptember has been a more uneven affair, with the bullpen once again showing its fragility — Grant Wolfram's meltdown on September 2 and Yennier Cano's struggles threatening to undo the summer's progress. But flashes of brilliance remain: Coby Mayo's inside-the-park home run on September 15 was a stunning display of athleticism and power, and Pete Alonso's 40th home run on September 21 underscored the offensive firepower still at Baltimore's disposal. At 79-82, the Orioles' postseason fate remains in flux as the calendar winds down, a season defined by spectacular highs, maddening lows, and a roster that feels perpetually on the edge of breaking through.",
+  "narrative": "The 2026 Baltimore Orioles entered the season carrying expectations after recent postseason runs, but the year quickly revealed itself to be a grinding, uneven journey. April was a tale of extremes — Pete Alonso and Jeremiah Jackson delivered thunderous moments, while the pitching staff leaked runs in costly late-game situations. The Orioles finished the month at .500, a mark that felt both promising and fragile given how many times they had to claw back from deficits.\n\nMay and June brought the team's most difficult stretch. The bullpen, led by Anthony Nunez's repeated misfortunes, became a recurring source of heartbreak, and Baltimore stumbled to a 13-16 May and an even worse 11-16 June. The low point arrived on June 19th when Ryan Helsley and a catastrophic throwing error handed opponents a rally that swung nearly a full win of probability in an instant. A brutal late-June collapse against the Angels — three separate damaging plays in the same game — summed up everything that had gone wrong. Yet even in the darkness, Samuel Basallo and the young core showed flashes of what this offense could be.\n\nJuly changed everything. Finishing 15-8, it was the team's best month and a genuine turning point. Jeremiah Jackson's sharp double in early July ignited a stretch that saw the Orioles play their most complete baseball of the season. Coby Mayo emerged as a force, Dylan Beavers came through in clutch spots, and the lineup finally started to resemble the dangerous unit Baltimore had envisioned. August was steadier at 15-13, with Samuel Basallo and Gunnar Henderson continuing to provide big moments, even as Andrew Kittredge's bullpen struggles refused to fully disappear.\n\nSeptember has been a mixed but not hopeless final chapter. Coby Mayo's inside-the-park home run on the 15th — his 24th of the year — was a signature moment for a player who has grown into one of the team's most exciting young stars, and Pete Alonso's 40th home run on September 21st underscored the offensive firepower this roster carries. At 79-82, the Orioles' postseason path remains mathematically open even if the road is steep, and the final days of the regular season are still being played.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Boom and Bust in the Blossom",
-      "description": "April sees the Orioles play .500 ball, powered by Alonso and Jackson home runs but repeatedly undercut by pitching lapses.",
+      "title": "Streaky Beginnings",
+      "description": "Baltimore opens the year with high-leverage heroics from Alonso and Jackson mixed with costly pitching miscues, finishing April at a .500 pace.",
       "startClipIndex": 0,
       "endClipIndex": 6,
       "tone": "turning_point"
     },
     {
       "id": "ch2",
-      "title": "Drowning in May and June",
-      "description": "A brutal 24-32 combined stretch exposes the bullpen as the team's fatal flaw, with Kittredge and Akin repeatedly torching leads.",
+      "title": "Bullpen Quicksand",
+      "description": "May's bullpen meltdowns and a grand slam give-up spiral the Orioles into their worst stretch of the season as the losses mount through May and June.",
       "startClipIndex": 7,
-      "endClipIndex": 19,
+      "endClipIndex": 9,
       "tone": "struggle"
     },
     {
       "id": "ch3",
-      "title": "The Summer Surge",
-      "description": "Baltimore catches fire in July, going 15-8 on the strength of Jeremiah Jackson, Coby Mayo, and a suddenly cohesive lineup.",
+      "title": "June Bright Spots",
+      "description": "Amid a rough month, Colton Cowser's three-run bomb and a clutch multi-run rally on June 9th provide the offense rare moments of life.",
+      "startClipIndex": 10,
+      "endClipIndex": 19,
+      "tone": "clutch"
+    },
+    {
+      "id": "ch4",
+      "title": "The July Turnaround",
+      "description": "The Orioles catch fire with a 15-8 July, powered by Jeremiah Jackson's clutch double and Coby Mayo's emerging thunder at the plate.",
       "startClipIndex": 20,
       "endClipIndex": 23,
       "tone": "triumph"
     },
     {
-      "id": "ch4",
-      "title": "Holding On in August",
-      "description": "The Orioles post a winning August at 15-13, with Basallo and Henderson delivering the big moments to keep the season alive.",
-      "startClipIndex": 24,
-      "endClipIndex": 26,
-      "tone": "clutch"
-    },
-    {
       "id": "ch5",
-      "title": "September's Edge",
-      "description": "A shaky bullpen and clutch offensive moments collide in a September that will define whether this team's summer was a mirage or a foundation.",
-      "startClipIndex": 27,
+      "title": "Holding On",
+      "description": "August and September bring inconsistency, but Gunnar Henderson, Samuel Basallo, and a historic Coby Mayo inside-the-park homer keep the Orioles fighting as the season winds down.",
+      "startClipIndex": 24,
       "endClipIndex": 32,
-      "tone": "turning_point"
+      "tone": "milestone"
     }
   ],
   "clips": [
@@ -50,6 +50,8 @@
       "title": "Home Run — Pete Alonso",
       "description": "Pete Alonso homers (2) on a fly ball to left center field. Taylor Ward scores.",
       "playId": "389b5062-f09e-3186-b74e-718a7f7bb35e",
+      "videoUrl": "https://sporty-clips.mlb.com/ek1sRDlfWGw0TUFRPT1fQlFsWUJsRUVVQUFBWGxJTEF3QUhBQTVRQUFNQ1Z3UUFCVlFOVVFSVEJsRUhBd2NE.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/xuzxxxs5hlyzunuzzeuy.jpg",
       "date": "2026-04-13",
       "gamePk": 824856,
       "atBatNumber": 61,
@@ -63,8 +65,7 @@
       "wpa": 0.359,
       "xwoba": 0.743,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/ek1sRDlfWGw0TUFRPT1fQlFsWUJsRUVVQUFBWGxJTEF3QUhBQTVRQUFNQ1Z3UUFCVlFOVVFSVEJsRUhBd2NE.mp4"
+      "gameType": "R"
     },
     {
       "id": "824454-61-7",
@@ -92,8 +93,6 @@
       "title": "Home Run — Jeremiah Jackson",
       "description": "Jeremiah Jackson homers (5) on a fly ball to left center field. Leody Taveras scores. Weston Wilson scores.",
       "playId": "d43d8783-da66-38df-b539-6b326a7fefa3",
-      "videoUrl": "https://sporty-clips.mlb.com/OTdQelFfWGw0TUFRPT1fVWdWU0FGd0RYZ0VBWEFNRVVBQUhDVklBQUFNQVVGZ0FCQWNHQWdWVUJsVUFWbE5W.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/rbragcitvni3hql3pgpl.jpg",
       "date": "2026-04-17",
       "gamePk": 824454,
       "atBatNumber": 70,
@@ -107,7 +106,8 @@
       "wpa": 0.556,
       "xwoba": 1.116,
       "eventType": "home_run",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/OTdQelFfWGw0TUFRPT1fVWdWU0FGd0RYZ0VBWEFNRVVBQUhDVklBQUFNQVVGZ0FCQWNHQWdWVUJsVUFWbE5W.mp4"
     },
     {
       "id": "824451-38-5",
@@ -221,6 +221,8 @@
       "title": "Home Run — Coby Mayo",
       "description": "Coby Mayo homers (4) on a fly ball to left field. Adley Rutschman scores. Tyler O'Neill scores.",
       "playId": "fc320733-c6b2-3be7-b1ca-a4879abadabd",
+      "videoUrl": "https://sporty-clips.mlb.com/MTZLdlZfWGw0TUFRPT1fVUZKU1ZsUURWUUVBVzFSUVZBQUhVMU5SQUFNRUFBQUFVMUVOQndwVVUxSUJVVkFD.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/rhouuhuuha7wmvduiulv.jpg",
       "date": "2026-05-11",
       "gamePk": 824844,
       "atBatNumber": 52,
@@ -234,8 +236,7 @@
       "wpa": 0.473,
       "xwoba": 0.832,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/MTZLdlZfWGw0TUFRPT1fVUZKU1ZsUURWUUVBVzFSUVZBQUhVMU5SQUFNRUFBQUFVMUVOQndwVVUxSUJVVkFD.mp4"
+      "gameType": "R"
     },
     {
       "id": "822977-66-8",
@@ -263,6 +264,8 @@
       "title": "Home Run — Colton Cowser",
       "description": "Colton Cowser homers (2) on a fly ball to center field. Jackson Holliday scores. Leody Taveras scores.",
       "playId": "d516ef14-328f-3b98-ad17-d55cf864834c",
+      "videoUrl": "https://sporty-clips.mlb.com/UUFNUG9fWGw0TUFRPT1fVWdSUVVnRlNWd1lBQzFBS0FBQUhVdzllQUFCUlVsWUFWbEFBVTFVTkJ3ZGRBd1lG.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/htcpkxsv5l41z5wv1oi3.jpg",
       "date": "2026-05-24",
       "gamePk": 824839,
       "atBatNumber": 75,
@@ -276,14 +279,15 @@
       "wpa": 0.789,
       "xwoba": 2,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/UUFNUG9fWGw0TUFRPT1fVWdSUVVnRlNWd1lBQzFBS0FBQUhVdzllQUFCUlVsWUFWbEFBVTFVTkJ3ZGRBd1lG.mp4"
+      "gameType": "R"
     },
     {
       "id": "824838-88-11",
       "title": "Single — Jeremiah Jackson",
       "description": "Jeremiah Jackson singles on a ground ball to left fielder Chandler Simpson. Pete Alonso scores. Jeremiah Jackson to 2nd.",
       "playId": "35e368e8-c29f-30e1-9af6-c132da068342",
+      "videoUrl": "https://sporty-clips.mlb.com/akR2QVdfWGw0TUFRPT1fQlFRRVYxSU1Bd29BVzFBTEFBQUhBVk5YQUZoVUJWY0FVVlFHQWxkVUFRVmRBd1pV.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/mkk77fjeiimtbpiapqu7.jpg",
       "date": "2026-05-25",
       "gamePk": 824838,
       "atBatNumber": 88,
@@ -297,8 +301,7 @@
       "wpa": 0.357,
       "xwoba": 0.46,
       "eventType": "single",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/akR2QVdfWGw0TUFRPT1fQlFRRVYxSU1Bd29BVzFBTEFBQUhBVk5YQUZoVUJWY0FVVlFHQWxkVUFRVmRBd1pV.mp4"
+      "gameType": "R"
     },
     {
       "id": "824829-38-5",
@@ -326,6 +329,8 @@
       "title": "Double — Tyler O'Neill",
       "description": "Tyler O'Neill hits a ground-rule double (2) on a fly ball to right field. Jeremiah Jackson to 3rd.",
       "playId": "39b35680-dd1f-3f4d-aa5b-fc89f52e5fad",
+      "videoUrl": "https://sporty-clips.mlb.com/ZzZsRFBfWGw0TUFRPT1fQlFnRFYxRUNYZ0lBWEFZREFBQUhWd0lDQUFCVVZnTUFWQVlOQ1ZVQUExWlFWbE1D.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/dj7jbwsupucluj275fqe.jpg",
       "date": "2026-06-09",
       "gamePk": 824830,
       "atBatNumber": 73,
@@ -339,8 +344,7 @@
       "wpa": 0.351,
       "xwoba": 1.071,
       "eventType": "double",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/ZzZsRFBfWGw0TUFRPT1fQlFnRFYxRUNYZ0lBWEFZREFBQUhWd0lDQUFCVVZnTUFWQVlOQ1ZVQUExWlFWbE1D.mp4"
+      "gameType": "R"
     },
     {
       "id": "824830-74-9",
@@ -368,6 +372,8 @@
       "title": "Single — Leody Taveras",
       "description": "Leody Taveras singles on a sharp ground ball to right fielder Dominic Canzone. Pete Alonso scores. Blaze Alexander to 3rd.",
       "playId": "5a74e71e-ca19-3894-8520-5f6e0c8bd7be",
+      "videoUrl": "https://sporty-clips.mlb.com/ZzZsRFBfWGw0TUFRPT1fQTFCV1VBRURWMWNBV3dNRFh3QUhDUTlTQUZrQVVWRUFCd01EVlFOV0NWRUJCMUFE.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/bc1pwxeg62gb8czlqv8s.jpg",
       "date": "2026-06-09",
       "gamePk": 824830,
       "atBatNumber": 83,
@@ -381,8 +387,7 @@
       "wpa": 0.362,
       "xwoba": 0.6,
       "eventType": "single",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/ZzZsRFBfWGw0TUFRPT1fQTFCV1VBRURWMWNBV3dNRFh3QUhDUTlTQUZrQVVWRUFCd01EVlFOV0NWRUJCMUFE.mp4"
+      "gameType": "R"
     },
     {
       "id": "823936-78-9",
@@ -495,6 +500,8 @@
       "title": "Single — Dylan Beavers",
       "description": "Dylan Beavers singles on a ground ball to right fielder Brewer Hicklen. Jackson Holliday scores.",
       "playId": "ae0b25a4-2b37-34d0-a921-8d7e4331dc0f",
+      "videoUrl": "https://sporty-clips.mlb.com/TUE0bDFfWGw0TUFRPT1fVjFSUkJsWUJCd1lBQ2dBQlVRQUhCVkpXQUFBTVVWQUFDZ0VDVlFjR0FnSUJVd0lB.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/xzpnsebiqsvsiwxlwurm.jpg",
       "date": "2026-07-25",
       "gamePk": 824811,
       "atBatNumber": 72,
@@ -508,8 +515,7 @@
       "wpa": 0.369,
       "xwoba": 0.369,
       "eventType": "single",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/TUE0bDFfWGw0TUFRPT1fVjFSUkJsWUJCd1lBQ2dBQlVRQUhCVkpXQUFBTVVWQUFDZ0VDVlFjR0FnSUJVd0lB.mp4"
+      "gameType": "R"
     },
     {
       "id": "824242-66-8",
@@ -760,5 +766,5 @@
     "division": "AL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-10T21:11:20.394Z"
+  "generatedAt": "2026-10-12T19:58:59.106Z"
 }

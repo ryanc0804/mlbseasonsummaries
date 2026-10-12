@@ -1,44 +1,44 @@
 {
   "teamId": 113,
   "year": 2026,
-  "narrative": "The 2026 Cincinnati Reds opened the year with genuine promise, storming out to a 17-9 April that had the Queen City daring to dream. Eugenio Suárez, back in Cincinnati, provided instant electricity with a three-run blast on day two of the season, and Nathaniel Lowe delivered a stunning walk-off shot late in the month that encapsulated everything the Reds hoped they could be. The rotation and bullpen showed cracks, but the offense covered enough sins to keep the ship afloat through a sparkling spring.\n\nMay exposed those cracks for what they were. The pitching staff buckled, surrendering home runs to Pete Crow-Armstrong, Bryson Stott, and others in gut-punch moments that sent the Reds reeling to a 10-17 record. Emilio Pagán and Tony Santillan became symbols of a bullpen that simply could not protect leads, and the offense went quiet at the worst moments. June brought no relief — a 9-17 month marked by errors, double plays, and a bullpen that kept surrendering the game's biggest moments to opponents. The Reds had gone from contenders to a team searching for answers.\n\nJuly provided a measure of stabilization, as Cincinnati clawed back to a 13-12 record for the month. Eugenio Suárez continued to be a beacon, and young Sal Stewart emerged as one of the season's most exciting stories, launching home run after home run with the kind of pop that reminded fans why the organization invested in him. His homer on July 22nd — his 21st of the year — was a statement, and his two-RBI single to close out July kept the good feelings going. For a moment, it felt like a second-act revival.\n\nAugust dashed those hopes. The Reds went 13-16, still competitive enough to avoid disaster but unable to string together the wins needed to salvage a winning season. Matt McLain's grand slam provided one of the summer's most electric moments, but Brock Burke's error on the very same day encapsulated the maddening inconsistency that defined Cincinnati's 2026. With 75 wins and 87 losses, the Reds finished well short of contention, their season a story of a dazzling April followed by seven months of incremental disappointment — and a tantalizing glimpse, through Stewart and Suárez, of what this roster might eventually become.",
+  "narrative": "The 2026 Cincinnati Reds opened the year with genuine promise. A strong March and a scorching 17-9 April had the fanbase believing this was finally the year the young core would take a step forward. Eugenio Suárez supplied early fireworks, Nathaniel Lowe delivered a walk-off swing that felt like a statement, and TJ Friedl's clutch hitting embodied the energy of a team playing with purpose. For a moment, the Reds looked like a legitimate contender in the NL Central race.\n\nMay shattered that illusion. The bullpen, anchored by a struggling Emilio Pagán and a vulnerable Tony Santillan, began hemorrhaging leads. Graham Ashcraft's starts turned into high-wire acts that too often ended badly. The team went 10-17 in May, then 9-17 in June, and what had been a hopeful spring dissolved into a summer of damage control. Errors in the field compounded bullpen meltdowns, and the run differential told a brutal truth: this was a team being outscored by historic margins.\n\nJuly offered a brief exhale. Sal Stewart — the young star who emerged as the season's brightest storyline — launched his 21st home run in a performance that reminded Cincinnati what its future could look like, and the Reds played .520 ball that month. August brought a split personality: Stewart kept mashing, Matt McLain connected for a grand slam, but Brock Burke's costly error and Sam Moll's late-game collapses undercut whatever momentum the offense generated. The team finished August 13-16, unable to string together the consistency needed to climb the standings.\n\nAs September winds down, the Reds sit at 75-87, a record that reflects a season defined by a promising start, a ruinous two-month stretch, and flashes of what this roster can become. Sal Stewart's emergence — 27-plus home runs and counting — is the genuine headline, a sign that the rebuild is bearing real fruit even if 2026 wasn't the year Cincinnati broke through.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "April Believers",
-      "description": "Eugenio Suárez's early fireworks and Nathaniel Lowe's clutch blast power a 17-9 April that makes Cincinnati a legitimate early-season story.",
+      "title": "Sparks in the Queen City",
+      "description": "A hot April fuels genuine optimism as Suárez, Lowe, and Friedl deliver big moments in a 3-2 March and 17-9 April.",
       "startClipIndex": 0,
       "endClipIndex": 5,
       "tone": "triumph"
     },
     {
       "id": "ch2",
-      "title": "The Bullpen Burns",
-      "description": "May's 10-17 collapse is fueled by a leaky relief corps that surrenders critical home runs night after night, erasing the optimism of spring.",
+      "title": "The Collapse",
+      "description": "May and June turn into a nightmare as the bullpen implodes, the rotation falters, and the Reds go 19-34 over two brutal months.",
       "startClipIndex": 6,
-      "endClipIndex": 11,
-      "tone": "struggle"
-    },
-    {
-      "id": "ch3",
-      "title": "June Doldrums",
-      "description": "Errors, double plays, and more bullpen disasters produce a second straight losing month as the Reds sink further from relevance.",
-      "startClipIndex": 12,
       "endClipIndex": 16,
       "tone": "struggle"
     },
     {
-      "id": "ch4",
-      "title": "Stewart's Rise",
-      "description": "A 13-12 July is anchored by Sal Stewart's power surge and Eugenio Suárez's continued production, offering a genuine flicker of hope.",
+      "id": "ch3",
+      "title": "Suárez Saves the Day",
+      "description": "A late-June three-run blast from Eugenio Suárez provides a rare highlight and signals a potential turning point heading into July.",
       "startClipIndex": 17,
-      "endClipIndex": 20,
+      "endClipIndex": 17,
       "tone": "turning_point"
     },
     {
+      "id": "ch4",
+      "title": "Sal Stewart Takes Over",
+      "description": "July belongs to Sal Stewart, whose power surge powers a 13-12 month and gives Cincinnati its most compelling storyline of the year.",
+      "startClipIndex": 18,
+      "endClipIndex": 20,
+      "tone": "milestone"
+    },
+    {
       "id": "ch5",
-      "title": "So Close, Yet So Far",
-      "description": "August moments of brilliance — McLain's grand slam, Myers's homer — are undone by costly errors, sealing a losing season in Cincinnati.",
+      "title": "One Step Forward, Two Steps Back",
+      "description": "August delivers McLain's grand slam and Stewart's continued brilliance, but critical errors and bullpen failures keep the Reds from making a real move.",
       "startClipIndex": 21,
       "endClipIndex": 25,
       "tone": "struggle"
@@ -520,8 +520,6 @@
       "title": "Home Run — Dane Myers",
       "description": "Dane Myers homers (5) on a fly ball to left center field.",
       "playId": "24d8d727-41b8-3a5c-bb64-6ce2aa8b61cf",
-      "videoUrl": "https://sporty-clips.mlb.com/b0d3UVdfWGw0TUFRPT1fQkFVRlhBQURWQVVBREZOUVhnQUhVQU1GQUFOWFZWVUFCQVpRQWxKVUNWRlRBVkVB.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/smcou8qb41rsagxha7ot.jpg",
       "date": "2026-08-17",
       "gamePk": 824478,
       "atBatNumber": 75,
@@ -535,15 +533,14 @@
       "wpa": 0.484,
       "xwoba": 0.586,
       "eventType": "home_run",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/b0d3UVdfWGw0TUFRPT1fQkFVRlhBQURWQVVBREZOUVhnQUhVQU1GQUFOWFZWVUFCQVpRQWxKVUNWRlRBVkVB.mp4"
     },
     {
       "id": "824476-47-6",
       "title": "Home Run — Sal Stewart",
       "description": "Sal Stewart homers (27) on a fly ball to center field. Matt McLain scores. Elly De La Cruz scores.",
       "playId": "7a8d2cc7-1d26-3dac-9b44-11f2906d92c3",
-      "videoUrl": "https://sporty-clips.mlb.com/MDRYeU1fWGw0TUFRPT1fQVZCWkFGWlhCUVVBQ1FZQVVBQUhWVmNGQUZoWFYxVUFBMVJUQWdvRkIxZGNBbEZW.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/kpo8koiaxj3yj4gsnywl.jpg",
       "date": "2026-08-19",
       "gamePk": 824476,
       "atBatNumber": 47,
@@ -557,7 +554,8 @@
       "wpa": 0.387,
       "xwoba": 1.991,
       "eventType": "home_run",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/MDRYeU1fWGw0TUFRPT1fQVZCWkFGWlhCUVVBQ1FZQVVBQUhWVmNGQUZoWFYxVUFBMVJUQWdvRkIxZGNBbEZW.mp4"
     },
     {
       "id": "824474-49-6",
@@ -615,5 +613,5 @@
     "division": "NL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-10T21:37:37.253Z"
+  "generatedAt": "2026-10-12T20:26:08.417Z"
 }

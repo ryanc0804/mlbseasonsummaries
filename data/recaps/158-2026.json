@@ -1,44 +1,52 @@
 {
   "teamId": 158,
   "year": 2026,
-  "narrative": "The 2026 Milwaukee Brewers announced themselves immediately, with Christian Yelich launching a three-run homer on Opening Day to set the tone for what would become a 103-win season. The early weeks were a mix of exhilarating highs and early-April turbulence — a 12-13 April record that concealed a team still finding its legs — before everything clicked in May, when Milwaukee went a scorching 19-7 and established itself as one of the National League's elite clubs.\n\nThe summer months told the story of a team powered by a deep and hungry lineup. Jackson Chourio, William Contreras, Brice Turang, and Garrett Mitchell emerged as the engine of an offense that would score 832 runs on the year, while the rotation held opponents to a 3.51 ERA. Aaron Ashby had his difficult moments on the mound — surrendering Ozzie Albies's towering blast in late June and a grand slam in July — but the Brewers absorbed those blows and kept winning, going 33-22 from June through July and never losing their grip on the division.\n\nAugust and September were the Brewers at their most dominant. A 17-12 August gave way to a blazing 18-6 September, with Jackson Chourio's two-run homer on September 8th and William Contreras's clutch double ten days later emblematic of a lineup that refused to let up. By the time the regular season closed, Milwaukee had 103 wins and had firmly earned the right to host October baseball.\n\nNow the Brewers are deep in the postseason, having dispatched their NLDS opponent behind a pair of Jackson Chourio home runs and a stunning walk-off single in Game 2 that lifted the sellout crowd at American Family Field into a frenzy. The road ahead is unwritten — Milwaukee is playing its best baseball of the year, and the city is alive with the belief that this team has one more mountain left to climb.",
+  "narrative": "The 2026 Milwaukee Brewers announced themselves immediately. On Opening Day, Christian Yelich launched a three-run home run that set the tone for a franchise determined to compete at the highest level. That early burst of optimism carried Milwaukee to a strong 4-1 March, but April proved more turbulent — the Brewers stumbled to a 12-13 record as the bullpen coughed up leads and the offense went cold in the wrong moments. It was a rocky stretch, but one that would ultimately serve as the low point of a remarkable season.\n\nMay changed everything. The Brewers went 19-7, their best month of the year, fueled by clutch hits from Brice Turang, Jackson Chourio, and a lineup that suddenly looked like one of the National League's most dangerous. The momentum carried through June and July, where Milwaukee posted winning records month after month. Aaron Ashby's bullpen struggles provided some of the season's most painful moments — including an Ozzie Albies grand slam that stung deep — but the team's overall construction was too strong to be derailed for long. William Contreras's three-run home run on July 19th was the kind of signature swing that defined this era: Milwaukee winning big games with big players delivering in big spots.\n\nAugust and September saw the Brewers cement their place as one of baseball's elite teams. They went 17-12 in August and then caught fire in September, going 18-6 to close the regular season with 103 wins. Jackson Chourio and Yelich carried the offense through the dog days, and the rotation's 3.51 ERA kept the Brewers in virtually every game. By the time the calendar turned to October, Milwaukee had earned home-field advantage and the right to be called genuine World Series contenders.\n\nThe postseason has only reinforced that belief. The Brewers dispatched the San Diego Padres in the Division Series behind Jackson Chourio's clutch hitting — his walk-off single in Game 2 was the defining moment of the series — and now find themselves up 1-0 in the NLCS, with Garrett Mitchell already making his presence felt in center field. Milwaukee is playing its best baseball of the year at exactly the right time, and the city is buzzing with a sense that this team is not done yet.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Yelich Fires the Opening Shot",
-      "description": "Christian Yelich's Opening Day three-run blast ignites the Brewers' season, though a bumpy April keeps the team searching for consistency.",
+      "title": "Opening Statement",
+      "description": "Yelich's Opening Day blast announces Milwaukee's intentions, but early turbulence keeps the Brewers from finding their footing.",
       "startClipIndex": 0,
-      "endClipIndex": 7,
+      "endClipIndex": 2,
       "tone": "turning_point"
     },
     {
       "id": "ch2",
-      "title": "May Explosion",
-      "description": "The Brewers catch fire with a 19-7 May, powered by clutch hits from Chourio, Turang, and a lineup finally clicking on all cylinders.",
+      "title": "April Grows Pains",
+      "description": "A .480 April tests the roster's depth as the bullpen falters and the offense searches for consistency.",
+      "startClipIndex": 3,
+      "endClipIndex": 7,
+      "tone": "struggle"
+    },
+    {
+      "id": "ch3",
+      "title": "May Ignition",
+      "description": "A 19-7 May transforms Milwaukee into one of the NL's most feared teams, with Turang, Chourio, and Frelick all delivering big moments.",
       "startClipIndex": 8,
       "endClipIndex": 10,
       "tone": "triumph"
     },
     {
-      "id": "ch3",
-      "title": "Summer Grind",
-      "description": "Milwaukee navigates a June and July filled with Ashby's rough outings and bullpen hiccups while still posting winning records, a testament to their resilient depth.",
+      "id": "ch4",
+      "title": "Grinding Through Summer",
+      "description": "The Brewers post winning records through June, July, and August despite bullpen hiccups, cementing their status as a 100-win club.",
       "startClipIndex": 11,
-      "endClipIndex": 21,
-      "tone": "struggle"
+      "endClipIndex": 26,
+      "tone": "clutch"
     },
     {
-      "id": "ch4",
-      "title": "Pulling Away",
-      "description": "A dominant August-September stretch — 35-18 combined — cements the Brewers as a 103-win powerhouse and locks up the division crown.",
-      "startClipIndex": 22,
+      "id": "ch5",
+      "title": "September Surge",
+      "description": "An 18-6 September closes the regular season in dominant fashion, with Chourio and Yelich leading the charge to 103 wins.",
+      "startClipIndex": 27,
       "endClipIndex": 29,
       "tone": "triumph"
     },
     {
-      "id": "ch5",
+      "id": "ch6",
       "title": "October Rising",
-      "description": "The Brewers storm through the NLDS behind Chourio's heroics and Contreras's power, and are now pressing forward into the next round of the postseason.",
+      "description": "Milwaukee advances past San Diego with Chourio's heroics and now holds a 1-0 series lead in the NLCS, hunting a pennant.",
       "startClipIndex": 30,
       "endClipIndex": 37,
       "tone": "clutch"
@@ -841,25 +849,25 @@
       "videoUrl": "https://sporty-clips.mlb.com/TDZWVnhfV0ZRVkV3dEdEUT09X0JGVUVVMUVEQXdjQUFRWlVVd0FIQkFVQUFBTlVWVklBVUZBSEF3SlVBUUZXQkF0ZQ==.mp4"
     },
     {
-      "id": "849827-21-3",
-      "title": "Home Run — Robert Gasser",
-      "description": "Fernando Tatis Jr. homers (2) on a fly ball to center field.",
-      "playId": "6d61e717-a905-3ae9-b3ff-3fe4f0680b6c",
-      "date": "2026-10-07",
-      "gamePk": 849827,
-      "atBatNumber": 21,
-      "inning": 3,
-      "isTopInning": false,
-      "batter": "Robert Gasser",
+      "id": "849809-70-9",
+      "title": "Field Out — Trevor Megill",
+      "description": "Mookie Betts flies out to center fielder Garrett Mitchell.",
+      "playId": "9fd0c03c-26ea-3430-822d-37f611690384",
+      "date": "2026-10-11",
+      "gamePk": 849809,
+      "atBatNumber": 70,
+      "inning": 9,
+      "isTopInning": true,
+      "batter": "Trevor Megill",
       "pitcher": "",
-      "exitVelocity": 110.6,
+      "exitVelocity": 97.5,
       "launchAngle": 27,
-      "distance": 429,
-      "wpa": -0.126,
-      "xwoba": 2.033,
-      "eventType": "home_run",
-      "gameType": "D",
-      "videoUrl": "https://sporty-clips.mlb.com/eHkyMktfV0ZRVkV3dEdEUT09X0FGVlhWUUVEVndVQVdWc0NVd0FIVUZOZkFBTUdCUWNBQVFOUUJGVUZCd3RWVWdRRg==.mp4"
+      "distance": 374,
+      "wpa": 0.155,
+      "xwoba": 0.494,
+      "eventType": "field_out",
+      "gameType": "L",
+      "videoUrl": "https://sporty-clips.mlb.com/SzRaZWdfV0ZRVkV3dEdEUT09X0QxY0ZWQWNFVlZFQUNsUlhCd0FIQlFWV0FGa0hVUVVBQVZKVEJnSUVCd3BWQXdwUw==.mp4"
     }
   ],
   "seasonStats": {
@@ -871,9 +879,9 @@
     "teamEra": 3.51,
     "teamAvg": 0.258,
     "teamOps": 0.744,
-    "playoffResult": "Won the NLDS — postseason in progress",
+    "playoffResult": "Postseason in progress — NLCS, series 1-0",
     "division": "NL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-10T21:38:46.401Z"
+  "generatedAt": "2026-10-12T20:27:21.535Z"
 }

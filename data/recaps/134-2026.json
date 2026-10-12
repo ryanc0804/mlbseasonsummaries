@@ -1,44 +1,44 @@
 {
   "teamId": 134,
   "year": 2026,
-  "narrative": "The 2026 Pittsburgh Pirates opened the year with the kind of early turbulence that can define a season before it ever finds its footing. A brutal Opening Series saw Luis Robert Jr. deliver a crushing three-run homer off Hunter Barco, and a rocky April featured back-to-back bullpen collapses against the Cubs that left the team treading water at 14-13. Gregory Soto's bullpen struggles became a recurring theme, and the offense too often went quiet when it mattered most, including a double-play ball that killed a rally in the season's third week.\n\nMay and June offered both promise and frustration in equal measure. Bryan Reynolds delivered one of the season's signature moments with a go-ahead two-run homer on May 29, a shot that carried the optimism of a team capable of competing. Henry Davis added a grand slam in early June, and Tyler Callihan announced himself with a three-run blast on June 10. But the bullpen kept undermining those efforts — Mason Montgomery's brutal outing on June 19 and Gregory Soto's three-run homer surrendered on June 27 sent the team tumbling to 11-15 for the month, the worst stretch of the year.\n\nJuly and August were a study in stubborn persistence. The Pirates never ran off a defining winning streak, but they refused to collapse entirely. Esmerlyn Valdez's grand slam on July 11 was the kind of moment that kept the clubhouse believing, and Soto himself turned villain into hero by inducing a critical double play in the same game. Brandon Lowe continued his breakout campaign, clubbing his 27th home run in August alongside Rafael Flores Jr.'s solo shot in a back-to-back display on August 19. Oneil Cruz added a laser to right field days later as the Pirates clawed to .500 and kept their hopes alive.\n\nSeptember became the month that defined everything. After a grinding and inconsistent summer, Pittsburgh caught fire down the stretch, going 15-9 to finish at 82-80. Lowe's 33rd home run on September 19 gave the Pirates a lead they would not relinquish, and Flores Jr. followed the next day with his tenth of the year. The season ended not with a collapse but with a surge, and at 82-80 the Pirates find themselves on the edge of something — a team that learned hard lessons early, absorbed them slowly, and arrived in late September playing their best baseball of the year.",
+  "narrative": "The 2026 Pittsburgh Pirates opened the year with cautious optimism, and the early going did little to settle nerves. A Luis Robert Jr. three-run blast on Opening Day set an ominous tone, and a brutal stretch against the Cubs in mid-April — featuring blown leads and a Bregman single that killed a close game — left the Pirates at 16-16 through April, a competitive but unspectacular start. The bullpen showed early cracks, and the lineup's inability to come through in big moments, highlighted by a Nick Yorke double-play ball that extinguished a rally, suggested this team would have to grind for everything it got.\n\nMay brought a genuine lift. Bryan Reynolds delivered the single most electrifying moment of the season on May 29, a go-ahead two-run homer worth over 0.80 WPA, and Spencer Horwitz's clutch double earlier in the month signaled that the offense was waking up. The Pirates went 16-12 in May, their best month of the year, riding timely hitting to build a cushion. June turned complicated — Henry Davis's grand slam provided a thrilling high, but Gregory Soto continued to be a liability, surrendering a three-run homer to Eugenio Suárez in the final week that cost Pittsburgh dearly — and the team finished June at 11-15, erasing much of the goodwill from May's surge.\n\nJuly and August were defined by a grinding fight to stay relevant. Esmerlyn Valdez's grand slam and a sparkling defensive double play by Soto — ending a threat at the plate — gave the Pirates just enough to keep pace, while Brandon Lowe's back-to-back homers on August 19 with Rafael Flores Jr. provided one of the summer's most energizing sequences. Still, the bullpen kept finding new ways to surrender games, and the Pirates limped through both months under .500, requiring a strong finish to salvage the year.\n\nSeptember became a story of resilience. Going 15-9 in the final month, Pittsburgh leaned heavily on Lowe, whose 33rd homer on September 19 and a Flores Jr. blast the next day helped fuel a late run that pushed the club to 82-80 on the season. Whether that record is enough to keep the Pirates' postseason hopes alive remains to be seen as the final days of the regular season play out.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Rocky Launch",
-      "description": "A difficult Opening Series and a bumpy April leave Pittsburgh fighting to stay above .500.",
+      "title": "Rocky Footing",
+      "description": "A difficult opening stretch exposes early bullpen and clutch-hitting concerns as Pittsburgh battles to stay at .500.",
       "startClipIndex": 0,
       "endClipIndex": 7,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "Sparks and Stumbles",
-      "description": "May brings flashes of brilliance led by Reynolds and Davis, but the bullpen repeatedly erases hard-won leads.",
+      "title": "Reynolds Ignites a Surge",
+      "description": "Bryan Reynolds's massive home run anchors Pittsburgh's best month, with the Pirates going 16-12 in May to build real momentum.",
       "startClipIndex": 8,
-      "endClipIndex": 12,
-      "tone": "turning_point"
+      "endClipIndex": 11,
+      "tone": "triumph"
     },
     {
       "id": "ch3",
-      "title": "June Collapse",
-      "description": "The worst month of the season sees the bullpen implode repeatedly, highlighted by Soto's crushing three-run homer surrendered late in June.",
-      "startClipIndex": 13,
-      "endClipIndex": 19,
-      "tone": "struggle"
+      "title": "Highs and Lows of Summer",
+      "description": "A Davis grand slam and promising moments are offset by recurring bullpen disasters, as June ends with the Pirates sliding back under .500.",
+      "startClipIndex": 12,
+      "endClipIndex": 20,
+      "tone": "turning_point"
     },
     {
       "id": "ch4",
-      "title": "Grinding Through",
-      "description": "A steady July and August keeps Pittsburgh afloat, fueled by Valdez's grand slam, Lowe's power surge, and Cruz's clutch home run.",
-      "startClipIndex": 20,
+      "title": "Grinding Through August",
+      "description": "Lowe and Flores Jr. provide back-to-back power in mid-August, giving the Pirates just enough offense to stay in the race despite a losing record over the two-month stretch.",
+      "startClipIndex": 21,
       "endClipIndex": 28,
       "tone": "clutch"
     },
     {
       "id": "ch5",
-      "title": "September Surge",
-      "description": "The Pirates catch fire down the stretch with a 15-9 September, Lowe reaching 33 home runs and Flores Jr. delivering key blasts to close the year strong.",
+      "title": "September Push",
+      "description": "A 15-9 September fueled by Brandon Lowe's 33rd homer and a Rafael Flores Jr. blast brings the Pirates to 82-80 and keeps their postseason hopes alive.",
       "startClipIndex": 29,
       "endClipIndex": 33,
       "tone": "triumph"
@@ -734,7 +734,7 @@
       "title": "Home Run — Rafael Flores Jr.",
       "description": "Rafael Flores Jr. homers (10) on a fly ball to left field. Ronny Simon scores.",
       "playId": "77a7f1f6-e8fd-3503-8ea4-7d41c500b3d5",
-      "videoUrl": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-09/20/49898799-b1d60060-f635c62a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "videoUrl": "https://sporty-clips.mlb.com/OHlibDJfWGw0TUFRPT1fQVFZQVV3SUZBQVFBWFZwVUFnQUhCQVpWQUZsUUFsVUFCUUVCQVZBQUFRTUhBMVpU.mp4",
       "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/ukptgvekxresn4zz0ynj.jpg",
       "date": "2026-09-20",
       "gamePk": 823329,
@@ -785,5 +785,5 @@
     "division": "NL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-10T21:40:01.794Z"
+  "generatedAt": "2026-10-12T20:28:36.609Z"
 }

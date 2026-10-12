@@ -1,52 +1,52 @@
 {
   "teamId": 118,
   "year": 2026,
-  "narrative": "The 2026 Kansas City Royals entered the season with familiar hopes and ran headlong into a brutal April that set the tone for much of what followed. Going 10-17 in the season's first full month, the club found itself consistently on the wrong end of high-leverage moments, with the bullpen — particularly Lucas Erceg — serving up damage in critical situations and the offense sputtering against tough opponents. A late April surge, powered by Salvador Perez's three-run blast and Lane Thomas's walk-off-style three-run homer, offered brief glimpses of what this lineup could do when things clicked.\n\nMay and early June brought more of the same choppy play, as the Royals went a combined 23-32 across those two months. Bobby Witt Jr. remained the offensive engine, delivering clutch knocks when the team needed them most, and Jac Caglianone flashed the kind of power that justified the excitement around him. But the bullpen continued to bleed runs in critical spots, and the run differential — giving up 120 more runs than they scored — told the real story of a team that simply could not sustain leads or mount consistent rallies.\n\nJuly proved to be the season's nadir in terms of dramatic losses. The Royals went 11-14, but the way those losses arrived was particularly damaging to morale — Alex Lange surrendered back-to-back late-game home runs, John Schreiber gave up a three-run blast, and Matt Strahm allowed a Kody Clemens grand slam that stands as the single most damaging moment of the entire season. Yet even in those dark stretches, Michael Massey and Carter Jensen provided flickers of life, and the team refused to completely fold.\n\nAugust brought the season's brightest stretch, a surprising 16-11 month that represented the Royals' best baseball of the year. Tyler Tolbert and Bobby Witt Jr. delivered back-to-back clutch hits in mid-August, and the offense finally started to resemble the group Kansas City hoped it would be. September, however, has seen the club stumble back to earth at 7-17, with the bullpen again faltering and the team unable to recapture August's momentum. Carter Jensen's 27th home run and Vinnie Pasquantino's contributions late in the month have given fans something to appreciate even as the season winds toward its conclusion.",
+  "narrative": "The 2026 Kansas City Royals entered the season with optimism built around a core of exciting young talent, but April quickly revealed the steep climb ahead. The month was a rollercoaster of Salvador Perez's vintage power, Lane Thomas's breakout moments, and Bobby Witt Jr.'s continued brilliance — yet the Royals stumbled to a 10-17 record as the bullpen, led by the beleaguered Lucas Erceg, repeatedly squandered leads in high-leverage moments. Detroit came to town and torched them twice in a brutal mid-April series, setting the tone for a brutal spring.\n\nMay and early June brought little relief, as Kansas City limped along at a combined 23-32 pace over those two months. The rotation and bullpen continued to bleed runs, with opponents finding holes whenever the Royals threatened to string wins together. Flashes of brilliance from Jac Caglianone and Kyle Isbel were overwhelmed by costly collapses, and the team's run differential told a grim story. The lone bright spot was a competitive June — the team played 13-14, hinting that when pitching held, this lineup could compete.\n\nJuly was the season's darkest chapter. Alex Lange proved unreliable in critical spots, Matt Strahm surrendered a devastating grand slam to Kody Clemens in Minnesota, and the bullpen as a whole turned winnable games into losses. The Royals went 11-14 in July, but it felt worse — the most damaging moments of the entire season clustered into those four weeks. Then August arrived and something clicked. The team posted a 16-11 record, their best month by far, fueled by clutch hits from Tyler Tolbert, Bobby Witt Jr., and Michael Massey. For a stretch, Kauffman Stadium buzzed with possibility.\n\nSeptember, however, erased those gains. The Royals went 7-17 to close the year, finishing 69-93 as the pitching staff gave way and opposing bats — including Brandon Lowe's 33rd home run — piled on. Carter Jensen's late-September blast provided a glimpse of the future, and Vinnie Pasquantino's 14th home run offered another reason for optimism heading into the offseason. The 2026 Royals were a team defined by frustrating inconsistency — capable of stringing together brilliant August wins, but ultimately undone by a bullpen that could not protect leads when it mattered most.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Sputtering Out of the Gate",
-      "description": "A brutal April sees the bullpen implode in high-leverage moments while the offense struggles to keep pace.",
+      "title": "Perez Power and Early Chaos",
+      "description": "Salvador Perez's three-run blast ignites hope, but the bullpen immediately implodes in a wild mid-April series that sets a chaotic tone for the spring.",
       "startClipIndex": 0,
       "endClipIndex": 6,
-      "tone": "struggle"
+      "tone": "turning_point"
     },
     {
       "id": "ch2",
-      "title": "Sparks in the Dark",
-      "description": "Late April home runs from Lane Thomas and Bobby Witt Jr. provide rare moments of joy amid a losing stretch.",
+      "title": "Witt and the Boys Fight Back",
+      "description": "Bobby Witt Jr. and Jac Caglianone provide late-April fireworks, including Lane Thomas's go-ahead three-run blast, as the Royals scratch for every win they can find.",
       "startClipIndex": 7,
-      "endClipIndex": 11,
+      "endClipIndex": 9,
       "tone": "clutch"
     },
     {
       "id": "ch3",
-      "title": "Treading Water",
-      "description": "A .500 June masks ongoing inconsistency as the Royals fight to stay relevant while the bullpen continues to struggle.",
-      "startClipIndex": 12,
+      "title": "Grinding Through May and June",
+      "description": "The Royals muddle through a difficult stretch, unable to sustain momentum as bullpen meltdowns and inconsistent offense keep them buried in the standings.",
+      "startClipIndex": 10,
       "endClipIndex": 15,
-      "tone": "turning_point"
+      "tone": "struggle"
     },
     {
       "id": "ch4",
-      "title": "July Heartbreaks",
-      "description": "The season hits its lowest point as a string of devastating bullpen meltdowns — capped by a grand slam surrender — erases any playoff hope.",
+      "title": "July's Dark Turn",
+      "description": "Alex Lange's repeated implosions and Matt Strahm's grand slam disaster in Minnesota make July the single most damaging stretch of the Royals' season.",
       "startClipIndex": 16,
-      "endClipIndex": 23,
+      "endClipIndex": 24,
       "tone": "struggle"
     },
     {
       "id": "ch5",
       "title": "August Resurgence",
-      "description": "The Royals reel off their best month of the season at 16-11, with clutch hits from Tolbert and Witt fueling a surprising late-summer run.",
-      "startClipIndex": 24,
+      "description": "The Royals post their best month at 16-11, with Tyler Tolbert and Bobby Witt Jr. delivering key clutch hits that briefly make Kansas City believers again.",
+      "startClipIndex": 25,
       "endClipIndex": 26,
       "tone": "triumph"
     },
     {
       "id": "ch6",
-      "title": "Fading in September",
-      "description": "The season closes on a sour note as the bullpen falters again, though Jensen and Pasquantino offer bright spots in an otherwise difficult finish.",
+      "title": "September Fade",
+      "description": "A 7-17 September collapse closes the book on the Royals' 2026 season, though Carter Jensen's late power surge and Vinnie Pasquantino's home run offer reasons to look forward.",
       "startClipIndex": 27,
       "endClipIndex": 31,
       "tone": "struggle"
@@ -716,7 +716,8 @@
       "wpa": -0.448,
       "xwoba": 2.036,
       "eventType": "home_run",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/OHlibDJfWGw0TUFRPT1fQVFZQVV3SUZBQVFBWFZwVUFnQUhCQVpWQUZsUUFsVUFCUUVCQVZBQUFRTUhBMVpU.mp4"
     },
     {
       "id": "824058-78-8",
@@ -753,5 +754,5 @@
     "division": "AL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-10T21:21:19.693Z"
+  "generatedAt": "2026-10-12T20:09:45.157Z"
 }

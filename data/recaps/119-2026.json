@@ -1,47 +1,55 @@
 {
   "teamId": 119,
   "year": 2026,
-  "narrative": "The 2026 Los Angeles Dodgers announced themselves immediately, with catcher Will Smith's two-run blast on Opening Day setting the tone for a team that would finish with 100 wins. March and April were mostly business as usual for this star-studded roster — Kyle Tucker, the major offseason acquisition, announced himself with a go-ahead single in a dramatic April 27th comeback, and Max Muncy provided pop throughout an early stretch that had the Dodgers sitting comfortably above .500 as summer approached.\n\nThe summer months brought the Dodgers to their apex and then briefly tested their resolve. June was dominant at 18-9, headlined by Dalton Rushing's walk-off single and Teoscar Hernández's Independence Day grand slam. But August proved turbulent — Edwin Díaz surrendered a crushing home run on August 7th, then served up back-to-back extra-base hits to Arizona the following night, and the bullpen showed cracks as the Dodgers stumbled to a 13-14 record in the dog days. Yet even in a losing month, Max Muncy provided a three-run blast on August 13th, and Tommy Edman chipped in clutch singles to remind the league this roster never truly goes quietly.\n\nSeptember was the Dodgers' best month of the year. Hernández's two-run double on September 3rd ignited a stretch that saw Los Angeles go 18-7 down the stretch, with Mookie Betts blasting a three-run homer and Tommy Edman adding a clutch three-run shot to put the division away in style. The team finished 100-62, scoring 801 runs and posting a 3.55 ERA — a complete team in every sense.\n\nNow the Dodgers are alive and dangerous in the postseason. They've already dispatched their NLDS opponents, with Teoscar Hernández homering in Game 1, Kyle Tucker adding his own shot, Freddie Freeman going deep in Game 2, and Enrique Hernández hitting a crucial home run in Game 3. The series continues, and with Andy Pages delivering a two-run single to push runs across in Game 4, the Dodgers are making noise in October once again. The full story is still being written.",
+  "narrative": "The 2026 Los Angeles Dodgers announced themselves early and never looked back, finishing the regular season at 100-62 with a run differential of plus-201 that ranked among the best in baseball. From Will Smith's opening-week two-run blast to a dominant September surge, this was a team built to peak in October — and for the most part, they delivered. The Dodgers led the NL West wire-to-wire, powered by a balanced attack that produced 204 home runs, an ERA of 3.55, and contributions up and down a roster that seemed to have an answer for every challenge.\n\nThe early months established the tone. A 4-1 March gave way to a productive April and a 18-10 May, with clutch hits from Kyle Tucker, Shohei Ohtani, and Max Muncy fueling the charge. The bullpen, particularly Tanner Scott, had its wobbles — surrendering key home runs in late May and early June — but the offense kept responding, none more dramatically than Dalton Rushing's two-RBI single on June 19th that swung a critical game by nearly 0.83 in win probability, one of the biggest individual moments of the entire season.\n\nAugust brought the only real turbulence of the year, as the Dodgers stumbled to a 13-14 mark. Edwin Díaz was touched for a pair of brutal outings in back-to-back games, and the bullpen collectively struggled. Yet even in the lean stretch, the offense kept manufacturing moments — Muncy's three-run homer on August 13th, Tommy Edman's clutch single on August 21st — that kept the team from any prolonged freefall. September was a revelation: an 18-7 record, capped by Teoscar Hernández, Mookie Betts, and Tommy Edman all delivering thunderous home runs that seemed to signal a team rounding into form at exactly the right moment.\n\nThe postseason has been a different, tighter beast. The Dodgers dispatched their Division Series opponent in convincing fashion, with contributions across the lineup — Tucker, Freeman, Enrique Hernández, and Andy Pages all delivering big moments. Now, down 0-1 in the NLCS, Los Angeles faces its first real test of October resolve. The first clip of the championship series ends with Mookie Betts flying out to center field, a small but symbolic reminder that nothing in October comes easy. Whether this club can flip the series and march toward a World Series title remains to be written.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Opening Statements",
-      "description": "The Dodgers come out swinging in March and April, with Will Smith, Kyle Tucker, and Max Muncy establishing the team's offensive identity early.",
+      "title": "Fast Out of the Gate",
+      "description": "Will Smith and Max Muncy set the tone as the Dodgers race to a strong start through April.",
       "startClipIndex": 0,
-      "endClipIndex": 7,
+      "endClipIndex": 1,
       "tone": "triumph"
     },
     {
       "id": "ch2",
-      "title": "June Surge",
-      "description": "Los Angeles catches fire with an 18-9 June, fueled by a stunning Dalton Rushing single and Teoscar Hernández's grand slam around the Fourth of July.",
-      "startClipIndex": 8,
+      "title": "Tucker's Line Drive and a Team That Answers",
+      "description": "A wild late-April game captures the Dodgers' resilience, with Kyle Tucker's clutch single erasing a three-run deficit.",
+      "startClipIndex": 2,
+      "endClipIndex": 5,
+      "tone": "clutch"
+    },
+    {
+      "id": "ch3",
+      "title": "Winning Through the Noise",
+      "description": "From late May through July, the Dodgers keep winning despite bullpen hiccups and a grand slam by Hernández that electrifies the lineup.",
+      "startClipIndex": 6,
       "endClipIndex": 14,
       "tone": "triumph"
     },
     {
-      "id": "ch3",
-      "title": "August Turbulence",
-      "description": "The Dodgers hit their roughest patch as the bullpen — especially Edwin Díaz — absorbs punishing blows, leading to a 13-14 August despite flashes of offensive brilliance.",
+      "id": "ch4",
+      "title": "August Storm",
+      "description": "A rare losing month tests the roster as Edwin Díaz stumbles and the bullpen falters, but big offensive moments keep the Dodgers afloat.",
       "startClipIndex": 15,
       "endClipIndex": 24,
       "tone": "struggle"
     },
     {
-      "id": "ch4",
-      "title": "September Statement",
-      "description": "The Dodgers storm back with an 18-7 September, with Hernández, Edman, and Betts delivering big hits to close out the regular season in dominant fashion.",
+      "id": "ch5",
+      "title": "September Surge",
+      "description": "The Dodgers catch fire at 18-7 in September, with Hernández, Betts, and Edman launching home runs that announce a team peaking at the right time.",
       "startClipIndex": 25,
       "endClipIndex": 28,
       "tone": "triumph"
     },
     {
-      "id": "ch5",
-      "title": "October Rising",
-      "description": "The Dodgers are rolling through the postseason, winning the NLDS behind home runs from Hernández, Tucker, Freeman, and Enrique Hernández as they push deeper into October.",
+      "id": "ch6",
+      "title": "October or Bust",
+      "description": "A dominant NLDS win sets the stage for an NLCS showdown, but a Game 1 loss leaves the Dodgers fighting to rewrite their October story.",
       "startClipIndex": 29,
       "endClipIndex": 36,
-      "tone": "clutch"
+      "tone": "turning_point"
     }
   ],
   "clips": [
@@ -734,27 +742,6 @@
       "gameType": "D"
     },
     {
-      "id": "849823-6-1",
-      "title": "Single — Blake Snell",
-      "description": "Mauricio Dubón singles on a ground ball to shortstop Mookie Betts. Ronald Acuña Jr. scores. Matt Olson to 3rd. Ozzie Albies to 2nd.",
-      "playId": "bb8271cc-3893-303b-9ee7-2f27979aeb01",
-      "date": "2026-10-04",
-      "gamePk": 849823,
-      "atBatNumber": 6,
-      "inning": 1,
-      "isTopInning": true,
-      "batter": "Blake Snell",
-      "pitcher": "",
-      "exitVelocity": 83.7,
-      "launchAngle": -1,
-      "distance": 44,
-      "wpa": -0.115,
-      "xwoba": 0.19,
-      "eventType": "single",
-      "gameType": "D",
-      "videoUrl": "https://sporty-clips.mlb.com/Uk9SUmVfV0ZRVkV3dEdEUT09X1ZGTlpWbE1GQlZFQUMxb0xWUUFIQVFVRUFGaFFCbFlBQUFNSEJ3b0NDRklBVWdKWA==.mp4"
-    },
-    {
       "id": "849823-33-4",
       "title": "Home Run — Freddie Freeman",
       "description": "Freddie Freeman homers (1) on a fly ball to right field.",
@@ -840,6 +827,27 @@
       "xwoba": 0.524,
       "eventType": "single",
       "gameType": "D"
+    },
+    {
+      "id": "849809-70-9",
+      "title": "Field Out — Mookie Betts",
+      "description": "Mookie Betts flies out to center fielder Garrett Mitchell.",
+      "playId": "9fd0c03c-26ea-3430-822d-37f611690384",
+      "date": "2026-10-11",
+      "gamePk": 849809,
+      "atBatNumber": 70,
+      "inning": 9,
+      "isTopInning": true,
+      "batter": "Mookie Betts",
+      "pitcher": "",
+      "exitVelocity": 97.5,
+      "launchAngle": 27,
+      "distance": 374,
+      "wpa": -0.155,
+      "xwoba": 0.494,
+      "eventType": "field_out",
+      "gameType": "L",
+      "videoUrl": "https://sporty-clips.mlb.com/SzRaZWdfV0ZRVkV3dEdEUT09X0QxY0ZWQWNFVlZFQUNsUlhCd0FIQlFWV0FGa0hVUVVBQVZKVEJnSUVCd3BWQXdwUw==.mp4"
     }
   ],
   "seasonStats": {
@@ -851,9 +859,9 @@
     "teamEra": 3.55,
     "teamAvg": 0.257,
     "teamOps": 0.762,
-    "playoffResult": "Won the NLDS — postseason in progress",
+    "playoffResult": "Postseason in progress — NLCS, series 0-1",
     "division": "NL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-10T21:44:54.019Z"
+  "generatedAt": "2026-10-12T20:33:23.895Z"
 }

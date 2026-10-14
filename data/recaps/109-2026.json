@@ -1,12 +1,12 @@
 {
   "teamId": 109,
   "year": 2026,
-  "narrative": "The 2026 Arizona Diamondbacks opened their season with a gut punch, dropping three of their first five games in March as opposing bats torched their bullpen right out of the gate. Will Smith's two-run blast on Opening Weekend and Jose Fernandez's three-run shot on the final day of March signaled early that Arizona's pitching staff would need to fight for every win. Still, the team steadied itself in April, finishing 14-11 and showing the resilience that would define their character all summer long.\n\nMay and June brought the season's most turbulent stretch. Ketel Marte — one of the Diamondbacks' own cornerstones — delivered the single most damaging moment of the year on May 19th, launching a three-run homer that swung the game decisively against Arizona. The bullpen, led by a struggling Paul Sewald, endured back-to-back nightmares in mid-May, and a June slump pushed the team to 12-15 for the month. At their lowest point, Arizona looked like a team that might squander the promise of a competitive roster.\n\nJuly changed everything. The Diamondbacks went 15-10, their best month of the season, fueled by timely pitching and a lineup that finally started stringing together contributions. August was a grind — a 15-14 record that masked some genuinely harrowing moments, including Ryan Waldschmidt's back-to-back home runs allowed on August 7th and 25th that cost Arizona crucial games. Yet the team kept finding ways to survive. September arrived with the club needing a strong finish, and they delivered a 13-10 record to close out the year, capped by a pair of brutal late-game home runs allowed but steadied by Taylor Clarke's clutch moment on September 15th.\n\nWhen the final out of the regular season was recorded, Arizona stood at 86-76 — a winning team that had clawed through adversity at every turn. The Diamondbacks scored 739 runs against 730 allowed, a reminder that this was never a dominant club but always a dangerous one. With October potentially on the horizon, the story of this team's 2026 season is far from finished.",
+  "narrative": "The 2026 Arizona Diamondbacks opened the year on shaky footing, dropping three of their first five games in March as opposing bats torched the bullpen before the roster had even found its footing. April steadied the ship — a 14-11 month built on gritty defense and a few clutch bullpen outings — but the team was never comfortable, always one bad inning away from a stumble. The margin between a winning and losing month felt razor-thin from the very first week.\n\nMay and June proved to be the season's real stress test. A pair of damaging losses in mid-May, both featuring late-inning breakdowns from relievers Juan Morillo and Paul Sewald, sent Arizona into a 15-13 May that felt worse than it looked. June was genuinely rough at 12-15, the team's only month below .500, as the offense sputtered in crucial moments and the bullpen surrendered leads it had no business giving back. Ketel Marte's power, already on display with double-digit home runs, served as a reminder that this lineup had teeth — but consistency remained elusive.\n\nJuly was the turning point. A 15-10 month, the team's best of the year, saw Arizona string together wins with renewed defensive purpose and timely hitting. Paul Sewald's moments of brilliance outweighed his rough outings, and the offense showed it could play from ahead rather than always chasing. August was a grind at 15-14, featuring some of the season's most gut-wrenching swings — a pair of damaging Ryan Waldschmidt home runs allowed in key spots, offset by moments of defensive resilience — but the team held together when it mattered.\n\nSeptember brought the Diamondbacks home at 13-10, a strong close that pushed the final record to 86-76. It was not a season without scars — too many blown leads, too many crushing opponent home runs — but Arizona battled through the inconsistency to finish above .500 and on the right side of the standings ledger. With 739 runs scored and a lineup capable of erupting on any given night, this is a team that has shown it can compete, and the final chapter of 2026 remains unwritten.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Rocky Beginnings",
-      "description": "The Diamondbacks stumble out of the gate as opposing hitters punish the bullpen in March and early April.",
+      "title": "Rough Beginnings",
+      "description": "Arizona stumbles out of the gate in March and early April, with opponent home runs exposing a vulnerable bullpen right from the start.",
       "startClipIndex": 0,
       "endClipIndex": 1,
       "tone": "struggle"
@@ -14,34 +14,42 @@
     {
       "id": "ch2",
       "title": "Finding Footing",
-      "description": "Arizona steadies itself through mid-April, with key defensive plays helping the team build a winning April record.",
+      "description": "A winning April is built on defensive gems and clutch relief work, giving the Diamondbacks reason for cautious optimism.",
       "startClipIndex": 2,
       "endClipIndex": 5,
       "tone": "turning_point"
     },
     {
       "id": "ch3",
-      "title": "May–June Turbulence",
-      "description": "A brutal two-month stretch sees the bullpen crumble repeatedly and the offense falter, pushing Arizona below expectations.",
+      "title": "Midsummer Grind",
+      "description": "May and June test Arizona's resolve as bullpen meltdowns and a losing June stretch push the team's character to its limits.",
       "startClipIndex": 6,
       "endClipIndex": 13,
       "tone": "struggle"
     },
     {
       "id": "ch4",
-      "title": "The July Surge",
-      "description": "The Diamondbacks catch fire in July, posting their best month of the season and reestablishing themselves as legitimate contenders.",
+      "title": "July Surge",
+      "description": "The Diamondbacks rattle off a 15-10 July, their best month of the season, with timely pitching and an offense that finally plays from ahead.",
       "startClipIndex": 14,
       "endClipIndex": 17,
       "tone": "triumph"
     },
     {
       "id": "ch5",
-      "title": "Winning Ugly",
-      "description": "August and September test Arizona's resolve with agonizing late-game losses, but the team grinds out enough wins to finish the year on solid footing.",
+      "title": "Winning Ugly in August",
+      "description": "A brutal series of high-leverage home runs allowed is offset by clutch defensive plays as Arizona grinds to a 15-14 August and keeps pace.",
       "startClipIndex": 18,
-      "endClipIndex": 27,
+      "endClipIndex": 22,
       "tone": "clutch"
+    },
+    {
+      "id": "ch6",
+      "title": "Closing Strong",
+      "description": "September's 13-10 finish, capped by a Nolan Arenado grand slam and a Taylor Clarke relief gem, carries Arizona to an 86-76 record and a compelling final chapter still in progress.",
+      "startClipIndex": 23,
+      "endClipIndex": 27,
+      "tone": "triumph"
     }
   ],
   "clips": [
@@ -349,6 +357,8 @@
       "title": "Home Run — Corbin Carroll",
       "description": "Corbin Carroll homers (14) on a fly ball to right field. Geraldo Perdomo scores.",
       "playId": "49c3a69e-e208-3c03-b1de-57358cc25467",
+      "videoUrl": "https://sporty-clips.mlb.com/WnhueURfWGw0TUFRPT1fQWdnQ1Z3VUNYMWNBWFZBQ1hnQUhVZ1pWQUFNRUJ3UUFCMUlHQlF0V1VnRlFCQVJS.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/dyd1rghmikgrvaxxxzpe.jpg",
       "date": "2026-07-17",
       "gamePk": 825060,
       "atBatNumber": 64,
@@ -362,8 +372,7 @@
       "wpa": -0.363,
       "xwoba": 1.415,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/WnhueURfWGw0TUFRPT1fQWdnQ1Z3VUNYMWNBWFZBQ1hnQUhVZ1pWQUFNRUJ3UUFCMUlHQlF0V1VnRlFCQVJS.mp4"
+      "gameType": "R"
     },
     {
       "id": "825057-75-8",
@@ -434,6 +443,8 @@
       "title": "Home Run — Ryan Waldschmidt",
       "description": "Ryan Waldschmidt homers (2) on a fly ball to center field. Jorge Barrosa scores.",
       "playId": "4416c1d8-6e13-32a1-bb93-7a4587fc10f0",
+      "videoUrl": "https://sporty-clips.mlb.com/NHl6T09fWGw0TUFRPT1fQWdWUVVnY0ZBZ29BRGdjRFZRQUhBMWRYQUFOWFdsSUFCUVFCQlFzQ1YxQlVBRlJX.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/kqd1gl7yebatqi9yfjkd.jpg",
       "date": "2026-08-07",
       "gamePk": 825051,
       "atBatNumber": 72,
@@ -447,14 +458,15 @@
       "wpa": -0.731,
       "xwoba": 1.588,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/NHl6T09fWGw0TUFRPT1fQWdWUVVnY0ZBZ29BRGdjRFZRQUhBMWRYQUFOWFdsSUFCUVFCQlFzQ1YxQlVBRlJX.mp4"
+      "gameType": "R"
     },
     {
       "id": "825049-70-9",
       "title": "Triple — Geraldo Perdomo",
       "description": "Geraldo Perdomo triples (6) on a line drive to right fielder Kyle Tucker.",
       "playId": "a08dfb7d-1acd-3776-a6d8-0f5e80cdb0c6",
+      "videoUrl": "https://sporty-clips.mlb.com/WERxZDJfWGw0TUFRPT1fVndGWkFBSldVVllBQ1FOUkFnQUhCZ0ZRQUFBREIxa0FBZ01BVlFzRlVsY0hBRkZR.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/lj2knweacrun8cer0qsz.jpg",
       "date": "2026-08-08",
       "gamePk": 825049,
       "atBatNumber": 70,
@@ -468,14 +480,15 @@
       "wpa": -0.37,
       "xwoba": 0.288,
       "eventType": "triple",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/WERxZDJfWGw0TUFRPT1fVndGWkFBSldVVllBQ1FOUkFnQUhCZ0ZRQUFBREIxa0FBZ01BVlFzRlVsY0hBRkZR.mp4"
+      "gameType": "R"
     },
     {
       "id": "825049-71-9",
       "title": "Triple — Corbin Carroll",
       "description": "Corbin Carroll triples (13) on a line drive to left fielder Teoscar Hernández. Geraldo Perdomo scores.",
       "playId": "13f4b8d1-39f4-3499-b696-8a3311899fde",
+      "videoUrl": "https://sporty-clips.mlb.com/WERxZDJfWGw0TUFRPT1fQndJSFVBWU1BZ01BQzF0VVVnQUhCUTlmQUFNRFdsY0FDZ1FHQXdJRUNRcGNWbFlE.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/raghzjckagct5mvgfvhp.jpg",
       "date": "2026-08-08",
       "gamePk": 825049,
       "atBatNumber": 71,
@@ -489,8 +502,7 @@
       "wpa": -0.378,
       "xwoba": 0.666,
       "eventType": "triple",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/WERxZDJfWGw0TUFRPT1fQndJSFVBWU1BZ01BQzF0VVVnQUhCUTlmQUFNRFdsY0FDZ1FHQXdJRUNRcGNWbFlE.mp4"
+      "gameType": "R"
     },
     {
       "id": "825049-83-10",
@@ -604,6 +616,8 @@
       "title": "Home Run — Pavin Smith",
       "description": "Pavin Smith homers (3) on a fly ball to right center field. Ildemaro Vargas scores.",
       "playId": "85d8d143-969c-3155-9a7d-ff2dd35a727b",
+      "videoUrl": "https://sporty-clips.mlb.com/OHlaUmJfWGw0TUFRPT1fRGdRRlhBQUZVZ0VBQVZRTEJRQUhBQU5UQUZoVVZBVUFWQU1IVkZjR0JGSlNBZ1VF.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/qtnkv1balmcvhtca3thc.jpg",
       "date": "2026-09-19",
       "gamePk": 825029,
       "atBatNumber": 72,
@@ -617,8 +631,7 @@
       "wpa": -0.376,
       "xwoba": 0.939,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/OHlaUmJfWGw0TUFRPT1fRGdRRlhBQUZVZ0VBQVZRTEJRQUhBQU5UQUZoVVZBVUFWQU1IVkZjR0JGSlNBZ1VF.mp4"
+      "gameType": "R"
     },
     {
       "id": "825028-46-5",
@@ -655,5 +668,5 @@
     "division": "NL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-12T20:31:06.062Z"
+  "generatedAt": "2026-10-14T16:00:47.266Z"
 }

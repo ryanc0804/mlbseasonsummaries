@@ -1,47 +1,55 @@
 {
   "teamId": 117,
   "year": 2026,
-  "narrative": "The 2026 Houston Astros were a team defined by contradictions — talented enough to reach October, fragile enough to collapse once they got there. They opened the year with promise in the short March slate, but April turned into a nightmare, an 8-18 month that nearly buried the season before it began. Bullpen implosions, untimely double plays, and opponents capitalizing on every mistake made those early weeks feel like a slow-motion unraveling. Carlos Correa's clutch single in the first week flashed what Houston could be, but it was quickly swallowed by a torrent of losses.\n\nThe turning point came in May and accelerated through June. Cam Smith emerged as a revelation — his bases-clearing triple in early June and a string of clutch moments signaled that the Astros had found a new heartbeat. Joey Loperfido's three-run homer on June 23rd was the kind of swing that shifts a season's momentum, and Yordan Alvarez's grand slam on the final day of June punctuated what became the team's best stretch of baseball. The veterans answered too: Jose Altuve's three-run home run in mid-June reminded everyone that the old guard still had juice. Houston went 16-11 in June, transforming a sinking ship into a legitimate contender.\n\nJuly and August were a grind. The Astros won more than they lost but never pulled away, surviving rather than thriving. Christian Walker's walk-off three-run homer and Daulton Varsho's clutch single in mid-August were the kinds of plays that kept Houston afloat in a crowded wild card race. Then in September, Bryan Abreu's misfortune against Ronald Acuña Jr. — a grand slam that crushed what should have been a comfortable lead — encapsulated the team's persistent vulnerability. They finished 81-81, limping into the Wild Card round on fumes rather than momentum.\n\nThe postseason was brief and brutal. Houston's relievers, particularly Bryan King and Hunter Brown, couldn't hold leads across back-to-back Wild Card games. Cam Smith homered, Altuve delivered in the clutch as he always has, but the offense sputtered when it mattered most — Alvarez lined out with runners on, Altuve flied out in a critical spot — and a Chase Meidroth three-run homer off Abreu delivered the killing blow. The Astros' dynasty era had long faded, and this 81-81 team, for all its fight, couldn't recapture October magic.",
+  "narrative": "The 2026 Houston Astros were a team perpetually searching for themselves, never quite collapsing but never quite soaring — a .500 club held together by flashes of individual brilliance and tested by a pitching staff that too often came undone at the worst moments. They opened the year with promise in a short March slate, then stumbled badly through April, going 8-18 in a month that threatened to bury the season before it began. Costly bullpen meltdowns, defensive miscues, and untimely double plays characterized those dark early weeks, and the Astros found themselves staring up at the rest of the AL West wondering if the dynasty era was finally and truly over.\n\nWhat followed was one of the more remarkable quiet recoveries in recent Houston memory. From May through the end of June, the Astros went 31-25, fueled by a deep rotation of clutch moments — Cam Smith emerging as a genuine impact bat, Jose Altuve reminding everyone he still had thunder in his swing, and Yordan Alvarez punctuating the run with a walk-off grand slam that felt like a declaration. The June surge in particular, going 16-11, was the heartbeat month of the season, generating the highest-leverage positive plays on the roster and pulling Houston back into playoff contention.\n\nThe summer grind of July and August was exactly that — a grind. The Astros went a combined 27-23 over those two months, winning just enough to stay in the race but never pulling away. August brought another emotional roller coaster, with a stunning back-to-back comeback on August 14th — Daulton Varsho's walk-off single followed by Christian Walker's three-run blast — keeping the Astros' wild card hopes alive. But September was where the wheels wobbled again: an 11-13 month included Bryan Abreu surrendering a Ronald Acuña Jr. grand slam that bled win probability in gut-punch fashion, a sign that the bullpen remained Houston's Achilles heel.\n\nWhen the Wild Card arrived, the Astros punched their ticket only to find themselves in a three-game series against a scrappy opponent that refused to yield. Cam Smith and Jose Altuve homered in a desperate comeback attempt in Game 2, but the pitching staff — anchored by an undermanned Bryan King and a struggling Hunter Brown — could not hold leads or limit damage. A Chase Meidroth three-run home run off Abreu in the deciding moments of Game 2 sealed Houston's fate. The 2026 Astros finished 81-81, a .500 team that reached October but could not survive it, leaving a roster of veterans and emerging talents to wonder what might have been with just a little more consistency on the mound.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "April in Freefall",
-      "description": "An early Correa spark is quickly buried as Houston stumbles to an 8-18 April, undone by bullpen disasters and crushing defensive miscues.",
+      "title": "April Freefall",
+      "description": "After a solid March, Houston crashes through April with an 8-18 record as costly meltdowns and untimely plays pile up.",
       "startClipIndex": 0,
       "endClipIndex": 2,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "Smith, Altuve, and the June Revival",
-      "description": "Cam Smith's emergence, Altuve's veteran firepower, and Yordan's grand slam power Houston to a 16-11 June that resurrects the season.",
+      "title": "Finding Their Footing",
+      "description": "The Astros stabilize in May, grinding out a near-.500 month and beginning to flash the offensive potential that will fuel the summer.",
       "startClipIndex": 3,
+      "endClipIndex": 4,
+      "tone": "turning_point"
+    },
+    {
+      "id": "ch3",
+      "title": "June Surge",
+      "description": "Houston's best baseball of the year arrives in June, with a 16-11 record powered by clutch home runs, Smith's emergence, and Alvarez's grand slam.",
+      "startClipIndex": 5,
       "endClipIndex": 10,
       "tone": "triumph"
     },
     {
-      "id": "ch3",
-      "title": "Grinding Through Summer",
-      "description": "Houston wins more than it loses in July and August but never pulls clear, relying on clutch home runs from Walker and Smith to stay in the wild card hunt.",
+      "id": "ch4",
+      "title": "Summer Grind",
+      "description": "July and August bring winning baseball but no separation, as Houston battles to stay in wild card position with gritty late-game comebacks.",
       "startClipIndex": 11,
       "endClipIndex": 12,
-      "tone": "turning_point"
+      "tone": "clutch"
     },
     {
-      "id": "ch4",
-      "title": "September Wobbles",
-      "description": "Cam Smith's 20th home run signals individual growth, but Bryan Abreu's late-season grand slam surrender to Acuña epitomizes the team's inability to close out opponents.",
+      "id": "ch5",
+      "title": "September Wobble",
+      "description": "An 11-13 September exposes the bullpen's fragility, capped by a devastating Acuña grand slam that foreshadows October's pitching struggles.",
       "startClipIndex": 13,
       "endClipIndex": 14,
       "tone": "struggle"
     },
     {
-      "id": "ch5",
-      "title": "October Ends Too Soon",
-      "description": "The Astros fight back in the Wild Card round with postseason home runs from Smith and Altuve, but bullpen failures and untimely outs seal a swift elimination.",
+      "id": "ch6",
+      "title": "Wild Card, Wild Ending",
+      "description": "The Astros reach October but fall in the Wild Card round, as heroic homers from Smith and Altuve cannot overcome a bullpen that surrenders the decisive blow.",
       "startClipIndex": 15,
       "endClipIndex": 22,
-      "tone": "clutch"
+      "tone": "struggle"
     }
   ],
   "clips": [
@@ -50,6 +58,8 @@
       "title": "Single — Carlos Correa",
       "description": "Carlos Correa singles on a ground ball to left fielder Tyler Soderstrom. Nick Allen scores. Jose Altuve to 3rd. Carlos Correa to 2nd.",
       "playId": "476fdffe-3557-3a72-a25a-d9b7fad90a20",
+      "videoUrl": "https://sporty-clips.mlb.com/ZFhsQllfWGw0TUFRPT1fQWdaWEFnQlNBRmNBQzFjSFVRQUhVQUZVQUFBSFZnQUFWbHhYQjFWVVZRcFZVUUJX.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/xhkzifrwgjfulivfx9pa.jpg",
       "date": "2026-04-05",
       "gamePk": 825025,
       "atBatNumber": 95,
@@ -63,8 +73,7 @@
       "wpa": 0.349,
       "xwoba": 0.691,
       "eventType": "single",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/ZFhsQllfWGw0TUFRPT1fQWdaWEFnQlNBRmNBQzFjSFVRQUhVQUZVQUFBSFZnQUFWbHhYQjFWVVZRcFZVUUJX.mp4"
+      "gameType": "R"
     },
     {
       "id": "824205-78-10",
@@ -554,5 +563,5 @@
     "division": "AL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-12T20:12:11.912Z"
+  "generatedAt": "2026-10-14T15:37:50.852Z"
 }

@@ -1,47 +1,55 @@
 {
   "teamId": 146,
   "year": 2026,
-  "narrative": "The 2026 Miami Marlins opened the year with a flash of promise, riding Owen Caissie's opening-week moonshot and a handful of timely hits to a 4-1 March. But April proved a humbling experience, as the team's bullpen — Pete Fairbanks in particular — repeatedly surrendered leads at the worst moments, and the Marlins stumbled to an 11-15 record as the calendar turned to May. The early-season narrative was one of a young, talented roster still learning how to close out games.\n\nMay brought more of the same frustration at 11-18, but something quietly shifted heading into June. The Marlins caught fire in spectacular fashion, posting a franchise-best 20-6 record for the month — a dazzling turnaround fueled by contributions up and down the lineup. Javier Sanoja emerged as an offensive catalyst, Xavier Edwards continued to sting the ball, and the pitching staff found a consistency it had lacked all spring. It was the kind of month that changes a season's entire complexion.\n\nJuly and August told a more complicated story. The Marlins played near-.500 ball across both months — 10-15 in July, 13-14 in August — as relief struggles resurfaced and the lineup ran hot and cold. Pete Fairbanks continued to be a liability in high-leverage spots, and late-inning collapses against Milwaukee and Boston stung. But clutch contributions from Heriberto Hernández, Joe Mack, and others kept the Marlins in the hunt, refusing to let the season slip away entirely.\n\nSeptember has the Marlins at 11-13 and sitting at 80-82 on the year, a record that reflects the push-pull nature of their entire season. Javier Sanoja's 30th double on September 13th and Esteury Ruiz's sharp clutch double the following day hint that this team still has life in its legs. With games remaining and the standings in flux, Miami's fate is not yet written — and a roster that survived one of the wildest June runs in recent memory has every reason to believe another surge is possible.",
+  "narrative": "The 2026 Miami Marlins have been a team of wild contrasts, lurching between brilliance and frustration across a long and uneven season. They burst out of the gate in March with a 4-1 record, Owen Caissie's opening-week home run setting an electric tone, before April's brutal 11-15 stretch exposed just how thin the margins were. The bullpen — Pete Fairbanks in particular — became a recurring villain in those early stumbles, surrendering leads at the worst possible moments while the offense tried desperately to compensate.\n\nMay offered little relief, the Marlins sinking to 11-18 and threatening to make the season a lost cause before it had really begun. But something shifted quietly in the roster — Javier Sanoja emerging as a spark plug, young pieces beginning to find their footing — and it set the stage for the most remarkable month any Miami team has produced in years. June was an absolute revelation: a scorching 20-6 record that erased the early-season damage and announced the Marlins as legitimate contenders. The offense clicked, the pitching held, and the ballpark in Miami buzzed with something it hadn't felt in a long time.\n\nJuly and August told a more complicated story. The team hovered around .500, never fully collapsing but never sustaining that June magic either. Bullpen implosions continued to haunt them — a three-run blast surrendered by Fairbanks in Milwaukee, a grand slam crushed off Cade Gibson in late August — while the offense produced enough moments of genuine clutch to keep the Marlins afloat. Xavier Edwards, Heriberto Hernández, and Joe Mack chipped in timely contributions through the dog days, keeping the record respectable if not inspiring.\n\nNow in September, sitting at 80-82, the Marlins find themselves in the familiar tension of a season that could still tip either way. Javier Sanoja's 30th double on September 13th and Esteury Ruiz's sharp two-run double a day later suggest the offense has life left, while Jack Ralston's inability to hold a lead in a key game serves as a reminder of how fragile this team remains. The final weeks will determine whether June's brilliance was a true turning point or merely a beautiful detour in another long Miami rebuild.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Opening Flash",
-      "description": "Caissie's early homer sparks hope, but April's brutal bullpen collapses drag the Marlins into a 4-1 start followed by an 11-15 slide.",
+      "title": "Opening Sparks",
+      "description": "Caissie's opening blast ignites hope, but April's bullpen collapses quickly test Miami's resilience.",
       "startClipIndex": 0,
-      "endClipIndex": 1,
+      "endClipIndex": 7,
       "tone": "turning_point"
     },
     {
       "id": "ch2",
-      "title": "April Unraveling",
-      "description": "Fairbanks and the bullpen blow critical late-inning leads as Miami grinds through a painful 11-15 April.",
-      "startClipIndex": 2,
-      "endClipIndex": 7,
+      "title": "Sinking in May",
+      "description": "An 11-18 May drags the Marlins toward the basement as errors and blown saves pile up.",
+      "startClipIndex": 8,
+      "endClipIndex": 10,
       "tone": "struggle"
     },
     {
       "id": "ch3",
       "title": "The June Explosion",
-      "description": "The Marlins catch fire with a 20-6 June, with Sanoja, Edwards, and the lineup delivering timely hit after timely hit.",
-      "startClipIndex": 8,
-      "endClipIndex": 10,
+      "description": "A scorching 20-6 June transforms the Marlins from afterthought to contender almost overnight.",
+      "startClipIndex": 11,
+      "endClipIndex": 12,
       "tone": "triumph"
     },
     {
       "id": "ch4",
-      "title": "Grinding Through Summer",
-      "description": "Near-.500 July and August ball tests Miami's resolve, as bullpen heartbreaks are offset by clutch offensive moments.",
-      "startClipIndex": 11,
+      "title": "Treading Water",
+      "description": "July's inconsistency — clutch hits answered by bullpen meltdowns — keeps Miami frustratingly near .500.",
+      "startClipIndex": 13,
+      "endClipIndex": 14,
+      "tone": "struggle"
+    },
+    {
+      "id": "ch5",
+      "title": "August Grind",
+      "description": "The Marlins battle through a draining August, surviving Fairbanks and Gibson implosions on the strength of timely offense.",
+      "startClipIndex": 15,
       "endClipIndex": 20,
       "tone": "clutch"
     },
     {
-      "id": "ch5",
-      "title": "September Stakes",
-      "description": "With their season on the line, the Marlins fight for every win as Sanoja and Ruiz deliver late-season sparks in a still-undecided race.",
+      "id": "ch6",
+      "title": "September's Final Verdict",
+      "description": "With the season on the line, Sanoja, Ruiz, and a battered pitching staff fight to determine what this team truly is.",
       "startClipIndex": 21,
       "endClipIndex": 23,
-      "tone": "clutch"
+      "tone": "turning_point"
     }
   ],
   "clips": [
@@ -569,5 +577,5 @@
     "division": "NL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-12T20:19:42.117Z"
+  "generatedAt": "2026-10-14T15:48:53.734Z"
 }

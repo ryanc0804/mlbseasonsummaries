@@ -1,47 +1,47 @@
 {
   "teamId": 114,
   "year": 2026,
-  "narrative": "The 2026 Cleveland Guardians opened the year with a .500 record through March and April, a team still finding its footing. The early weeks were defined as much by bullpen vulnerabilities as by flashes of offensive promise — Cade Smith surrendered critical hits in back-to-back games to open the series against Seattle, and Connor Brogdon gave up a three-run shot that swung a pivotal April 17th game. But even in those stumbles, the Guardians answered: Daniel Schneemann's grand slam earlier that same evening and Brayan Rocchio's three-run blast the following night signaled that this offense could punch back.\n\nMay was the turning point that saved the season. Cleveland surged to an 18-11 record, its best month of the year, riding timely hitting and improved run prevention. Kyle Manzardo delivered a go-ahead homer in May that captured the month's spirit — a team that had learned to grind out wins. The summer months were bumpier. June brought a 10-15 skid as the bullpen was torched repeatedly, most painfully when Cade Smith was tagged for a walk-off single that cost Cleveland a game late in the month. July and August hovered near .500, the team treading water in the standings, needing something to spark a charge.\n\nThat spark came in September. Brayan Rocchio, quietly one of the season's most important performers, delivered a walk-off double on September 15th that represented the Guardians at their best — young, clutch, and hungry. Cleveland went 16-9 in the final month to lock up a playoff berth at 85-77, a final sprint that erased the summer doldrums and carried genuine momentum into October.\n\nThe postseason has arrived, and the Guardians have already cleared their first hurdle, dispatching their ALDS opponent behind José Ramírez's thunder and Jo Adell's surprising heroics. Ramírez homered twice in the series, including a two-run shot that announced Cleveland's intentions loudly. Adell, meanwhile, is tripping the wire twice with clutch triples at exactly the right moments. The Guardians are still playing, still fighting, and whatever comes next in this October run is still being written.",
+  "narrative": "The 2026 Cleveland Guardians were never a team of blowouts or easy answers. They stumbled out of the gate in March and April, finishing those two months a combined 16-16 while their pitching staff surrendered critical home runs and the bullpen — particularly Cade Smith — repeatedly found itself in the wrong place at the wrong time. It was the kind of start that tests a franchise's patience, but the young roster was showing just enough flash — Daniel Schneemann's grand slam, Brayan Rocchio's emerging pop, Chase DeLauter's clutch extra-base hits — to suggest something real was being built beneath the surface.\n\nMay arrived and everything clicked. The Guardians went 18-11, their best month of the season, riding a wave of timely hitting and a rotation that finally found its footing. Kyle Manzardo's home run in late May was emblematic of the stretch: opportunistic, confident, and arriving exactly when the team needed a lift. Then June cut it all down. A brutal 10-15 month, punctuated by Cade Smith's worst outings of the year and a damaging loss to Houston that swung nearly three-quarters of a win in a single at-bat, sent Cleveland sliding. The team's identity as a grinder was being tested, and for a while, it appeared the May surge might be squandered entirely.\n\nThe back half of the season was Brayan Rocchio's coming-out party. The shortstop delivered the team's single biggest regular-season swing in early July, a two-run walk-off that changed the temperature of the whole summer. July and August were modest months on paper — 12-13 and 13-13 — but the Guardians kept themselves in contention through sheer stubbornness. September was when it all came together: a 16-9 finish fueled by Rocchio's clutch double, Petey Halpin's go-ahead blast, and Angel Martínez's two-run shot, enough to push Cleveland to 85-77 and into October for the second consecutive year.\n\nThe postseason has been everything you'd expect from this team — tense, low-scoring, and deeply uncertain until the final out. The Guardians gutted out their Division Series, leaning on José Ramírez's back-to-back home runs and Jo Adell's pivotal triple to advance. Now in the ALCS with the series knotted at 1-1, Cleveland is once again on the edge, with Chase DeLauter's double and Nathaniel Lowe's clutch single in the latest game keeping hope very much alive. Whether this group can take the next step remains the question hanging over every pitch.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Stumbling Out of the Gate",
-      "description": "Cleveland opens the year at .500 through April, absorbing painful bullpen losses while searching for an offensive identity.",
+      "title": "Shaky Foundations",
+      "description": "A rocky March and April leave Cleveland spinning their wheels at .500 as the bullpen and early rotation struggles define an uncertain start.",
       "startClipIndex": 0,
-      "endClipIndex": 2,
+      "endClipIndex": 7,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "Guardians Punch Back",
-      "description": "Amid the early-season turbulence, Schneemann's grand slam and Rocchio's home run show Cleveland's capacity to respond in kind.",
-      "startClipIndex": 3,
-      "endClipIndex": 7,
+      "title": "May Surge, June Crash",
+      "description": "The Guardians catch fire in May with an 18-11 record before a brutal June — headlined by Cade Smith's worst moments — drags them back to earth.",
+      "startClipIndex": 8,
+      "endClipIndex": 12,
       "tone": "turning_point"
     },
     {
       "id": "ch3",
-      "title": "May Surge, Summer Grind",
-      "description": "An 18-11 May powered by Manzardo and steady pitching gives Cleveland its best month, even as June and July bring the bullpen back to earth.",
-      "startClipIndex": 8,
+      "title": "Rocchio's Moment",
+      "description": "Brayan Rocchio announces himself with the season's highest-leverage swing, a walk-off home run that resets the Guardians' summer and steadies a wavering ship.",
+      "startClipIndex": 13,
       "endClipIndex": 14,
-      "tone": "triumph"
-    },
-    {
-      "id": "ch4",
-      "title": "September Sprint",
-      "description": "Rocchio, Halpin, Bazzana, and Martínez fuel a 16-9 September charge that locks up the postseason and erases the summer's damage.",
-      "startClipIndex": 15,
-      "endClipIndex": 22,
       "tone": "clutch"
     },
     {
+      "id": "ch4",
+      "title": "September Strong",
+      "description": "A 16-9 September closing run, powered by Rocchio, Halpin, and Martínez, clinches Cleveland's postseason berth and restores belief in this young roster.",
+      "startClipIndex": 15,
+      "endClipIndex": 22,
+      "tone": "triumph"
+    },
+    {
       "id": "ch5",
-      "title": "October Rising",
-      "description": "Cleveland storms through the ALDS behind Ramírez's home runs and Adell's unexpected heroics, and the postseason run is very much alive.",
+      "title": "October's Edge",
+      "description": "The Guardians battle through the Division Series on Ramírez's clutch homers and now face a tied ALCS, with every game a tightrope walk and the pennant still within reach.",
       "startClipIndex": 23,
       "endClipIndex": 30,
-      "tone": "triumph"
+      "tone": "clutch"
     }
   ],
   "clips": [
@@ -582,28 +582,6 @@
       "videoUrl": "https://sporty-clips.mlb.com/b0c5OW9fV0ZRVkV3dEdEUT09X0FnSlpBVnhRQUZRQURGSlhWUUFIVUFkZUFBTU1Vd2NBVVFRQ1VRY0VWRkJYQlFkUQ==.mp4"
     },
     {
-      "id": "849834-64-8",
-      "title": "Triple — Jo Adell",
-      "description": "Jo Adell triples (1) on a sharp fly ball to left fielder Sam Antonacci. Chase DeLauter scores.",
-      "playId": "74e1d6be-1a45-3f36-8cf3-e6d6b7b7af49",
-      "videoUrl": "https://sporty-clips.mlb.com/b0c5OW9fV0ZRVkV3dEdEUT09X0FRVUVWUUFDQkZjQUNRTUdVd0FIVndWUUFGbFdCVklBVjFOUkJsRUNVd1FFVmdaZg==.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/oxtoi80ucz3vou5pr4cq.jpg",
-      "date": "2026-10-05",
-      "gamePk": 849834,
-      "atBatNumber": 64,
-      "inning": 8,
-      "isTopInning": false,
-      "batter": "Jo Adell",
-      "pitcher": "",
-      "exitVelocity": 108.2,
-      "launchAngle": 32,
-      "distance": 411,
-      "wpa": 0.162,
-      "xwoba": 1.882,
-      "eventType": "triple",
-      "gameType": "D"
-    },
-    {
       "id": "849833-22-3",
       "title": "Triple — Jo Adell",
       "description": "Jo Adell triples (2) on a ground ball to right fielder Braden Montgomery. Steven Kwan scores. José Ramírez scores. Chase DeLauter scores.",
@@ -624,27 +602,6 @@
       "xwoba": 0.261,
       "eventType": "triple",
       "gameType": "D"
-    },
-    {
-      "id": "849833-46-5",
-      "title": "Double Play — Joey Cantillo",
-      "description": "Kyle Teel lines into a double play, second baseman Travis Bazzana to shortstop Brayan Rocchio. Miguel Vargas out at 2nd.",
-      "playId": "d7a14ac7-bb43-3856-a147-5e806bd22911",
-      "date": "2026-10-07",
-      "gamePk": 849833,
-      "atBatNumber": 46,
-      "inning": 5,
-      "isTopInning": false,
-      "batter": "Joey Cantillo",
-      "pitcher": "",
-      "exitVelocity": 97.9,
-      "launchAngle": 13,
-      "distance": 173,
-      "wpa": 0.157,
-      "xwoba": 0.897,
-      "eventType": "double_play",
-      "gameType": "D",
-      "videoUrl": "https://sporty-clips.mlb.com/R0J6ellfV0ZRVkV3dEdEUT09X1VnWUFWVkJWQlFVQVdnQUdWUUFIQ1FOUUFBQUVWMVlBQndBTkFBVlhWUUZYQ1FOWA==.mp4"
     },
     {
       "id": "849832-38-5",
@@ -669,28 +626,6 @@
       "gameType": "D"
     },
     {
-      "id": "849832-51-6",
-      "title": "Double — Travis Bazzana",
-      "description": "Travis Bazzana doubles (2) on a fly ball to right fielder Braden Montgomery. Angel Martínez scores.",
-      "playId": "6e984e0e-fc9f-3cdf-8f80-140aebab1d73",
-      "videoUrl": "https://sporty-clips.mlb.com/MDRBQUtfV0ZRVkV3dEdEUT09X0FGUllYRkJSVmxjQVhnRUxBQUFIVWxJQUFGbFRXMUVBQTFFRlVWWlhVRkZVVkFWVg==.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/z5uswq2kuneu8a7ese6x.jpg",
-      "date": "2026-10-08",
-      "gamePk": 849832,
-      "atBatNumber": 51,
-      "inning": 6,
-      "isTopInning": true,
-      "batter": "Travis Bazzana",
-      "pitcher": "",
-      "exitVelocity": 87.1,
-      "launchAngle": 23,
-      "distance": 279,
-      "wpa": 0.168,
-      "xwoba": 0.195,
-      "eventType": "double",
-      "gameType": "D"
-    },
-    {
       "id": "849831-24-4",
       "title": "Home Run — José Ramírez",
       "description": "José Ramírez homers (2) on a line drive to right field. Steven Kwan scores.",
@@ -711,6 +646,72 @@
       "xwoba": 0.349,
       "eventType": "home_run",
       "gameType": "D"
+    },
+    {
+      "id": "849820-51-7",
+      "title": "Home Run — Patrick Bailey",
+      "description": "Patrick Bailey homers (2) on a fly ball to center field.",
+      "playId": "35b31c7e-abf9-3859-820c-7fc394dba284",
+      "videoUrl": "https://sporty-clips.mlb.com/bmJLSzhfV0ZRVkV3dEdEUT09X0JRUURWMVZYVVZjQVdRQlVYd0FIQ1FOZkFGa0hVd0lBQlFOV0F3b0JWVkVFQWdwUw==.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/c1tt5cj1o3ufirtrqwc9.jpg",
+      "date": "2026-10-12",
+      "gamePk": 849820,
+      "atBatNumber": 51,
+      "inning": 7,
+      "isTopInning": true,
+      "batter": "Patrick Bailey",
+      "pitcher": "",
+      "exitVelocity": 105.3,
+      "launchAngle": 26,
+      "distance": 436,
+      "wpa": 0.192,
+      "xwoba": 1.763,
+      "eventType": "home_run",
+      "gameType": "L"
+    },
+    {
+      "id": "849820-60-8",
+      "title": "Double — Chase DeLauter",
+      "description": "Chase DeLauter doubles (1) on a line drive to right fielder Victor Mesa Jr. José Ramírez to 3rd.",
+      "playId": "562790d9-15eb-37b6-a066-28092862e2da",
+      "videoUrl": "https://sporty-clips.mlb.com/bmJLSzhfV0ZRVkV3dEdEUT09X0F3ZFRVMTBFQWdzQUNWZFhCQUFIQmxSUUFBQUZWVmNBQUYwRkNRRU5Cd0VBQWxZSA==.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/jlu4fnwnhkwwnyoybrbc.jpg",
+      "date": "2026-10-12",
+      "gamePk": 849820,
+      "atBatNumber": 60,
+      "inning": 8,
+      "isTopInning": true,
+      "batter": "Chase DeLauter",
+      "pitcher": "",
+      "exitVelocity": 95,
+      "launchAngle": 15,
+      "distance": 258,
+      "wpa": 0.193,
+      "xwoba": 0.838,
+      "eventType": "double",
+      "gameType": "L"
+    },
+    {
+      "id": "849820-62-8",
+      "title": "Single — Nathaniel Lowe",
+      "description": "Nathaniel Lowe singles on a ground ball to center fielder Cedric Mullins. José Ramírez scores. Chase DeLauter scores.",
+      "playId": "2b4dac9d-f62b-3228-932a-fc43f236732f",
+      "videoUrl": "https://sporty-clips.mlb.com/bmJLSzhfV0ZRVkV3dEdEUT09X0JGTlZBQVZYWDFZQVhsUUFCQUFIQXdSZUFGZ0dVUUFBVkFZQkExVUhBZ1ZTQXdBQQ==.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/qsve117ywm1jm2ut5q9f.jpg",
+      "date": "2026-10-12",
+      "gamePk": 849820,
+      "atBatNumber": 62,
+      "inning": 8,
+      "isTopInning": true,
+      "batter": "Nathaniel Lowe",
+      "pitcher": "",
+      "exitVelocity": 71.6,
+      "launchAngle": 12,
+      "distance": 127,
+      "wpa": 0.254,
+      "xwoba": 0.299,
+      "eventType": "single",
+      "gameType": "L"
     }
   ],
   "seasonStats": {
@@ -722,9 +723,9 @@
     "teamEra": 3.77,
     "teamAvg": 0.239,
     "teamOps": 0.696,
-    "playoffResult": "Won the ALDS — postseason in progress",
+    "playoffResult": "Postseason in progress — ALCS, series 1-1",
     "division": "AL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-12T20:07:16.568Z"
+  "generatedAt": "2026-10-14T15:32:42.422Z"
 }

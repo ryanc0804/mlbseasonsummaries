@@ -1,45 +1,53 @@
 {
   "teamId": 136,
   "year": 2026,
-  "narrative": "The 2026 Seattle Mariners opened the year with genuine electricity, riding the breakout bat of Cole Young and the timely hitting of Julio Rodríguez to a perfectly even 3-3 spring record before carrying that momentum into a .500 April. Young announced himself as a force with a three-run homer on opening weekend, and the early weeks were dotted with clutch contributions from Josh Naylor, Rob Refsnyder, and the rest of a lineup that showed real depth when it mattered most.\n\nMay offered a brief window of optimism, the Mariners posting their best monthly record at 15-13 and looking like a team that might force its way into the AL Wild Card conversation. But the bullpen — and Andrés Muñoz in particular — began showing cracks that would deepen all summer. Key late-inning failures in May and a brutal three-game stretch in June exposed a roster that couldn't consistently close out opponents, and a 13-14 June left Seattle treading water just below the surface.\n\nJuly was where the season genuinely buckled. A 9-15 mark left little doubt that the playoff window was narrowing fast, and the high-leverage moments that month told a brutal story — Eduard Bazardo surrendering a three-run blast, Muñoz getting lit up by Shohei Ohtani in a pivotal late-inning spot. August was more of the same at 11-16, the bullpen continuing to hemorrhage leads while Randy Arozarena delivered one of the season's most memorable individual moments with a walk-off two-run homer on August 22nd — a flash of brilliance in an otherwise fading stretch.\n\nSeptember has offered a 12-12 pace and some dignity-salvaging performances, including a three-run home run from Julio Rodríguez in the final weeks, but the 76-86 record tells the full story of a team that showed promise in the early going and gradually ran out of answers in the back half of the season. The Mariners finish 2026 as a club in transition — with Young's emergence and flashes from a talented core offering real reasons to watch what comes next.",
+  "narrative": "The 2026 Seattle Mariners opened the year with genuine electricity, riding the unexpected emergence of Cole Young into one of the game's most exciting young stories. Young announced himself in the season's opening days with a three-run homer that lit up the Pacific Northwest, and he kept delivering throughout a spring that felt full of promise. Paired with timely contributions from Julio Rodríguez, Josh Naylor, and Rob Refsnyder, Seattle played .500 ball through April and pushed above it in May, looking every bit like a team building toward something real.\n\nJune was where the cracks began to show, and the bullpen — Andrés Muñoz in particular — became the story Seattle didn't want to tell. Muñoz, once a lockdown closer, started appearing repeatedly in the game's most damaging moments, surrendering leads and watching wins evaporate. A brutal mid-June stretch that saw relievers cough up games to Baltimore exposed the team's fragile margins, and what had been a competitive roster started to look like one without enough cushion to survive its own mistakes.\n\nJuly arrived with hope but delivered heartbreak. The team went 9-15, its worst month of the season, as Eduard Bazardo joined Muñoz in the category of pitchers who cost Seattle games they should have won. Cole Young's 12th home run in mid-July was a reminder of the season's early brightness, and Dominic Canzone delivered some punch as well, but the rotation and bullpen were hemorrhaging runs faster than the offense could replace them. August brought more of the same, though Randy Arozarena's two-run walk-off homer on August 22nd — the season's single highest-leverage moment — offered a fleeting glimpse of what this group could be when everything clicked.\n\nSeptember has settled into something resembling equilibrium, with the Mariners going 12-12 and Julio Rodríguez hitting his stride with a three-run blast in the season's final weeks. At 76-86, Seattle's playoff hopes are all but extinguished by the calendar, but the season's lasting image may be Cole Young — a 21-year-old who showed up in March and never stopped competing, giving Mariners fans something real to hold onto as the organization looks toward what comes next.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Young Guns Fire Early",
-      "description": "Cole Young and Julio Rodríguez announce themselves with clutch opening-weekend performances, giving Seattle an energetic and promising start.",
+      "title": "Young and Hungry",
+      "description": "Cole Young announces himself with back-to-back clutch performances as Seattle opens the year with a burst of optimism.",
       "startClipIndex": 0,
-      "endClipIndex": 1,
+      "endClipIndex": 2,
       "tone": "triumph"
     },
     {
       "id": "ch2",
-      "title": "Staying Afloat",
-      "description": "The Mariners piece together wins through April and a winning May, with Josh Naylor and Rob Refsnyder providing timely pop even as bullpen vulnerabilities begin to surface.",
-      "startClipIndex": 2,
-      "endClipIndex": 8,
+      "title": "Grinding Through April",
+      "description": "The Mariners play .500 ball in April, winning some ugly ones thanks to timely singles and solo shots from across the roster.",
+      "startClipIndex": 3,
+      "endClipIndex": 7,
       "tone": "clutch"
     },
     {
       "id": "ch3",
-      "title": "Cracks in the Foundation",
-      "description": "A disastrous multi-game stretch in June exposes the rotation and relief corps, with José Ferrer and Andrés Muñoz surrendering leads in critical moments and dropping the team below .500.",
-      "startClipIndex": 9,
+      "title": "The Bullpen Starts to Crack",
+      "description": "June exposes Seattle's fatal flaw as Andrés Muñoz and the relief corps repeatedly surrender late leads in costly fashion.",
+      "startClipIndex": 8,
       "endClipIndex": 13,
       "tone": "struggle"
     },
     {
       "id": "ch4",
       "title": "Summer Slide",
-      "description": "A brutal 9-15 July, punctuated by late-inning collapses and Muñoz blowing key saves, effectively ends Seattle's playoff hopes as the losses mount faster than the wins.",
+      "description": "A brutal July and August see the Mariners go a combined 20-31 as pitching collapses overwhelm a lineup that keeps fighting.",
       "startClipIndex": 14,
-      "endClipIndex": 20,
+      "endClipIndex": 21,
       "tone": "struggle"
     },
     {
       "id": "ch5",
-      "title": "Fading Light",
-      "description": "Arozarena's dramatic walk-off homer flickers briefly against a backdrop of continued bullpen failures and a losing August record, before a respectable September offers the Mariners a measure of pride to take into the offseason.",
-      "startClipIndex": 21,
+      "title": "Arozarena's Moment",
+      "description": "Randy Arozarena delivers the season's most electrifying swing with a walk-off two-run homer, a lone highlight in a fading summer.",
+      "startClipIndex": 22,
+      "endClipIndex": 23,
+      "tone": "milestone"
+    },
+    {
+      "id": "ch6",
+      "title": "Playing Out the String",
+      "description": "September brings a respectable 12-12 finish and a few final highlights from Julio Rodríguez as the Mariners close out a disappointing year with their heads up.",
+      "startClipIndex": 24,
       "endClipIndex": 26,
       "tone": "turning_point"
     }
@@ -50,8 +58,6 @@
       "title": "Home Run — Cole Young",
       "description": "Cole Young homers (1) on a fly ball to right center field. Randy Arozarena scores. Dominic Canzone scores.",
       "playId": "7b34c930-52b2-3c44-b976-4f71b44713e6",
-      "videoUrl": "https://sporty-clips.mlb.com/cU93ODRfV0ZRVkV3dEdEUT09X0FWTlNVQWNOVlFJQURWQlFWQUFIVWdKU0FBTU1WRmNBQmdNQ0FWRUJCUVJVQTFkUQ==.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/owegedkr7a8aqe6q8dr1.jpg",
       "date": "2026-03-27",
       "gamePk": 823162,
       "atBatNumber": 31,
@@ -65,15 +71,14 @@
       "wpa": 0.362,
       "xwoba": 0.78,
       "eventType": "home_run",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/cU93ODRfV0ZRVkV3dEdEUT09X0FWTlNVQWNOVlFJQURWQlFWQUFIVWdKU0FBTU1WRmNBQmdNQ0FWRUJCUVJVQTFkUQ==.mp4"
     },
     {
       "id": "823161-75-9",
       "title": "Single — Julio Rodríguez",
       "description": "Julio Rodríguez singles on a line drive to center fielder Steven Kwan. Cole Young scores.",
       "playId": "0aae1ba4-8c82-37ab-93ba-db93f721f821",
-      "videoUrl": "https://sporty-clips.mlb.com/VndQZ3dfWGw0TUFRPT1fQmxBQUFWVldCd1lBQUFFS1ZBQUhCbGNFQUZnR0FRQUFWZ2NNQTFVQ0F3SURDQUJY.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/npz948onqde4aubwkozr.jpg",
       "date": "2026-03-28",
       "gamePk": 823161,
       "atBatNumber": 75,
@@ -87,7 +92,8 @@
       "wpa": 0.415,
       "xwoba": 0.564,
       "eventType": "single",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/VndQZ3dfWGw0TUFRPT1fQmxBQUFWVldCd1lBQUFFS1ZBQUhCbGNFQUZnR0FRQUFWZ2NNQTFVQ0F3SURDQUJY.mp4"
     },
     {
       "id": "824053-47-5",
@@ -158,8 +164,6 @@
       "title": "Single — Josh Naylor",
       "description": "Josh Naylor singles on a line drive to left fielder Tyler Soderstrom. Cal Raleigh scores. Julio Rodríguez to 2nd.",
       "playId": "2d261ac3-7a05-34f1-8e1b-aea3f8766dce",
-      "videoUrl": "https://sporty-clips.mlb.com/QndSYllfWGw0TUFRPT1fQkZWVFVsVlZCUUVBRHdNQ1V3QUhCVkJYQUZsUVVnTUFVd0JVQTFVTkJnVlRWRkVE.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/v1776901911/mlb/hko9si0akyz3hxqk2myh.jpg",
       "date": "2026-04-22",
       "gamePk": 823147,
       "atBatNumber": 80,
@@ -173,7 +177,8 @@
       "wpa": 0.386,
       "xwoba": 0.855,
       "eventType": "single",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/QndSYllfWGw0TUFRPT1fQkZWVFVsVlZCUUVBRHdNQ1V3QUhCVkJYQUZsUVVnTUFVd0JVQTFVTkJnVlRWRkVE.mp4"
     },
     {
       "id": "823068-66-9",
@@ -637,5 +642,5 @@
     "division": "AL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-14T15:42:50.907Z"
+  "generatedAt": "2026-10-16T15:17:23.226Z"
 }

@@ -1,52 +1,44 @@
 {
   "teamId": 147,
   "year": 2026,
-  "narrative": "The 2026 New York Yankees arrived with familiar ambitions and a roster built to contend, and they wasted little time making their intentions clear. A blazing March gave way to a hot April, with José Caballero delivering back-to-back clutch doubles, Amed Rosario launching a three-run bomb to swing a critical game, and the bullpen holding leads with aplomb. The team went 16-10 in April, establishing themselves as one of the American League's premier clubs, riding a balanced attack that would ultimately produce 223 home runs on the season.\n\nMay brought turbulence. Closer David Bednar struggled badly, surrendering momentum-killing home runs on multiple occasions, and the pitching staff showed cracks that hinted at vulnerability. Yet the Yankees refused to crater, going 16-12 even as the highlight reel skewed ugly. Anthony Volpe's clutch single in late May steadied the ship, and the team carried enough to stay afloat. June was the true test — a 12-14 month defined by inconsistency — but even in the lean stretch, Paul Goldschmidt and Ben Rice delivered timely power to keep the Yankees within reach of the division.\n\nThe summer resurgence was real and emphatic. July and August saw the Yankees post 14-11 and 16-12 records respectively, powered by an explosive stretch in mid-July when Jazz Chisholm Jr., Trent Grisham, and Ben Rice all delivered high-leverage hits within days of each other. Luis García Jr. emerged as a force, clubbing his 24th home run in August while Austin Wells and Amed Rosario continued to provide timely production. September brought a strong 15-8 close to the regular season, even as late-month hiccups from the bullpen — Paul Blackburn and Michael Fulmer surrendering costly home runs — served as ominous warnings.\n\nThe Yankees won the Wild Card and marched into the ALDS, but October proved unforgiving. Facing a young, hungry Tampa Bay Rays squad, Max Fried was touched for critical home runs as the opposition's bats — Victor Mesa Jr., Junior Caminero — came alive at the worst possible moments. The Yankees scratched and clawed, with Spencer Jones delivering a clutch postseason double and Anthony Volpe battling until the end, but the bullpen and rotation couldn't hold serve. New York's 93-win season ended in the Division Series, a fitting if painful reminder that in baseball, regular-season excellence is only an invitation to October's cruelty.",
+  "narrative": "The 2026 New York Yankees arrived in spring with familiar expectations and an opening week that immediately tested their resolve. A brutal double by Jake Bird in early April set an ominous tone, but the Yankees answered with characteristic flair — Amed Rosario's three-run bomb two days later, followed by a string of clutch moments from José Caballero, Trent Grisham, and Ryan McMahon, helped power a 16-10 April that announced New York as a genuine contender. The pitching staff's 3.23 ERA and a lineup that would eventually mash 223 home runs gave the club a sturdy foundation, even as the bullpen — particularly David Bednar — proved a persistent vulnerability.\n\nMay and June told a more complicated story. Bednar surrendered pivotal home runs on three separate occasions, and a damaging three-run blast allowed by Brent Headrick against Baltimore underscored the bullpen's fragility. The Yankees stumbled to a 12-14 June, their only losing month, as Fernando Cruz was torched for a costly Masataka Yoshida double late in the month. Yet even in the lean stretches, individual brilliance kept the club afloat — Anthony Volpe delivered a go-ahead single in late May, and Paul Goldschmidt and Ben Rice provided timely thunder to prevent any true freefall.\n\nJuly ignited the season's most electric stretch. Jazz Chisholm Jr. launched a go-ahead two-run homer on July 10th that swung nearly 0.65 win probability, and the club rattled off a 14-11 month before surging to 16-12 in August. Ben Rice emerged as an offensive centerpiece — his triple in mid-July, his clutch single against Atlanta in August, and his 19th home run of June painted the picture of a star arriving. Luis García Jr. also stepped up with a massive two-run shot in early August. A late-September scare from Nolan Arenado's grand slam off Brent Headrick briefly threatened the Yankees' grip on a playoff spot, but a 15-8 September close sealed their 93-win campaign and a postseason berth.\n\nThe postseason, however, delivered heartbreak. After surviving the Wild Card round — where García Jr. provided an early jolt — the Yankees ran into a determined opponent in the ALDS. Max Fried was touched for two home runs in Game 2 against Tampa Bay, including a two-run blast by Victor Mesa Jr. that proved decisive. A controversial fan-interference call that turned an Anthony Volpe home run into a double summed up New York's October luck. Spencer Jones offered a glimpse of the future with a clutch double, but the offense sputtered at the worst moments, and the 2026 Yankees were sent home in the Division Series — a talented, 93-win club that ran out of magic when October demanded its most.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Staking Their Claim",
-      "description": "The Yankees storm out of the gate in April, with Amed Rosario, José Caballero, and the offense delivering clutch blow after clutch blow to post a 16-10 month.",
+      "title": "Fast Start, Early Fires",
+      "description": "The Yankees absorb an early punch and respond with a wave of clutch hits to post a winning April.",
       "startClipIndex": 0,
       "endClipIndex": 6,
       "tone": "triumph"
     },
     {
       "id": "ch2",
-      "title": "Bednar's Burden",
-      "description": "May exposes real vulnerabilities as David Bednar suffers multiple meltdowns and opposing bats punish the bullpen, but the Yankees grind out a winning month nonetheless.",
+      "title": "Bullpen Cracks, Offense Carries",
+      "description": "Recurring Bednar meltdowns and a rough June test the roster's depth, but timely hitting keeps New York afloat.",
       "startClipIndex": 7,
-      "endClipIndex": 11,
+      "endClipIndex": 14,
       "tone": "struggle"
     },
     {
       "id": "ch3",
-      "title": "Weathering the Storm",
-      "description": "A 12-14 June tests the Yankees' depth, with sporadic power from Goldschmidt and Ben Rice keeping them afloat through the season's rockiest stretch.",
-      "startClipIndex": 12,
-      "endClipIndex": 14,
-      "tone": "turning_point"
-    },
-    {
-      "id": "ch4",
-      "title": "The Summer Surge",
-      "description": "Jazz Chisholm Jr., Trent Grisham, Ben Rice, and Luis García Jr. ignite a sustained hot streak through July and August that cements the Yankees' playoff position.",
+      "title": "Midsummer Surge",
+      "description": "Jazz Chisholm Jr., Ben Rice, and Trent Grisham ignite a July–August run that cements the Yankees as a true contender.",
       "startClipIndex": 15,
       "endClipIndex": 19,
       "tone": "triumph"
     },
     {
-      "id": "ch5",
-      "title": "September Push and Postseason Hope",
-      "description": "A strong 15-8 September close carries the Yankees to 93 wins and a Wild Card berth, even as late bullpen wobbles hint at danger ahead.",
+      "id": "ch4",
+      "title": "Holding On in September",
+      "description": "Late-season scares and a grand slam scare threaten the Yankees' grip, but a 15-8 September closes the door on the division.",
       "startClipIndex": 20,
       "endClipIndex": 25,
       "tone": "clutch"
     },
     {
-      "id": "ch6",
-      "title": "October's Harsh Verdict",
-      "description": "The Yankees survive the Wild Card only to fall in the ALDS as Max Fried is tagged for critical home runs and the Tampa Bay Rays end New York's season.",
+      "id": "ch5",
+      "title": "October Unravels",
+      "description": "A Wild Card escape gives way to ALDS heartbreak, as Max Fried absorbs home runs and the offense goes cold at the worst moment.",
       "startClipIndex": 26,
       "endClipIndex": 33,
       "tone": "struggle"
@@ -795,5 +787,5 @@
     "division": "AL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-14T15:27:09.834Z"
+  "generatedAt": "2026-10-16T15:02:52.137Z"
 }

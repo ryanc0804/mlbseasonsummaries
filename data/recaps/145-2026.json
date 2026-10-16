@@ -1,52 +1,44 @@
 {
   "teamId": 145,
   "year": 2026,
-  "narrative": "The 2026 Chicago White Sox arrived at the season with cautious optimism, and that caution proved warranted almost immediately. Opening weekend brought a gut-punch loss when Christian Yelich tagged Seranthony Domínguez for a three-run homer that swung the game decisively, sending Chicago to a rough 1-4 March. But the South Siders refused to let that early wound fester. April saw the team scrap back to .500 on the strength of clutch, gritty moments — Derek Hill's perfectly-placed bunt single igniting a rally, Tristan Peters driving home the go-ahead run, and Andrew Benintendi announcing his presence with a three-run shot. It wasn't always pretty, but Chicago's character was beginning to reveal itself.\n\nMay became the turning point that changed the White Sox's entire identity. The offense erupted with power and depth that few had anticipated. Edgar Quero's first career homer, a two-run blast that swung a massive 0.576 WPA, announced the arrival of a genuine young force behind the plate. Munetaka Murakami continued to punish right-center gaps with his distinctive swing, and then Miguel Vargas delivered the single most impactful hit of the entire regular season — a walk-off 13th homer worth 0.852 WPA that seemed to crystallize everything this team could be. Chicago went 18-10 in May, their best month, and suddenly 84 wins felt like a real possibility rather than a pipe dream.\n\nJune through August was a grind of survival, momentum swings, and individual heroics. Sam Antonacci's clutch single that survived a Guardians challenge, Braden Montgomery's first career homer in a high-leverage spot, and Randal Grichuk stepping up repeatedly as a veteran stabilizer kept the White Sox above water through the dog days. The pitching staff showed its limitations — Grant Taylor surrendered critical homers, Jordan Hicks and Trevor Richards faltered in tight spots — but the offense, anchored by Vargas's 20th homer in early July and powered by 211 round-trippers on the year, kept the ship from sinking. Chicago finished 84-78, good enough for a postseason berth and a date with the Cleveland Guardians in the ALDS.\n\nThe Division Series told a story of a team that had punched its ticket to October but found a tougher opponent waiting. Murakami's two-run shot in Game 1 gave White Sox fans hope, and Braden Montgomery's sharp double in Game 2 had Chicago feeling dangerous. But Jo Adell proved to be the series villain, tripling twice to swing momentum Cleveland's way, and José Ramírez — the Guardians' October tormentor — homered in back-to-back games off Hicks and Sean Burke to close the door. A devastating double play in Game 3 snuffed out a critical Chicago rally, and the White Sox were eliminated, their promising 84-win season ending one round short of the American League Championship Series. The foundation, though, looks real.",
+  "narrative": "The 2026 Chicago White Sox entered the season with cautious optimism, and an ugly Opening Series loss — punctuated by a Christian Yelich three-run bomb off Seranthony Domínguez — quickly tested that optimism. But the South Siders responded with character. A pair of clutch April singles from Derek Hill and Tristan Peters, plus a three-run shot from Andrew Benintendi and Sam Antonacci's dramatic late-April triple, helped Chicago play .500 ball that month and set the table for something bigger.\n\nMay was when the White Sox announced themselves. An 18-10 record — the best month of the season — was powered by genuine star power emerging from unexpected corners. Edgar Quero's first career home run in a twin-blast game with Peters on May 17, followed by Miguel Vargas's walk-off bomb on May 29, gave Chicago the feel of a team capable of winning any game on any night. Even a late-month bullpen implosion against Minnesota couldn't derail the momentum. The White Sox were a first-division club, and they were starting to believe it.\n\nJune and July brought the grind. The team treaded water at 13-12 in each of those months, a stretch marked by flashes of brilliance — Braden Montgomery's first career home run, Sam Antonacci's clutch single in a reviewed play against Cleveland, Randal Grichuk stepping up as a veteran presence — but also recurring heartbreaks from the bullpen. Grant Taylor's disastrous July outing, when Brayan Rocchio took him deep to swing a pivotal game, exemplified the maddening inconsistency. August was more of the same, an even 14-14, as Jordan Hicks and Trevor Richards gave back leads the lineup worked hard to earn, though Chase Meidroth and Tristan Peters homered to salvage key wins.\n\nSeptember saw the White Sox stagger to the finish line at 12-13, but they had built enough of a cushion. A Grichuk walk-off blast on September 12 was the signature moment of a month where Chicago survived late-inning scares to clinch a postseason berth. The ALDS against Cleveland was a different animal. Jo Adell tormented them all series long, José Ramírez launched back-to-back series-turning homers, and the White Sox offense — so clutch all season — went cold at the worst moments. A promising Braden Montgomery double in Game 2 hinted at a comeback that never materialized. The season ended in the ALDS, but 84 wins and a playoff appearance marked genuine progress for a franchise that had been rebuilding for years.",
   "chapters": [
     {
       "id": "ch1",
       "title": "Stumbling Out of the Gate",
-      "description": "A brutal opening weekend loss sets a rocky tone as Chicago struggles to find its footing in March and early April.",
+      "description": "A brutal Opening Series loss sets an anxious tone, but April clutch hits quickly restore faith.",
       "startClipIndex": 0,
-      "endClipIndex": 0,
+      "endClipIndex": 4,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "April Scrappiness",
-      "description": "Clutch hits from Derek Hill, Tristan Peters, and Andrew Benintendi help the White Sox claw back to respectability.",
-      "startClipIndex": 1,
-      "endClipIndex": 4,
-      "tone": "clutch"
-    },
-    {
-      "id": "ch3",
       "title": "May Explosion",
-      "description": "Edgar Quero, Munetaka Murakami, and a walk-off Miguel Vargas homer power Chicago's best month and establish the team as a genuine contender.",
+      "description": "The White Sox catch fire with an 18-10 month powered by breakout performances from Quero, Peters, and Vargas.",
       "startClipIndex": 5,
       "endClipIndex": 9,
       "tone": "triumph"
     },
     {
-      "id": "ch4",
+      "id": "ch3",
       "title": "Grinding Through Summer",
-      "description": "Clutch individual performances from Antonacci, Montgomery, Grichuk, and Vargas keep the White Sox afloat through a turbulent summer of wins and setbacks.",
+      "description": "Chicago plays winning but inconsistent baseball in June and July, winning crucial games while the bullpen repeatedly gives ground.",
       "startClipIndex": 10,
-      "endClipIndex": 23,
+      "endClipIndex": 16,
       "tone": "turning_point"
     },
     {
-      "id": "ch5",
-      "title": "September Push",
-      "description": "Randal Grichuk's big home runs and late-season drama carry Chicago to a postseason berth despite a shaky final month.",
-      "startClipIndex": 24,
+      "id": "ch4",
+      "title": "Holding On",
+      "description": "August and September test the White Sox' resilience as they survive bullpen collapses and late-game drama to clinch a playoff spot.",
+      "startClipIndex": 17,
       "endClipIndex": 28,
       "tone": "clutch"
     },
     {
-      "id": "ch6",
-      "title": "October's Short Story",
-      "description": "The White Sox make noise in the ALDS but José Ramírez and Jo Adell prove too much, ending Chicago's season in the Division Series.",
+      "id": "ch5",
+      "title": "October's Cold Verdict",
+      "description": "A promising ALDS run unravels against Cleveland as Jo Adell and José Ramírez deliver crushing blows to end Chicago's season.",
       "startClipIndex": 29,
       "endClipIndex": 36,
       "tone": "struggle"
@@ -272,6 +264,8 @@
       "title": "Home Run — Braden Montgomery",
       "description": "Braden Montgomery homers (1) on a fly ball to left field. Andrew Benintendi scores.",
       "playId": "bedf9248-19ac-365f-9da4-7e6bbd175373",
+      "videoUrl": "https://sporty-clips.mlb.com/QndSTm5fWGw0TUFRPT1fVkZRRkFsMEdVZ29BQ1Z0VEJRQUhCd01BQUZoUkFsVUFCUUFEVWxGUkFBUlFBd1ZW.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/ewfqbqmqougi6po7agnc.jpg",
       "date": "2026-06-09",
       "gamePk": 824591,
       "atBatNumber": 87,
@@ -285,8 +279,7 @@
       "wpa": 0.832,
       "xwoba": 0.77,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/QndSTm5fWGw0TUFRPT1fVkZRRkFsMEdVZ29BQ1Z0VEJRQUhCd01BQUZoUkFsVUFCUUFEVWxGUkFBUlFBd1ZW.mp4"
+      "gameType": "R"
     },
     {
       "id": "824260-71-9",
@@ -314,6 +307,8 @@
       "title": "Single — Sam Antonacci",
       "description": "Guardians challenged (tag play), call on the field was upheld: Sam Antonacci singles on a line drive to center fielder Daniel Schneemann. Braden Montgomery scores. Tristan Peters scores.",
       "playId": "25355016-eee5-34b3-b792-6e728e083f96",
+      "videoUrl": "https://sporty-clips.mlb.com/TzA0MmFfWGw0TUFRPT1fQkFSU1VWRUVWd1FBWFFkWFV3QUhCVlJWQUFNQ1dsTUFCQUFDQWd0UUFRdFdWZ3RR.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/c6ipd0fva67tkxegd23e.jpg",
       "date": "2026-06-22",
       "gamePk": 824585,
       "atBatNumber": 79,
@@ -327,14 +322,15 @@
       "wpa": 0.758,
       "xwoba": 0.59,
       "eventType": "single",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/TzA0MmFfWGw0TUFRPT1fQkFSU1VWRUVWd1FBWFFkWFV3QUhCVlJWQUFNQ1dsTUFCQUFDQWd0UUFRdFdWZ3RR.mp4"
+      "gameType": "R"
     },
     {
       "id": "824583-74-9",
       "title": "Home Run — Randal Grichuk",
       "description": "Randal Grichuk homers (9) on a fly ball to left center field.",
       "playId": "524419e2-3d49-3af2-801c-d829e15d1958",
+      "videoUrl": "https://sporty-clips.mlb.com/UUFLeTlfWGw0TUFRPT1fQXdOVlVGVU5Bd0FBQ3dZR1h3QUhVRkJVQUZrRlVnSUFWbDBIQ1ZZRUJGZFVDUWRl.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/fgj8ov579jwjhjauh9w1.jpg",
       "date": "2026-06-24",
       "gamePk": 824583,
       "atBatNumber": 74,
@@ -348,8 +344,7 @@
       "wpa": 0.489,
       "xwoba": 1.953,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/UUFLeTlfWGw0TUFRPT1fQXdOVlVGVU5Bd0FBQ3dZR1h3QUhVRkJVQUZrRlVnSUFWbDBIQ1ZZRUJGZFVDUWRl.mp4"
+      "gameType": "R"
     },
     {
       "id": "824583-86-10",
@@ -527,6 +522,8 @@
       "title": "Home Run — Jake Rogers",
       "description": "Jake Rogers homers (4) on a fly ball to center field. Braden Montgomery scores.",
       "playId": "63f36640-918a-3f78-8987-4c5fead71b10",
+      "videoUrl": "https://sporty-clips.mlb.com/V0FXUllfWGw0TUFRPT1fQUFJSFYxSUNVZ0lBQVZNS0J3QUhWd0ZlQUZrTVcxWUFCZ1lBVmxaVVZRUlVVZ05X.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/nmrnvllozuuashcluprf.jpg",
       "date": "2026-08-21",
       "gamePk": 824559,
       "atBatNumber": 71,
@@ -540,14 +537,15 @@
       "wpa": 0.389,
       "xwoba": 1.18,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/V0FXUllfWGw0TUFRPT1fQUFJSFYxSUNVZ0lBQVZNS0J3QUhWd0ZlQUZrTVcxWUFCZ1lBVmxaVVZRUlVVZ05X.mp4"
+      "gameType": "R"
     },
     {
       "id": "824558-71-9",
       "title": "Home Run — Tristan Peters",
       "description": "Tristan Peters homers (9) on a fly ball to center field.",
       "playId": "a80843c7-4fd3-3719-88d0-1495cd494c8f",
+      "videoUrl": "https://sporty-clips.mlb.com/UHY2WnlfWGw0TUFRPT1fVndsUlhGQUhCUVVBREFSV1ZRQUhCZ2RmQUZrTkIxRUFBMUVNQlZCUkJRcFJVd29B.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/ri8b2flsvuxfvfizbde5.jpg",
       "date": "2026-08-23",
       "gamePk": 824558,
       "atBatNumber": 71,
@@ -561,8 +559,7 @@
       "wpa": 0.397,
       "xwoba": 1.265,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/UHY2WnlfWGw0TUFRPT1fVndsUlhGQUhCUVVBREFSV1ZRQUhCZ2RmQUZrTkIxRUFBMUVNQlZCUkJRcFJVd29B.mp4"
+      "gameType": "R"
     },
     {
       "id": "823009-79-9",
@@ -855,5 +852,5 @@
     "division": "AL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-14T15:31:14.504Z"
+  "generatedAt": "2026-10-16T15:06:48.513Z"
 }

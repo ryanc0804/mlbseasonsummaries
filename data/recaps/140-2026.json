@@ -1,44 +1,52 @@
 {
   "teamId": 140,
   "year": 2026,
-  "narrative": "The 2026 Texas Rangers opened their season with a promising March, going 4-1 in the early going and flashing the kind of capable roster that had carried them to glory in recent years. But April told a different story — a 11-15 month riddled with late-game collapses, bullpen meltdowns, and costly moments from pitchers Jacob Latz and Chris Martin. The Rangers found themselves underwater almost immediately, chasing the division rather than leading it, and the wounds of those early losses lingered long into the summer.\n\nMay offered only modest relief at 13-15, though glimmers of life emerged in the clutch contributions of Jake Burger and Danny Jansen, whose back-to-back singles in mid-May kept faint hopes alive. It was June that finally delivered a genuine surge — a 16-11 month that served as the season's emotional peak, reminding the Globe Life Field faithful that this team had real fight in it. The offense woke up, the lineup found rhythm, and for a stretch it felt like the Rangers might claw their way back into relevance.\n\nJuly and August, however, ground those hopes down. Cole Winn's continued struggles on the mound gave opponents highlight-reel home runs, and a cumulative run differential that had never fully recovered from April began to drag the team below .500 for good. Bright individual performances from Ezequiel Duran and Wyatt Langford in August kept the games competitive, but the pitching staff's inability to hold late leads — illustrated again and again by Jacob Latz's recurring disasters — meant too many wins slipped away.\n\nSeptember arrived with the Rangers sitting at 67-70 and requiring something close to a miracle to stay relevant. A 12-12 finish was respectable but not enough to move the needle. Jacob Latz's continued late-season implosions and a Jakob Junis home-run surrender in mid-September summed up a year in which the pitching staff simply could not match a lineup that, on its best days, had real pop. At 80-82, the Rangers find themselves staring at a season that promised more than it delivered, their postseason fate hinging on how the rest of the league's final weeks unfold.",
+  "narrative": "The 2026 Texas Rangers entered the season as a team with championship pedigree but quickly found themselves in a difficult early stretch. A sharp March start — going 4-1 — gave fans hope, but April unraveled fast, with the bullpen and rotation both delivering gut-punch moments. Jacob Latz and Chris Martin were victimized for back-to-back damaging hits that sent the Rangers into a 11-15 April hole, and Corey Seager's double-play grounder in a late-game situation summed up the offensive frustration. The Rangers were a team playing tight games and losing them in the worst ways.\n\nMay offered little relief on paper — a 13-15 record — but the numbers concealed something important: Jake Burger and Danny Jansen were beginning to show up in the biggest moments. Burger's two clutch singles in May, including a go-ahead shot on May 13th alongside Jansen's immediate follow-up run-scorer, were the kind of back-to-back plays that signal a lineup finding its identity. June rewarded that optimism with the team's best month of the year, a 16-11 run that temporarily lifted Texas into contention territory.\n\nThe second half of the season has been a grinding test of endurance. Cole Winn was torched for back-to-back costly home runs in late June and late July, and Jacob Latz continued to struggle in high-leverage spots deep into September. Yet August produced genuine bright spots — Ezequiel Duran's ground-rule double, then Wyatt Langford's clutch line drive, then Duran again with a sharp grounder to bring in Langford — a mid-month stretch that felt like the Rangers could still will themselves back into contention.\n\nAs September plays out, the Rangers sit at 80-82, their fate still mathematically uncertain but clearly hanging by a thread. The late-season performances of Latz and Junis giving up crucial home runs to Tampa Bay and Seattle have kept Texas from building any momentum. Justin Foscue's clutch double on September 5th showed the lineup still has life, but the pitching staff remains the unresolved question. Whether this team can close the gap with a winning September finish remains to be seen — this season has been defined by moments of promise repeatedly undercut by late-game collapses.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "False Dawn",
-      "description": "An encouraging March gives way to an April defined by bullpen breakdowns and early-inning collapses that set the Rangers behind from the start.",
+      "title": "Fast Start, Slow Fade",
+      "description": "A promising 4-1 March gives way to a brutal April as the bullpen bleeds runs in the highest-leverage moments.",
       "startClipIndex": 0,
-      "endClipIndex": 5,
+      "endClipIndex": 3,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "Burger's Lifeline",
-      "description": "Jake Burger and Danny Jansen deliver back-to-back clutch hits in May to keep the Rangers treading water as the team searches for an identity.",
-      "startClipIndex": 6,
-      "endClipIndex": 7,
+      "title": "Burger Steps Up",
+      "description": "Jake Burger and Danny Jansen deliver back-to-back clutch hits to inject life into a Rangers lineup searching for an identity.",
+      "startClipIndex": 4,
+      "endClipIndex": 5,
       "tone": "clutch"
     },
     {
       "id": "ch3",
-      "title": "The June Surge",
-      "description": "A 16-11 June stands as the season's high-water mark, giving Rangers fans a genuine reason to believe before the summer heat takes its toll.",
-      "startClipIndex": 8,
-      "endClipIndex": 8,
+      "title": "June Surge",
+      "description": "Texas posts its best month of the season at 16-11, riding offensive momentum into the heart of summer.",
+      "startClipIndex": 6,
+      "endClipIndex": 7,
       "tone": "triumph"
     },
     {
       "id": "ch4",
-      "title": "Grinding Through Summer",
-      "description": "July and August bring a mixed record and flashes of offensive brilliance from Duran and Langford, but the pitching staff's fragility prevents any sustained momentum.",
-      "startClipIndex": 9,
+      "title": "Winn and the Walls Come Down",
+      "description": "Cole Winn is burned for damaging home runs in June and July as the Rangers' second-half struggles take shape.",
+      "startClipIndex": 8,
+      "endClipIndex": 9,
+      "tone": "struggle"
+    },
+    {
+      "id": "ch5",
+      "title": "August Flicker",
+      "description": "Duran and Langford combine for a stunning mid-August sequence that briefly reignites playoff hopes in Arlington.",
+      "startClipIndex": 10,
       "endClipIndex": 12,
       "tone": "turning_point"
     },
     {
-      "id": "ch5",
-      "title": "September's Hard Truths",
-      "description": "A .500 September and recurring pitching failures from Latz and Junis close out a frustrating 80-82 campaign that fell short of expectations.",
+      "id": "ch6",
+      "title": "September's Verdict",
+      "description": "Late-season home runs allowed by Latz and Junis keep the Rangers treading water as the calendar runs out on their 2026 chances.",
       "startClipIndex": 13,
       "endClipIndex": 16,
       "tone": "struggle"
@@ -422,5 +430,5 @@
     "division": "AL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-14T15:45:12.626Z"
+  "generatedAt": "2026-10-16T15:18:38.267Z"
 }

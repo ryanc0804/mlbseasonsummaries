@@ -1,44 +1,52 @@
 {
   "teamId": 139,
   "year": 2026,
-  "narrative": "The 2026 Tampa Bay Rays opened the year with the scrappy, uneven energy that has come to define their brand. March was a stumble — a 2-3 record shadowed by a brutal late-inning collapse when Griffin Jax surrendered a two-run single that erased an early lead — but Nick Fortes emerged as an unlikely early hero, his bat providing pop at a position where the Rays rarely expect it. April brought a resurgence, and by May the Rays were playing their best baseball, posting an 18-8 record that announced them as genuine American League contenders. Jonathan Aranda's clutch doubles, Yandy Díaz's power surge — including his 10th home run of the season — and a lineup that kept finding ways to win even when the bullpen wobbled told the story of a team growing into itself.\n\nJune arrived as a reality check, the Rays going a flat 13-13 as the schedule stiffened and Bryan Baker proved to be a persistent liability out of the bullpen, his name appearing on the wrong side of the ledger with alarming regularity. But the Rays never truly collapsed — July and August became the backbone of the season, a combined 33-22 stretch powered by the emergence of Junior Caminero as a genuine star. His 41st home run in September punctuated a remarkable individual season, and Jonny DeLuca's back-to-back clutch home runs in late August gave Tampa Bay the separation it needed in the AL standings. By the time the calendar flipped to September, the Rays were cruising toward 98 wins, a record that validated every close call and bullpen gamble along the way.\n\nThe postseason arrived with the Rays dispatching their Division Series opponent and advancing to the ALCS, where they now find themselves locked in a tense series against the Cleveland Guardians, tied at one game apiece. Victor Mesa Jr. announced himself on the October stage with a go-ahead home run in the Division Series, and the bullpen — Baker included — has tightened up when it matters most. The ALCS has been a chess match: Cleveland's José Ramírez and Nathaniel Lowe combined to break Tampa Bay's heart in Game 1, but Cedric Mullins answered with a solo shot and Liam Hicks delivered a clutch two-run single in Game 2 to level the series. The Rays are very much alive, and the story of their 2026 season is still being written.",
+  "narrative": "The 2026 Tampa Bay Rays arrived in late March with familiar efficiency and a new cast of contributors ready to make their mark. A 2-3 stumble in the season's first week gave little indication of what was coming, but April bloomed into a 16-9 month that set the tone for a resilient, disciplined ballclub. Nick Fortes emerged as an unlikely early-season hero, coming through in clutch spots and helping steady a lineup that was still finding its identity. The bullpen showed some early cracks — Bryan Baker in particular gave the coaching staff headaches — but the offense consistently answered back.\n\nMay and June told a story of contrast. An 18-8 May was one of the best months in the American League, powered by timely hitting from Jonathan Aranda, Yandy Díaz, and a resurgent Jonny DeLuca. Junior Caminero began showing flashes of the elite talent scouts had long projected, and the Rays' pitching staff continued to suppress runs at a rate few teams in baseball could match. June brought a reality check at 13-13, a flat stretch where the big moments seemed to go against Tampa Bay — but the team had built enough of a cushion and enough character to weather the plateau without panic.\n\nJuly and August were where the Rays separated themselves. A 15-12 July was solid if unspectacular, but the 18-10 August was a statement. DeLuca's home runs, Caminero's mounting power numbers, and Yandy Díaz's clutch two-run single late in August all underscored that this team had genuine firepower to complement its pitching. By the time September arrived — a 16-9 closing run featuring Caminero's 41st home run, a Jonathan Aranda three-run shot, and a Richie Palacios walk-off single — the Rays had secured 98 wins and claimed their postseason berth with authority.\n\nOctober has brought a new kind of pressure. Tampa Bay dispatched their Division Series opponent with grit, highlighted by Victor Mesa Jr.'s timely home run. But the ALCS against what appears to be Cleveland has been a tighter battle. The Rays currently trail 1-2 in the series, having dropped Game 3 in part due to costly pitching lapses from Drew Rasmussen and Ian Seymour. Yet Chandler Simpson's electrifying triple in Game 3 showed this team still has life, and the Rays bullpen and lineup are far from finished. The series hangs in the balance, and Tampa Bay is pressing to write another improbable chapter in franchise lore.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Shaky Starts and Early Sparks",
-      "description": "The Rays stumble through March before Nick Fortes and an improving lineup ignite a promising April.",
+      "title": "Shaky Start, Fast Recovery",
+      "description": "The Rays stumble out of the gate in late March but Nick Fortes sparks early clutch moments that set the tone for a winning April.",
       "startClipIndex": 0,
-      "endClipIndex": 3,
+      "endClipIndex": 5,
       "tone": "turning_point"
     },
     {
       "id": "ch2",
-      "title": "The May Machine",
-      "description": "An 18-8 May sees Tampa Bay assert itself as a true contender, with clutch hits and power surges carrying the charge.",
-      "startClipIndex": 4,
+      "title": "May Surge",
+      "description": "An 18-8 May fueled by Aranda, Díaz, and DeLuca announces Tampa Bay as a legitimate AL contender despite some bullpen turbulence.",
+      "startClipIndex": 6,
       "endClipIndex": 11,
       "tone": "triumph"
     },
     {
       "id": "ch3",
-      "title": "Grinding Through the Dog Days",
-      "description": "A flat June gives way to a resilient July and August as the Rays win ugly, absorb bullpen blunders, and lean on Junior Caminero's breakout.",
+      "title": "Midsummer Grind",
+      "description": "A 13-13 June and steady 15-12 July test the Rays' depth, with the team winning ugly through a stretch where the biggest moments often cut against them.",
       "startClipIndex": 12,
-      "endClipIndex": 18,
+      "endClipIndex": 13,
       "tone": "struggle"
     },
     {
       "id": "ch4",
-      "title": "Caminero's September Statement",
-      "description": "Junior Caminero's 41st home run headlines a 16-9 September that locks up 98 wins and cements Tampa Bay's AL standing.",
-      "startClipIndex": 19,
+      "title": "August Thunder",
+      "description": "An 18-10 August powered by Junior Caminero's rising star, Jonny DeLuca's clutch home runs, and Yandy Díaz's timely hitting cements the Rays as division front-runners.",
+      "startClipIndex": 14,
+      "endClipIndex": 17,
+      "tone": "triumph"
+    },
+    {
+      "id": "ch5",
+      "title": "September Statement",
+      "description": "A 16-9 September close — capped by Caminero's 41st homer and Aranda's three-run blast — seals 98 wins and a postseason berth with authority.",
+      "startClipIndex": 18,
       "endClipIndex": 21,
       "tone": "milestone"
     },
     {
-      "id": "ch5",
-      "title": "October On the Line",
-      "description": "The Rays dispatch their Division Series foe and now battle through a 1-1 ALCS, with Mullins, Mesa Jr., and Hicks delivering the pivotal October moments.",
+      "id": "ch6",
+      "title": "October on the Brink",
+      "description": "The Rays survive the Division Series and battle into the ALCS, where they now trail Cleveland 1-2 and are fighting to keep their World Series hopes alive.",
       "startClipIndex": 22,
       "endClipIndex": 29,
       "tone": "clutch"
@@ -563,24 +571,6 @@
       "gameType": "D"
     },
     {
-      "id": "849838-70-9",
-      "title": "Strikeout — Bryan Baker",
-      "description": "Trent Grisham strikes out swinging.",
-      "playId": "a0d7610a-eaf2-31cc-b21f-53f5e912c819",
-      "date": "2026-10-07",
-      "gamePk": 849838,
-      "atBatNumber": 70,
-      "inning": 9,
-      "isTopInning": false,
-      "batter": "Bryan Baker",
-      "pitcher": "",
-      "wpa": 0.148,
-      "xwoba": 0,
-      "eventType": "strikeout",
-      "gameType": "D",
-      "videoUrl": "https://sporty-clips.mlb.com/akRYWDVfV0ZRVkV3dEdEUT09X1Z3RUZVMUlGVmxNQVhRTlVWQUFIQUZVRkFBTUhVZ2NBQjFaVEJWWU1BQUVHQ0FOZg==.mp4"
-    },
-    {
       "id": "849820-51-7",
       "title": "Home Run — Drew Rasmussen",
       "description": "Patrick Bailey homers (2) on a fly ball to center field.",
@@ -644,28 +634,6 @@
       "videoUrl": "https://sporty-clips.mlb.com/bmJLSzhfV0ZRVkV3dEdEUT09X0JGTlZBQVZYWDFZQVhsUUFCQUFIQXdSZUFGZ0dVUUFBVkFZQkExVUhBZ1ZTQXdBQQ==.mp4"
     },
     {
-      "id": "849820-65-8",
-      "title": "Home Run — Cedric Mullins",
-      "description": "Cedric Mullins homers (1) on a fly ball to right field.",
-      "playId": "d2a62b46-4e7a-320d-aa10-e39547a5b1d0",
-      "videoUrl": "https://sporty-clips.mlb.com/bmJLSzhfV0ZRVkV3dEdEUT09X1VnTUFVbFpXVWdRQURBY0ZCd0FIQXdZQ0FBQlVVbEVBVjFZTUJRY0NVQVlIQVZaVw==.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/fioacm6la3uoiavhs6de.jpg",
-      "date": "2026-10-12",
-      "gamePk": 849820,
-      "atBatNumber": 65,
-      "inning": 8,
-      "isTopInning": false,
-      "batter": "Cedric Mullins",
-      "pitcher": "",
-      "exitVelocity": 98.6,
-      "launchAngle": 26,
-      "distance": 384,
-      "wpa": 0.154,
-      "xwoba": 0.788,
-      "eventType": "home_run",
-      "gameType": "L"
-    },
-    {
       "id": "849813-35-4",
       "title": "Single — Liam Hicks",
       "description": "Liam Hicks singles on a line drive to center fielder Petey Halpin. Chandler Simpson scores. Ben Williamson scores.",
@@ -686,6 +654,49 @@
       "xwoba": 0.772,
       "eventType": "single",
       "gameType": "L"
+    },
+    {
+      "id": "849818-26-4",
+      "title": "Triple — Chandler Simpson",
+      "description": "Chandler Simpson triples (1) on a sharp line drive to right fielder Chase DeLauter. Yandy Díaz scores. Victor Mesa Jr. scores.",
+      "playId": "3744b5ca-72d4-3635-a5dd-08ac643b8156",
+      "videoUrl": "https://sporty-clips.mlb.com/cU96ekRfV0ZRVkV3dEdEUT09X0JRWlZVQVlCQlZNQUQxQldVZ0FIQndWVEFBQUFCd1VBQWwxVVV3VUJBbEZkQVFkUQ==.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/kkropboheezq6hpwc71d.jpg",
+      "date": "2026-10-15",
+      "gamePk": 849818,
+      "atBatNumber": 26,
+      "inning": 4,
+      "isTopInning": true,
+      "batter": "Chandler Simpson",
+      "pitcher": "",
+      "exitVelocity": 102.1,
+      "launchAngle": 10,
+      "distance": 230,
+      "wpa": 0.258,
+      "xwoba": 0.802,
+      "eventType": "triple",
+      "gameType": "L"
+    },
+    {
+      "id": "849818-35-5",
+      "title": "Home Run — Griffin Jax",
+      "description": "Petey Halpin homers (1) on a fly ball to right center field. Patrick Bailey scores.",
+      "playId": "54779f7a-9dd9-31c4-8773-12d717549763",
+      "date": "2026-10-15",
+      "gamePk": 849818,
+      "atBatNumber": 35,
+      "inning": 5,
+      "isTopInning": false,
+      "batter": "Griffin Jax",
+      "pitcher": "",
+      "exitVelocity": 105,
+      "launchAngle": 26,
+      "distance": 385,
+      "wpa": -0.245,
+      "xwoba": 1.763,
+      "eventType": "home_run",
+      "gameType": "L",
+      "videoUrl": "https://sporty-clips.mlb.com/cU96ekRfV0ZRVkV3dEdEUT09X0F3VldVMTFTVVZNQUFRWldYd0FIQUZWU0FGa0NWRklBQTFkUkJ3SUNCQWRjQndSVg==.mp4"
     }
   ],
   "seasonStats": {
@@ -697,9 +708,9 @@
     "teamEra": 3.7,
     "teamAvg": 0.258,
     "teamOps": 0.728,
-    "playoffResult": "Postseason in progress — ALCS, series 1-1",
+    "playoffResult": "Postseason in progress — ALCS, series 1-2",
     "division": "AL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-14T15:28:42.218Z"
+  "generatedAt": "2026-10-16T15:04:13.380Z"
 }

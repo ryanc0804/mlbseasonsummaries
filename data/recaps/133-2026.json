@@ -1,36 +1,36 @@
 {
   "teamId": 133,
   "year": 2026,
-  "narrative": "The 2026 Oakland Athletics arrived at the season with cautious optimism, and for a brief stretch, that optimism felt justified. A strong April — 16 wins against 10 losses — suggested that a young core anchored by Nick Kurtz, Shea Langeliers, and the bullpen arm of Justin Sterner might give the franchise something to build on. The first weeks were volatile, swinging from Langeliers' opening-series home run to immediate bullpen disasters, but the wins piled up nonetheless and the A's looked like a competitive club.\n\nThe cracks appeared in May and widened through June. The pitching staff, always thin, began leaking badly. J.T. Ginn and Luis Medina surrendered crucial home runs and rallies at the worst moments, and the offense could not keep pace with a run-prevention unit that was among the worst in the league. A 5.51 ERA over the full season tells the real story: Oakland simply could not hold leads or keep games close, and every promising offensive moment — Tyler Soderstrom's triple, Jeff McNeil's clutch home run, a double-play gem to escape a jam — was answered almost immediately by another bullpen implosion.\n\nJuly accelerated the collapse. The Athletics went just 5-19 in the month, and the top plays from that stretch tell a grim tale of opposing rallies and long home runs given up in high-leverage moments. August was only marginally better at 8-20, with Elvis Alvarado and Hogan Harris bearing the brunt of the damage on the mound. Jacob Wilson's home run and Max Muncy's clutch double offered brief hope, but they were islands in a sea of losses. The 937 runs allowed by season's end stand as testimony to how thoroughly the pitching staff was overwhelmed.\n\nSeptember brought a modest improvement — 11 wins in 24 games — but also some of the season's most painful moments, including a Lawrence Butler home run in a losing cause and Donovan Walton's costly blast. The Athletics finish 2026 at 64-98, a difficult but instructive season for a franchise still assembling its pieces. The young talent is real, the run differential is sobering, and the work ahead is clear.",
+  "narrative": "The 2026 Oakland Athletics arrived at the season opener with cautious optimism, and for a brief moment in late March and through April, that optimism felt justified. Shea Langeliers announced the year with a thunderous home run on Opening Day, and Nick Kurtz quickly emerged as the team's offensive centerpiece, launching shots and driving in runs at a pace that had Sacramento buzzing. The club finished April at 16-10, a record that papered over some alarming bullpen cracks and suggested this squad might be more than the sum of its modest parts.\n\nMay and June told a more complicated story. The pitching staff — particularly starters like J.T. Ginn, Luis Medina, and the overworked bullpen arms — began to hemorrhage runs at an unsustainable rate. For every Jeff McNeil home run or Tyler Soderstrom triple that sparked hope, an opposing bat seemed to answer with something worse. Jonah Heim victimized Oakland's relief corps twice in June, and by the time the Giants ran wild in a late-June series, the team's 5-2 combined record over those two months masked a troubling pattern: Oakland could not protect leads, and the run differential was quietly becoming catastrophic.\n\nJuly arrived like a verdict. The Athletics went 5-19, their worst month of the season, as the bullpen imploded nightly and the offense sputtered against quality pitching. August offered no meaningful relief — an 8-20 mark confirmed that this was no longer a team in a slump but one in full retreat. Occasionally a moment of grace emerged: Jacob Wilson's home run in late July, a Max Muncy double in August, José Suarez surviving a grand slam scare. But these were islands in a rising tide, and the run differential — 699 scored against 937 allowed — revealed the brutal arithmetic beneath every highlight.\n\nSeptember has brought a modest 11-13 record and a few scattered bright spots, including Lawrence Butler's long ball and Hogan Harris coaxing an unlikely home run allowed to turn into a victory, but also some gut-punch moments like Donovan Walton going deep against his own team's interests and Junior Caminero torching Elvis Alvarado for his 41st home run. The 2026 Athletics finish — or approach the finish — as a 64-98 club still finding its footing in a rebuild, with young pieces like Kurtz, Wilson, and Soderstrom offering genuine reasons to believe the trajectory can bend upward. The losses are abundant, but so are the lessons.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Opening Sparks",
-      "description": "A promising March and strong April give Oakland early momentum, with Shea Langeliers and Nick Kurtz providing the offensive highlights even as the bullpen shows its first cracks.",
+      "title": "Opening Day Promise",
+      "description": "Langeliers' homer ignites early hope, but the bullpen immediately shows its vulnerability in the season's very first games.",
       "startClipIndex": 0,
+      "endClipIndex": 2,
+      "tone": "turning_point"
+    },
+    {
+      "id": "ch2",
+      "title": "April Believers",
+      "description": "A 16-10 April record, powered by Nick Kurtz's breakout and a series of clutch moments, makes Oakland a surprising early contender.",
+      "startClipIndex": 3,
       "endClipIndex": 8,
       "tone": "triumph"
     },
     {
-      "id": "ch2",
-      "title": "Fading Fast",
-      "description": "May turns losing as the pitching staff begins to unravel, with J.T. Ginn and Luis Medina surrendering critical hits while the offense scrambles to keep pace.",
-      "startClipIndex": 9,
-      "endClipIndex": 13,
-      "tone": "struggle"
-    },
-    {
       "id": "ch3",
-      "title": "June's Mixed Signals",
-      "description": "The A's go 12-15 in June, posting some genuine offensive highlights including clutch home runs from the bullpen arms-turned-foils, but an inability to hold leads defines the month.",
-      "startClipIndex": 14,
+      "title": "Cracks in the Foundation",
+      "description": "May and June expose deep pitching problems as the staff surrenders critical leads and opponents exploit a bullpen stretched to its limits.",
+      "startClipIndex": 9,
       "endClipIndex": 25,
-      "tone": "turning_point"
+      "tone": "struggle"
     },
     {
       "id": "ch4",
       "title": "Summer Collapse",
-      "description": "July and August are the season's darkest stretch, with Oakland going a combined 13-39 as the bullpen is battered nightly and the run differential reaches historic proportions.",
+      "description": "A catastrophic 5-19 July followed by an 8-20 August turns a disappointing season into a full-scale rebuild reckoning.",
       "startClipIndex": 26,
       "endClipIndex": 30,
       "tone": "struggle"
@@ -38,7 +38,7 @@
     {
       "id": "ch5",
       "title": "September Salvage",
-      "description": "The Athletics close the year with modest improvement at 11-13 in September, providing glimpses of what the young core can become even as the 64-win season comes to a sobering end.",
+      "description": "The Athletics play respectable September baseball, with young players flashing potential even as the final losses pile up and the year winds down.",
       "startClipIndex": 31,
       "endClipIndex": 37,
       "tone": "milestone"
@@ -50,8 +50,6 @@
       "title": "Home Run — Shea Langeliers",
       "description": "Shea Langeliers homers (2) on a fly ball to center field.",
       "playId": "d75b489d-4662-3e81-89ed-113d253f0078",
-      "videoUrl": "https://sporty-clips.mlb.com/UUFLTlZfWGw0TUFRPT1fVWdaVUJsQU1YMVlBREZRRVZBQUhWQTVYQUZrTUJnVUFBMVFHVkFFQUFsVlZBQVZl.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/bshf2m7kj4beaklrwgts.jpg",
       "date": "2026-03-27",
       "gamePk": 822839,
       "atBatNumber": 60,
@@ -65,7 +63,8 @@
       "wpa": 0.366,
       "xwoba": 1.839,
       "eventType": "home_run",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/UUFLTlZfWGw0TUFRPT1fVWdaVUJsQU1YMVlBREZRRVZBQUhWQTVYQUZrTUJnVUFBMVFHVkFFQUFsVlZBQVZl.mp4"
     },
     {
       "id": "822839-68-9",
@@ -135,8 +134,6 @@
       "title": "Double — Nick Kurtz",
       "description": "Nick Kurtz doubles (3) on a fly ball to left fielder Wyatt Langford. Austin Wynns scores. Zack Gelof scores. Shea Langeliers scores.",
       "playId": "573425fb-d88e-3516-b540-6f1316d25fb3",
-      "videoUrl": "https://sporty-clips.mlb.com/Uk96NE1fWGw0TUFRPT1fQXdaU1VGWUJBRkFBWEZvS0F3QUhCQWRRQUFNQVYxRUFCQU1FQXdJRFZRRlFWbEJW.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/toyypcxtcrduiqgorkw5.jpg",
       "date": "2026-04-16",
       "gamePk": 825023,
       "atBatNumber": 77,
@@ -150,7 +147,8 @@
       "wpa": -0.57,
       "xwoba": 0.034,
       "eventType": "double",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/Uk96NE1fWGw0TUFRPT1fQXdaU1VGWUJBRkFBWEZvS0F3QUhCQWRRQUFNQVYxRUFCQU1FQXdJRFZRRlFWbEJW.mp4"
     },
     {
       "id": "825023-81-9",
@@ -412,8 +410,6 @@
       "title": "Home Run — Jonah Heim",
       "description": "Jonah Heim homers (4) on a fly ball to right field.",
       "playId": "82b19a73-0d29-371f-88ea-1ca3ee0cee51",
-      "videoUrl": "https://sporty-clips.mlb.com/OTdWOWxfWGw0TUFRPT1fRGdNRFZWMVZVUUVBQ0FZQVh3QUhCZ2NBQUZrTkJnQUFBd1pVQTFaUUFWQUFWUWRY.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/ebnwnmuttc7misdaybbd.jpg",
       "date": "2026-06-08",
       "gamePk": 824998,
       "atBatNumber": 100,
@@ -426,7 +422,8 @@
       "wpa": -0.468,
       "xwoba": 0.003,
       "eventType": "home_run",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/OTdWOWxfWGw0TUFRPT1fRGdNRFZWMVZVUUVBQ0FZQVh3QUhCZ2NBQUZrTkJnQUFBd1pVQTFaUUFWQUFWUWRY.mp4"
     },
     {
       "id": "824997-46-6",
@@ -475,8 +472,6 @@
       "title": "Home Run — Jonah Heim",
       "description": "Jonah Heim homers (6) on a fly ball to right field. Tyler Soderstrom scores.",
       "playId": "4a5df62e-8597-30df-b2e0-0f11013ac97e",
-      "videoUrl": "https://sporty-clips.mlb.com/WU8yazlfWGw0TUFRPT1fQWxCVUFBSUNWRmNBQUZjTFVRQUhBVklBQUFNSEJsRUFBZ01FQVFNRUFsSUdDUVVE.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/he6ynbied5o9iq1ydwh5.jpg",
       "date": "2026-06-19",
       "gamePk": 824990,
       "atBatNumber": 85,
@@ -490,7 +485,8 @@
       "wpa": -0.48,
       "xwoba": 0.824,
       "eventType": "home_run",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/WU8yazlfWGw0TUFRPT1fQWxCVUFBSUNWRmNBQUZjTFVRQUhBVklBQUFNSEJsRUFBZ01FQVFNRUFsSUdDUVVE.mp4"
     },
     {
       "id": "824987-73-9",
@@ -646,8 +642,6 @@
       "title": "Double — Max Muncy",
       "description": "Max Muncy doubles (8) on a fly ball to center fielder Ceddanne Rafaela. Donovan Walton scores.",
       "playId": "8d4aa616-69bf-3f58-9508-fc68661175ff",
-      "videoUrl": "https://sporty-clips.mlb.com/ZU53Z3lfWGw0TUFRPT1fRGxWVkJRVUNWd1FBRGx0UUFBQUhWd05lQUZnQVUxa0FWQVlEQ0FVREFBSlNCVlFB.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/jasei2cawuelwobpfhkx.jpg",
       "date": "2026-08-09",
       "gamePk": 824724,
       "atBatNumber": 68,
@@ -661,7 +655,8 @@
       "wpa": 0.358,
       "xwoba": 0.542,
       "eventType": "double",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/ZU53Z3lfWGw0TUFRPT1fRGxWVkJRVUNWd1FBRGx0UUFBQUhWd05lQUZnQVUxa0FWQVlEQ0FVREFBSlNCVlFB.mp4"
     },
     {
       "id": "824075-72-9",
@@ -752,8 +747,6 @@
       "title": "Single — Jeff McNeil",
       "description": "Blue Jays challenged (play at 1st), call on the field was upheld: Jeff McNeil singles on a soft ground ball to shortstop Andrés Giménez. Donovan Walton scores. Alika Williams to 3rd. Henry Bolte to 2nd.",
       "playId": "e65e38be-a805-38b9-8d3f-3aa5c5d2c391",
-      "videoUrl": "https://sporty-clips.mlb.com/UHY5Z1BfWGw0TUFRPT1fVXdkVUFWY01CRmNBV1ZvQ1V3QUhDVlJmQUZsUlVBY0FBUVJVQlZBQVZRRUdBd3RY.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/gbbakspduoxf51n7l54r.jpg",
       "date": "2026-09-07",
       "gamePk": 824958,
       "atBatNumber": 76,
@@ -767,15 +760,14 @@
       "wpa": -0.36,
       "xwoba": 0.077,
       "eventType": "single",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/UHY5Z1BfWGw0TUFRPT1fVXdkVUFWY01CRmNBV1ZvQ1V3QUhDVlJmQUZsUlVBY0FBUVJVQlZBQVZRRUdBd3RY.mp4"
     },
     {
       "id": "824954-85-10",
       "title": "Home Run — Donovan Walton",
       "description": "Donovan Walton homers (7) on a fly ball to right field. Michael Stefanic scores.",
       "playId": "aef84c1d-7be0-3ce5-a1b1-e2deb5cf31b7",
-      "videoUrl": "https://sporty-clips.mlb.com/OTdWdmxfWGw0TUFRPT1fVjFRSFhGQlhWMVlBRHdCWFZnQUhVbE5UQUFBRUFWQUFWMWRSVlZFQVVsVldBVkJS.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/q19pgieji99jootjeu7x.jpg",
       "date": "2026-09-11",
       "gamePk": 824954,
       "atBatNumber": 85,
@@ -789,15 +781,14 @@
       "wpa": -0.56,
       "xwoba": 0.423,
       "eventType": "home_run",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/OTdWdmxfWGw0TUFRPT1fVjFRSFhGQlhWMVlBRHdCWFZnQUhVbE5UQUFBRUFWQUFWMWRSVlZFQVVsVldBVkJS.mp4"
     },
     {
       "id": "824952-83-9",
       "title": "Home Run — Lawrence Butler",
       "description": "Lawrence Butler homers (16) on a fly ball to right center field. Zack Gelof scores.",
       "playId": "37adaf8d-17a6-39e0-80b6-ef099cff9c85",
-      "videoUrl": "https://sporty-clips.mlb.com/NnlQM29fWGw0TUFRPT1fQlFZQUFBVlNYbFlBQ1ZWVFVBQUhDRk5XQUZrRkFWY0FWd01GQ1FwV1YxVmNVd3BU.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/avxgmjaxx1ibmlrtymbu.jpg",
       "date": "2026-09-13",
       "gamePk": 824952,
       "atBatNumber": 83,
@@ -811,7 +802,8 @@
       "wpa": -0.591,
       "xwoba": 1.674,
       "eventType": "home_run",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/NnlQM29fWGw0TUFRPT1fQlFZQUFBVlNYbFlBQ1ZWVFVBQUhDRk5XQUZrRkFWY0FWd01GQ1FwV1YxVmNVd3BU.mp4"
     },
     {
       "id": "822925-61-9",
@@ -839,8 +831,6 @@
       "title": "Home Run — Carlos Cortes",
       "description": "Carlos Cortes homers (10) on a fly ball to right center field. Alika Williams scores.",
       "playId": "a701e584-47cf-3125-9b20-b431d8da3dfc",
-      "videoUrl": "https://sporty-clips.mlb.com/SzRYN2VfWGw0TUFRPT1fVndaUlZRRUJYZ1lBREZWUkFBQUhBQVJUQUZoWFVWRUFVRkVHQVZjTlZWSldWRlFG.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/xrtcwxfarvbuvrjh7sol.jpg",
       "date": "2026-09-22",
       "gamePk": 824953,
       "atBatNumber": 75,
@@ -854,7 +844,8 @@
       "wpa": -0.461,
       "xwoba": 1.106,
       "eventType": "home_run",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/SzRYN2VfWGw0TUFRPT1fVndaUlZRRUJYZ1lBREZWUkFBQUhBQVJUQUZoWFVWRUFVRkVHQVZjTlZWSldWRlFG.mp4"
     }
   ],
   "seasonStats": {
@@ -869,5 +860,5 @@
     "division": "AL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-16T15:16:01.345Z"
+  "generatedAt": "2026-10-18T14:23:33.393Z"
 }

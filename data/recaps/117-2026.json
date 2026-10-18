@@ -1,47 +1,55 @@
 {
   "teamId": 117,
   "year": 2026,
-  "narrative": "The 2026 Houston Astros were a team that spent most of the year searching for an identity, lurching between stretches of genuine promise and prolonged disappointment before ultimately landing on the knife's edge of mediocrity at 81-81. The season opened with a brutal April collapse — an 8-18 record that threatened to bury Houston before summer even arrived — punctuated by a lights-out stretch from opposing pitching and bullpen meltdowns that became the signature of the early months. Carlos Correa's clutch single in early April offered a fleeting glimpse of what this lineup could do, but Bryan King's relief outings became symbolic of Houston's struggles to protect leads, surrendering critical extra-base hits that flipped games and defined the team's helplessness in close situations.\n\nThe turnaround began quietly in May and gained real momentum through June and July, when the Astros went a combined 29-21 and rediscovered their offensive identity. Cam Smith emerged as an unexpected force, delivering timely triples and home runs that energized a lineup anchored by the ageless Jose Altuve and the thunderous Yordan Alvarez. Altuve's three-run homer in June and Alvarez's grand slam on the final day of the month were emblematic of a team that, when firing on all cylinders, could still match anyone in the American League. Joey Loperfido's first career homer — a three-run shot that carried a massive win probability swing of 0.575 — was the signature moment of the summer surge, an injection of youth and excitement that made Houston fans dare to believe in October.\n\nAugust and September brought the Astros back down to earth, though not catastrophically. Daulton Varsho and Christian Walker provided back-to-back heroics on August 14th to keep the playoff push alive, but Bryan Abreu's inability to hold late leads — most devastatingly when Ronald Acuña Jr. unloaded a grand slam in September — underscored the team's fatal flaw: a bullpen that couldn't be trusted when it mattered most. The Astros scraped their way into the Wild Card round more on inertia than dominance, their 734 runs scored and 4.45 ERA telling the story of a team that hit enough to survive but pitched just enough to stay vulnerable.\n\nThe postseason was a microcosm of everything that had defined Houston's year. Across two Wild Card games, the Astros fought gamely — Nelson Velázquez and Cam Smith homered, and Altuve added a postseason blast — but the bullpen cracked again, and the offense couldn't sustain pressure when it counted. A Chase Meidroth three-run homer off Bryan Abreu in Game 2 was the killing blow, a gut-punch that ended Houston's October in the cruelest way possible: not with a whimper, but with the same reliever who had haunted them all September. The 2026 Astros will be remembered as a team of enough — enough talent to get in, not enough consistency to go anywhere once they arrived.",
+  "narrative": "The 2026 Houston Astros were a team caught between identities — too talented to collapse, too inconsistent to truly contend. They opened the year with a respectable 4-2 March, carried largely by the clutch brilliance of Carlos Correa, whose early-April single ignited a rally that briefly suggested the Astros would be the force they had been in prior seasons. But April quickly curdled into a 8-18 nightmare, as relief pitching disasters — headlined by Bryan King allowing back-to-back crushing extra-base hits — buried the team in the standings before May even arrived.\n\nThe summer months told the story of a resilient but flawed club. May was a near-.500 grind, stabilized by a dramatic late-game single from young Cam Smith that erased the memory of Altuve's costly double play just innings earlier. June became the season's emotional high-water mark: a 16-11 month powered by Loperfido's stunning three-run homer, Alvarez's grand slam on the final day of the month, and a pair of key clutch hits from Smith and Paredes. For a few weeks in late June, the Astros looked like a team remembering who they were.\n\nJuly and August kept the dream alive just enough. The Astros played winning baseball through the summer heat, with Walker's three-run blast in mid-August and a walk-off single from Daulton Varsho highlighting a stretch that kept Houston in wild card contention. But September was where the wheels came off. Bryan Abreu's implosion — surrendering a Ronald Acuña Jr. grand slam in a game Houston desperately needed — encapsulated the bullpen's inability to close out tight games, and the team limped to an 11-13 September finish, scraping into the Wild Card on the skin of their teeth.\n\nThe postseason was mercifully brief and brutally honest. Over two Wild Card games, the Astros showed flashes — Velázquez homered, Smith and Altuve went deep — but the pitching staff, so unreliable all year, could not hold leads. Bryan King and Hunter Brown both surrendered critical hits, and in the final frames the season ended not with a roar but with Alvarez and Altuve making quiet outs, their bats going silent when Houston needed them most. An 81-81 team that survived April to reach October ultimately could not survive October itself.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Early Sparks, Early Pain",
-      "description": "A promising Opening Week flicker from Correa is quickly swallowed by an 8-18 April that puts Houston in a deep hole.",
+      "title": "Fool's Gold",
+      "description": "A promising early flash from Correa gives way to a brutal April collapse that digs Houston into a deep early hole.",
       "startClipIndex": 0,
-      "endClipIndex": 0,
-      "tone": "struggle"
-    },
-    {
-      "id": "ch2",
-      "title": "Bryan King's Bad Week",
-      "description": "Back-to-back relief disasters in late April — a double and a triple surrendered in consecutive outings — crystallize the bullpen's fragility and deepen the team's early-season wounds.",
-      "startClipIndex": 1,
       "endClipIndex": 2,
       "tone": "struggle"
     },
     {
+      "id": "ch2",
+      "title": "Grinding Back",
+      "description": "Cam Smith's clutch single caps a dramatic May comeback, signaling the Astros won't go quietly despite their rocky start.",
+      "startClipIndex": 3,
+      "endClipIndex": 4,
+      "tone": "turning_point"
+    },
+    {
       "id": "ch3",
       "title": "The Summer Surge",
-      "description": "From a gut-punch double play to Cam Smith's clutch single and then a remarkable June run powered by Altuve, Alvarez, Loperfido, and Paredes, Houston roars back to life with a 29-21 combined May-June record.",
-      "startClipIndex": 3,
+      "description": "A 16-11 June powered by Loperfido, Alvarez, Altuve, and Smith gives Houston its best baseball of the season and wild card hope.",
+      "startClipIndex": 5,
       "endClipIndex": 10,
       "tone": "triumph"
     },
     {
       "id": "ch4",
-      "title": "Staying Alive",
-      "description": "August heroics from Varsho and Walker keep the playoff push breathing, but Abreu's grand slam surrender to Acuña in September reveals that the team's fatal flaw is still very much alive.",
+      "title": "Holding the Line",
+      "description": "Walker's three-run blast and Varsho's clutch single fuel a winning July-August stretch that keeps the Astros in the playoff race.",
       "startClipIndex": 11,
-      "endClipIndex": 14,
-      "tone": "turning_point"
+      "endClipIndex": 12,
+      "tone": "clutch"
     },
     {
       "id": "ch5",
-      "title": "October's Brief Flame",
-      "description": "The Astros fight hard across two Wild Card games — Velázquez, Smith, and Altuve all go deep — but the bullpen cracks one final time and Houston's season ends on a Meidroth grand slam.",
+      "title": "September Unraveling",
+      "description": "Cam Smith's solo shot provides a bright spot, but Abreu's grand slam implosion against Acuña epitomizes a bullpen that cannot hold games.",
+      "startClipIndex": 13,
+      "endClipIndex": 14,
+      "tone": "struggle"
+    },
+    {
+      "id": "ch6",
+      "title": "October's Bitter End",
+      "description": "Houston's Wild Card run produces individual heroics but the pitching staff surrenders too many runs, ending the season in swift elimination.",
       "startClipIndex": 15,
       "endClipIndex": 22,
-      "tone": "clutch"
+      "tone": "struggle"
     }
   ],
   "clips": [
@@ -555,5 +563,5 @@
     "division": "AL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-16T15:13:26.743Z"
+  "generatedAt": "2026-10-18T14:21:04.840Z"
 }

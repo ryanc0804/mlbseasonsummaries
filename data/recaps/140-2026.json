@@ -1,52 +1,44 @@
 {
   "teamId": 140,
   "year": 2026,
-  "narrative": "The 2026 Texas Rangers entered the season as a team with championship pedigree but quickly found themselves in a difficult early stretch. A sharp March start — going 4-1 — gave fans hope, but April unraveled fast, with the bullpen and rotation both delivering gut-punch moments. Jacob Latz and Chris Martin were victimized for back-to-back damaging hits that sent the Rangers into a 11-15 April hole, and Corey Seager's double-play grounder in a late-game situation summed up the offensive frustration. The Rangers were a team playing tight games and losing them in the worst ways.\n\nMay offered little relief on paper — a 13-15 record — but the numbers concealed something important: Jake Burger and Danny Jansen were beginning to show up in the biggest moments. Burger's two clutch singles in May, including a go-ahead shot on May 13th alongside Jansen's immediate follow-up run-scorer, were the kind of back-to-back plays that signal a lineup finding its identity. June rewarded that optimism with the team's best month of the year, a 16-11 run that temporarily lifted Texas into contention territory.\n\nThe second half of the season has been a grinding test of endurance. Cole Winn was torched for back-to-back costly home runs in late June and late July, and Jacob Latz continued to struggle in high-leverage spots deep into September. Yet August produced genuine bright spots — Ezequiel Duran's ground-rule double, then Wyatt Langford's clutch line drive, then Duran again with a sharp grounder to bring in Langford — a mid-month stretch that felt like the Rangers could still will themselves back into contention.\n\nAs September plays out, the Rangers sit at 80-82, their fate still mathematically uncertain but clearly hanging by a thread. The late-season performances of Latz and Junis giving up crucial home runs to Tampa Bay and Seattle have kept Texas from building any momentum. Justin Foscue's clutch double on September 5th showed the lineup still has life, but the pitching staff remains the unresolved question. Whether this team can close the gap with a winning September finish remains to be seen — this season has been defined by moments of promise repeatedly undercut by late-game collapses.",
+  "narrative": "The 2026 Texas Rangers have been a team defined by inconsistency, flashing brilliance in stretches only to stumble back toward mediocrity before they can build any lasting momentum. They burst out of the gate in March with a 4-1 mark, offering early hope that a bounce-back campaign was in store, but April quickly revealed the team's vulnerabilities — a 11-15 month shaped by bullpen meltdowns, crushing long balls surrendered in tight spots, and moments where the lineup couldn't capitalize when it mattered most. Jacob Latz emerged as a recurring villain in his own team's story, surrendering pivotal home runs and extra-base hits at the worst possible times, while the Rangers' offense sputtered through crucial late-inning situations.\n\nMay was another losing month on balance, but it produced some of the season's most electric individual moments — Jake Burger announcing himself as a clutch presence with back-to-back line-drive singles that swung outcomes, and Danny Jansen chipping in timely hits that briefly gave the lineup a pulse. June was the Rangers' best month of the season at 16-11, a stretch where the offense and pitching aligned just enough to string wins together, even as Cole Winn absorbed a damaging homer late in the month. It was the one window where Texas looked like a team with genuine playoff aspirations.\n\nJuly and August brought the Rangers back to earth. Winn surrendered another crushing three-run shot in late July, and the team hovered around the .500 line without ever breaking through it. August was a losing month again at 13-15, though Ezequiel Duran's ground-rule double and Wyatt Langford's clutch extra-base hits provided isolated bright spots that kept the clubhouse from fully unraveling. The month also showcased the team's internal contradictions — capable of winning individual games dramatically, but unable to sustain a run.\n\nSeptember has brought a 12-12 pace so far that mirrors the season itself: maddeningly even. Jacob Latz has continued to be a liability in high-leverage spots, surrendering multi-run home runs in back-to-back series that have kept the Rangers from climbing back into contention. Justin Foscue has provided some late-season optimism with timely doubles, hinting at a young piece the franchise can build on. At 80-82, the Rangers are a below-.500 club whose season has been a story of almost — almost breaking through in June, almost finding their identity in late summer, almost putting together the sustained run their talent suggested was possible.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Fast Start, Slow Fade",
-      "description": "A promising 4-1 March gives way to a brutal April as the bullpen bleeds runs in the highest-leverage moments.",
+      "title": "False Start in the Desert",
+      "description": "A promising March evaporates as April delivers bullpen disasters and costly surrendered moments that put Texas in an early hole.",
       "startClipIndex": 0,
       "endClipIndex": 3,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "Burger Steps Up",
-      "description": "Jake Burger and Danny Jansen deliver back-to-back clutch hits to inject life into a Rangers lineup searching for an identity.",
+      "title": "Burger's Spark",
+      "description": "Jake Burger and Danny Jansen provide clutch hits that give the Rangers life in May, hinting at an offense capable of rising to the moment.",
       "startClipIndex": 4,
-      "endClipIndex": 5,
+      "endClipIndex": 7,
       "tone": "clutch"
     },
     {
       "id": "ch3",
       "title": "June Surge",
-      "description": "Texas posts its best month of the season at 16-11, riding offensive momentum into the heart of summer.",
-      "startClipIndex": 6,
-      "endClipIndex": 7,
+      "description": "The Rangers put together their best baseball of the season with a 16-11 June, briefly looking like legitimate contenders despite a late Cole Winn stumble.",
+      "startClipIndex": 8,
+      "endClipIndex": 8,
       "tone": "triumph"
     },
     {
       "id": "ch4",
-      "title": "Winn and the Walls Come Down",
-      "description": "Cole Winn is burned for damaging home runs in June and July as the Rangers' second-half struggles take shape.",
-      "startClipIndex": 8,
-      "endClipIndex": 9,
-      "tone": "struggle"
-    },
-    {
-      "id": "ch5",
-      "title": "August Flicker",
-      "description": "Duran and Langford combine for a stunning mid-August sequence that briefly reignites playoff hopes in Arlington.",
-      "startClipIndex": 10,
+      "title": "Late-Summer Flickers",
+      "description": "Duran and Langford provide electric moments in August but the Rangers cannot string enough wins together to escape the .500 gravitational pull.",
+      "startClipIndex": 9,
       "endClipIndex": 12,
       "tone": "turning_point"
     },
     {
-      "id": "ch6",
-      "title": "September's Verdict",
-      "description": "Late-season home runs allowed by Latz and Junis keep the Rangers treading water as the calendar runs out on their 2026 chances.",
+      "id": "ch5",
+      "title": "September and the Grind",
+      "description": "The Rangers battle to a 12-12 September pace while Jacob Latz's repeated late-game implosions and isolated young-talent highlights define a season that never quite found its ceiling.",
       "startClipIndex": 13,
       "endClipIndex": 16,
       "tone": "struggle"
@@ -271,8 +263,6 @@
       "title": "Double — Ezequiel Duran",
       "description": "Ezequiel Duran hits a ground-rule double (22) on a fly ball to right field. Jake Burger scores. Corey Seager to 3rd.",
       "playId": "c9107e7d-1308-3a56-b3ad-e834d1ebb3df",
-      "videoUrl": "https://sporty-clips.mlb.com/eUx3UERfWGw0TUFRPT1fVlFoUVZGTlJVVllBQ1ZFQ1hnQUhVQU5RQUFNR0FnVUFWMTBHQkZjRVZGRUhBMVlB.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/hsit4puwse1dy2b67buq.jpg",
       "date": "2026-08-04",
       "gamePk": 822865,
       "atBatNumber": 79,
@@ -286,15 +276,14 @@
       "wpa": 0.403,
       "xwoba": 0.276,
       "eventType": "double",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/eUx3UERfWGw0TUFRPT1fVlFoUVZGTlJVVllBQ1ZFQ1hnQUhVQU5RQUFNR0FnVUFWMTBHQkZjRVZGRUhBMVlB.mp4"
     },
     {
       "id": "822857-75-10",
       "title": "Double — Wyatt Langford",
       "description": "Wyatt Langford doubles (15) on a line drive to right fielder Josh Lowe. Evan Carter scores.",
       "playId": "4c7910b2-f40f-3f01-83c2-28ecd7b169b9",
-      "videoUrl": "https://sporty-clips.mlb.com/YkJMdzRfV0ZRVkV3dEdEUT09X0FsSldYVlVFQkFBQVhsWUNBQUFIVndaWEFGa0dBRk1BQUYxUVUxY0NVd0pUQ1ZCZg==.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/d6pvrtvsnphbjsksfbe4.jpg",
       "date": "2026-08-21",
       "gamePk": 822857,
       "atBatNumber": 75,
@@ -308,15 +297,14 @@
       "wpa": 0.443,
       "xwoba": 0.838,
       "eventType": "double",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/YkJMdzRfV0ZRVkV3dEdEUT09X0FsSldYVlVFQkFBQVhsWUNBQUFIVndaWEFGa0dBRk1BQUYxUVUxY0NVd0pUQ1ZCZg==.mp4"
     },
     {
       "id": "822857-77-10",
       "title": "Single — Ezequiel Duran",
       "description": "Ezequiel Duran singles on a sharp ground ball to third baseman Denzer Guzman. Wyatt Langford scores. Brandon Nimmo to 2nd. Throwing error by third baseman Denzer Guzman.",
       "playId": "c0db5f8d-6eb8-3a71-9d9c-b3848d5c4580",
-      "videoUrl": "https://sporty-clips.mlb.com/YkJMdzRfV0ZRVkV3dEdEUT09X1ZRRUZCbEZTWGxZQURnZFFYZ0FIVUFGWEFGaFJXZ0lBVUZZTkJBdFJCRkJSQlFwVw==.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/b6rhwqzk5xghell7xntf.jpg",
       "date": "2026-08-21",
       "gamePk": 822857,
       "atBatNumber": 77,
@@ -330,15 +318,14 @@
       "wpa": 0.386,
       "xwoba": 0.489,
       "eventType": "single",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/YkJMdzRfV0ZRVkV3dEdEUT09X1ZRRUZCbEZTWGxZQURnZFFYZ0FIVUFGWEFGaFJXZ0lBVUZZTkJBdFJCRkJSQlFwVw==.mp4"
     },
     {
       "id": "822850-60-8",
       "title": "Double — Justin Foscue",
       "description": "Justin Foscue doubles (11) on a line drive to center fielder Cedric Mullins. Cam Cauley scores.",
       "playId": "9a8a0b52-90ab-3277-896b-6d28f6e184c1",
-      "videoUrl": "https://sporty-clips.mlb.com/TkFOMGRfWGw0TUFRPT1fRDFCWkJWUldVd0FBQVZKVEJBQUhBd0ZSQUZrTVZRTUFCQUVIQ0ZVRFZBSmRCRkZY.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/kx5nbakxamqqnwqc1jcs.jpg",
       "date": "2026-09-05",
       "gamePk": 822850,
       "atBatNumber": 60,
@@ -352,7 +339,8 @@
       "wpa": 0.373,
       "xwoba": 0.821,
       "eventType": "double",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/TkFOMGRfWGw0TUFRPT1fRDFCWkJWUldVd0FBQVZKVEJBQUhBd0ZSQUZrTVZRTUFCQUVIQ0ZVRFZBSmRCRkZY.mp4"
     },
     {
       "id": "822850-72-10",
@@ -430,5 +418,5 @@
     "division": "AL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-16T15:18:38.267Z"
+  "generatedAt": "2026-10-18T14:26:05.482Z"
 }

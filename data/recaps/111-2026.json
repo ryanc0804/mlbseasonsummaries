@@ -1,44 +1,44 @@
 {
   "teamId": 111,
   "year": 2026,
-  "narrative": "The 2026 Boston Red Sox arrived at Opening Day with cautious optimism, and Wilyer Abreu gave the Fenway faithful exactly what they wanted in the very first series — a go-ahead blast that set the tone for a franchise eager to return to October. But the early promise curdled fast. The bullpen, anchored by a shaky Greg Weissert and a wildly inconsistent Aroldis Chapman, bled runs almost as fast as the offense could supply them, and Boston stumbled through March and April at a losing pace, finishing the calendar months a combined 12-19 and already staring up at the division.\n\nMay and June were a fight for survival. Willson Contreras delivered the swing of the first half — a two-run bomb with WPA north of .500 that ignited a modest hot stretch — and the pitching staff steadied enough to go 25-28 over those two months. Chapman, repurposed as a reliever, continued to be a liability, surrendering a brutal three-run triple in late June that encapsulated Boston's maddening inability to close games. The Red Sox were a .500 team at best, surviving on individual heroics rather than any systemic strength.\n\nJuly changed everything. Boston went an extraordinary 21-4, the kind of month that turns a fringe contender into a genuine threat. Wilyer Abreu kept raking, homering for the 15th time in mid-July. Ceddanne Rafaela crashed a grand slam late in the month that served as the exclamation point on an unforgettable run. The team's pitching tightened, the lineup found its rhythm, and suddenly 87 wins — and a Wild Card berth — felt not just possible but inevitable. August brought regression, a 17-12 record that still padded the win total even as Chapman continued to haunt the bullpen and a late-August wild pitch cost Boston a game it should have had.\n\nThe postseason, however, was a different story. Matched up in the Wild Card against the Yankees, Boston's October lasted exactly two games. Rookie starter Payton Tolle was touched for key hits in Game 1, and the offense couldn't sustain anything meaningful. In Game 2, veteran Sonny Gray surrendered a solo shot to Luis García Jr., and though Willson Contreras gave Fenway a fleeting moment of hope with a reviewed-and-upheld home run, Erik Miller couldn't hold the lead and Cody Bellinger's single ended the threat. The Red Sox were eliminated in the Wild Card round, their summer brilliance unable to carry them past a Yankees squad that matched their hunger. It was a season of extremes — a July for the ages bookending months of frustration — leaving Boston to wonder how close they truly were.",
+  "narrative": "The 2026 Boston Red Sox were a team defined by resilience and frustrating inconsistency, a club that never quite found a sustained rhythm but always found a way to stay in the conversation. They opened the year stumbling through March and April, with the bullpen — most notably Greg Weissert and Aroldis Chapman — bleeding runs in high-leverage situations while the offense tried to compensate. Wilyer Abreu announced himself as a legitimate force with a first-week homer, but the early returns were a net negative, and the Red Sox entered May below .500 and searching for answers.\n\nThe calendar turned and so did Boston's fortunes, at least partially. A dramatic May that included Willson Contreras launching a go-ahead two-run shot gave the club a pulse, and though the bullpen continued to falter, the offense started producing in bunches. June was a grind — Chapman remained a liability, and a brutal triple allowed in a late-inning spot sank one game emphatically — but the team treaded water at 12-14. Then came July, and everything clicked. The Red Sox went a scorching 21-4, the best month of anyone's season, fueled by Abreu's power surge, Ceddanne Rafaela's grand slam, and a rotation and lineup that finally operated in harmony. It was the kind of month that transforms a middling team into a genuine playoff contender.\n\nAugust brought the regression that so often follows a dream month. The Red Sox went 17-12 — good, not great — as Chapman continued to torch leads and the bullpen showed its fragility in multiple gut-punch losses. But the offense stayed alive, with Nick Sogard emerging as an unlikely hero with clutch doubles, and Jarren Duran delivering a grand slam that saved at least one series. September was a wash at 12-12, though Trevor Story's three-run homer in mid-month provided one last signature moment of the regular season. Boston finished 87-75, a Wild Card berth earned largely on the strength of that historic July.\n\nThe postseason was brief and painful. Matched up in the Wild Card round against the Yankees, the Red Sox dropped both games in a quiet offensive display. Payton Tolle and Erik Miller struggled to contain New York's lineup, Contreras delivered one defiant home run to keep hopes flickering in Game 2, but Ben Rice, Luis García Jr., and Cody Bellinger proved too much to overcome. The season that had soared so high in July ended in October silence — a reminder that one brilliant month, however dazzling, is rarely enough to carry a team all the way.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Fast Start, Faster Fall",
-      "description": "Abreu's Opening Day blast sparks hope, but bullpen collapses sink Boston through a brutal early stretch.",
+      "title": "Rocky Launch",
+      "description": "Boston stumbles out of the gate as bullpen meltdowns overshadow Abreu's early power.",
       "startClipIndex": 0,
       "endClipIndex": 4,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "Grinding Through the Middle",
-      "description": "Contreras and the offense provide flashes of brilliance, but Chapman's inconsistency keeps Boston hovering around .500.",
+      "title": "Finding Footing",
+      "description": "Contreras delivers a pivotal May blast as the Red Sox grind their way back toward relevance.",
       "startClipIndex": 5,
       "endClipIndex": 11,
       "tone": "turning_point"
     },
     {
       "id": "ch3",
-      "title": "The July Explosion",
-      "description": "A historic 21-4 month fueled by Abreu's power and Rafaela's grand slam launches Boston into Wild Card contention.",
+      "title": "The July Rocket",
+      "description": "A blistering 21-4 month, ignited by Abreu, Rafaela, and a lineup operating at its ceiling, rockets Boston into playoff position.",
       "startClipIndex": 12,
       "endClipIndex": 14,
       "tone": "triumph"
     },
     {
       "id": "ch4",
-      "title": "Holding On in August",
-      "description": "The Red Sox win more than they lose but fight through bullpen miscues and late-game drama to secure their playoff spot.",
+      "title": "Holding On",
+      "description": "August and September bring clutch moments from Sogard, Duran, and Story amid continued bullpen turbulence as Boston clings to a Wild Card spot.",
       "startClipIndex": 15,
       "endClipIndex": 23,
       "tone": "clutch"
     },
     {
       "id": "ch5",
-      "title": "October Ends Too Soon",
-      "description": "Boston's Wild Card run against the Yankees lasts just two games as the pitching staff can't hold leads and the offense goes quiet.",
+      "title": "October Exit",
+      "description": "A spirited but ultimately futile Wild Card showing against the Yankees ends Boston's season in two games.",
       "startClipIndex": 24,
       "endClipIndex": 31,
       "tone": "struggle"
@@ -347,6 +347,8 @@
       "title": "Home Run — Ceddanne Rafaela",
       "description": "Ceddanne Rafaela hits a grand slam (11) to left center field. Connor Wong scores. Willson Contreras scores. Wilyer Abreu scores.",
       "playId": "36d1e997-5ec9-366b-b3fc-9845d7b81931",
+      "videoUrl": "https://sporty-clips.mlb.com/R0IzNkFfWGw0TUFRPT1fQlFjRlZRRU5Yd1VBRFFkUlh3QUhCd0FFQUFNR0JRSUFDMTBCQlZjQ1V3dFVDUUZY.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/kax73yh56xluihkqmw6r.jpg",
       "date": "2026-07-27",
       "gamePk": 824977,
       "atBatNumber": 43,
@@ -360,8 +362,7 @@
       "wpa": 0.415,
       "xwoba": 0.191,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/R0IzNkFfWGw0TUFRPT1fQlFjRlZRRU5Yd1VBRFFkUlh3QUhCd0FFQUFNR0JRSUFDMTBCQlZjQ1V3dFVDUUZY.mp4"
+      "gameType": "R"
     },
     {
       "id": "824729-85-9",
@@ -737,5 +738,5 @@
     "division": "AL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-16T15:01:25.330Z"
+  "generatedAt": "2026-10-18T14:09:35.974Z"
 }

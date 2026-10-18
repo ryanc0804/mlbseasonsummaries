@@ -1,47 +1,55 @@
 {
   "teamId": 144,
   "year": 2026,
-  "narrative": "The 2026 Atlanta Braves arrived with something to prove after a quiet offseason, and they wasted no time making their case. April was a revelation — a 19-8 record fueled by timely power and clutch hitting that announced Atlanta as a genuine contender. Dominic Smith's go-ahead double in mid-April and Matt Olson's ninth home run of the month were emblematic of a lineup that felt almost unstoppable, and May carried much of that same momentum, with Michael Harris II emerging as a centerpiece and the club finishing 18-10 to stand comfortably above the division.\n\nJune brought the first real test, and the Braves stumbled to a 9-15 mark that exposed real vulnerability in the bullpen. Raisel Iglesias became a recurring nightmare — surrendering a walk-off two-run shot on June 9th in one of the season's most gut-wrenching moments — and the offense went quiet at the worst times. It was the kind of month that could unravel a team, but Atlanta steadied itself before falling too far.\n\nJuly and August were the defining stretch that separated this Braves club from pretenders. Despite more bullpen heartbreak — Iglesias blew another lead on July 6th as Juan Soto crushed a three-run homer — the lineup responded every time. Ozzie Albies, Matt Olson, and Harris kept the offense humming, and a 16-11 July followed by a 17-11 August showed a team with genuine resilience. Ronald Acuña Jr.'s grand slam on September 19th was the exclamation point on a strong second half, and a 94-win season earned Atlanta a playoff berth.\n\nThe postseason began with drama and ended with heartbreak. The Wild Card round against Philadelphia was a knife fight — Austin Riley's go-ahead three-run homer in Game 1 gave Atlanta the lead, but the Phillies clawed back in Game 2 with back-to-back home runs from Bryce Harper and Alec Bohm off a struggling bullpen. The Braves survived to reach the NLDS, but a Robert Suarez-era collapse in the decisive game — surrendering two critical runs on a late Andy Pages single — closed the book on a season that showed both the ceiling and the stubborn limits of this roster.",
+  "narrative": "The 2026 Atlanta Braves arrived with something to prove, and early on they made their case loudly. A blistering April — 19 wins against just 8 losses — set the tone, powered by Matt Olson's booming home runs and a lineup that could erupt at any moment. Dominic Smith's two-run double in mid-April and Olson's ninth home run to close the month announced that this was a team with genuine offensive teeth, backed by a rotation and bullpen capable of posting a 3.63 ERA over a full season.\n\nMay and early June brought the first tests of character. The offense kept producing — Michael Harris II was emerging as a star, and Chadwick Tromp delivered in crucial spots — but the pitching began to show cracks. Bryce Elder and Dylan Lee were torched in high-leverage moments, and the bullpen, particularly Raisel Iglesias, became a source of real anxiety. June cratered to 9-15, the one true stumble of the season, as Iglesias surrendered a gut-punch two-run homer that encapsulated the month's misery. Yet even in the rubble, Ozzie Albies answered with a massive two-run blast on June 20 that hinted the Braves were not broken, merely tested.\n\nJuly and August told the story of a team rediscovering itself. The record swung back to 16-11 and then 17-11 as the lineup deepened with contributions from Joey Bart, Mauricio Dubón capitalizing on a Masyn Winn error, and the mid-season addition of Ha-Seong Kim, who slotted in smoothly and delivered in the clutch. Michael Harris II's August double was a thing of beauty, and Sean Murphy's September grand slam and walk-off single in an epic September 11 rally — capped by Drake Baldwin's go-ahead double — crystallized a team that had grown into something formidable. Ronald Acuña Jr.'s grand slam on September 19 put an exclamation point on a 94-win campaign.\n\nThe postseason began with promise and ended in heartbreak. Atlanta dispatched their Wild Card opponent behind Austin Riley's three-run blast and solid contributions across the roster, advancing to the NLDS with momentum. But the Division Series proved a bridge too far. Robert Suarez surrendered the decisive blow as the Dodgers surged late, sending the Braves home with 94 wins and a division series exit that will sting through the winter. A team that survived a brutal June collapse and won with depth, pitching, and timely hitting ultimately ran into a buzzsaw in October, leaving unfinished business hanging over Truist Park.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "April Dominance",
-      "description": "The Braves tear through April with a blistering 19-8 record, powered by Olson's power surge and timely clutch hitting up and down the lineup.",
+      "title": "Hot Out of the Gate",
+      "description": "Atlanta tears through April with one of the best records in baseball, powered by Matt Olson's thunder and a dominant starting rotation.",
       "startClipIndex": 0,
       "endClipIndex": 1,
       "tone": "triumph"
     },
     {
       "id": "ch2",
-      "title": "May Momentum",
-      "description": "Atlanta stays hot at 18-10 as Michael Harris II cements his star status and the offense continues to carry the team.",
+      "title": "Cracks in the Foundation",
+      "description": "May brings continued offensive fireworks but the pitching staff begins to falter, setting the stage for a brutal June collapse.",
       "startClipIndex": 2,
-      "endClipIndex": 2,
-      "tone": "triumph"
-    },
-    {
-      "id": "ch3",
-      "title": "June Stumble",
-      "description": "A brutal 9-15 June exposes bullpen fragility, with Raisel Iglesias surrendering critical late-game leads and the offense going cold.",
-      "startClipIndex": 3,
-      "endClipIndex": 7,
+      "endClipIndex": 6,
       "tone": "struggle"
     },
     {
-      "id": "ch4",
-      "title": "Grinding Back",
-      "description": "Despite more bullpen drama, the Braves post winning records in July and August and September to lock up a playoff spot behind a resilient core.",
-      "startClipIndex": 8,
-      "endClipIndex": 22,
+      "id": "ch3",
+      "title": "Rock Bottom and the Climb Back",
+      "description": "A 9-15 June tests the Braves' resolve as the bullpen implodes, but Ozzie Albies delivers a signature moment that sparks the turnaround.",
+      "startClipIndex": 7,
+      "endClipIndex": 8,
       "tone": "turning_point"
     },
     {
+      "id": "ch4",
+      "title": "Finding Their Footing",
+      "description": "July and August see Atlanta stabilize and surge, with Harris, Murphy, Kim, and a revitalized lineup powering back-to-back winning months.",
+      "startClipIndex": 9,
+      "endClipIndex": 17,
+      "tone": "triumph"
+    },
+    {
       "id": "ch5",
-      "title": "October Heartbreak",
-      "description": "Atlanta battles through a tense Wild Card series before falling in the NLDS, their season ending on a painful late-inning collapse.",
+      "title": "September Surge",
+      "description": "The Braves close the regular season with clutch performances from Murphy, Kim, Baldwin, and Acuña Jr. to secure 94 wins and a playoff berth.",
+      "startClipIndex": 18,
+      "endClipIndex": 22,
+      "tone": "clutch"
+    },
+    {
+      "id": "ch6",
+      "title": "October's Promise and Pain",
+      "description": "Atlanta storms through the Wild Card behind Riley's three-run blast before running out of answers against the Dodgers in the NLDS.",
       "startClipIndex": 23,
       "endClipIndex": 30,
-      "tone": "clutch"
+      "tone": "struggle"
     }
   ],
   "clips": [
@@ -50,8 +58,6 @@
       "title": "Double — Dominic Smith",
       "description": "Dominic Smith doubles (2) on a fly ball to center fielder Jakob Marsee. Drake Baldwin scores. Mike Yastrzemski scores. Ozzie Albies scores.",
       "playId": "d066f9a2-c349-3c10-a5b9-fb999322ca95",
-      "videoUrl": "https://sporty-clips.mlb.com/YVl4YkJfWGw0TUFRPT1fVWdGWFVnSU5Cd0FBVzFFR1h3QUhVZ2RXQUFBQUFWZ0FWQWNNQ1FvR0F3RUdVUXRU.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/c5jbkvfxmv2nif1fko7u.jpg",
       "date": "2026-04-14",
       "gamePk": 824935,
       "atBatNumber": 67,
@@ -65,15 +71,14 @@
       "wpa": 0.671,
       "xwoba": 0.77,
       "eventType": "double",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/YVl4YkJfWGw0TUFRPT1fVWdGWFVnSU5Cd0FBVzFFR1h3QUhVZ2RXQUFBQUFWZ0FWQWNNQ1FvR0F3RUdVUXRU.mp4"
     },
     {
       "id": "824930-67-9",
       "title": "Home Run — Matt Olson",
       "description": "Matt Olson homers (9) on a fly ball to right center field. Ozzie Albies scores.",
       "playId": "94afefa3-de13-35c1-91bf-965105c72adf",
-      "videoUrl": "https://sporty-clips.mlb.com/ZzZsdmJfWGw0TUFRPT1fRHdVQUFnRlNCd0VBWEFjRFZRQUhCRlZYQUZnRUFRY0FDMU1BQVFNQVVnUlhVVllB.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/spzxjvguiliobxm2cwzq.jpg",
       "date": "2026-04-29",
       "gamePk": 824930,
       "atBatNumber": 67,
@@ -87,7 +92,8 @@
       "wpa": 0.699,
       "xwoba": 1.474,
       "eventType": "home_run",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/ZzZsdmJfWGw0TUFRPT1fRHdVQUFnRlNCd0VBWEFjRFZRQUhCRlZYQUZnRUFRY0FDMU1BQVFNQVVnUlhVVllB.mp4"
     },
     {
       "id": "824366-70-9",
@@ -158,8 +164,6 @@
       "title": "Single — Chadwick Tromp",
       "description": "Chadwick Tromp singles on a sharp line drive to center fielder Dylan Crews. Eli White scores.",
       "playId": "a03ff424-e6cc-3403-acd1-fde9c821f1d0",
-      "videoUrl": "https://sporty-clips.mlb.com/N3lXWUFfWGw0TUFRPT1fVndGU0FnSUFWQVlBWFZSUkJRQUhCUVpWQUFCV0IxQUFWQUZRQ1ZBTkF3SURBVlpX.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/bjmafza3bjmescgomq3m.jpg",
       "date": "2026-05-22",
       "gamePk": 824922,
       "atBatNumber": 90,
@@ -173,15 +177,14 @@
       "wpa": 0.407,
       "xwoba": 0.722,
       "eventType": "single",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/N3lXWUFfWGw0TUFRPT1fVndGU0FnSUFWQVlBWFZSUkJRQUhCUVpWQUFCV0IxQUFWQUZRQ1ZBTkF3SURBVlpX.mp4"
     },
     {
       "id": "824916-52-7",
       "title": "Double — Michael Harris II",
       "description": "Michael Harris II doubles (9) on a sharp line drive to right fielder Ryan O'Hearn. Dominic Smith scores. Mike Yastrzemski scores. Jorge Mateo scores.",
       "playId": "fa68318c-a844-313c-8227-06805a5802c0",
-      "videoUrl": "https://sporty-clips.mlb.com/WnhuV1dfWGw0TUFRPT1fVUZCWFhGY0ZYbEVBV1ZvR1VnQUhBQVVGQUZrSFVWWUFBbE1OQUFaVUJBdFZBbEZX.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/rmxi6dzxaopnpv9vlzoc.jpg",
       "date": "2026-06-07",
       "gamePk": 824916,
       "atBatNumber": 52,
@@ -195,7 +198,8 @@
       "wpa": 0.419,
       "xwoba": 0.725,
       "eventType": "double",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/WnhuV1dfWGw0TUFRPT1fVUZCWFhGY0ZYbEVBV1ZvR1VnQUhBQVVGQUZrSFVWWUFBbE1OQUFaVUJBdFZBbEZX.mp4"
     },
     {
       "id": "824591-87-10",
@@ -223,8 +227,6 @@
       "title": "Home Run — Ozzie Albies",
       "description": "Ozzie Albies homers (12) on a fly ball to right field. Matt Olson scores.",
       "playId": "d5c11d45-f0db-3876-beba-5af97676bbda",
-      "videoUrl": "https://sporty-clips.mlb.com/SzRYMWVfWGw0TUFRPT1fVWdRQ1ZWVlFVZ2NBWGxKV0JBQUhDUUZRQUFOUUFRQUFCd1JUQ1FRREJnVUhVbFlI.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/qug0jdaewsuzhq6j7bpj.jpg",
       "date": "2026-06-20",
       "gamePk": 824909,
       "atBatNumber": 67,
@@ -238,7 +240,8 @@
       "wpa": 0.821,
       "xwoba": 0.163,
       "eventType": "home_run",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/SzRYMWVfWGw0TUFRPT1fVWdRQ1ZWVlFVZ2NBWGxKV0JBQUhDUUZRQUFOUUFRQUFCd1JUQ1FRREJnVUhVbFlI.mp4"
     },
     {
       "id": "824900-75-9",
@@ -266,8 +269,6 @@
       "title": "Home Run — Matt Olson",
       "description": "Matt Olson homers (24) on a line drive to left field. Ozzie Albies scores.",
       "playId": "1632ca7c-8b81-337e-a19b-63f2d6bc24a1",
-      "videoUrl": "https://sporty-clips.mlb.com/MTZLTzNfWGw0TUFRPT1fQndkU1ZnZFZVVkVBQUFBS1Z3QUhBZ0VEQUFBRVdnTUFCRlpUQWxjRFUxQlhCRk5Y.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/s8uv1nexkohbjdobmgeq.jpg",
       "date": "2026-07-06",
       "gamePk": 824900,
       "atBatNumber": 78,
@@ -281,7 +282,8 @@
       "wpa": 0.368,
       "xwoba": 0.733,
       "eventType": "home_run",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/MTZLTzNfWGw0TUFRPT1fQndkU1ZnZFZVVkVBQUFBS1Z3QUhBZ0VEQUFBRVdnTUFCRlpUQWxjRFUxQlhCRk5Y.mp4"
     },
     {
       "id": "824900-87-10",
@@ -416,8 +418,6 @@
       "title": "Double — Michael Harris II",
       "description": "Michael Harris II doubles (32) on a sharp line drive to left fielder Jordan Beck, deflected by center fielder Cole Carrigg. Matt Olson scores. Mauricio Dubón scores.",
       "playId": "bd7b6101-8028-3590-b357-720985cec78d",
-      "videoUrl": "https://sporty-clips.mlb.com/ZzZsclBfWGw0TUFRPT1fVkZWV0JsSUZWZ01BQUZJQVhnQUhCQTlXQUFNR1ZsWUFCVmNGQ1FzQVVsWUdCd29D.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/sabpdoo5teudx0opskze.jpg",
       "date": "2026-08-29",
       "gamePk": 824874,
       "atBatNumber": 64,
@@ -431,7 +431,8 @@
       "wpa": 0.608,
       "xwoba": 0.892,
       "eventType": "double",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/ZzZsclBfWGw0TUFRPT1fVkZWV0JsSUZWZ01BQUZJQVhnQUhCQTlXQUFNR1ZsWUFCVmNGQ1FzQVVsWUdCd29D.mp4"
     },
     {
       "id": "822686-41-6",
@@ -728,5 +729,5 @@
     "division": "NL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-16T15:19:45.181Z"
+  "generatedAt": "2026-10-18T14:27:13.003Z"
 }

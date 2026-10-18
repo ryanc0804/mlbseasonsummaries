@@ -1,52 +1,44 @@
 {
   "teamId": 114,
   "year": 2026,
-  "narrative": "The 2026 Cleveland Guardians opened the year with a stumble, dropping three of their first six and finishing April at a flat .500 — but beneath those pedestrian numbers, the roster was quietly assembling its identity. Early bullpen misfires from Cade Smith and a brutal opener from Gavin Williams signaled that the margins would be razor-thin all year. Yet a series of clutch swings — Daniel Schneemann's grand slam, Brayan Rocchio's back-to-back bombs, and Chase DeLauter's gap-splitting triples — hinted that this lineup could manufacture moments when it mattered most.\n\nMay delivered the breakthrough Cleveland needed, an 18-11 month that announced the Guardians as legitimate contenders. Kyle Manzardo's solo shot in late May punctuated a stretch of assertive, opportunistic baseball. Then came June's gut-punch: a 10-15 collapse fueled by Cade Smith's worst stretch of the season and a devastating, overturned-tag single that flipped a game Cleveland thought it had won. The bullpen's fragility was exposed night after night, and the offense sputtered against Houston's pitching, leaving the club searching for answers heading into the summer.\n\nJuly and August were a grinding exercise in survival. Brayan Rocchio's two-run walk-off homer on July 2nd — the season's single biggest positive swing — rescued Cleveland from what could have been a fatal nosedive, and Steven Kwan's ground-rule double in late August kept a critical rally alive. The Guardians played .500 ball across both months, but they stayed within striking distance of the division, leaning on their rotation's 3.77 ERA to keep games close while their modest .696 OPS offense scratched out just enough runs.\n\nSeptember belonged to Brayan Rocchio. He doubled in two in a September 15th comeback, homered in a doubleheader sweep, and carried the club to a 16-9 finish that vaulted them into the postseason at 85-77. The Division Series brought a tense encounter — an early scare from a Braden Montgomery double, then Jo Adell's three-run triple and a José Ramírez home run to close it out. Now, in the ALCS, Cleveland holds a 2-1 series lead and is writing the most compelling chapter yet. Patrick Bailey homered in Game 1, Nathaniel Lowe's clutch single plated two in a decisive moment, and though Gavin Williams surrendered a damaging triple in Game 3, Petey Halpin answered with a two-run shot that keeps the Guardians one win closer to the pennant.",
+  "narrative": "The 2026 Cleveland Guardians opened their season with a rocky start, stumbling through March and April at a combined 16-16 as the bullpen — particularly Cade Smith and Connor Brogdon — proved to be a source of early anxiety. The offense sputtered in high-leverage moments, and it looked as though Cleveland might spend the year treading water. But the young core refused to fold, with Daniel Schneemann's grand slam and Brayan Rocchio's emerging power providing enough sparks to keep the Guardians in contention.\n\nMay became the season's turning point. Cleveland posted its best month at 18-11, riding a wave of timely hitting and a suddenly reliable rotation. Kyle Manzardo's home runs gave the lineup a left-handed thump, and the team's pitching — led by a resurgent starting staff — kept opponents off the board with consistency. The Guardians had found their identity: grind-it-out baseball with just enough pop to win close games.\n\nJune and July brought turbulence. The bullpen unraveled in critical moments, most painfully in a June stretch when Cade Smith's outings cost the team dearly, and the record dipped to 10-15 in June alone. But Brayan Rocchio's two-run walk-off homer on July 2nd — a stunning +0.786 WPA swing — crystallized what this team could be when everything clicked. August and September saw Cleveland find its footing again, with Rocchio cementing himself as the team's offensive heartbeat, posting a crucial two-run double in September that helped seal a playoff berth on the strength of a 16-9 closing surge.\n\nNow in October, the Guardians are writing their most dramatic chapter yet. They dispatched their Division Series opponent and carried that momentum into the American League Championship Series, where they currently sit knotted at two games apiece. Nathaniel Lowe's two-run single and Chase DeLauter's timely double provided early ALCS heroics, while Petey Halpin — a surprise contributor all season — delivered a home run in Game 4 to keep Cleveland alive. Gavin Williams and Daniel Espino have had their share of October struggles on the mound, but the Guardians are still standing, one series win away from the World Series, with everything to play for.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Rocky Foundations",
-      "description": "A bumpy March and April exposes early bullpen cracks, though clutch hitting from Rocchio, Schneemann, and DeLauter keeps Cleveland afloat at .500.",
+      "title": "Shaky Foundations",
+      "description": "A rocky opening stretch exposes bullpen vulnerabilities as Cleveland stumbles to a 16-16 start through March and April.",
       "startClipIndex": 0,
-      "endClipIndex": 7,
+      "endClipIndex": 4,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "May Surge",
-      "description": "Cleveland breaks out with an 18-11 month, with Manzardo and the lineup finding a rhythm that finally makes the Guardians look like contenders.",
-      "startClipIndex": 8,
+      "title": "Rocchio Rises, Cleveland Surges",
+      "description": "Back-to-back heroics from Brayan Rocchio and Chase DeLauter fuel a best-in-season May as the Guardians go 18-11 and find their identity.",
+      "startClipIndex": 5,
       "endClipIndex": 8,
       "tone": "triumph"
     },
     {
       "id": "ch3",
-      "title": "June Unravels",
-      "description": "A brutal 10-15 June sees the bullpen implode, a contested call go against Cleveland, and Houston's offense pile on, threatening to derail the season.",
+      "title": "Midsummer Turbulence",
+      "description": "A brutal June sees the bullpen implode and the record fall to 10-15, but a Rocchio walk-off in July signals the team's refusal to quit.",
       "startClipIndex": 9,
-      "endClipIndex": 12,
+      "endClipIndex": 14,
       "tone": "struggle"
     },
     {
       "id": "ch4",
-      "title": "Rocchio Saves the Summer",
-      "description": "Brayan Rocchio's walk-off two-run homer on July 2nd is the season's biggest swing, steadying a club that grinds through .500 baseball in July and August to stay alive.",
-      "startClipIndex": 13,
-      "endClipIndex": 15,
-      "tone": "clutch"
+      "title": "The September Push",
+      "description": "A 16-9 September surge — anchored by Rocchio's clutch double, Halpin's three-run homer, and Angel Martínez's power — carries Cleveland into October.",
+      "startClipIndex": 15,
+      "endClipIndex": 22,
+      "tone": "turning_point"
     },
     {
       "id": "ch5",
-      "title": "September Sprint",
-      "description": "A 16-9 September powered by Rocchio's heroics, Bazzana's clutch hits, and Halpin's timely home run propels Cleveland into the postseason at 85-77.",
-      "startClipIndex": 16,
-      "endClipIndex": 22,
-      "tone": "triumph"
-    },
-    {
-      "id": "ch6",
-      "title": "October Run",
-      "description": "The Guardians survive a tense Division Series and now lead the ALCS 2-1, with Bailey, Lowe, and Halpin delivering in high-leverage moments as Cleveland chases a pennant.",
+      "title": "October or Bust",
+      "description": "The Guardians survive the Division Series and now battle through a tied ALCS, with clutch contributions from Lowe, Halpin, and Ramírez keeping their World Series dreams alive.",
       "startClipIndex": 23,
       "endClipIndex": 30,
       "tone": "clutch"
@@ -613,28 +605,6 @@
       "gameType": "D"
     },
     {
-      "id": "849820-51-7",
-      "title": "Home Run — Patrick Bailey",
-      "description": "Patrick Bailey homers (2) on a fly ball to center field.",
-      "playId": "35b31c7e-abf9-3859-820c-7fc394dba284",
-      "videoUrl": "https://sporty-clips.mlb.com/bmJLSzhfV0ZRVkV3dEdEUT09X0JRUURWMVZYVVZjQVdRQlVYd0FIQ1FOZkFGa0hVd0lBQlFOV0F3b0JWVkVFQWdwUw==.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/c1tt5cj1o3ufirtrqwc9.jpg",
-      "date": "2026-10-12",
-      "gamePk": 849820,
-      "atBatNumber": 51,
-      "inning": 7,
-      "isTopInning": true,
-      "batter": "Patrick Bailey",
-      "pitcher": "",
-      "exitVelocity": 105.3,
-      "launchAngle": 26,
-      "distance": 436,
-      "wpa": 0.192,
-      "xwoba": 1.763,
-      "eventType": "home_run",
-      "gameType": "L"
-    },
-    {
       "id": "849820-60-8",
       "title": "Double — Chase DeLauter",
       "description": "Chase DeLauter doubles (1) on a line drive to right fielder Victor Mesa Jr. José Ramírez to 3rd.",
@@ -720,6 +690,27 @@
       "xwoba": 1.763,
       "eventType": "home_run",
       "gameType": "L"
+    },
+    {
+      "id": "849816-38-6",
+      "title": "Double — Daniel Espino",
+      "description": "Junior Caminero doubles (3) on a sharp line drive to left fielder Steven Kwan. Jonathan Aranda scores. Chandler Simpson to 3rd.",
+      "playId": "4d4e07ef-4bb4-3c84-a2fe-cc819ebf9fd7",
+      "date": "2026-10-17",
+      "gamePk": 849816,
+      "atBatNumber": 38,
+      "inning": 6,
+      "isTopInning": true,
+      "batter": "Daniel Espino",
+      "pitcher": "",
+      "exitVelocity": 110.2,
+      "launchAngle": 8,
+      "distance": 180,
+      "wpa": -0.204,
+      "xwoba": 0.746,
+      "eventType": "double",
+      "gameType": "L",
+      "videoUrl": "https://sporty-clips.mlb.com/WnhBQU5fV0ZRVkV3dEdEUT09X0FsVlZBVlFEQTFRQURBQlFVZ0FIVWc1U0FBQUhCUVFBVVFZTkFRcFFVMVZjVmxaUg==.mp4"
     }
   ],
   "seasonStats": {
@@ -731,9 +722,9 @@
     "teamEra": 3.77,
     "teamAvg": 0.239,
     "teamOps": 0.696,
-    "playoffResult": "Postseason in progress — ALCS, series 2-1",
+    "playoffResult": "Postseason in progress — ALCS, series 2-2",
     "division": "AL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-16T15:08:18.140Z"
+  "generatedAt": "2026-10-18T14:16:11.664Z"
 }

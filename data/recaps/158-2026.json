@@ -1,52 +1,44 @@
 {
   "teamId": 158,
   "year": 2026,
-  "narrative": "The 2026 Milwaukee Brewers announced themselves immediately, with Christian Yelich launching a three-run home run on Opening Day to set the tone for a season that would carry them all the way to the World Series doorstep. That early flash of brilliance masked a rocky April that saw the club finish just 12-13, with bullpen miscues and untimely double plays threatening to derail the optimism. But Milwaukee had something brewing beneath the surface, a team built on relentless depth and clutch execution that would reveal itself in spectacular fashion.\n\nMay was the turning point that defined the Brewers' season. Going 19-7, the hottest month in the National League, Milwaukee steadied itself behind timely hitting from Brice Turang, Jackson Chourio, and a pitching staff that began to lock in. June and July brought continued excellence — a 33-20 combined record — even as Aaron Ashby's rough outings and a few gut-punch losses kept the ride from feeling smooth. William Contreras's three-run blast on July 19th, a towering shot to center field that swung a crucial game, became an emblem of the Brewers' relentless ability to respond when it mattered most.\n\nAugust and September saw Milwaukee cruise to the finish line, going a combined 35-18 over those two months and piling up 103 wins overall. The offense, paced by Yelich's veteran presence, Chourio's emerging stardom, and Contreras's career year behind the plate, rang up 832 runs. The pitching staff — ERA of 3.51 — was one of the best in baseball. When the calendar flipped to October, the Brewers swept through the Division Series with Jackson Chourio delivering the signature moment, a bases-clearing single that silenced an opponent and signaled Milwaukee's October intent.\n\nNow the Brewers stand in the NLCS, having dispatched their opponents to reach this stage, facing the Los Angeles Dodgers and all their firepower — including Shohei Ohtani, who has already gone deep in the series. The games are tight, the moments enormous, and Milwaukee is still fighting. Whether Yelich, Contreras, Chourio, and a pitching staff that has carried them this far can push through the sport's ultimate gauntlet remains to be seen. The city is locked in, the roster believes, and the story of the 2026 Brewers is not yet finished.",
+  "narrative": "The 2026 Milwaukee Brewers announced themselves immediately. On Opening Day, Christian Yelich launched a three-run home run that set the tone for a franchise determined to compete at the highest level. The Brewers went a respectable 4-1 in March before a bumpy April — finishing 12-13 — exposed some early vulnerabilities, particularly in the bullpen, where Abner Uribe and others surrendered critical home runs. Still, clutch moments from Gary Sánchez and timely hits from Brice Turang and Garrett Mitchell kept Milwaukee from falling too far behind.\n\nThe calendar flipping to May changed everything. The Brewers caught fire, going 19-7 in what became the defining month of their season. Jackson Chourio emerged as a force, and Brice Turang delivered a massive solo shot that embodied the team's relentless offensive attack. The rotation sharpened, the lineup deepened, and Milwaukee built the kind of cushion that made the rest of the summer more about maintaining excellence than chasing it. June and July continued at that elevated pace, as the Brewers posted 17-10 and 16-10 records, even as Aaron Ashby's struggles gave up critical home runs to the likes of Ozzie Albies and Esmerlyn Valdez.\n\nAugust and September were the months of a champion-in-waiting. Despite occasional setbacks — Max Muncy tagging Antonio Senzatela, Colton Gordon giving up a costly multi-run single in late September — Milwaukee posted 17-12 and a blistering 18-6 over those final two months to finish 103-59. Jackson Chourio's 22nd home run in September and William Contreras's clutch double underscored a lineup that could hurt you in any number of ways. By the time the playoffs arrived, the Brewers were not a team on a hot streak — they were a team that had spent six months proving they were built for October.\n\nThe postseason has delivered on every promise. In the Division Series, Jackson Chourio delivered a line-drive single to center that scored two runs in a defining moment, and the Brewers punched through. In the NLCS against the Dodgers, the stakes have only risen — Shohei Ohtani has launched a homer, and Will Smith has come up big with extra-base hits, pushing Milwaukee to battle at every turn. Jake Bauers answered with a clutch two-run shot, and Christian Yelich continues to drive in runs when the lights are brightest. The World Series is within reach, and this team is playing like it knows it.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Opening Day Thunder",
-      "description": "Yelich's three-run blast ignites Opening Day, but early stumbles signal that April will be a fight.",
+      "title": "Opening Statement",
+      "description": "Yelich homers on Opening Day to announce Milwaukee's intentions, but a rocky April tests the team's resolve.",
       "startClipIndex": 0,
-      "endClipIndex": 2,
-      "tone": "triumph"
-    },
-    {
-      "id": "ch2",
-      "title": "A Rocky April",
-      "description": "The Brewers scratch and claw through a .480 April, surviving bullpen meltdowns and untimely outs to stay afloat.",
-      "startClipIndex": 3,
       "endClipIndex": 7,
-      "tone": "struggle"
-    },
-    {
-      "id": "ch3",
-      "title": "May Eruption",
-      "description": "A scorching 19-7 May — fueled by Turang's home run and Chourio's clutch hitting — transforms Milwaukee into a legitimate contender.",
-      "startClipIndex": 8,
-      "endClipIndex": 10,
       "tone": "turning_point"
     },
     {
-      "id": "ch4",
-      "title": "Holding Steady",
-      "description": "Through summer's grind, Contreras's monster three-run homer and Mitchell's late-game heroics keep the Brewers rolling at a dominant pace.",
-      "startClipIndex": 11,
-      "endClipIndex": 26,
+      "id": "ch2",
+      "title": "The May Explosion",
+      "description": "A 19-7 May transforms the Brewers into one of baseball's elite teams, powered by Chourio, Turang, and a suddenly dominant lineup.",
+      "startClipIndex": 8,
+      "endClipIndex": 10,
       "tone": "triumph"
     },
     {
-      "id": "ch5",
-      "title": "Cruising Home",
-      "description": "Chourio's September home run and Contreras's clutch double cap a wire-to-wire 103-win season and punch Milwaukee's postseason ticket in style.",
-      "startClipIndex": 27,
+      "id": "ch3",
+      "title": "Holding the Line",
+      "description": "Milwaukee navigates the summer grind through June and July, posting winning records despite Ashby's bullpen troubles and costly defensive miscues.",
+      "startClipIndex": 11,
+      "endClipIndex": 21,
+      "tone": "struggle"
+    },
+    {
+      "id": "ch4",
+      "title": "Closing Strong",
+      "description": "An 18-6 September seals a 103-win season as the Brewers' stars shine down the stretch and the team locks in its postseason identity.",
+      "startClipIndex": 22,
       "endClipIndex": 29,
       "tone": "milestone"
     },
     {
-      "id": "ch6",
-      "title": "October Unfinished",
-      "description": "The Brewers survive a tense NLDS before advancing through the NLCS, where they now battle the Dodgers in a series still very much alive.",
+      "id": "ch5",
+      "title": "October Rising",
+      "description": "The Brewers dispatch the Division Series and battle through the NLCS, with Chourio, Contreras, and Yelich delivering when everything is on the line.",
       "startClipIndex": 30,
       "endClipIndex": 37,
       "tone": "clutch"
@@ -884,5 +876,5 @@
     "division": "NL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-18T14:35:42.172Z"
+  "generatedAt": "2026-10-19T17:35:53.820Z"
 }

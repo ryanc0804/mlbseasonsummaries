@@ -1,52 +1,52 @@
 {
   "teamId": 121,
   "year": 2026,
-  "narrative": "The 2026 New York Mets opened their season with a jolt of optimism, but that spark proved difficult to sustain. A promising Opening Series gave way to a brutal April collapse, as the Mets went just 7-19 in what became the defining wound of their season. The bullpen hemorrhaged leads, starters faltered in big moments, and the runs simply piled up on the wrong side of the ledger.\n\nMay offered a genuine reprieve, the Mets posting a 16-12 record that suggested they might claw their way back into relevance. Tyrone Taylor emerged as an unlikely hero, and the offense showed flashes of the firepower that the roster — built around Juan Soto and Bo Bichette — was always supposed to provide. But June pulled the rug out again, a 10-17 slide evaporating whatever goodwill May had generated.\n\nJuly and August told a quieter, more complicated story. The Mets ground through both months around the .500 mark, and while the highlight reel skewed painful, the team was actually competing — Soto delivering a monster three-run blast, Luis Torrens contributing a clutch double, and the defense flashing at key moments. These weren't a contender's wins, but they were hard-fought, prideful baseball from a club refusing to fully give in.\n\nSeptember arrived with the Mets mathematically out of playoff contention, but the final month has carried its own drama. Bo Bichette's three-run bomb in early September lit up Citi Field, and young outfielder A.J. Ewing's late-season home run offered a tantalizing glimpse of what the future might hold. At 74-88, the 2026 Mets are a team that found its identity too late — but the closing stretch has at least given fans something to carry into the offseason.",
+  "narrative": "The 2026 New York Mets entered the season with genuine aspirations, bolstered by the additions of Luis Robert Jr. and a revamped rotation. But the campaign was derailed almost immediately by a catastrophic April, a 7-19 month that buried them in the standings before spring had even settled in. The bullpen was a recurring problem, with Devin Williams and Austin Warren each surrendering crushing blows at the worst possible moments, and the starting staff struggled to provide consistent length. By the time May arrived, the Mets were already playing from a significant deficit.\n\nMay brought the first real sign of life, a 16-12 record that stood as the best month of the season. Tyrone Taylor's three-run blast on May 17th was the kind of moment that suggested the lineup could still punish mistakes, and the rotation stabilized enough to string together winning stretches. June undid much of that goodwill, however, another losing month dragged down by a shaky pen and a pair of demoralizing home runs surrendered by Kodai Senga and Austin Warren. The Mets were treading water at best.\n\nJuly became the most emotionally complex chapter of the season. Juan Soto delivered the single highest-leverage swing of the year, a go-ahead three-run homer on July 6th, and Luis Torrens followed later that same dramatic afternoon with a two-run double that kept the Mets alive. The month also brought Tyrone Taylor's eighth homer and a Luis Robert Jr. single that plated two runs in a July 30th win. Yet the Mets still finished July at 11-14, unable to sustain the momentum those individual moments generated. August was healthier, a 15-12 mark, anchored by Francisco Alvarez stepping up and Bo Bichette emerging as a clutch presence down the stretch.\n\nSeptember has seen the Mets play even baseball at 12-12 through the games captured here, a cruel kind of competence that arrived too late to matter in the standings. A season-long record of 74-88 tells the story plainly: the April collapse was simply too deep a hole to climb out of. The offense generated moments of real beauty — 204 home runs, a lineup capable of explosive innings — but the pitching staff allowed 32 more runs than it prevented, and a bullpen that surrendered games in nearly every critical moment proved to be the season's defining flaw. This was a Mets team that showed flashes of what it could be, surrounded by far too many reminders of what it still isn't.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "False Dawn",
-      "description": "A promising Opening Series home run from Luis Robert Jr. masked the catastrophe that April had in store.",
+      "title": "Opening Day Promise, April Disaster",
+      "description": "A Luis Robert Jr. home run sparks early optimism, but the Mets collapse through April in historic fashion, going 7-19 amid a parade of bullpen catastrophes.",
       "startClipIndex": 0,
-      "endClipIndex": 0,
-      "tone": "turning_point"
-    },
-    {
-      "id": "ch2",
-      "title": "April in Freefall",
-      "description": "A 7-19 April brought a parade of crushing defeats, as the bullpen and rotation both buckled under the pressure.",
-      "startClipIndex": 1,
       "endClipIndex": 6,
       "tone": "struggle"
     },
     {
-      "id": "ch3",
+      "id": "ch2",
       "title": "May Revival",
-      "description": "The Mets righted the ship with a 16-12 May, led by Tyrone Taylor's go-ahead three-run homer and renewed offensive life.",
+      "description": "Tyrone Taylor's three-run blast leads a 16-12 month that represents the Mets' best baseball of the season and briefly reignites hope.",
       "startClipIndex": 7,
       "endClipIndex": 7,
       "tone": "triumph"
     },
     {
-      "id": "ch4",
-      "title": "Summer Grind",
-      "description": "Through June's struggles and July's near-.500 grind, the Mets played gritty baseball headlined by Juan Soto's mammoth blast and Luis Torrens' clutch double.",
+      "id": "ch3",
+      "title": "June Fade",
+      "description": "The rotation falters again and the bullpen surrenders late leads, sending the Mets back below .500 for the summer.",
       "startClipIndex": 8,
+      "endClipIndex": 9,
+      "tone": "struggle"
+    },
+    {
+      "id": "ch4",
+      "title": "Soto and the July Rollercoaster",
+      "description": "Juan Soto delivers the most electrifying swing of the season and the Mets produce multiple clutch moments, yet still finish July 11-14 and unable to climb out.",
+      "startClipIndex": 10,
       "endClipIndex": 15,
       "tone": "turning_point"
     },
     {
       "id": "ch5",
-      "title": "Holding the Line",
-      "description": "A 15-12 August showed the Mets competing with resolve, even as the bullpen continued to surrender pivotal leads.",
+      "title": "August Resurgence",
+      "description": "Francisco Alvarez steps up and the Mets go 15-12, their second-best month, with bright individual performances masking the irreversible standings damage.",
       "startClipIndex": 16,
       "endClipIndex": 20,
-      "tone": "clutch"
+      "tone": "triumph"
     },
     {
       "id": "ch6",
-      "title": "Playing for Pride",
-      "description": "With playoff hopes gone, September has offered silver linings — Bichette's three-run moonshot and Ewing's breakout homer hinting at a brighter future.",
+      "title": "September's Too-Late Lessons",
+      "description": "Bo Bichette and A.J. Ewing deliver memorable moments in a 12-12 September, a competent but ultimately hollow finish to a season defined by April's wreckage.",
       "startClipIndex": 21,
       "endClipIndex": 23,
       "tone": "milestone"
@@ -271,6 +271,8 @@
       "title": "Home Run — Juan Soto",
       "description": "Juan Soto homers (19) on a fly ball to right field. Tyrone Taylor scores. Ronny Mauricio scores.",
       "playId": "a241a025-e09a-3961-baa4-a8442e1754c3",
+      "videoUrl": "https://sporty-clips.mlb.com/MTZLTzNfWGw0TUFRPT1fVndOVlZRVUVWQWNBWFZJTEJ3QUhDQUJYQUFOVUFsVUFVMTBCQkFGUUFBUlFCRkZW.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/yjlctcf55eoumhosjv4e.jpg",
       "date": "2026-07-06",
       "gamePk": 824900,
       "atBatNumber": 75,
@@ -284,8 +286,7 @@
       "wpa": 0.716,
       "xwoba": 2,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/MTZLTzNfWGw0TUFRPT1fVndOVlZRVUVWQWNBWFZJTEJ3QUhDQUJYQUFOVUFsVUFVMTBCQkFGUUFBUlFCRkZW.mp4"
+      "gameType": "R"
     },
     {
       "id": "824900-78-9",
@@ -313,6 +314,8 @@
       "title": "Double — Luis Torrens",
       "description": "Luis Torrens doubles (10) on a line drive to left fielder Jorge Mateo. Bo Bichette scores. Jared Young scores.",
       "playId": "fd187787-e505-3e11-9ae6-4a1995959a8d",
+      "videoUrl": "https://sporty-clips.mlb.com/MTZLTzNfWGw0TUFRPT1fVUZWUVhGTURYZ1VBWFZjQ1V3QUhWQWRYQUZoVUJsY0FCZ1FFQ1FvQUNBWmNVUW9D.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/mgca3rcerywigfrjkjur.jpg",
       "date": "2026-07-06",
       "gamePk": 824900,
       "atBatNumber": 87,
@@ -326,8 +329,7 @@
       "wpa": 0.474,
       "xwoba": 0.342,
       "eventType": "double",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/MTZLTzNfWGw0TUFRPT1fVUZWUVhGTURYZ1VBWFZjQ1V3QUhWQWRYQUZoVUJsY0FCZ1FFQ1FvQUNBWmNVUW9D.mp4"
+      "gameType": "R"
     },
     {
       "id": "823602-64-9",
@@ -578,5 +580,5 @@
     "division": "NL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-18T14:29:23.887Z"
+  "generatedAt": "2026-10-19T17:28:58.313Z"
 }

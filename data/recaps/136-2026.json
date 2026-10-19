@@ -1,53 +1,45 @@
 {
   "teamId": 136,
   "year": 2026,
-  "narrative": "The 2026 Seattle Mariners opened the year with a flash of genuine promise, anchored by a revelation in rookie Cole Young. Young announced himself immediately, clubbing a three-run homer on Opening Weekend and following it with a go-ahead single late in the month that had Seattle's fanbase dreaming of a different kind of spring. Julio Rodríguez chipped in with a pivotal hit in the opening days, and for a brief moment T-Mobile Park felt electric with possibility. The Mariners went 13-13 in April — respectable, if not spectacular — and edged above .500 in May with a 15-13 month that represented the season's high-water mark.\n\nJune began to expose the team's structural flaws. José Ferrer and the bullpen started bleeding at critical moments, and Andrés Muñoz — once the club's most reliable late-inning weapon — became a recurring figure in the wrong column of the ledger. A Jackson Merrill double in mid-April had already signaled trouble, and by June a brutal three-day stretch against Baltimore saw Ferrer allow crooked numbers in back-to-back outings. Josh Naylor's grand slam on June 8th offered a counter-punch, but the Mariners couldn't sustain the momentum, finishing the month 13-14 and beginning to drift from the pack.\n\nJuly was where the season quietly broke. A 9-15 mark buried any realistic wild-card conversation, and the bullpen continued to hemorrhage leads at the worst possible times. Eduard Bazardo surrendered a three-run shot to Sal Stewart that encapsulated the month — promising situations dismantled in an instant. August brought little relief, going 11-16 as Muñoz allowed home runs to Christian Walker and Alex Bregman in the same week. The lone luminous moment came August 22nd, when Randy Arozarena launched a two-run walk-off shot to center that gave the park something real to cheer, a reminder of what this team could be on its best nights.\n\nSeptember arrived with the Mariners already well outside the playoff picture, playing for pride and prospect development. A 12-12 finish gave the month a dignified close, and there were individual storylines worth celebrating — Cole Young's continued growth, Julio Rodríguez's 21st home run, and Dominic Canzone's steady offensive contributions throughout. But the broader arc was undeniable: 76-86, outscored by 58 runs, a rotation and bullpen that could not hold leads when it mattered most. The 2026 Mariners leave fans wondering whether the building blocks — Young, Rodríguez, a capable lineup — can finally be paired with pitching depth that matches the ambition of the fanbase.",
+  "narrative": "The 2026 Seattle Mariners opened the season with genuine electricity, particularly from Cole Young, whose two early home runs and a clutch single announced him as a legitimate offensive force. Julio Rodríguez added a walk-off single in the season's first days, and Josh Naylor proved a reliable run-producer. Through April and into May, Seattle played competitive baseball, going 13-13 and 15-13 in those months, but the cracks were already visible — Andrés Muñoz, once the unassailable closer, was beginning to betray the team at the worst moments.\n\nJune brought flashes of brilliance alongside damning bullpen failures. Naylor's grand slam and Young's continued contributions kept Seattle afloat in a 13-14 month, but a brutal stretch in early June saw José A. Ferrer and Nick Davila surrender leads that would haunt the standings. The Mariners were a .500 team pretending to be something more, and the illusion was growing harder to maintain.\n\nJuly and August is where the season truly unraveled. A 9-15 July and 11-16 August buried Seattle well below the waterline, and Muñoz became the season's most painful recurring character — surrendering late-game home runs to Shohei Ohtani, Christian Walker, and Alex Bregman in quick succession. Eduard Bazardo provided no relief either, giving up a three-run shot to Sal Stewart that encapsulated a roster failing to hold anything together in leverage situations. Randy Arozarena provided one of the season's most emotional moments with a two-run walk-off homer on August 22nd, but it was a bright flicker in an otherwise darkening sky.\n\nSeptember has offered modest redemption — a 12-12 record through the month that speaks to a team rediscovering some professional pride. Julio Rodríguez's three-run homer on September 10th reminded fans what this franchise's cornerstone can do when healthy and locked in. But the damage is done. At 76-86, the Mariners finish well short of contention, a disappointing outcome for a roster that showed real promise in March and early April before the bullpen and a brutal mid-summer stretch extinguished any postseason hopes.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Cole Young Announces Himself",
-      "description": "Seattle bursts out of the gate on Opening Weekend with Cole Young's three-run homer setting the tone for a spring full of optimism.",
+      "title": "Young Energy",
+      "description": "Cole Young and Julio Rodríguez power a promising start as Seattle plays .500 baseball in March and April.",
       "startClipIndex": 0,
-      "endClipIndex": 2,
+      "endClipIndex": 4,
       "tone": "triumph"
     },
     {
       "id": "ch2",
-      "title": "Grinding Through April",
-      "description": "The Mariners stay competitive with clutch hits from Young, Naylor, and Refsnyder, weathering early bullpen hiccups to finish April at .500.",
-      "startClipIndex": 3,
-      "endClipIndex": 7,
-      "tone": "clutch"
+      "title": "Holding the Line",
+      "description": "A winning May keeps Seattle competitive even as Muñoz begins showing concerning signs in high-leverage situations.",
+      "startClipIndex": 5,
+      "endClipIndex": 8,
+      "tone": "turning_point"
     },
     {
       "id": "ch3",
-      "title": "Cracks in the Foundation",
-      "description": "June exposes the bullpen's fragility as José Ferrer and Andrés Muñoz struggle in critical spots, eroding a promising summer outlook.",
-      "startClipIndex": 8,
+      "title": "June Cracks",
+      "description": "Grand slams and late-game collapses define a 13-14 June that exposes the roster's inability to protect leads.",
+      "startClipIndex": 9,
       "endClipIndex": 13,
       "tone": "struggle"
     },
     {
       "id": "ch4",
-      "title": "July Collapse",
-      "description": "A brutal 9-15 July, punctuated by late-inning meltdowns, effectively ends Seattle's postseason hopes and forces a hard look at the roster.",
+      "title": "Summer Collapse",
+      "description": "Back-to-back losing months in July and August bury Seattle, with Muñoz surrendering critical home runs across a brutal stretch.",
       "startClipIndex": 14,
-      "endClipIndex": 17,
+      "endClipIndex": 20,
       "tone": "struggle"
     },
     {
       "id": "ch5",
-      "title": "Arozarena's Walk-Off and Late Embers",
-      "description": "Randy Arozarena delivers a stunning walk-off homer in August to remind fans what this team is capable of, even as the losses continue to mount.",
-      "startClipIndex": 18,
-      "endClipIndex": 23,
-      "tone": "turning_point"
-    },
-    {
-      "id": "ch6",
-      "title": "Playing for the Future",
-      "description": "A respectable 12-12 September sees Julio Rodríguez and Cole Young flash their long-term upside as the Mariners close out a disappointing 76-86 season.",
-      "startClipIndex": 24,
+      "title": "September Pride",
+      "description": "A 12-12 September offers a measure of dignity as Rodríguez and Arozarena deliver late-season highlights for a team playing out the string.",
+      "startClipIndex": 21,
       "endClipIndex": 26,
       "tone": "milestone"
     }
@@ -402,6 +394,8 @@
       "title": "Home Run — Dominic Canzone",
       "description": "Dominic Canzone homers (16) on a fly ball to right field. Colt Emerson scores. Cole Young scores.",
       "playId": "511af73f-72b5-3772-86c2-df59d03067fe",
+      "videoUrl": "https://sporty-clips.mlb.com/TDY1ZVlfWGw0TUFRPT1fQXdCUUJRSURWVlFBRDFCUVV3QUhCZ0ZVQUZrREFGTUFWZ01BQ1ZjRkFnTlRCMVFE.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/bo0zffa3tdv9bvty1qxk.jpg",
       "date": "2026-07-26",
       "gamePk": 822870,
       "atBatNumber": 55,
@@ -415,8 +409,7 @@
       "wpa": 0.453,
       "xwoba": 2.03,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/TDY1ZVlfWGw0TUFRPT1fQXdCUUJRSURWVlFBRDFCUVV3QUhCZ0ZVQUZrREFGTUFWZ01BQ1ZjRkFnTlRCMVFE.mp4"
+      "gameType": "R"
     },
     {
       "id": "823923-74-9",
@@ -644,5 +637,5 @@
     "division": "AL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-18T14:24:54.396Z"
+  "generatedAt": "2026-10-19T17:24:28.193Z"
 }

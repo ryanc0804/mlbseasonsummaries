@@ -1,52 +1,44 @@
 {
   "teamId": 145,
   "year": 2026,
-  "narrative": "The 2026 Chicago White Sox arrived as a franchise finally turning the corner, and they made that case convincingly across a 162-game season that ended with their first postseason appearance in years. The early stumbles of March — highlighted by a brutal three-run Christian Yelich homer that announced the season's fragility — gave way to an April that played .500 ball while young contributors like Derek Hill and Sam Antonacci showed flashes of the offensive identity the organization had been building toward. The South Siders were learning who they were, one clutch hit at a time.\n\nMay and June became the engine of the season. An 18-10 May was fueled by a young core catching fire — Edgar Quero and Tristan Peters going back-to-back in a May 17th explosion, Miguel Vargas delivering a walk-off blast worth nearly a full win in probability on May 29th, and Braden Montgomery announcing himself with a stunning two-run shot on June 9th. Sam Antonacci's game-winning single on June 22nd — upheld after a Cleveland challenge — encapsulated everything about this team: scrappy, resilient, and dangerous in close games. The White Sox were 31-22 combined over May and June, good enough to stake a claim in the AL Central race.\n\nThe back half of the season told a more complicated story. July and August featured genuine two-way entertainment — moments of brilliance from Randal Grichuk, Chase Meidroth, and Andrew Benintendi offset by bullpen implosions courtesy of Grant Taylor, Huascar Brazobán, and Jordan Hicks. The Sox went a collective 27-26 over those two months, never fully breaking away but never collapsing either. A 13-12 September kept them just above water, though Grant Taylor's September 15th disaster — surrendering a two-run double that swung nearly 0.8 win probability — was a reminder of the roster's ceiling. Still, they finished 84-78 and earned the right to October.\n\nThe ALDS matchup with Cleveland proved to be a bridge too far. Jo Adell tormented the White Sox staff across multiple games, tripling twice at critical moments. José Ramírez homered in both Games 4 and 5 to remind everyone why he remains the most dangerous October hitter in the division. Munetaka Murakami and Braden Montgomery provided genuine hope — a homer in Game 1, a clutch double in Game 2 — but the pitching staff could not hold leads when it mattered most. The season ended with a loss that stung, but for a franchise that had endured years of rebuilding, 84 wins and a postseason berth felt like the dawn of something real.",
+  "narrative": "The 2026 Chicago White Sox arrived with something to prove, and the season's opening days were an immediate reminder that nothing would come easy. A brutal Opening Series loss — punctuated by Christian Yelich's three-run bomb off Seranthony Domínguez — set a sobering tone. But the Sox answered quickly, and a scrappy April marked by Derek Hill's bunt single and clutch contributions from youngsters like Tristan Peters and Sam Antonacci hinted that this group had fight in it. They finished April at a modest .500, yet the ingredients of something better were already visible.\n\nMay was when the White Sox announced themselves. An 18-10 month, fueled by a power surge that saw Edgar Quero, Tristan Peters, and Munetaka Murakami all deliver pivotal home runs, lifted Chicago into genuine contention. The crown jewel of the stretch came on May 29th, when Miguel Vargas launched his 13th homer of the season in a moment worth nearly a full win in probability — one of the single most impactful plays of the entire year. The rotation steadied, the lineup clicked, and for the first time in years, the South Side had a team that felt capable of making a run.\n\nJune and July brought a grinding, competitive stretch — the Sox went a combined 26-24 over those two months, winning more than they lost but never able to pull decisively clear. Moments of brilliance, like Sam Antonacci's clutch walk-off single against the Guardians and Braden Montgomery's first career playoff-caliber home run, were offset by bullpen meltdowns and costly defensive miscues. Grant Taylor's homer surrendered on July 2nd was emblematic of the era: a team fighting itself as much as its opponents. August was more of the same — an even 14-14, with Andrew Benintendi and Chase Meidroth providing offensive pop but inconsistent pitching keeping Chicago from separating. Still, 84 wins and an ALDS berth awaited.\n\nThe postseason brought the Cleveland Guardians — a familiar foe — and for a moment it felt like destiny when Munetaka Murakami homered in Game 1 and Braden Montgomery delivered a sharp two-run double in Game 2. But Cleveland's José Ramírez would not be denied, tormenting the Sox pitching staff across multiple games with home runs and run-scoring hits that slowly drained the life from Chicago's October. Jo Adell's triples in Games 2 and 3 exposed the outfield defense, and by the time Ramírez hit his second postseason home run off Sean Burke in Game 5, the dream was over. The White Sox lost the ALDS, but 84 wins and a playoff appearance marked a genuine step forward for a franchise hungry for more.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Rough Beginnings",
-      "description": "A tough Opening Week loss sets an anxious tone as the young White Sox search for their footing in March and early April.",
+      "title": "Rough Start, Quick Resolve",
+      "description": "A devastating Opening Series loss gives way to scrappy April wins as young contributors show the Sox have real fight.",
       "startClipIndex": 0,
-      "endClipIndex": 0,
-      "tone": "struggle"
-    },
-    {
-      "id": "ch2",
-      "title": "Finding Their Identity",
-      "description": "Clutch hits from Hill, Antonacci, and Benintendi spark a .500 April that reveals the team's gritty, opportunistic offensive character.",
-      "startClipIndex": 1,
       "endClipIndex": 4,
       "tone": "turning_point"
     },
     {
-      "id": "ch3",
-      "title": "The South Side Ignites",
-      "description": "An explosive May and a solid June — powered by back-to-back homers, walk-off shots, and a challenged-and-upheld game-winner — establish the White Sox as legitimate contenders.",
+      "id": "ch2",
+      "title": "May Explosion",
+      "description": "An 18-10 May powered by home runs from Quero, Peters, Murakami, and Vargas puts Chicago firmly in contention.",
       "startClipIndex": 5,
-      "endClipIndex": 14,
+      "endClipIndex": 9,
       "tone": "triumph"
     },
     {
-      "id": "ch4",
+      "id": "ch3",
       "title": "Grinding Through Summer",
-      "description": "The Sox navigate a turbulent July and August with equal parts heroics and heartbreaks, relying on veterans like Grichuk and Meidroth to keep the ship afloat.",
-      "startClipIndex": 15,
-      "endClipIndex": 23,
+      "description": "A competitive but inconsistent June and July sees the Sox win more than they lose while battling themselves as much as opponents.",
+      "startClipIndex": 10,
+      "endClipIndex": 16,
+      "tone": "struggle"
+    },
+    {
+      "id": "ch4",
+      "title": "Holding On",
+      "description": "A grinding August and September sees the White Sox go 26-27 over the final two months, clutching a playoff spot through sheer depth and late-game heroics.",
+      "startClipIndex": 17,
+      "endClipIndex": 28,
       "tone": "clutch"
     },
     {
       "id": "ch5",
-      "title": "September Push",
-      "description": "A 12-13 September is marked by late-season drama as Grichuk delivers a pivotal homer and bullpen collapses threaten to unravel the playoff chase.",
-      "startClipIndex": 24,
-      "endClipIndex": 28,
-      "tone": "struggle"
-    },
-    {
-      "id": "ch6",
-      "title": "October and the End of the Road",
-      "description": "The White Sox make their postseason stand against Cleveland but are ultimately undone by José Ramírez and a relentless Guardians lineup in the ALDS.",
+      "title": "October's End",
+      "description": "The White Sox push hard in the ALDS but José Ramírez and the Cleveland Guardians prove too much to overcome.",
       "startClipIndex": 29,
       "endClipIndex": 36,
       "tone": "struggle"
@@ -860,5 +852,5 @@
     "division": "AL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-19T17:14:15.393Z"
+  "generatedAt": "2026-10-21T15:38:27.684Z"
 }

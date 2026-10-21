@@ -1,44 +1,52 @@
 {
   "teamId": 139,
   "year": 2026,
-  "narrative": "The 2026 Tampa Bay Rays opened the year with a 2-3 March that belied what was to come, a brief stumble before one of the more commanding regular seasons in recent franchise memory. Nick Fortes emerged as an unlikely early-season hero, delivering clutch hits in the opening series, though the bullpen — Bryan Baker in particular — provided recurring headaches that would shadow the team throughout the spring. Despite the turbulence, April's 16-9 record signaled that this was a team with genuine depth, capable of weathering its own mistakes.\n\nMay and June told the story of a team finding its identity through adversity. A Daulton Varsho grand slam off Aaron Brooks was one of the ugliest moments of the season, yet the Rays responded with Jonathan Aranda doubles, Yandy Díaz home runs, and a supporting cast that refused to quit. Jonny DeLuca began announcing himself as a legitimate middle-of-the-order threat, and by the time the calendar turned to summer, Tampa Bay had posted an 18-8 May even through those gut-punch losses. The 13-13 June was a soft patch, but it never felt like a crisis — more a breath before the final surge.\n\nJuly through September was where the Rays separated themselves from the American League field. Junior Caminero, who finished with 41 home runs on the season, became the engine of a lineup that posted a 15-12 July, then a blistering 18-10 August and 16-9 September. Moments like Caminero's walk-off single in August and his solo shot number 41 in mid-September gave the team the kind of star-powered highlights that previous Rays clubs rarely had. The 98-64 final record stands as a testament to a roster that could absorb the body blows — bullpen hiccups, untimely homers allowed — and still win comfortably.\n\nNow in October, the Rays are very much alive. They dispatched their Division Series opponent and now find themselves in a grinding ALCS against the Cleveland Guardians, knotted at three games to two. The series has been tightly contested — Cleveland's Jose Ramirez and Chase DeLauter have done damage against Tampa's pitching, while Chandler Simpson's two-run triple in Game 4 and Junior Caminero's RBI double in Game 5 have kept the Rays in it. With the series on the line, everything the 2026 season has built toward comes down to what happens next.",
+  "narrative": "The 2026 Tampa Bay Rays opened the year with the kind of competitive chaos that defines early-season baseball. A 2-3 March gave way to a strong 16-9 April, bookended by the heroics of catcher Nick Fortes, who delivered clutch hits in the opening series to stabilize a young roster still finding its footing. Even as relievers Bryan Baker and Griffin Jax created headaches in the bullpen, the Rays' lineup proved resilient enough to keep the wins coming at a healthy clip.\n\nMay and June represented the heart of the season's identity — a team capable of brilliance and frustration in equal measure. A Daulton Varsho grand slam off Aaron Brooks in mid-May was the low point of a 18-8 month that still ranks among the best stretches of the year, proving these Rays could absorb punishment and keep rolling. The 13-13 June dip brought genuine concern, but Jonny DeLuca's two-run homer on June 21st was the kind of spark that kept the clubhouse believing. Jonathan Aranda quietly became one of the team's most important offensive contributors, delivering clutch extra-base hits when the lineup needed them most.\n\nJuly and August brought the Rays roaring back. Junior Caminero, who would finish with 41 home runs, emerged as the undisputed offensive centerpiece, and Jonny DeLuca added pop from the outfield — his back-to-back big moments in late August, capped by a two-run homer on August 30th, helped carry Tampa Bay to an 18-10 month that all but clinched the division. Yandy Díaz continued to be the steady professional veteran presence in the middle of the order, and by the time September arrived, the Rays were playing with house money at 98-64.\n\nNow the Rays have advanced through the Division Series and are in the thick of the ALCS. Victor Mesa Jr. announced himself on the October stage with a homer in the ALDS, and while Cleveland has put up a fight — José Ramírez and the Guardians lineup have created real problems for Tampa Bay's pitching staff — Chandler Simpson's RBI triple and Junior Caminero's clutch double have kept the Rays competitive. This ALCS is very much alive, and Tampa Bay is playing for a chance at the franchise's ultimate prize.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Rocky Starts, Early Heroes",
-      "description": "The Rays open 2026 with turbulence, but Nick Fortes delivers early clutch hits to keep Tampa Bay afloat through a mixed March and promising April.",
+      "title": "Fortes at the Front",
+      "description": "Nick Fortes sparks the Rays out of the gate as Tampa Bay finds early footing despite bullpen instability.",
       "startClipIndex": 0,
-      "endClipIndex": 3,
+      "endClipIndex": 5,
       "tone": "turning_point"
     },
     {
       "id": "ch2",
-      "title": "Winning Through the Chaos",
-      "description": "Bryan Baker's bullpen struggles and a Varsho grand slam test Tampa Bay's resolve, yet the Rays post an 18-8 May and push into summer with growing confidence.",
-      "startClipIndex": 4,
+      "title": "Winning Through the Fire",
+      "description": "The Rays absorb big blows — including a grand slam and mounting bullpen struggles — but post an 18-8 May powered by timely hitting.",
+      "startClipIndex": 6,
       "endClipIndex": 11,
       "tone": "triumph"
     },
     {
       "id": "ch3",
-      "title": "Midsummer Grind",
-      "description": "A 13-13 June levels the team off, but Jonny DeLuca's power and Jonathan Aranda's big hit signal that a deeper run is brewing.",
+      "title": "June Stumble, July Grind",
+      "description": "A 13-13 June tests the roster's depth before DeLuca's home run and Caminero's rising star signal better days ahead.",
       "startClipIndex": 12,
       "endClipIndex": 13,
       "tone": "struggle"
     },
     {
       "id": "ch4",
-      "title": "Caminero's Coronation",
-      "description": "Junior Caminero erupts in the second half as Tampa Bay runs off an 18-10 August and 16-9 September, locking down the division and cementing a 98-win season.",
+      "title": "August Surge",
+      "description": "Caminero, DeLuca, and Díaz fuel an 18-10 August that all but locks up the division and cements Tampa Bay as a legitimate contender.",
       "startClipIndex": 14,
+      "endClipIndex": 17,
+      "tone": "triumph"
+    },
+    {
+      "id": "ch5",
+      "title": "September Statement",
+      "description": "Aranda's three-run homer, Caminero's 41st blast, and Palacios's clutch single punctuate a 16-9 September and a 98-win regular season.",
+      "startClipIndex": 18,
       "endClipIndex": 21,
       "tone": "milestone"
     },
     {
-      "id": "ch5",
-      "title": "October on the Brink",
-      "description": "The Rays survive the Division Series and now battle Cleveland in a razor-thin ALCS, leading three games to two and one win away from the World Series.",
+      "id": "ch6",
+      "title": "October Run",
+      "description": "The Rays advance through the ALDS and battle the Guardians in the ALCS, with Mesa Jr., Simpson, Caminero, and Palacios delivering in the biggest moments of the year.",
       "startClipIndex": 22,
       "endClipIndex": 29,
       "tone": "clutch"
@@ -520,27 +528,6 @@
       "gameType": "R"
     },
     {
-      "id": "849838-32-4",
-      "title": "Double — Ian Seymour",
-      "description": "Spencer Jones doubles (1) on a sharp line drive to left fielder Victor Mesa Jr. Anthony Volpe scores. Spencer Jones to 3rd.",
-      "playId": "aeb1e6bd-8fc9-3bcd-b0ad-b3988c2d05d0",
-      "date": "2026-10-07",
-      "gamePk": 849838,
-      "atBatNumber": 32,
-      "inning": 4,
-      "isTopInning": false,
-      "batter": "Ian Seymour",
-      "pitcher": "",
-      "exitVelocity": 105,
-      "launchAngle": 21,
-      "distance": 327,
-      "wpa": -0.16,
-      "xwoba": 1.077,
-      "eventType": "double",
-      "gameType": "D",
-      "videoUrl": "https://sporty-clips.mlb.com/akRYWDVfV0ZRVkV3dEdEUT09X1YxUURWUUVDQkZZQUFBUlJYd0FIVTFVQ0FBTUZBZ1VBVUZZTUNBdFdBMWRWQlZaVw==.mp4"
-    },
-    {
       "id": "849838-43-6",
       "title": "Home Run — Victor Mesa Jr.",
       "description": "Victor Mesa Jr. homers (1) on a fly ball to right center field. Junior Caminero scores.",
@@ -689,6 +676,28 @@
       "xwoba": 0.746,
       "eventType": "double",
       "gameType": "L"
+    },
+    {
+      "id": "849815-15-2",
+      "title": "Double — Richie Palacios",
+      "description": "Richie Palacios doubles (3) on a fly ball to right fielder Chase DeLauter. Chandler Simpson scores. Victor Mesa Jr. scores.",
+      "playId": "210c6fbc-ab4b-3175-9e2b-3be3b6059839",
+      "videoUrl": "https://sporty-clips.mlb.com/V0FyRFlfV0ZRVkV3dEdEUT09X0JBQlJCMUpTQkZFQVdRQUdCQUFIQUFGVEFGaFFVUU1BQVFkUUExRURBUVpjQ0FGZg==.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/wtyxmaskp3akuxkrvead.jpg",
+      "date": "2026-10-19",
+      "gamePk": 849815,
+      "atBatNumber": 15,
+      "inning": 2,
+      "isTopInning": false,
+      "batter": "Richie Palacios",
+      "pitcher": "",
+      "exitVelocity": 87.7,
+      "launchAngle": 20,
+      "distance": 309,
+      "wpa": 0.194,
+      "xwoba": 0.442,
+      "eventType": "double",
+      "gameType": "L"
     }
   ],
   "seasonStats": {
@@ -700,9 +709,9 @@
     "teamEra": 3.7,
     "teamAvg": 0.258,
     "teamOps": 0.728,
-    "playoffResult": "Postseason in progress — ALCS, series 3-2",
+    "playoffResult": "Won the ALCS — postseason in progress",
     "division": "AL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-19T17:11:40.012Z"
+  "generatedAt": "2026-10-21T15:35:56.018Z"
 }

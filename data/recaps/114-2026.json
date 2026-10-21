@@ -1,47 +1,47 @@
 {
   "teamId": 114,
   "year": 2026,
-  "narrative": "The Cleveland Guardians opened 2026 the way they so often do — grinding, fighting, and refusing to be buried. A brutal March and an uneven April masked some genuinely electric moments, including Daniel Schneemann's go-ahead grand slam and Brayan Rocchio announcing himself as a force in the middle of the lineup. The club finished April at .500, but there were signs that something was building underneath the surface.\n\nMay was the season's clearest statement of identity, the Guardians rattling off an 18-11 record that stood as their best month of the year. Kyle Manzardo's home run and a string of timely hits defined a stretch where Cleveland looked like a genuine AL contender. Then June arrived and nearly unraveled everything — a 10-15 mark fueled by a bullpen that couldn't hold games, most painfully Cade Smith, whose brutal June outings cost Cleveland multiple winnable contests. The team clawed back to relevance in July and August, going a combined 25-26, buoyed by Rocchio's walk-off heroics on July 2nd and Steven Kwan's clutch August double.\n\nSeptember was Cleveland's moment of clarity. A 16-9 record down the stretch, powered by Rocchio's massive two-run double on September 15th and a trio of game-changing home runs, pushed the Guardians into the postseason at 85-77. The club had earned its October, scrapping through an inconsistent season on the strength of a pitching staff that posted a 3.77 ERA and an offense that found its rhythm just when it mattered most.\n\nNow the Guardians find themselves in the ALCS, down 2-3 in the series and facing elimination. Jo Adell's clutch triple in the Division Series helped carry them past that round, and a strong Game 1 effort against their current opponent — highlighted by Nathaniel Lowe's two-run single — gave Cleveland early hope. But the opposition has clawed back, and Gavin Williams and Daniel Espino have each been touched up in key moments. The city of Cleveland is watching. The season is not over yet.",
+  "narrative": "The 2026 Cleveland Guardians opened the year with a split spring and an uneven April, their pitching staff showing early cracks as Cade Smith and Gavin Williams each surrendered damaging blows in the season's first weeks. Yet the offense refused to fold — Daniel Schneemann's grand slam on April 17th and Brayan Rocchio's back-to-back heroics gave the club its first genuine identity: a scrappy, resilient lineup that could manufacture runs when the moment demanded it. April ended at .500, but there were signs of something more.\n\nMay proved to be the season's brightest month, the Guardians surging to 18-11 and establishing themselves as a legitimate AL Central contender. Kyle Manzardo's go-ahead homer in late May crystallized the feeling that this was a team built for the long haul — pitching just good enough, the lineup taking its lumps but delivering when leverage was highest. The ERA hovered near league-average and the offense, never explosive at .696 OPS, was executing in the moments that mattered. Then June arrived and the wheels wobbled badly, the bullpen — particularly Cade Smith — suffering through a brutal stretch. A 10-15 record in June, punctuated by a devastating walk-off single that cost the Guardians dearly, made the playoff dream feel fragile.\n\nJuly and August saw Cleveland find its footing again without ever truly soaring. Brayan Rocchio emerged as the undeniable engine of this team, his two-run bomb on July 2nd being the season's single highest-leverage positive moment and his September production pushing Cleveland through a critical final month. The Guardians went 16-9 in September, riding Rocchio's bat and a quietly effective pitching staff down the stretch. Steven Kwan's ground-rule double in late August, Petey Halpin's September three-run shot, and Angel Martínez's timely two-run homer all piled onto a late surge that felt like a team peaking at exactly the right time.\n\nThe postseason brought the Guardians to heights they hadn't reached in years, dispatching their Division Series opponent with contributions from Jo Adell and José Ramírez before running headlong into a loaded Tampa Bay club in the ALCS. The Rays were simply too deep — Gavin Williams was tagged for a backbreaking triple, Daniel Espino surrendered a key double, and the bullpen couldn't hold late leads in a series that ended with Cleveland one step short of the Fall Classic. It was a season of grinding beauty: 85 wins, a division's worth of drama, and a young core — Rocchio, DeLauter, Bazzana, Manzardo — that had announced itself to the entire league.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "A Rocky Start",
-      "description": "A .500 March and April feature flashes of brilliance alongside early bullpen cracks, leaving Cleveland's ceiling uncertain.",
+      "title": "Rocky Launch",
+      "description": "The Guardians stumble out of the gate with pitching struggles and early blowups, yet individual offensive flashes keep them afloat through a .500 March and April.",
       "startClipIndex": 0,
       "endClipIndex": 7,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "May Believers",
-      "description": "An 18-11 May transforms the Guardians into legitimate contenders, with Kyle Manzardo's bat leading the charge.",
+      "title": "The May Surge",
+      "description": "Cleveland catches fire in May, going 18-11 and establishing themselves as a genuine contender behind timely hitting and a steadying rotation.",
       "startClipIndex": 8,
       "endClipIndex": 8,
       "tone": "triumph"
     },
     {
       "id": "ch3",
-      "title": "June in Freefall",
-      "description": "A 10-15 June exposes the bullpen's fragility, with Cade Smith at the center of a string of costly collapses.",
+      "title": "June Swoon",
+      "description": "A brutal June exposes the bullpen's fragility — Cade Smith in particular — as the Guardians collapse to 10-15 and their playoff hopes hang by a thread.",
       "startClipIndex": 9,
       "endClipIndex": 12,
       "tone": "struggle"
     },
     {
       "id": "ch4",
-      "title": "Rocchio Rises",
-      "description": "Brayan Rocchio becomes the heartbeat of the offense as Cleveland grinds through July and August and surges in September to lock up a playoff spot.",
+      "title": "Rocchio Carries Them Home",
+      "description": "Brayan Rocchio becomes the team's heartbeat through July, August, and a blistering 16-9 September, lifting Cleveland into the postseason on his shoulders.",
       "startClipIndex": 13,
       "endClipIndex": 22,
-      "tone": "turning_point"
+      "tone": "clutch"
     },
     {
       "id": "ch5",
-      "title": "October on the Brink",
-      "description": "The Guardians survive the Division Series and draw first blood in the ALCS, but now face elimination down 2-3 as their season hangs in the balance.",
+      "title": "October's Edge",
+      "description": "The Guardians advance through the Division Series before falling to a deeper Tampa Bay squad in the ALCS, ending a proud season one series short of the World Series.",
       "startClipIndex": 23,
       "endClipIndex": 30,
-      "tone": "clutch"
+      "tone": "turning_point"
     }
   ],
   "clips": [
@@ -605,28 +605,6 @@
       "gameType": "D"
     },
     {
-      "id": "849820-60-8",
-      "title": "Double — Chase DeLauter",
-      "description": "Chase DeLauter doubles (1) on a line drive to right fielder Victor Mesa Jr. José Ramírez to 3rd.",
-      "playId": "562790d9-15eb-37b6-a066-28092862e2da",
-      "videoUrl": "https://sporty-clips.mlb.com/bmJLSzhfV0ZRVkV3dEdEUT09X0F3ZFRVMTBFQWdzQUNWZFhCQUFIQmxSUUFBQUZWVmNBQUYwRkNRRU5Cd0VBQWxZSA==.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/jlu4fnwnhkwwnyoybrbc.jpg",
-      "date": "2026-10-12",
-      "gamePk": 849820,
-      "atBatNumber": 60,
-      "inning": 8,
-      "isTopInning": true,
-      "batter": "Chase DeLauter",
-      "pitcher": "",
-      "exitVelocity": 95,
-      "launchAngle": 15,
-      "distance": 258,
-      "wpa": 0.193,
-      "xwoba": 0.838,
-      "eventType": "double",
-      "gameType": "L"
-    },
-    {
       "id": "849820-62-8",
       "title": "Single — Nathaniel Lowe",
       "description": "Nathaniel Lowe singles on a ground ball to center fielder Cedric Mullins. José Ramírez scores. Chase DeLauter scores.",
@@ -711,6 +689,27 @@
       "eventType": "double",
       "gameType": "L",
       "videoUrl": "https://sporty-clips.mlb.com/WnhBQU5fV0ZRVkV3dEdEUT09X0FsVlZBVlFEQTFRQURBQlFVZ0FIVWc1U0FBQUhCUVFBVVFZTkFRcFFVMVZjVmxaUg==.mp4"
+    },
+    {
+      "id": "849815-15-2",
+      "title": "Double — Tim Herrin",
+      "description": "Richie Palacios doubles (3) on a fly ball to right fielder Chase DeLauter. Chandler Simpson scores. Victor Mesa Jr. scores.",
+      "playId": "210c6fbc-ab4b-3175-9e2b-3be3b6059839",
+      "date": "2026-10-19",
+      "gamePk": 849815,
+      "atBatNumber": 15,
+      "inning": 2,
+      "isTopInning": false,
+      "batter": "Tim Herrin",
+      "pitcher": "",
+      "exitVelocity": 87.7,
+      "launchAngle": 20,
+      "distance": 309,
+      "wpa": -0.194,
+      "xwoba": 0.442,
+      "eventType": "double",
+      "gameType": "L",
+      "videoUrl": "https://sporty-clips.mlb.com/V0FyRFlfV0ZRVkV3dEdEUT09X0JBQlJCMUpTQkZFQVdRQUdCQUFIQUFGVEFGaFFVUU1BQVFkUUExRURBUVpjQ0FGZg==.mp4"
     }
   ],
   "seasonStats": {
@@ -722,9 +721,9 @@
     "teamEra": 3.77,
     "teamAvg": 0.239,
     "teamOps": 0.696,
-    "playoffResult": "Postseason in progress — ALCS, series 2-3",
+    "playoffResult": "Lost in the ALCS",
     "division": "AL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-19T17:15:40.650Z"
+  "generatedAt": "2026-10-21T15:39:55.602Z"
 }

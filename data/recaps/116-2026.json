@@ -1,47 +1,39 @@
 {
   "teamId": 116,
   "year": 2026,
-  "narrative": "The 2026 Detroit Tigers entered the season with cautious optimism, but the year's opening act quickly revealed a team built on thin margins. A rough March gave way to a competitive April at 14-13, though the bullpen — particularly closer Kenley Jansen — was already showing alarming cracks, surrendering enormous home runs that repeatedly wiped out late-game leads. Riley Greene's clutch double and Colt Keith's follow-up single on April 16th offered glimpses of an offense capable of manufacturing big moments, but Jansen's blown saves piled up like a mounting debt.\n\nMay was catastrophic. The Tigers went 6-22, a historic collapse that buried any early-season goodwill. The rotation and bullpen hemorrhaged runs at the worst moments — grand slams, walk-off blasts, late-inning implosions defined the month. Drew Anderson surrendered a pivotal home run to Miguel Vargas late in May that encapsulated the misery. Yet the team refused to fold entirely. A remarkable turnaround in June (15-11) and July (15-9) brought genuine life back to Comerica Park, fueled by Kevin McGonigle's clutch single, Hao-Yu Lee's reviewed-and-upheld double, and James Outman's three-run blast that reminded fans what this lineup could do at its best.\n\nThe summer surge, however, couldn't sustain itself. August fell back to 11-16 as the bullpen again betrayed the team, with Jansen surrendering back-to-back home runs on August 19th in a single disastrous outing. September steadied slightly at 13-12, with Eduardo Valencia delivering a soaring two-run homer late in the month that served as an emotional exclamation point on a season full of contradictions — a 3.67 ERA suggesting a staff capable of winning, yet a 76-86 record telling a different story.\n\nUltimately, the 2026 Tigers are a portrait of a team caught between eras. The run prevention was genuinely good, and the offense showed flashes — 181 home runs and 723 runs scored — but a devastating May hole and chronic late-inning failures proved too much to overcome. Spencer Torkelson's 20th home run, McGonigle's emergence, and Valencia's clutch moments offer reasons for hope, while Jansen's repeated implosions loom as the clearest area needing change heading into the offseason.",
+  "narrative": "The 2026 Detroit Tigers entered the season with cautious optimism, but the early returns were uneven at best. A rough March gave way to a competitive April that offered genuine hope — Riley Greene delivered timely doubles, Kerry Carpenter launched go-ahead home runs, and Spencer Torkelson began to show the power that had long been expected of him. But the bullpen, anchored by a struggling Kenley Jansen, repeatedly squandered leads in the most crushing of fashions, turning would-be wins into deflating losses and leaving the first month feeling like a tease.\n\nMay brought the season crashing down. The Tigers went just 6-22, their worst stretch of baseball in years, as opposing hitters feasted on Detroit's relievers with regularity. Jansen alone surrendered three of the month's most damaging home runs, and the rotation offered little protection. By the end of May, Detroit was buried in the standings and the season appeared, for all practical purposes, to be slipping away. The dream of contention had given way to survival mode.\n\nJune and July, however, told a dramatically different story. The Tigers caught fire, going 15-11 and then 15-9 in back-to-back months — their best sustained stretch of the year. Unheralded contributors like Kevin McGonigle and Hao-Yu Lee delivered clutch hits in high-leverage moments, while Torkelson's 20th home run on July 29th became a symbol of the quiet power surge that fueled the run. The team played its best baseball when expectations were lowest, channeling the frustration of a lost May into something resembling genuine momentum.\n\nAugust and September brought regression, as the Tigers cooled to 11-16 and then stabilized at 13-12, finishing 76-86. The bullpen continued to be a liability — Jansen and others allowed damage at critical moments deep into the season — and the offense, while capable of the occasional burst, could not sustain the July highs. Eduardo Valencia's two-run home run in late September provided one last moment of joy for a fanbase that had grown accustomed to mixed emotions. The Tigers finish below .500, the math of a painful May proving too much to overcome despite their best efforts in the summer months.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Shaky Starts and Stolen Wins",
-      "description": "A competitive but flawed April tests the Tigers' resilience, with the bullpen already showing dangerous signs even as the offense delivers key clutch moments.",
+      "title": "False Dawn",
+      "description": "A competitive April offers hope, but Kenley Jansen's bullpen struggles undermine every promising moment.",
       "startClipIndex": 0,
       "endClipIndex": 7,
       "tone": "turning_point"
     },
     {
       "id": "ch2",
-      "title": "The May Collapse",
-      "description": "A devastating 6-22 May drowns the Tigers in losses driven by blown leads, grand slams, and late-inning disasters that seem to have no end.",
+      "title": "May Disaster",
+      "description": "The Tigers collapse to a 6-22 record as opposing hitters punish the bullpen and the season appears lost.",
       "startClipIndex": 8,
       "endClipIndex": 12,
       "tone": "struggle"
     },
     {
       "id": "ch3",
-      "title": "Rising From the Ashes",
-      "description": "Detroit catches fire in June and July with a combined 30-20 record, powered by clutch singles, big home runs, and a newfound competitive edge.",
+      "title": "Summer Surge",
+      "description": "Clutch contributors ignite back-to-back winning months in June and July, keeping faint postseason hopes alive.",
       "startClipIndex": 13,
       "endClipIndex": 22,
       "tone": "triumph"
     },
     {
       "id": "ch4",
-      "title": "Fading in the Stretch",
-      "description": "August stumbles and September steadies, but recurring bullpen breakdowns — headlined by Jansen's back-to-back blown saves — prevent the Tigers from building on their summer momentum.",
+      "title": "Fading Light",
+      "description": "The Tigers cool off in August and September, with bullpen breakdowns extinguishing the summer momentum and sealing a losing record.",
       "startClipIndex": 23,
-      "endClipIndex": 28,
-      "tone": "struggle"
-    },
-    {
-      "id": "ch5",
-      "title": "Valencia's Farewell Blast",
-      "description": "Eduardo Valencia delivers a meaningful two-run home run in the final week, offering a bittersweet silver lining to close out a season defined by what could have been.",
-      "startClipIndex": 29,
       "endClipIndex": 29,
-      "tone": "milestone"
+      "tone": "struggle"
     }
   ],
   "clips": [
@@ -699,5 +691,5 @@
     "division": "AL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-19T17:16:57.874Z"
+  "generatedAt": "2026-10-21T15:41:09.110Z"
 }

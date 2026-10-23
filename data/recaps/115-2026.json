@@ -1,47 +1,47 @@
 {
   "teamId": 115,
   "year": 2026,
-  "narrative": "The 2026 Colorado Rockies have been a team defined by its struggles, posting one of the worst records in baseball at 58-104. From the opening days of March, the pitching staff — led by a leaky bullpen and inconsistent starters — bled runs at an alarming rate, surrendering 944 on the season while the offense, despite some genuine bright spots, could not keep pace. Victor Vodnik and Antonio Senzatela gave up some of the season's most damaging blows in the early months, and the Rockies found themselves buried in the standings before summer even arrived.\n\nThe lone extended stretch of genuine hope came in late May and throughout June, when the offense caught fire in fits and starts. Hunter Goodman emerged as a legitimate power threat, launching home run after home run to carry Colorado through a surprisingly competitive 11-15 June. Cole Carrigg delivered back-to-back clutch shots, Jake McCarthy turned in a thrilling triple, and Braxton Fulford came up big in key moments. The Rockies flashed the kind of young talent that offers a glimmer of what the franchise could become, even if the wins remained elusive relative to the runs given away.\n\nThe second half brought a return to familiar misery. After a modest July, August cratered to 9-19 as Jaden Hill's outing against Atlanta resulted in one of the season's most damaging moments. September has followed a similar script, with Jordan Romano surrendering a crushing three-run homer that encapsulates the bullpen's season-long woes. Yet even in the darkness, Zac Veen and Brett Sullivan provided a September flash of clutch hitting, a reminder that not everything has been grim in the final weeks.\n\nUltimately, the 2026 Rockies are a team in the thick of a difficult rebuild, their 58-104 record a hard truth about the gap between where they are and where they need to be. The runs scored — 752 of them — hint at offensive potential, and young contributors like Goodman, Carrigg, and Veen give the fan base something to watch as September winds down. The future is the story in Denver; this season has simply been the price of building toward it.",
+  "narrative": "The 2026 Colorado Rockies entered the season with modest expectations, and the opening months did little to change the calculus. March and April were rough from the jump, with Victor Vodnik's bullpen outings turning into highlight reels for the opposition — most painfully on Opening Weekend when Owen Caissie's two-run shot off Vodnik swung the game nearly nine-tenths of a win probability point in the wrong direction. The Rockies stumbled to a 14-18 mark through April, a familiar story at altitude.\n\nMay was the cruelest month, a 8-20 collapse that featured a parade of opposing home runs and late-game singles that bled the Rockies dry. Juan Mejia and Jimmy Herget were among the pitchers caught on the wrong side of high-leverage moments, and by late May the roster looked rudderless. Then, almost as a whisper of resistance, Hunter Goodman launched a reviewed-and-upheld homer on May 29th — his 13th of the year — followed immediately by an Ezequiel Tovar blast that briefly made the Mile High air feel like something worth breathing again.\n\nJune told a dramatically different story. The Rockies posted an 11-15 record, but the month crackled with genuine electricity. Cole Carrigg emerged as the young face of a surprising stretch of clutch baseball, homering twice in four days with games on the line. TJ Rumfield added a go-ahead blast, Jake McCarthy's triple cleared the bases, and Hunter Goodman — who had become the team's most dangerous hitter — crushed his 22nd home run on June 26th in a performance that carried the highest win probability swing of any positive play all season. The Rockies looked, briefly, like a team worth watching.\n\nJuly and August brought the inevitable regression, and the record bore it out: a combined 19-33 over those two months, with the pitching staff bleeding runs at a rate the offense could not match. Jaden Hill's late August implosion — a sharp Michael Harris II double deflected cruelly off Cole Carrigg in the outfield — summed up the season's cruelest ironies. September arrived as an afterthought statistically, but Brett Sullivan's walk-off single on September 2nd, scoring two to complete a comeback, gave a young roster something real to hold onto. At 58-104, the Rockies have been one of baseball's most punished teams in 2026, but flashes of the Goodman-Carrigg-Karros core offer a thin but genuine thread of optimism for what comes next.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Out of the Gate and Already Underwater",
-      "description": "A brutal March and April set the tone as Colorado's pitching staff immediately hemorrhaged runs and the bullpen became a liability.",
+      "title": "Off to a Rocky Start",
+      "description": "Early-season bullpen disasters and a brutal March-April stretch set a grim tone for Colorado.",
       "startClipIndex": 0,
       "endClipIndex": 2,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "May Mud",
-      "description": "An 8-20 May brought wave after wave of damaging losses, with opposing hitters feasting on Rockies pitching at every turn.",
+      "title": "May Meltdown",
+      "description": "An 8-20 collapse buries the Rockies as opposing hitters feast on a leaky pitching staff.",
       "startClipIndex": 3,
       "endClipIndex": 5,
       "tone": "struggle"
     },
     {
       "id": "ch3",
-      "title": "The Goodman-Carrigg Spark",
-      "description": "Late May through June, Hunter Goodman's power surge and Cole Carrigg's clutch home runs ignited Colorado's best stretch of the season.",
+      "title": "Goodman and Carrigg Ignite June",
+      "description": "A surge of clutch home runs from Hunter Goodman, Cole Carrigg, and friends briefly transforms Colorado into a competitive outfit.",
       "startClipIndex": 6,
       "endClipIndex": 18,
       "tone": "triumph"
     },
     {
       "id": "ch4",
-      "title": "A Fleeting July",
-      "description": "The Rockies managed a serviceable 10-14 July anchored by Kyle Karros's three-run blast, before the second-half slide began in earnest.",
+      "title": "Summer Fade",
+      "description": "July and August grind the Rockies back down as the pitching erodes and the losses pile up.",
       "startClipIndex": 19,
-      "endClipIndex": 20,
-      "tone": "turning_point"
+      "endClipIndex": 19,
+      "tone": "struggle"
     },
     {
       "id": "ch5",
-      "title": "Dog Days and Fading Fast",
-      "description": "August and September have been defined by more pitching disasters and a 9-19 August collapse, though late clutch hits from Brett Sullivan and Zac Veen offer faint consolation.",
-      "startClipIndex": 21,
+      "title": "September Sparks",
+      "description": "With the season winding down, Brett Sullivan's clutch single and Mickey Moniak's milestone homer give a young Colorado core something to build on.",
+      "startClipIndex": 20,
       "endClipIndex": 24,
-      "tone": "struggle"
+      "tone": "clutch"
     }
   ],
   "clips": [
@@ -327,8 +327,6 @@
       "title": "Home Run — Cole Carrigg",
       "description": "Cole Carrigg homers (2) on a fly ball to right center field. Kyle Karros scores. TJ Rumfield scores.",
       "playId": "cdf2fede-d8ed-3383-ba65-6d2253c9b8fe",
-      "videoUrl": "https://sporty-clips.mlb.com/SzRYbGVfWGw0TUFRPT1fVlZVSFZnSlJBbGNBWEZwWEFnQUhBZzVWQUFOVVZWUUFCQUVIQWdZR1Vnb0hDRlFE.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/fvuymljonotlmr0gon6j.jpg",
       "date": "2026-06-12",
       "gamePk": 824997,
       "atBatNumber": 46,
@@ -342,7 +340,8 @@
       "wpa": 0.408,
       "xwoba": 2,
       "eventType": "home_run",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/SzRYbGVfWGw0TUFRPT1fVlZVSFZnSlJBbGNBWEZwWEFnQUhBZzVWQUFOVVZWUUFCQUVIQWdZR1Vnb0hDRlFE.mp4"
     },
     {
       "id": "824666-67-8",
@@ -596,5 +595,5 @@
     "division": "NL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-21T16:05:12.127Z"
+  "generatedAt": "2026-10-23T15:57:56.826Z"
 }

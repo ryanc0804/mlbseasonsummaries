@@ -1,47 +1,55 @@
 {
   "teamId": 133,
   "year": 2026,
-  "narrative": "The 2026 Oakland Athletics arrived at their new home in Sacramento with cautious optimism, and for a brief, flickering moment, it seemed justified. March was a winning month, and April turned into the team's best stretch of the season — a 16-10 record fueled by young talent like Nick Kurtz and the steady presence of Shea Langeliers. The bullpen leaked runs at inopportune moments, and the pitching staff was already showing its vulnerabilities, but the offense could ignite on any given night, and Oakland looked like a team that might just surprise people.\n\nMay and June told a more complicated story. The rotation frayed, relievers like J.T. Ginn and Luis Medina gave up crushing home runs at the worst moments, and opponents like Jonah Heim punished a thin bullpen repeatedly. Yet Oakland scratched out enough wins to stay respectable, going a combined 23-32 over those two months — frustrating, but not catastrophic. Moments like Jeff McNeil's home run and Tyler Soderstrom's triple in May, or Lawrence Butler's clutch single in late June, kept fans briefly believing that the season could still turn.\n\nJuly shattered those hopes. A 5-19 month was the killing blow, a collapse so thorough it erased nearly everything the team had built. The offense went quiet for long stretches, the bullpen continued to surrender late leads, and the young roster showed its inexperience in the most painful ways. August was no better at 8-20, as opposing offenses — from Kansas City to Baltimore — ran roughshod over Oakland's pitching staff. The season devolved into a showcase for individual moments rather than collective purpose, with the team's own players occasionally providing the most damaging highlights, as on September 11th when Donovan Walton's late-game home run collapsed a close game.\n\nSeptember has offered a modest measure of dignity — an 11-13 record that suggests the roster's youth may yet provide something to build on. Lawrence Butler's 16th home run, Hogan Harris's occasional brilliance, and Jacob Wilson's developing bat all represent pieces of a potential future. At 64-98, the Athletics have endured one of their most difficult seasons in recent memory, a reminder that rebuilding is a process measured in years, not months. The story of 2026 is one of early promise overwhelmed by a roster not yet deep enough to sustain a long season.",
+  "narrative": "The 2026 Oakland Athletics arrived in Sacramento carrying the cautious optimism of a franchise still rebuilding its identity, and their spring opened with a jolt of electricity. Shea Langeliers cracked a home run on Opening Weekend that briefly suggested this team could be feisty, only for the bullpen and the opposition to immediately remind everyone of the team's limitations. That tension — flashes of promise met with swift deflation — would define the entire first half of the season.\n\nApril was the Athletics' best month, a 16-10 stretch where Nick Kurtz announced himself as a genuine building block, slugging home runs and driving in runs with the ease of a veteran. The bullpen continued to be a liability, but the offense produced enough to stay afloat. May and June brought regression, with the pitching staff — particularly starters like J.T. Ginn, Luis Medina, and the relief corps — surrendering leads in agonizing fashion. Jonah Heim burned Hogan Harris twice in June, and the Giants piled on with a brutal triple from Jung Hoo Lee that capsized another close game. Still, the Athletics won 12 games in June, keeping a semblance of respectability.\n\nJuly was where the wheels came off. A 5-19 record in the hottest month of the summer exposed every crack in the roster — the thin rotation, the leaky bullpen, the inconsistent offense. August was nearly as grim at 8-20, with Kansas City's Bobby Witt Jr. delivering knockout blows in successive games and Gunnar Henderson launching a three-run homer off Jeffrey Springs that symbolized the staff's inability to protect leads. The trade deadline presumably addressed some roster needs, but the damage was done, the season irreparably tilted.\n\nSeptember brought a small measure of dignity. An 11-13 record in the final month, while modest, showed that some of the team's younger pieces — Jacob Wilson, Lawrence Butler, and others — were fighting through the losing with competitive at-bats and occasional highlights. But the season's ledger tells a stark story: 937 runs allowed against just 699 scored, a run differential that reflects genuine structural problems on a team still years away from contention. The 2026 Athletics end as a 64-98 squad, their value lying not in wins but in the development of players who might someday make Sacramento forget these painful afternoons.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Sparks of Promise",
-      "description": "March and early April bring a winning record and genuine excitement as Shea Langeliers and Nick Kurtz flash their potential.",
+      "title": "Opening Weekend Sparks and Setbacks",
+      "description": "Langeliers' home run ignites hope on Opening Weekend before the bullpen immediately surrenders the advantage.",
       "startClipIndex": 0,
-      "endClipIndex": 4,
-      "tone": "triumph"
+      "endClipIndex": 2,
+      "tone": "turning_point"
     },
     {
       "id": "ch2",
-      "title": "Riding the Wave",
-      "description": "A strong 16-10 April — Oakland's best month — is powered by clutch hits and timely offense, even as the pitching staff shows cracks.",
-      "startClipIndex": 5,
+      "title": "Kurtz and the April Surge",
+      "description": "A 16-10 April powered by Nick Kurtz's breakout proves the Athletics can compete even as the bullpen remains shaky.",
+      "startClipIndex": 3,
       "endClipIndex": 8,
       "tone": "triumph"
     },
     {
       "id": "ch3",
-      "title": "Slipping Away",
-      "description": "May and June bring a combined losing record as the bullpen implodes at key moments and opposing bats expose Oakland's pitching depth.",
+      "title": "May's Mixed Signals",
+      "description": "An 11-17 May sees the rotation crumble in critical moments while rare offensive fireworks keep Oakland from complete freefall.",
       "startClipIndex": 9,
-      "endClipIndex": 25,
+      "endClipIndex": 13,
       "tone": "struggle"
     },
     {
       "id": "ch4",
-      "title": "The Collapse",
-      "description": "A devastating 5-19 July followed by an 8-20 August effectively ends any lingering hope, as the team's thin roster is overwhelmed night after night.",
-      "startClipIndex": 26,
-      "endClipIndex": 30,
-      "tone": "struggle"
+      "title": "June's Last Stand",
+      "description": "The Athletics go 12-15 in June, scratching out wins through individual heroics before the pitching staff begins its full unraveling.",
+      "startClipIndex": 14,
+      "endClipIndex": 25,
+      "tone": "turning_point"
     },
     {
       "id": "ch5",
-      "title": "Playing Out the String",
-      "description": "September offers a modest rally and a glimpse of the youth that may define Oakland's future, even as the losses continue to mount.",
-      "startClipIndex": 31,
+      "title": "Midsummer Collapse",
+      "description": "A catastrophic 5-19 July and 8-20 August expose every structural flaw as opponents pour it on and the season spirals beyond recovery.",
+      "startClipIndex": 26,
+      "endClipIndex": 31,
+      "tone": "struggle"
+    },
+    {
+      "id": "ch6",
+      "title": "September's Hollow Pride",
+      "description": "An 11-13 September offers glimpses of young talent fighting for pride as the Athletics play out a forgettable but instructive lost season.",
+      "startClipIndex": 32,
       "endClipIndex": 37,
-      "tone": "turning_point"
+      "tone": "milestone"
     }
   ],
   "clips": [
@@ -135,8 +143,6 @@
       "title": "Double — Nick Kurtz",
       "description": "Nick Kurtz doubles (3) on a fly ball to left fielder Wyatt Langford. Austin Wynns scores. Zack Gelof scores. Shea Langeliers scores.",
       "playId": "573425fb-d88e-3516-b540-6f1316d25fb3",
-      "videoUrl": "https://sporty-clips.mlb.com/Uk96NE1fWGw0TUFRPT1fQXdaU1VGWUJBRkFBWEZvS0F3QUhCQWRRQUFNQVYxRUFCQU1FQXdJRFZRRlFWbEJW.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/toyypcxtcrduiqgorkw5.jpg",
       "date": "2026-04-16",
       "gamePk": 825023,
       "atBatNumber": 77,
@@ -150,7 +156,8 @@
       "wpa": -0.57,
       "xwoba": 0.034,
       "eventType": "double",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/Uk96NE1fWGw0TUFRPT1fQXdaU1VGWUJBRkFBWEZvS0F3QUhCQWRRQUFNQVYxRUFCQU1FQXdJRFZRRlFWbEJW.mp4"
     },
     {
       "id": "825023-81-9",
@@ -412,8 +419,6 @@
       "title": "Home Run — Jonah Heim",
       "description": "Jonah Heim homers (4) on a fly ball to right field.",
       "playId": "82b19a73-0d29-371f-88ea-1ca3ee0cee51",
-      "videoUrl": "https://sporty-clips.mlb.com/OTdWOWxfWGw0TUFRPT1fRGdNRFZWMVZVUUVBQ0FZQVh3QUhCZ2NBQUZrTkJnQUFBd1pVQTFaUUFWQUFWUWRY.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/ebnwnmuttc7misdaybbd.jpg",
       "date": "2026-06-08",
       "gamePk": 824998,
       "atBatNumber": 100,
@@ -426,7 +431,8 @@
       "wpa": -0.468,
       "xwoba": 0.003,
       "eventType": "home_run",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/OTdWOWxfWGw0TUFRPT1fRGdNRFZWMVZVUUVBQ0FZQVh3QUhCZ2NBQUZrTkJnQUFBd1pVQTFaUUFWQUFWUWRY.mp4"
     },
     {
       "id": "824997-46-6",
@@ -475,8 +481,6 @@
       "title": "Home Run — Jonah Heim",
       "description": "Jonah Heim homers (6) on a fly ball to right field. Tyler Soderstrom scores.",
       "playId": "4a5df62e-8597-30df-b2e0-0f11013ac97e",
-      "videoUrl": "https://sporty-clips.mlb.com/WU8yazlfWGw0TUFRPT1fQWxCVUFBSUNWRmNBQUZjTFVRQUhBVklBQUFNSEJsRUFBZ01FQVFNRUFsSUdDUVVE.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/he6ynbied5o9iq1ydwh5.jpg",
       "date": "2026-06-19",
       "gamePk": 824990,
       "atBatNumber": 85,
@@ -490,7 +494,8 @@
       "wpa": -0.48,
       "xwoba": 0.824,
       "eventType": "home_run",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/WU8yazlfWGw0TUFRPT1fQWxCVUFBSUNWRmNBQUZjTFVRQUhBVklBQUFNSEJsRUFBZ01FQVFNRUFsSUdDUVVE.mp4"
     },
     {
       "id": "824987-73-9",
@@ -869,5 +874,5 @@
     "division": "AL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-21T15:47:15.128Z"
+  "generatedAt": "2026-10-23T15:40:13.347Z"
 }

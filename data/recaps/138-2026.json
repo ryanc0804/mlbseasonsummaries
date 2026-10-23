@@ -1,44 +1,52 @@
 {
   "teamId": 138,
   "year": 2026,
-  "narrative": "The 2026 St. Louis Cardinals opened the year with genuine promise, riding early heroics from JJ Wetherholt and Masyn Winn to post a solid 18-13 mark through April. The offense showed real pop — Jordan Walker emerging as a legitimate middle-of-the-order bat, Yohel Pozo delivering timely hits, and the young core flashing the kind of upside that made Cardinals fans believe this could be a competitive club. Spring felt like a foundation being laid.\n\nMay and June kept St. Louis afloat, with the team hovering near .500 and individual moments carrying the load. Lars Nootbaar's first homer of the season in June swung a crucial game, Walker continued piling up extra-base hits, and Nolan Gorman added pop from the left side. The bullpen was inconsistent — Ryne Stanek's name appeared repeatedly on the wrong side of the ledger — but the club found enough late-game clutch to stay relevant. Through two months of summer baseball, the Cardinals were a .500 team fighting to define itself.\n\nJuly is where the season unraveled. A 10-18 record in the month was not a slump but a collapse, and the high-leverage plays told the story in brutal detail: bullpen meltdowns, costly errors, and opposing hitters feasting on Cardinals pitching night after night. Gordon Graceffo, Luis Gastelum, and George Soriano all surrendered critical home runs in a span of weeks, and even a stunning two-run rally on August 20th — sparked by an unlikely Dane Myers error that let two Cardinals score — couldn't mask how far the ship had drifted.\n\nAugust and September brought mixed emotions to Busch Stadium. Riley O'Brien continued to be a liability in high-leverage spots, surrendering crushing home runs to Kyle Schwarber and Randal Grichuk, while George Soriano's outings left fans shaking their heads. But bright spots emerged in the final weeks: rookie Leo Bernal arrived and delivered back-to-back clutch performances in mid-September, Iván Herrera hit a three-run homer to breathe life into a fading September, and Alec Burleson's 36th double of the year plated two in a feel-good win. At 77-85, the Cardinals will finish below .500, but the closing weeks offered just enough to suggest the pieces for a turnaround exist in 2027.",
+  "narrative": "The 2026 St. Louis Cardinals entered the season with cautious optimism, and the opening months largely rewarded that patience. After a solid March and a strong April (15-11), the offense showed its capacity for drama — JJ Wetherholt's clutch single on Opening Weekend, Masyn Winn's pop-up single to open April, and Yohel Pozo's sharp extra-base hits all signaled that St. Louis had real offensive weapons. Jordan Walker in particular emerged as a cornerstone, his doubles and eventual 20th home run on July 5th representing the best version of what this Cardinals club could be.\n\nMay and June were treading-water months — 13-13 and 13-12 — with the Cardinals showing enough resilience to stay afloat but never quite stringing together the sustained runs that separate contenders from the pack. Lars Nootbaar's first home run of the season on June 6th was one of the season's most electrifying moments, a +0.515 WPA swing that briefly had Busch Stadium believing. But for every Nootbaar blast, there was a Ryne Stanek allowing a three-run homer, and the bullpen's inability to protect leads became a recurring theme that would only worsen.\n\nJuly was where the season broke. A 10-18 record in the month represented the Cardinals' worst stretch, and the highlight reel from those weeks reads like a horror show: a throwing error by Masyn Winn that let Atlanta score, Gordon Graceffo serving up a Nolan Arenado homer in a pivotal spot, Luis Gastelum getting torched by Pete Crow-Armstrong. August brought modest stabilization (14-14), but the relief corps — Riley O'Brien in particular — continued to bleed runs, including a brutal Matt McLain grand slam off Ryne Stanek on August 20th. The Cardinals were spending wins as fast as they could earn them.\n\nSeptember arrived with the Cardinals' playoff hopes fading but their character still visible. Iván Herrera, who had been a quiet backbone of the lineup all year, delivered a mammoth three-run homer on September 4th to keep at least a flicker of life alive. Rookie Leo Bernal flashed in the final weeks with a clutch single and a home run that showed the organization's future has a pulse. But Riley O'Brien's catastrophic outing on September 12th — surrendering a go-ahead homer that swung win probability by -0.725 — encapsulated a season where the gap between the Cardinals' ceiling and floor proved too wide to bridge. At 77-85, this was a year of individual brightness and collective shortfall.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Fast Start, Familiar Hopes",
-      "description": "The Cardinals open the year with clutch hits from Wetherholt, Winn, and Walker, building an 18-13 April on the strength of their young offensive core.",
+      "title": "Opening Sparks",
+      "description": "The Cardinals navigate a dramatic opening week with clutch hits from Wetherholt and Winn signaling early offensive promise.",
       "startClipIndex": 0,
-      "endClipIndex": 6,
-      "tone": "triumph"
-    },
-    {
-      "id": "ch2",
-      "title": "Grinding Through Summer",
-      "description": "May and June keep St. Louis near .500 as Nootbaar's first homer and Walker's relentless extra-base hitting offset a leaky bullpen and inconsistent pitching.",
-      "startClipIndex": 7,
-      "endClipIndex": 14,
+      "endClipIndex": 1,
       "tone": "turning_point"
     },
     {
-      "id": "ch3",
-      "title": "July Freefall",
-      "description": "A disastrous 10-18 July exposes the team's pitching vulnerabilities, as home runs and defensive miscues pile up and the Cardinals fall out of contention.",
-      "startClipIndex": 15,
-      "endClipIndex": 22,
-      "tone": "struggle"
+      "id": "ch2",
+      "title": "Walker and the Winning Stretch",
+      "description": "Jordan Walker, Yohel Pozo, and Nolan Gorman fuel a productive April and May that keeps St. Louis in the conversation.",
+      "startClipIndex": 2,
+      "endClipIndex": 11,
+      "tone": "triumph"
     },
     {
-      "id": "ch4",
-      "title": "August Chaos",
-      "description": "The Cardinals trade gut-punch losses with improbable rallies through August, highlighted by a chaotic August 20th comeback that briefly reignites hope.",
-      "startClipIndex": 23,
-      "endClipIndex": 31,
+      "id": "ch3",
+      "title": "Nootbaar's Moment and June's Promise",
+      "description": "Lars Nootbaar's first homer headlines a June where the Cardinals stay competitive but can't quite break through.",
+      "startClipIndex": 12,
+      "endClipIndex": 14,
       "tone": "clutch"
     },
     {
+      "id": "ch4",
+      "title": "July Collapse",
+      "description": "A brutal 10-18 July erases the Cardinals' postseason hopes as the bullpen and defense fall apart at the worst moments.",
+      "startClipIndex": 15,
+      "endClipIndex": 21,
+      "tone": "struggle"
+    },
+    {
       "id": "ch5",
-      "title": "September Silver Linings",
-      "description": "With the season slipping away, Leo Bernal and Iván Herrera deliver late-year highlights that hint at a brighter future even as the losses mount.",
+      "title": "Treading Water in August",
+      "description": "A .500 August offers some reprieve — highlighted by Herrera's clutch double and Wetherholt's error-aided rally — but relief failures keep piling up.",
+      "startClipIndex": 22,
+      "endClipIndex": 31,
+      "tone": "turning_point"
+    },
+    {
+      "id": "ch6",
+      "title": "September and the Next Generation",
+      "description": "With playoff hopes gone, Iván Herrera and rookie Leo Bernal provide late-season highlights even as O'Brien's struggles define the Cardinals' year.",
       "startClipIndex": 32,
       "endClipIndex": 38,
       "tone": "milestone"
@@ -222,8 +230,6 @@
       "title": "Double — Jordan Walker",
       "description": "Jordan Walker doubles (10) on a fly ball to right fielder Colby Thomas. JJ Wetherholt scores. Iván Herrera to 3rd.",
       "playId": "3241e01e-e66b-318d-9f4a-72f9812900c7",
-      "videoUrl": "https://sporty-clips.mlb.com/NnlQYTRfWGw0TUFRPT1fQlFOVlZRRUVWMWNBWFZRRUJBQUhBQTRDQUZoVFZ3QUFCVmRUQ1FzRUF3cFZBRkZS.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/m4yknybvox5fgw93otua.jpg",
       "date": "2026-05-14",
       "gamePk": 825008,
       "atBatNumber": 75,
@@ -237,7 +243,8 @@
       "wpa": 0.361,
       "xwoba": 0.717,
       "eventType": "double",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/NnlQYTRfWGw0TUFRPT1fQlFOVlZRRUVWMWNBWFZRRUJBQUhBQTRDQUZoVFZ3QUFCVmRUQ1FzRUF3cFZBRkZS.mp4"
     },
     {
       "id": "823061-93-11",
@@ -893,5 +900,5 @@
     "division": "NL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-21T16:02:50.793Z"
+  "generatedAt": "2026-10-23T15:55:23.824Z"
 }

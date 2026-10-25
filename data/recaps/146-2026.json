@@ -1,20 +1,20 @@
 {
   "teamId": 146,
   "year": 2026,
-  "narrative": "The 2026 Miami Marlins opened the year with a flash of electricity, Owen Caissie's walk-off home run on Opening Weekend setting an optimistic tone for a franchise hungry to prove itself. But the promise of March gave way to a brutal April and May stretch, where the Marlins went a combined 22-33 and Pete Fairbanks became a symbol of the bullpen's fragility — surrendering key hits and home runs at the worst possible moments. The young roster showed flickers of fight, but inconsistency was the defining trait of the season's first half.\n\nThen came June, and with it, something remarkable. The Marlins went 20-6 in what may stand as one of the most dominant single months in recent franchise history, riding clutch contributions from Javier Sanoja, Xavier Edwards, and the improving middle of their lineup to erase months of frustration in a matter of weeks. That surge transformed what looked like a lost season into something genuinely compelling, and for a moment, Miami fans dared to dream.\n\nJuly and August brought the inevitable regression, as the Marlins hovered just above .500 and the bullpen continued to be a source of anguish. A three-run homer surrendered by Fairbanks to Milwaukee, a grand slam given up by Cade Gibson to Jarren Duran — these were the kinds of blows that kept Miami from building any real momentum in the second half. The offense, to its credit, kept punching, with Heriberto Hernández and Joe Mack delivering timely hits to keep games competitive.\n\nAs September arrived, the Marlins found themselves at 80-82 — a team still mathematically alive but in need of a closing run. Javier Sanoja, who had quietly become the heart of this lineup, collected his 30th double in a late-season two-run shot that epitomized how far he had come. Esteury Ruiz added a clutch extra-base hit the following day. Whether this group can manufacture enough wins to matter in the final weeks remains an open and urgent question.",
+  "narrative": "The 2026 Miami Marlins opened their season with a burst of electricity, Owen Caissie's Opening Series home run setting the tone for a squad determined to prove it belonged. The early returns were encouraging — a 4-1 March gave way to a messy but competitive April where Pete Fairbanks repeatedly found himself at the center of late-game heartbreak, and the roster's depth was tested nightly. Through it all, young players like Javier Sanoja and Graham Pauley flashed the kind of upside that kept fans invested even as the team stumbled to an 11-15 April record.\n\nMay brought more of the same struggle, an 11-18 month that pushed Miami to the margins of relevance. But something clicked heading into June — whether it was lineup cohesion, a pitching staff finding its footing, or simply fortune turning — because the Marlins erupted for a staggering 20-6 June that stands as one of the best months in recent franchise history. That run transformed the season from a quiet disappointment into a genuine story, with Xavier Edwards, Heriberto Hernández, and a supporting cast delivering timely hit after timely hit.\n\nJuly and August told a more complicated tale. The Marlins went a combined 23-29 over those two months, with Pete Fairbanks continuing to haunt late innings and Milwaukee hitters like Jackson Chourio and William Contreras feasting on Miami's bullpen. Jarren Duran's August grand slam off Cade Gibson was the kind of gut-punch that defines the fine line between contention and mediocrity. Yet even in the darkest stretches, individual moments — Heriberto Hernández's clutch single, Joe Mack's sacrifice fly in a critical late-August game — kept the team afloat and mathematically alive.\n\nSeptember has brought Miami to 80-82, a record that defies simple categorization. Javier Sanoja's 30th double on September 13th and Esteury Ruiz's sharp double the following day represent a team still swinging with purpose, still refusing to concede. Whether this Marlins squad can finish the final weeks with enough wins to matter remains an open question — but the June explosion proved this roster has a ceiling worth chasing, and the young core that emerged this season figures to be at the center of South Florida baseball conversations for years to come.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Opening Sparks",
-      "description": "Owen Caissie's opening-week blast ignites early optimism, as the Marlins roar out of the gate with a 4-1 March.",
+      "title": "Caissie Ignites the Open",
+      "description": "A blazing March and an Owen Caissie home run signal that Miami's young core has arrived with something to prove.",
       "startClipIndex": 0,
       "endClipIndex": 0,
       "tone": "triumph"
     },
     {
       "id": "ch2",
-      "title": "The April-May Grind",
-      "description": "A brutal 22-33 stretch through April and May exposes bullpen vulnerabilities and tests the team's character.",
+      "title": "April Turbulence",
+      "description": "Fairbanks-fueled late-game collapses and a .423 winning percentage define a bumpy April that tests the team's resilience.",
       "startClipIndex": 1,
       "endClipIndex": 8,
       "tone": "struggle"
@@ -22,26 +22,34 @@
     {
       "id": "ch3",
       "title": "The June Explosion",
-      "description": "An otherworldly 20-6 June transforms Miami's season, with clutch hits and team-wide contributions fueling one of the franchise's best months in years.",
+      "description": "A historic 20-6 month transforms Miami from afterthought to legitimate contender and breathes life into the entire season.",
       "startClipIndex": 9,
       "endClipIndex": 10,
       "tone": "triumph"
     },
     {
       "id": "ch4",
-      "title": "Treading Water",
-      "description": "July and August bring a .500 grind, with the bullpen repeatedly undoing the offense's hard work and keeping the Marlins from breaking through.",
+      "title": "Fading in the Heat",
+      "description": "July and early August bring a sobering return to earth as the bullpen bleeds runs and the team battles to stay relevant.",
       "startClipIndex": 11,
-      "endClipIndex": 20,
+      "endClipIndex": 14,
       "tone": "struggle"
     },
     {
       "id": "ch5",
-      "title": "The September Push",
-      "description": "Javier Sanoja and Esteury Ruiz lead a late-season charge as the Marlins fight to make something meaningful of an 80-82 campaign.",
+      "title": "Refusing to Fold",
+      "description": "Clutch late-August contributions from Hernández, Mack, and Sanoja keep Miami's faint hopes alive heading into September.",
+      "startClipIndex": 15,
+      "endClipIndex": 20,
+      "tone": "clutch"
+    },
+    {
+      "id": "ch6",
+      "title": "September's Final Answer",
+      "description": "Sanoja's 30th double and Ruiz's sharp hit embody a team still fighting to define what this season ultimately means.",
       "startClipIndex": 21,
       "endClipIndex": 23,
-      "tone": "clutch"
+      "tone": "turning_point"
     }
   ],
   "clips": [
@@ -50,6 +58,8 @@
       "title": "Home Run — Owen Caissie",
       "description": "Owen Caissie homers (1) on a line drive to right center field. Javier Sanoja scores.",
       "playId": "1d628e4b-3321-3ced-8c6f-49870686bdce",
+      "videoUrl": "https://sporty-clips.mlb.com/QndSWnJfWGw0TUFRPT1fQjFWWFZseFJVbEFBQzFFQVZ3QUhVbE1DQUZsV1ZRY0FCbHdOQndNRENRVUhWRkVE.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/vk57qmrh0wgbjangivi0.jpg",
       "date": "2026-03-29",
       "gamePk": 823891,
       "atBatNumber": 75,
@@ -63,8 +73,7 @@
       "wpa": 0.849,
       "xwoba": 1.42,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/QndSWnJfWGw0TUFRPT1fQjFWWFZseFJVbEFBQzFFQVZ3QUhVbE1DQUZsV1ZRY0FCbHdOQndNRENRVUhWRkVE.mp4"
+      "gameType": "R"
     },
     {
       "id": "823566-66-8",
@@ -136,6 +145,8 @@
       "title": "Home Run — Liam Hicks",
       "description": "Liam Hicks homers (6) on a fly ball to right field. Jakob Marsee scores. Xavier Edwards scores.",
       "playId": "f605dc04-0c16-360c-a10a-81b24aeb692d",
+      "videoUrl": "https://sporty-clips.mlb.com/VndQenZfWGw0TUFRPT1fVUFkUlVRQlhWZ1lBQ0FFRFVBQUhCd1lGQUFBRVV3QUFDbFJYQWdkVVZGRlRDUUFD.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/wgb78bhvfiue07xzjw6o.jpg",
       "date": "2026-04-27",
       "gamePk": 823961,
       "atBatNumber": 40,
@@ -149,8 +160,7 @@
       "wpa": 0.384,
       "xwoba": 0.794,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/VndQenZfWGw0TUFRPT1fVUFkUlVRQlhWZ1lBQ0FFRFVBQUhCd1lGQUFBRVV3QUFDbFJYQWdkVVZGRlRDUUFD.mp4"
+      "gameType": "R"
     },
     {
       "id": "823961-75-9",
@@ -537,6 +547,8 @@
       "title": "Double — Esteury Ruiz",
       "description": "Esteury Ruiz doubles (12) on a sharp fly ball to center fielder Jordan Lawlar. Jared Serna scores. Kyle Stowers scores. Otto Lopez scores.",
       "playId": "5ebb116e-c99a-32f8-bf84-741794ab2252",
+      "videoUrl": "https://sporty-clips.mlb.com/ZzZsUGxfWGw0TUFRPT1fQTFRREJsVUZVRmNBVzFzTEJ3QUhBMUJlQUFOVFcxVUFCVkVFQndvQlVGRlhBZ2RV.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/nvotr8az1krfjm3gztrq.jpg",
       "date": "2026-09-15",
       "gamePk": 825030,
       "atBatNumber": 85,
@@ -550,8 +562,7 @@
       "wpa": 0.53,
       "xwoba": 1.17,
       "eventType": "double",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/ZzZsUGxfWGw0TUFRPT1fQTFRREJsVUZVRmNBVzFzTEJ3QUhBMUJlQUFOVFcxVUFCVkVFQndvQlVGRlhBZ2RV.mp4"
+      "gameType": "R"
     }
   ],
   "seasonStats": {
@@ -566,5 +577,5 @@
     "division": "NL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-23T15:45:10.813Z"
+  "generatedAt": "2026-10-25T14:54:11.658Z"
 }

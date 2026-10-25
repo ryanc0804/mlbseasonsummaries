@@ -1,52 +1,44 @@
 {
   "teamId": 119,
   "year": 2026,
-  "narrative": "The 2026 Los Angeles Dodgers arrived with championship expectations and, for most of the year, lived up to them. Will Smith's opening-week two-run blast set the tone immediately, a thunderclap declaration that this team was ready. Through April and May the Dodgers played winning baseball, posting a combined 34-20 record, fueled by big moments from Kyle Tucker, Max Muncy, and a lineup that could hurt you in a dozen different ways. The bullpen showed some cracks — Tanner Scott surrendered two damaging home runs in late May and early June — but the offense kept bailing the team out, none more dramatically than Dalton Rushing's line-drive single on June 19th that plated two and effectively buried a late-inning threat.\n\nThe summer solstice brought the Dodgers' best baseball of the year. June finished 18-9, and Teoscar Hernández's grand slam on July 3rd felt like a coronation. But July and August told a more complicated story. The bullpen betrayed the team repeatedly: Edwin Díaz was hammered for a two-run homer, a triple, and another RBI triple across back-to-back ugly nights in early August, while Alex Vesia added his own painful contributions. August cratered to 13-14, the only losing month of the season, and the question of whether the Dodgers could trust their relief corps became very real. Max Muncy's clutch three-run homer on August 13th was a temporary salve, and Tommy Edman's timely hitting kept the ship from listing further, but the bullpen's reliability remained a genuine concern heading into September.\n\nSeptember answered the doubters loudly. The Dodgers went 18-7 to close the regular season, finishing 100-62 — a dominant number by any measure. Teoscar Hernández ignited the charge with a two-run double, Mookie Betts launched a three-run shot, and Tommy Edman added a three-run homer of his own to power a closing stretch that felt like a team peaking at exactly the right moment. The postseason opened promisingly: Hernández homered in the Division Series, Andy Pages delivered in a pivotal Game 3, and the Dodgers advanced. But the NLCS proved a different beast. Yoshinobu Yamamoto was touched for three runs on a Christian Yelich single, Blake Snell surrendered a two-run homer to Jake Bauers, and despite a fighting effort — Ohtani's three-run blast and Will Smith's clutch doubles kept them competitive — Los Angeles could not close it out. A 100-win season ended one round short of the World Series, the bullpen's summer ghosts and October's unforgiving margins combining to extinguish a year that had otherwise shone so brightly.",
+  "narrative": "The 2026 Los Angeles Dodgers arrived with championship expectations and largely delivered on them, finishing 100-62 and standing as one of the National League's dominant forces. From the opening weekend, Will Smith's two-run blast on March 28 announced that this team meant business, and the Dodgers carried that energy into April with a 16-10 record built on timely power. The acquisition of Kyle Tucker paid immediate dividends — his clutch single on April 27 erased a three-run deficit surrendered by Yamamoto and turned a potential loss into a statement win, exemplifying the lineup's relentless depth.\n\nThe summer months brought a different kind of baseball. June was brilliant — 18-9, fueled by Dalton Rushing's dramatic walk-off single on June 19 and Teoscar Hernández's Independence Day weekend grand slam — but the bullpen, particularly Tanner Scott and Edwin Díaz, showed troubling cracks. Scott surrendered homers in back-to-back late-game spots in May and June, while Díaz imploded across consecutive August outings against Arizona, giving up a homer and two triples in what became a genuinely alarming stretch. August finished 13-14, the team's only losing month, and it raised real questions about the club's postseason readiness.\n\nSeptember answered those questions emphatically. The Dodgers went 18-7, their best month of the year, with Teoscar Hernández, Mookie Betts, and Tommy Edman delivering enormous clutch hits in back-to-back-to-back games in early September. The rotation steadied, the lineup reasserted itself, and Los Angeles clinched with authority, looking every bit like a World Series contender.\n\nThe postseason told a bittersweet story. The Dodgers dispatched their Division Series opponent with contributions up and down the roster — Hernández and Enrique Hernández homering, Andy Pages delivering a multi-RBI single — before running into Milwaukee in the NLCS. The Brewers matched the Dodgers blow for blow. Will Smith provided heroics with two doubles across NLCS games, and Shohei Ohtani launched a three-run homer to keep the series alive, but Milwaukee's pitching ultimately proved too much. The dream season ended in the Championship Series, leaving a talented, 100-win club one step short of the Fall Classic.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Opening Statement",
-      "description": "Will Smith's early homer and Max Muncy's power set a confident tone as the Dodgers race out to a strong April.",
+      "title": "Opening Statements",
+      "description": "The Dodgers flex their offensive muscle early, with Will Smith's opening-weekend homer setting the tone for a promising spring.",
       "startClipIndex": 0,
       "endClipIndex": 1,
       "tone": "triumph"
     },
     {
       "id": "ch2",
-      "title": "Clutch in the Chaos",
-      "description": "The Dodgers absorb bullpen misfires and defensive miscues but rally repeatedly, with Tucker, Ohtani, and Rushing delivering when it matters most.",
+      "title": "Tucker's Arrival Changes Everything",
+      "description": "A wild late-April series encapsulates the season's identity — the Dodgers absorb punches and punch back harder, with Kyle Tucker's clutch single proving the lineup's new dimension.",
       "startClipIndex": 2,
-      "endClipIndex": 10,
+      "endClipIndex": 5,
       "tone": "clutch"
     },
     {
       "id": "ch3",
-      "title": "Midsummer Peak",
-      "description": "Hernández's grand slam caps a dominant June-July stretch as the Dodgers establish themselves as the NL's best team.",
-      "startClipIndex": 11,
+      "title": "Summer Surge and Bullpen Cracks",
+      "description": "Back-to-back 18-win months in May and June showcase the Dodgers' dominance, but Scott and Díaz surrendering critical homers hint at the bullpen vulnerabilities that will loom large.",
+      "startClipIndex": 6,
       "endClipIndex": 14,
-      "tone": "triumph"
-    },
-    {
-      "id": "ch4",
-      "title": "August Wobble",
-      "description": "Edwin Díaz and the bullpen unravel across back-to-back nights, dragging the Dodgers to their only losing month, before Muncy and Edman steady the ship.",
-      "startClipIndex": 15,
-      "endClipIndex": 24,
-      "tone": "struggle"
-    },
-    {
-      "id": "ch5",
-      "title": "September Surge",
-      "description": "Hernández, Betts, and Edman power an 18-7 September close that silences doubters and locks in 100 wins.",
-      "startClipIndex": 25,
-      "endClipIndex": 28,
       "tone": "turning_point"
     },
     {
-      "id": "ch6",
-      "title": "October's Edge",
-      "description": "The Dodgers roll through the Division Series but fall in the NLCS, as pitching vulnerabilities and razor-thin margins end a brilliant season one round too soon.",
+      "id": "ch4",
+      "title": "August Stumble, September Roar",
+      "description": "Díaz's back-to-back meltdowns make August the team's only losing month, but the Dodgers respond with an 18-7 September powered by Hernández, Betts, and Edman delivering timely fireworks.",
+      "startClipIndex": 15,
+      "endClipIndex": 28,
+      "tone": "triumph"
+    },
+    {
+      "id": "ch5",
+      "title": "October's Promise and Heartbreak",
+      "description": "The Dodgers advance through the Division Series with collective firepower before falling in the NLCS, with Ohtani's homer and Will Smith's clutch doubles unable to hold off a determined Milwaukee club.",
       "startClipIndex": 29,
       "endClipIndex": 36,
       "tone": "struggle"
@@ -123,6 +115,8 @@
       "title": "Double — Shohei Ohtani",
       "description": "Shohei Ohtani hits a ground-rule double (6) on a fly ball down the right-field line. Andy Pages scores. Dalton Rushing to 3rd.",
       "playId": "085f1bb9-ded0-37cf-950c-9a142deaf269",
+      "videoUrl": "https://sporty-clips.mlb.com/VndQenZfWGw0TUFRPT1fQmdsVUFsVldCQXNBWEFkV1ZnQUhCbFVBQUZnQVV3SUFDd1FFQkFGUlZGSURBZ1Jm.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/tq8zqsinccddequ5okrr.jpg",
       "date": "2026-04-27",
       "gamePk": 823961,
       "atBatNumber": 75,
@@ -136,14 +130,15 @@
       "wpa": 0.353,
       "xwoba": 1.787,
       "eventType": "double",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/VndQenZfWGw0TUFRPT1fQmdsVUFsVldCQXNBWEFkV1ZnQUhCbFVBQUZnQVV3SUFDd1FFQkFGUlZGSURBZ1Jm.mp4"
+      "gameType": "R"
     },
     {
       "id": "823961-78-9",
       "title": "Single — Kyle Tucker",
       "description": "Kyle Tucker singles on a line drive to center fielder Jakob Marsee. Dalton Rushing scores. Shohei Ohtani scores. Freddie Freeman to 2nd.",
       "playId": "37912070-93d7-306d-b33c-ba2a9b7e7919",
+      "videoUrl": "https://sporty-clips.mlb.com/VndQenZfWGw0TUFRPT1fQlFaWVZWWUVVUUlBQVZGV1VRQUhBUUFDQUFNR1VBSUFVQVFIVVFwWEJsWlNDUU5m.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/xfhmbwivxobfkulm0sco.jpg",
       "date": "2026-04-27",
       "gamePk": 823961,
       "atBatNumber": 78,
@@ -157,8 +152,7 @@
       "wpa": 0.736,
       "xwoba": 0.525,
       "eventType": "single",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/VndQenZfWGw0TUFRPT1fQlFaWVZWWUVVUUlBQVZGV1VRQUhBUUFDQUFNR1VBSUFVQVFIVVFwWEJsWlNDUU5m.mp4"
+      "gameType": "R"
     },
     {
       "id": "823958-76-9",
@@ -228,6 +222,8 @@
       "title": "Home Run — Freddie Freeman",
       "description": "Freddie Freeman homers (10) on a fly ball to center field.",
       "playId": "2243b8de-eb8f-39d2-8273-62ea116bf195",
+      "videoUrl": "https://sporty-clips.mlb.com/dnZ3bnlfWGw0TUFRPT1fQkFOVlZ3WU1BbGNBWFFBS0FBQUhDRkpVQUZrSFZGSUFCRmRRVVFJRUIxRURBUXRU.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/ylg2ntojufix7fi4flzy.jpg",
       "date": "2026-06-05",
       "gamePk": 823943,
       "atBatNumber": 63,
@@ -241,8 +237,7 @@
       "wpa": 0.35,
       "xwoba": 1.19,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/dnZ3bnlfWGw0TUFRPT1fQkFOVlZ3WU1BbGNBWFFBS0FBQUhDRkpVQUZrSFZGSUFCRmRRVVFJRUIxRURBUXRU.mp4"
+      "gameType": "R"
     },
     {
       "id": "823372-68-8",
@@ -270,6 +265,8 @@
       "title": "Single — Dalton Rushing",
       "description": "Dalton Rushing singles on a line drive to right fielder Tyler O'Neill. Alex Call scores. Ryan Ward scores. Throwing error by right fielder Tyler O'Neill.",
       "playId": "b30704ad-1f75-391e-83c5-26e1d50aedfd",
+      "videoUrl": "https://sporty-clips.mlb.com/RDFkTE1fWGw0TUFRPT1fVkFKUlUxUUFCMVlBQ1FRRlV3QUhDQWNEQUZrR0FGUUFBRk5RQVZjQUFWSUFWRlFD.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/b7y84n2ofndendnwosn8.jpg",
       "date": "2026-06-19",
       "gamePk": 823936,
       "atBatNumber": 78,
@@ -283,14 +280,15 @@
       "wpa": 0.827,
       "xwoba": 0.56,
       "eventType": "single",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/RDFkTE1fWGw0TUFRPT1fVkFKUlUxUUFCMVlBQ1FRRlV3QUhDQWNEQUZrR0FGUUFBRk5RQVZjQUFWSUFWRlFD.mp4"
+      "gameType": "R"
     },
     {
       "id": "823933-56-7",
       "title": "Home Run — Teoscar Hernández",
       "description": "Teoscar Hernández hits a grand slam (8) to center field. Mookie Betts scores. Max Muncy scores. Kyle Tucker scores.",
       "playId": "1f54fe5f-add1-381f-941b-b35806e886ce",
+      "videoUrl": "https://sporty-clips.mlb.com/R0Jyb1ZfWGw0TUFRPT1fQjFkVVVBSlJVMVFBV1FaV1Z3QUhDUWNBQUZnQlVnTUFVRllBQ0FNRFZBdGRCbEVE.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/wqc6olmhdkyhux81mbqj.jpg",
       "date": "2026-07-03",
       "gamePk": 823933,
       "atBatNumber": 56,
@@ -304,8 +302,7 @@
       "wpa": 0.407,
       "xwoba": 1.916,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/R0Jyb1ZfWGw0TUFRPT1fQjFkVVVBSlJVMVFBV1FaV1Z3QUhDUWNBQUZnQlVnTUFVRllBQ0FNRFZBdGRCbEVE.mp4"
+      "gameType": "R"
     },
     {
       "id": "823437-65-9",
@@ -354,6 +351,8 @@
       "title": "Double — Shohei Ohtani",
       "description": "Shohei Ohtani doubles (20) on a sharp line drive to right fielder Victor Robles. Dalton Rushing scores. Shohei Ohtani to 3rd. Shohei Ohtani advances to 3rd, on a fielding error by right fielder Victor Robles.",
       "playId": "6c049e77-387a-37f9-bd49-18bf0f56c718",
+      "videoUrl": "https://sporty-clips.mlb.com/Uk85dk1fWGw0TUFRPT1fQUZKUlVGMVJVUVVBQzFvRkJ3QUhCbEJmQUFOUlYxZ0FBMTFYVmdOVEJBVUdCd05l.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/war9fbzcdldjdcvsce0o.jpg",
       "date": "2026-07-28",
       "gamePk": 823923,
       "atBatNumber": 74,
@@ -367,8 +366,7 @@
       "wpa": 0.381,
       "xwoba": 0.906,
       "eventType": "double",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/Uk85dk1fWGw0TUFRPT1fQUZKUlVGMVJVUVVBQzFvRkJ3QUhCbEJmQUFOUlYxZ0FBMTFYVmdOVEJBVUdCd05l.mp4"
+      "gameType": "R"
     },
     {
       "id": "825051-72-9",
@@ -459,6 +457,8 @@
       "title": "Double — Max Muncy",
       "description": "Max Muncy doubles (17) on a line drive to right fielder Starling Marte. Tommy Edman scores. Miguel Rojas scores. Kyle Tucker scores. Max Muncy to 3rd.",
       "playId": "5e02d112-f768-3e8c-a9e0-10a153c41c35",
+      "videoUrl": "https://sporty-clips.mlb.com/cU93V2tfWGw0TUFRPT1fQTFSUlZnQUZWd0FBWGxVRVhnQUhWQTRGQUFBTUJsRUFBMVZVQVFZR1VnZFVVd0ZU.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/zkqdsoodlifuudpbwzcf.jpg",
       "date": "2026-08-10",
       "gamePk": 823918,
       "atBatNumber": 50,
@@ -472,8 +472,7 @@
       "wpa": 0.44,
       "xwoba": 0.903,
       "eventType": "double",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/cU93V2tfWGw0TUFRPT1fQTFSUlZnQUZWd0FBWGxVRVhnQUhWQTRGQUFBTUJsRUFBMVZVQVFZR1VnZFVVd0ZU.mp4"
+      "gameType": "R"
     },
     {
       "id": "823915-50-6",
@@ -544,6 +543,8 @@
       "title": "Single — Tommy Edman",
       "description": "Tommy Edman singles on a line drive to left fielder Bryan Reynolds. Enrique Hernández scores. Kyle Tucker to 2nd.",
       "playId": "dc7a2cef-7d8a-3663-8b06-10f8ac8059c8",
+      "videoUrl": "https://sporty-clips.mlb.com/TUFYYTlfWGw0TUFRPT1fVWxKV0JWWlhBMVFBRHdZS0J3QUhCd0JWQUZsWFUxY0FBMVZUQ0ZKV0NRTlFDVkZl.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/rbulkovncfxlbsnqaqka.jpg",
       "date": "2026-08-21",
       "gamePk": 823911,
       "atBatNumber": 85,
@@ -557,8 +558,7 @@
       "wpa": 0.418,
       "xwoba": 0.691,
       "eventType": "single",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/TUFYYTlfWGw0TUFRPT1fVWxKV0JWWlhBMVFBRHdZS0J3QUhCd0JWQUZsWFUxY0FBMVZUQ0ZKV0NRTlFDVkZl.mp4"
+      "gameType": "R"
     },
     {
       "id": "824878-88-9",
@@ -586,6 +586,8 @@
       "title": "Double — Teoscar Hernández",
       "description": "Teoscar Hernández doubles (16) on a sharp line drive to center fielder Nathan Church. Tommy Edman scores. Mookie Betts scores.",
       "playId": "d43edfa1-c734-3dea-b284-c8781bc2f19c",
+      "videoUrl": "https://sporty-clips.mlb.com/NHlLTE9fWGw0TUFRPT1fVWdWU0FRQlNCd01BVzFVQlVnQUhWVk1IQUFNSFcxVUFVVjBDQ0FKWFVnRURBUXNG.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/ikbtlhrm1cyw0ssdh4jk.jpg",
       "date": "2026-09-03",
       "gamePk": 823907,
       "atBatNumber": 79,
@@ -599,14 +601,15 @@
       "wpa": 0.627,
       "xwoba": 0.739,
       "eventType": "double",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/NHlLTE9fWGw0TUFRPT1fVWdWU0FRQlNCd01BVzFVQlVnQUhWVk1IQUFNSFcxVUFVVjBDQ0FKWFVnRURBUXNG.mp4"
+      "gameType": "R"
     },
     {
       "id": "823904-59-7",
       "title": "Home Run — Tommy Edman",
       "description": "Tommy Edman homers (6) on a fly ball to right center field. Alex Freeland scores. Enrique Hernández scores.",
       "playId": "a85dd8a4-18f2-3fd8-a7c1-3079d9dad53a",
+      "videoUrl": "https://sporty-clips.mlb.com/NXk5ajFfWGw0TUFRPT1fVndsVUFBQU1Cd1lBQ1ZwVVZBQUhWMUplQUFBQ0FGQUFBVlVDQ1ZjTVZWSUJCUUVI.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/b2bkxyqvryspastj8fnu.jpg",
       "date": "2026-09-05",
       "gamePk": 823904,
       "atBatNumber": 59,
@@ -620,14 +623,15 @@
       "wpa": 0.534,
       "xwoba": 0.743,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/NXk5ajFfWGw0TUFRPT1fVndsVUFBQU1Cd1lBQ1ZwVVZBQUhWMUplQUFBQ0FGQUFBVlVDQ1ZjTVZWSUJCUUVI.mp4"
+      "gameType": "R"
     },
     {
       "id": "823903-75-8",
       "title": "Home Run — Mookie Betts",
       "description": "Mookie Betts homers (18) on a fly ball to left center field. Alex Call scores. Tommy Edman scores.",
       "playId": "1271937d-c98e-3bb6-912a-f060055a4375",
+      "videoUrl": "https://sporty-clips.mlb.com/QndSZ2xfWGw0TUFRPT1fQndOV1ZWMEhVVllBVzFzS0F3QUhVMVJRQUZnRVVRQUFWRlVEQUFNQUJGSlJBd1ZU.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/noaxrtoqqzlajmqpzr0q.jpg",
       "date": "2026-09-06",
       "gamePk": 823903,
       "atBatNumber": 75,
@@ -641,8 +645,7 @@
       "wpa": 0.629,
       "xwoba": 1.09,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/QndSZ2xfWGw0TUFRPT1fQndOV1ZWMEhVVllBVzFzS0F3QUhVMVJRQUZnRVVRQUFWRlVEQUFNQUJGSlJBd1ZU.mp4"
+      "gameType": "R"
     },
     {
       "id": "823815-75-9",
@@ -853,5 +856,5 @@
     "division": "NL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-23T15:59:06.233Z"
+  "generatedAt": "2026-10-25T15:09:04.801Z"
 }

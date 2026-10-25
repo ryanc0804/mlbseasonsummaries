@@ -1,47 +1,55 @@
 {
   "teamId": 120,
   "year": 2026,
-  "narrative": "The 2026 Washington Nationals opened the year with cautious optimism, and the early months delivered a mixed but ultimately disappointing April — a 12-15 record undercut by some brutal pitching lapses, including a costly multi-run single off Cole Henry on Opening Day and a three-run homer surrendered by Henry again on April 12th. Yet the Nationals showed flashes of what they could be: James Wood's three-run blast on April 6th announced his presence as a force in the middle of the order, and CJ Abrams closed April with an eighth home run that hinted at an offensive breakout building beneath the surface.\n\nMay and the first stretch of June represented the best baseball Washington played all season. The Nationals went 16-12 in May, powered by Abrams and the emerging Daylen Lile, whose two-run shot on May 13th keyed a pivotal win. Abrams' go-ahead triple on May 22nd against Atlanta's Ronald Acuña Jr. in right field was the kind of moment that briefly made believers of the Nationals fanbase. June started well enough — Lile's clutch RBI single on June 8th continued the momentum — but the month turned ugly fast, punctuated by a devastating grand slam surrendered by Mitchell Parker on June 10th and a nightmarish June 23rd game against Philadelphia in which Brad Lord gave up back-to-back home runs to Brandon Marsh and Bryson Stott.\n\nJuly brought no relief. An 11-13 record masked an offense that was still capable but a pitching staff increasingly unable to hold leads, as Jazz Chisholm Jr.'s two-run bomb off Matt Krook on July 10th and a Ben Rice triple that plated two runs in a July 12th loss illustrated. August was the season's nadir — an 11-18 collapse driven by a steady parade of home runs allowed, most damningly Derek Hill's grand slam off Tom Cosgrove on August 3rd. Bright spots from Brady House and Daylen Lile kept the Nationals competitive on some nights, but the losses mounted relentlessly.\n\nSeptember arrived with the Nationals at a crossroads, needing a strong finish to salvage any sense of momentum heading into the offseason. The month has been a .500 affair at 11-11 through late September, but the pitching staff has continued to bleed late-game runs — Clayton Beeter and Will Dion both surrendering damaging home runs to Dodgers hitters in back-to-back games in early September. Washington finishes 2026 at 77-85, a team with genuine offensive talent in Abrams, Wood, Lile, and the developing House, but one that must address a rotation and bullpen that ranked among the league's most volatile. The foundation for a competitive future is visible; the 2026 season was simply not the year it came together.",
+  "narrative": "The 2026 Washington Nationals entered the season with cautious optimism, and a 3-2 March gave way to a bumpy April that set the tone for a frustrating year. The offense showed flashes — James Wood's three-run blast on April 6th and CJ Abrams' clutch home run on April 30th offered genuine hope — but the pitching staff was leaky from the jump, with Cole Henry and Clayton Beeter surrendering critical hits at the worst possible moments. Washington finished April at 12-15, already playing from behind in the standings.\n\nMay and early June represented the season's brightest stretch. The Nationals posted a 16-12 record in May, powered by a dynamic young core. CJ Abrams announced himself as the offensive centerpiece with a pair of spectacular extra-base hits, while Daylen Lile emerged as a complementary force, delivering a go-ahead homer on May 13th and a clutch RBI single in early June. The lineup, built around speed and contact, was clicking. A .744 OPS and 210 home runs reflect a group with real teeth, and for a few weeks in the late spring, Washington looked like a team that could make noise.\n\nJune turned the season. A brutal six-game stretch from June 21st through June 24th saw the bullpen torched repeatedly — Richard Lovelady's catastrophic outing on June 24th, when Derek Hill crushed a decisive two-run shot worth nearly three-quarters of a win in lost probability, was perhaps the low point of the entire year. July continued the slide, with Matt Krook and Clayton Beeter each surrendering home runs in high-leverage situations during a difficult 11-13 month. The rotation's 4.67 ERA was being exposed, and the Nationals couldn't outrun it.\n\nAugust was the season's death knell, a grinding 11-18 month that effectively buried any lingering postseason dreams. Grand slams, extra-base hit surrenders, and bullpen collapses piled up. Yet young players like Brady House and Daylen Lile continued to flash their potential even in defeat, and September's 11-11 record suggests the Nationals found some equilibrium as the calendar wound down. At 77-85, Washington is a team still building — the bones of something interesting are here, but the 2026 season will be remembered as one where the pitching staff too often squandered what a promising offense put together.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Rough Start, Bright Flashes",
-      "description": "A rocky April sees the Nationals stumble out of the gate despite promising moments from Wood and Abrams.",
+      "title": "Shaky Foundations",
+      "description": "A rocky April sees the Nationals mix promising offensive moments with frustrating pitching breakdowns, leaving them below .500 before May arrives.",
       "startClipIndex": 0,
       "endClipIndex": 6,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "Finding Their Stride",
-      "description": "The Nationals catch fire in May with Abrams and Lile leading a 16-12 month that represents the season's high-water mark.",
+      "title": "Abrams, Lile, and a Winning May",
+      "description": "The young core catches fire in May, with CJ Abrams and Daylen Lile delivering clutch hits that fuel the season's best month at 16-12.",
       "startClipIndex": 7,
-      "endClipIndex": 9,
+      "endClipIndex": 10,
       "tone": "triumph"
     },
     {
       "id": "ch3",
-      "title": "June Unravels",
-      "description": "A promising start to June disintegrates under a barrage of surrendered home runs and a punishing series against Philadelphia.",
-      "startClipIndex": 10,
+      "title": "June Implosion",
+      "description": "A nightmarish stretch in late June — headlined by grand slams, multi-run homers, and a catastrophic bullpen blow on the 24th — unravels the season's momentum.",
+      "startClipIndex": 11,
       "endClipIndex": 18,
-      "tone": "turning_point"
+      "tone": "struggle"
     },
     {
       "id": "ch4",
-      "title": "Midsummer Slide",
-      "description": "July and early August bring a grinding losing stretch as the pitching staff continues to collapse in high-leverage moments.",
+      "title": "Sliding Into Summer",
+      "description": "July's 11-13 record continues the decline as opposing hitters punish a vulnerable pitching staff, while the offense struggles to compensate.",
       "startClipIndex": 19,
-      "endClipIndex": 28,
+      "endClipIndex": 21,
       "tone": "struggle"
     },
     {
       "id": "ch5",
-      "title": "Fighting to the Wire",
-      "description": "The Nationals battle to a near-.500 September but late-game pitching woes prevent any meaningful late-season surge.",
+      "title": "August Grind",
+      "description": "An 11-18 August sinks any postseason hopes, though House and Lile provide occasional bright spots amid the wreckage of a bullpen under siege.",
+      "startClipIndex": 22,
+      "endClipIndex": 28,
+      "tone": "struggle"
+    },
+    {
+      "id": "ch6",
+      "title": "September Steadiness",
+      "description": "A 11-11 finish in September offers a measure of dignity and hints at what this young roster could become, even as the pitching staff surrenders a few more damaging late-season blasts.",
       "startClipIndex": 29,
       "endClipIndex": 34,
-      "tone": "struggle"
+      "tone": "turning_point"
     }
   ],
   "clips": [
@@ -349,6 +357,8 @@
       "title": "Home Run — Jorbit Vivas",
       "description": "Jorbit Vivas homers (2) on a fly ball to center field. Luis García Jr. scores. Dylan Crews scores.",
       "playId": "7c3d746d-a58b-3113-be5d-2c071fe26f7d",
+      "videoUrl": "https://sporty-clips.mlb.com/cU9vemVfWGw0TUFRPT1fQVZKU0FGTUFVRllBV1ZjS0JBQUhBQWRWQUFOUVZnVUFBQVlGQndKVFZBRlRWZ1VD.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/cztdhh6acmuxgcuwiaia.jpg",
       "date": "2026-06-23",
       "gamePk": 822718,
       "atBatNumber": 66,
@@ -362,8 +372,7 @@
       "wpa": 0.417,
       "xwoba": 1.171,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/cU9vemVfWGw0TUFRPT1fQVZKU0FGTUFVRllBV1ZjS0JBQUhBQWRWQUFOUVZnVUFBQVlGQndKVFZBRlRWZ1VD.mp4"
+      "gameType": "R"
     },
     {
       "id": "822718-74-9",
@@ -412,6 +421,8 @@
       "title": "Home Run — Curtis Mead",
       "description": "Curtis Mead homers (13) on a fly ball to left field. Dylan Crews scores.",
       "playId": "287b7f00-2514-3d53-9df2-a31490d13c3f",
+      "videoUrl": "https://sporty-clips.mlb.com/MnJ5R05fWGw0TUFRPT1fQkFsV0JsTlNWZ0lBQ2xjRFVnQUhWUU5WQUZoUkJWTUFVMVlFQkFvRlZRSldVd0VB.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/biwjeuduidxrblwuzvqe.jpg",
       "date": "2026-06-24",
       "gamePk": 822719,
       "atBatNumber": 51,
@@ -425,8 +436,7 @@
       "wpa": 0.354,
       "xwoba": 1.432,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/MnJ5R05fWGw0TUFRPT1fQkFsV0JsTlNWZ0lBQ2xjRFVnQUhWUU5WQUZoUkJWTUFVMVlFQkFvRlZRSldVd0VB.mp4"
+      "gameType": "R"
     },
     {
       "id": "822719-72-9",
@@ -625,6 +635,8 @@
       "title": "Single — Dylan Crews",
       "description": "Dylan Crews singles on a line drive to center fielder Jakob Marsee. Nasim Nuñez scores. José Tena to 3rd. Daylen Lile to 2nd.",
       "playId": "415104ac-cebc-3708-97de-e11490e4175b",
+      "videoUrl": "https://sporty-clips.mlb.com/WU81akRfWGw0TUFRPT1fQWdCVVZWUUFCMUVBV3dkUUJRQUhCZ1plQUZnQ0J3UUFWMVFFQkFvRlZBZFVCd2NF.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/a244ilgi8pzriyjz5uql.jpg",
       "date": "2026-08-29",
       "gamePk": 822690,
       "atBatNumber": 83,
@@ -638,8 +650,7 @@
       "wpa": 0.36,
       "xwoba": 0.435,
       "eventType": "single",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/WU81akRfWGw0TUFRPT1fQWdCVVZWUUFCMUVBV3dkUUJRQUhCZ1plQUZnQ0J3UUFWMVFFQkFvRlZBZFVCd2NF.mp4"
+      "gameType": "R"
     },
     {
       "id": "822688-68-9",
@@ -801,5 +812,5 @@
     "division": "NL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-23T15:48:52.997Z"
+  "generatedAt": "2026-10-25T14:58:18.536Z"
 }

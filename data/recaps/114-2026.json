@@ -1,47 +1,55 @@
 {
   "teamId": 114,
   "year": 2026,
-  "narrative": "The 2026 Cleveland Guardians were a team that defied easy categorization — never dominant, never truly broken, but always capable of rising to a moment. They stumbled out of the gate in March and April, playing .500 ball while their bullpen, led by Cade Smith, absorbed some of the season's most damaging blows. Yet even in those early stumbles, flashes of the team's identity emerged: Brayan Rocchio's grand slam and multi-run home runs, Chase DeLauter's gap-splitting extra-base hits, and a young roster that refused to fold.\n\nMay became the turning point, the month the Guardians finally looked like a team with a ceiling. They went 18-11, the best stretch of their season, powered by contributors up and down the lineup. Kyle Manzardo, Daniel Schneemann, and Brayan Rocchio took turns delivering in high-leverage moments, while the pitching staff posted enough quality starts to keep Cleveland in the AL Central race. June brought the inevitable regression — a 10-15 month dragged down by a bullpen that continued to cough up leads at the worst times — but the foundation held.\n\nThe final two months were a redemption arc. Rocchio emerged as the team's most clutch performer, delivering a walk-off-caliber double in September that set the tone for a 16-9 finish. September belonged to the Guardians: Petey Halpin, Angel Martínez, and Travis Bazzana all stepped up in decisive moments, and Cleveland rode that momentum into October as legitimate postseason contenders. They dispatched their Division Series opponent with a combination of veteran poise — José Ramírez, Jo Adell — and the kind of opportunistic offense that had defined their best months.\n\nThe ALCS, however, proved a step too far. Facing a deeper, more experienced opponent, the Guardians' pitching cracked under the pressure of October's biggest stage. Gavin Williams and Daniel Espino both surrendered critical runs at pivotal moments, and the bullpen — the same vulnerability that had haunted them all year — couldn't lock down leads when it mattered most. Still, an 85-win season that ended in the American League Championship Series represents genuine growth for this young roster, and with Rocchio, DeLauter, and Bazzana entering their primes, the foundation for something more is firmly in place.",
+  "narrative": "The 2026 Cleveland Guardians were a team defined by resilience and inconsistency in equal measure, a club that could never quite put together a sustained run but always found a way to stay in the hunt. They stumbled out of the gate in March and April, finishing the first two months at a flat .500, plagued by a bullpen that repeatedly surrendered leads at the worst possible moments. Cade Smith in particular became a symbol of early-season heartbreak, surrendering multiple crushing hits that erased Cleveland advantages. Yet even in those darkest moments, flashes of young talent kept the faithful engaged — Daniel Schneemann's grand slam and Brayan Rocchio's power surge hinting at something brewing beneath the surface.\n\nMay was the season's clearest turning point, as the Guardians erupted to an 18-11 record that represented their best baseball of the year. The bats came alive, the rotation steadied, and Kyle Manzardo provided clutch pop in the middle of the order. But June proved that this team could not sustain momentum, as a 10-15 collapse brought them crashing back to earth. A brutal Houston series mid-month saw Matt Festa and Cade Smith take turns getting torched, and the offense went cold at the worst times. July and August were grinding, treading-water months — the Guardians hung around .500, with Rocchio's walk-off two-run homer on July 2nd providing one of the few genuine cathartic moments of the summer.\n\nSeptember became the month everything clicked. A 16-9 record to close the regular season was powered by Rocchio's emergence as a legitimate offensive force — his double on September 15th that scored two runs in a late-game comeback was the signature moment of the stretch run. Petey Halpin contributed a clutch three-run homer, and Angel Martínez's two-run shot in mid-September underscored the depth of Cleveland's young lineup. The Guardians finished 85-77, earning a postseason berth on the strength of their September surge, and dispatching their Division Series opponent with José Ramírez providing the power and Jo Adell delivering a crucial triple.\n\nThe ALCS, however, was where the dream ended. Cleveland pushed hard in the early games, with Nathaniel Lowe's two-run single in Game 1 giving them an early series lift. But their rotation could not hold leads against a deep and dangerous Tampa Bay lineup. Gavin Williams was tattooed for a key triple, and Daniel Espino could not stop the bleeding in a pivotal middle game. By the time Tim Herrin surrendered a two-run double in Game 5, the season was effectively over. The Guardians fell in the ALCS, a bitter end that nonetheless represented genuine progress for a young roster that had shown it belonged in October.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Shaky Footing",
-      "description": "A rocky start to the season sees the Guardians play .500 ball through March and April, with the bullpen allowing critical runs in high-leverage spots.",
+      "title": "Stumbling Out of the Gate",
+      "description": "A flat March and April saw the Guardians play uninspired .500 ball while the bullpen repeatedly coughed up critical leads.",
       "startClipIndex": 0,
-      "endClipIndex": 7,
+      "endClipIndex": 2,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "The Best Version of Themselves",
-      "description": "An 18-11 May transforms Cleveland into a genuine contender, with Manzardo and the lineup catching fire.",
-      "startClipIndex": 8,
-      "endClipIndex": 8,
-      "tone": "triumph"
+      "title": "Young Guns Rise",
+      "description": "Schneemann's grand slam and Rocchio's emerging power gave Cleveland reasons for optimism even as they scratched their way to even through April.",
+      "startClipIndex": 3,
+      "endClipIndex": 7,
+      "tone": "turning_point"
     },
     {
       "id": "ch3",
-      "title": "June Swoon",
-      "description": "A 10-15 June tests the Guardians' resolve as Cade Smith and the bullpen continue to surrender late leads.",
-      "startClipIndex": 9,
+      "title": "The May Surge and June Slide",
+      "description": "An 18-11 May hinted at a team ready to contend, but a brutal June — littered with bullpen disasters — washed away the gains and sent Cleveland back to mediocrity.",
+      "startClipIndex": 8,
       "endClipIndex": 12,
       "tone": "struggle"
     },
     {
       "id": "ch4",
-      "title": "Rocchio Rises, Cleveland Surges",
-      "description": "Brayan Rocchio becomes the team's heartbeat, delivering clutch hit after clutch hit as the Guardians close the regular season on a 29-22 run.",
+      "title": "Grinding Through Summer",
+      "description": "Rocchio's walk-off heroics in July and Kwan's big August double were highlights in an otherwise grind-it-out stretch that kept Cleveland's postseason hopes alive.",
       "startClipIndex": 13,
+      "endClipIndex": 15,
+      "tone": "triumph"
+    },
+    {
+      "id": "ch5",
+      "title": "September Surge",
+      "description": "A 16-9 September powered by Rocchio's clutch hitting, Halpin's pop, and Martínez's emergence propelled the Guardians into the postseason.",
+      "startClipIndex": 16,
       "endClipIndex": 22,
       "tone": "clutch"
     },
     {
-      "id": "ch5",
-      "title": "October Dreams",
-      "description": "The Guardians advance past the Division Series on the strength of Ramírez and Adell before running into a buzz-saw in the ALCS.",
+      "id": "ch6",
+      "title": "October Dreams, ALCS Heartbreak",
+      "description": "Cleveland survived the Division Series on Ramírez's arm and Adell's legs before a relentless Tampa Bay lineup ended the season in the Championship Series.",
       "startClipIndex": 23,
       "endClipIndex": 30,
-      "tone": "turning_point"
+      "tone": "struggle"
     }
   ],
   "clips": [
@@ -725,5 +733,5 @@
     "division": "AL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-23T15:32:42.296Z"
+  "generatedAt": "2026-10-25T14:40:17.377Z"
 }

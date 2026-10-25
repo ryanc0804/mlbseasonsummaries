@@ -1,12 +1,12 @@
 {
   "teamId": 109,
   "year": 2026,
-  "narrative": "The 2026 Arizona Diamondbacks opened their campaign with a brutal one-two punch in March, surrendering a pair of damaging home runs that set an ominous tone for what lay ahead. Yet even as the season's most high-leverage moments skewed toward heartbreak — a recurring theme throughout the year — the D-backs found ways to grind out wins. April brought a measure of stability, with Ketel Marte anchoring the offense and Paul Sewald delivering critical outs in the bullpen, and the team finished the month a respectable 14-11. The spring stretch was defined less by dominance than by resilience: Arizona weathered early storms and arrived in May still believing.\n\nMay and June proved to be the season's most turbulent stretch. The rotation and bullpen were victimized repeatedly — most painfully on May 19th, when Ketel Marte's own bat delivered a crushing blow as a home run in a key spot swung the game's biggest moment against Arizona. A 15-13 May gave way to a 12-15 June, the team's only losing month after March. The offense showed flashes — Corbin Carroll's stolen-base threat and Marte's escalating home run count kept Arizona dangerous — but inconsistency in high-leverage situations kept them from pulling away. A fortunate opponent error in mid-June opened a door, and the D-backs clawed back toward respectability by the month's end.\n\nJuly marked the clearest turning point of the Arizona season. The D-backs went 15-10, their best month of the year, fueled by an offense that finally strung together timely hits and a bullpen that, despite some wobbles from Sewald, preserved enough leads to matter. August brought more adversity — Ryan Waldschmidt's pair of home runs allowed were among the season's most damaging individual moments, and a tough three-game stretch on August 8th threatened to unravel the gains — but the team still posted a 15-14 record for the month, a testament to their stubborn refusal to fold.\n\nSeptember became a story of survival and accumulation. At 13-10 in the final month, the Diamondbacks closed strong enough to finish 86-76 — a mark that keeps them in the conversation for postseason positioning with the regular season not yet complete. Nolan Arenado's grand slam in the season's final days underscored the offensive depth this roster possesses when it clicks. The D-backs are not a team built on flash; they are built on tenacity, finding runs and wins in the margins of a long, grinding season, and as the calendar turns toward October, they are very much alive.",
+  "narrative": "The 2026 Arizona Diamondbacks opened their season on shaky footing, stumbling through March and finishing just 2-3 before finding their legs in April. A 14-11 April was built more on resilience than dominance — the bullpen, anchored by Paul Sewald, delivered key moments even as opponents tested Arizona's pitching staff in high-leverage spots. The team's offense showed flashes, but the early story was one of surviving close calls and grinding out wins in a competitive NL West.\n\nMay and June brought the most turbulent stretch of the season. Ketel Marte's own home runs became an ironic symbol — his bat was producing milestone numbers, but some of the season's most damaging moments came at his expense on the other side of the ledger. A 15-13 May gave way to a rough 12-15 June as the pitching staff, particularly the bullpen, gave up crucial late-game runs that turned potential wins into deflating losses. Arizona looked like a team that might fade into irrelevance as the calendar turned to summer.\n\nJuly proved to be the season's true turning point. A resurgent 15-10 record was powered by clutch relief performances and timely offense, and even when Paul Sewald surrendered a damaging Bryan Reynolds homer late in the month, the Diamondbacks had enough in reserve to weather the storm. Corbin Carroll continued to grow into a cornerstone presence, and the lineup found a rhythm that carried Arizona back into postseason contention discussions heading into August.\n\nAugust and September told a story of gritty perseverance. Ryan Waldschmidt's home runs — both given up and hit — bookmarked a stretch where Arizona refused to buckle despite a 15-14 August and a 13-10 September. Nolan Arenado's late-season grand slam on September 20 punctuated a finish that leaves the Diamondbacks at 86-76, a winning record that keeps their postseason hopes very much alive as the final days of the regular season unfold.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Gut Punch Opening",
-      "description": "A brutal pair of opening-series home runs set an ominous early tone for Arizona.",
+      "title": "Rough Out of the Gate",
+      "description": "Arizona drops two of their first five games as opponents deliver crushing early blows, setting a tone of hard-fought survival.",
       "startClipIndex": 0,
       "endClipIndex": 1,
       "tone": "struggle"
@@ -14,15 +14,15 @@
     {
       "id": "ch2",
       "title": "Grinding Through April",
-      "description": "The D-backs stabilize behind timely pitching and bullpen clutch moments to finish April above .500.",
+      "description": "The Diamondbacks piece together a winning April on the strength of clutch bullpen moments and late-inning resilience.",
       "startClipIndex": 2,
       "endClipIndex": 5,
       "tone": "triumph"
     },
     {
       "id": "ch3",
-      "title": "May-June Turbulence",
-      "description": "Inconsistency in high-leverage moments drags Arizona through their only prolonged losing stretch of the season.",
+      "title": "Summer Turbulence",
+      "description": "Back-to-back losing months test Arizona's resolve as the pitching staff struggles in high-leverage situations and the offense goes cold at the worst moments.",
       "startClipIndex": 6,
       "endClipIndex": 13,
       "tone": "struggle"
@@ -30,24 +30,16 @@
     {
       "id": "ch4",
       "title": "July Resurgence",
-      "description": "A 15-10 July fueled by timely offense marks the clearest turning point of the Diamondbacks' season.",
+      "description": "A 15-10 July breathes new life into Arizona's season as the offense heats up and the team reclaims its identity as a legitimate contender.",
       "startClipIndex": 14,
       "endClipIndex": 17,
       "tone": "turning_point"
     },
     {
       "id": "ch5",
-      "title": "Weathering August",
-      "description": "Back-to-back devastating home runs allowed nearly derail the D-backs, but they grind to a near-.500 month.",
+      "title": "Holding On Down the Stretch",
+      "description": "August and September deliver drama, heartbreak, and enough wins to keep Arizona's postseason dreams very much alive heading into the final days of the regular season.",
       "startClipIndex": 18,
-      "endClipIndex": 22,
-      "tone": "struggle"
-    },
-    {
-      "id": "ch6",
-      "title": "Closing Strong",
-      "description": "A 13-10 September, capped by Arenado's grand slam, pushes Arizona to 86-76 and firmly into playoff contention.",
-      "startClipIndex": 23,
       "endClipIndex": 27,
       "tone": "clutch"
     }
@@ -357,6 +349,8 @@
       "title": "Home Run — Corbin Carroll",
       "description": "Corbin Carroll homers (14) on a fly ball to right field. Geraldo Perdomo scores.",
       "playId": "49c3a69e-e208-3c03-b1de-57358cc25467",
+      "videoUrl": "https://sporty-clips.mlb.com/WnhueURfWGw0TUFRPT1fQWdnQ1Z3VUNYMWNBWFZBQ1hnQUhVZ1pWQUFNRUJ3UUFCMUlHQlF0V1VnRlFCQVJS.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/dyd1rghmikgrvaxxxzpe.jpg",
       "date": "2026-07-17",
       "gamePk": 825060,
       "atBatNumber": 64,
@@ -370,8 +364,7 @@
       "wpa": -0.363,
       "xwoba": 1.415,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/WnhueURfWGw0TUFRPT1fQWdnQ1Z3VUNYMWNBWFZBQ1hnQUhVZ1pWQUFNRUJ3UUFCMUlHQlF0V1VnRlFCQVJS.mp4"
+      "gameType": "R"
     },
     {
       "id": "825057-75-8",
@@ -442,6 +435,8 @@
       "title": "Home Run — Ryan Waldschmidt",
       "description": "Ryan Waldschmidt homers (2) on a fly ball to center field. Jorge Barrosa scores.",
       "playId": "4416c1d8-6e13-32a1-bb93-7a4587fc10f0",
+      "videoUrl": "https://sporty-clips.mlb.com/NHl6T09fWGw0TUFRPT1fQWdWUVVnY0ZBZ29BRGdjRFZRQUhBMWRYQUFOWFdsSUFCUVFCQlFzQ1YxQlVBRlJX.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/kqd1gl7yebatqi9yfjkd.jpg",
       "date": "2026-08-07",
       "gamePk": 825051,
       "atBatNumber": 72,
@@ -455,14 +450,15 @@
       "wpa": -0.731,
       "xwoba": 1.588,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/NHl6T09fWGw0TUFRPT1fQWdWUVVnY0ZBZ29BRGdjRFZRQUhBMWRYQUFOWFdsSUFCUVFCQlFzQ1YxQlVBRlJX.mp4"
+      "gameType": "R"
     },
     {
       "id": "825049-70-9",
       "title": "Triple — Geraldo Perdomo",
       "description": "Geraldo Perdomo triples (6) on a line drive to right fielder Kyle Tucker.",
       "playId": "a08dfb7d-1acd-3776-a6d8-0f5e80cdb0c6",
+      "videoUrl": "https://sporty-clips.mlb.com/WERxZDJfWGw0TUFRPT1fVndGWkFBSldVVllBQ1FOUkFnQUhCZ0ZRQUFBREIxa0FBZ01BVlFzRlVsY0hBRkZR.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/lj2knweacrun8cer0qsz.jpg",
       "date": "2026-08-08",
       "gamePk": 825049,
       "atBatNumber": 70,
@@ -476,14 +472,15 @@
       "wpa": -0.37,
       "xwoba": 0.288,
       "eventType": "triple",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/WERxZDJfWGw0TUFRPT1fVndGWkFBSldVVllBQ1FOUkFnQUhCZ0ZRQUFBREIxa0FBZ01BVlFzRlVsY0hBRkZR.mp4"
+      "gameType": "R"
     },
     {
       "id": "825049-71-9",
       "title": "Triple — Corbin Carroll",
       "description": "Corbin Carroll triples (13) on a line drive to left fielder Teoscar Hernández. Geraldo Perdomo scores.",
       "playId": "13f4b8d1-39f4-3499-b696-8a3311899fde",
+      "videoUrl": "https://sporty-clips.mlb.com/WERxZDJfWGw0TUFRPT1fQndJSFVBWU1BZ01BQzF0VVVnQUhCUTlmQUFNRFdsY0FDZ1FHQXdJRUNRcGNWbFlE.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/raghzjckagct5mvgfvhp.jpg",
       "date": "2026-08-08",
       "gamePk": 825049,
       "atBatNumber": 71,
@@ -497,8 +494,7 @@
       "wpa": -0.378,
       "xwoba": 0.666,
       "eventType": "triple",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/WERxZDJfWGw0TUFRPT1fQndJSFVBWU1BZ01BQzF0VVVnQUhCUTlmQUFNRFdsY0FDZ1FHQXdJRUNRcGNWbFlE.mp4"
+      "gameType": "R"
     },
     {
       "id": "825049-83-10",
@@ -526,6 +522,8 @@
       "title": "Home Run — Ryan Waldschmidt",
       "description": "Ryan Waldschmidt homers (3) on a fly ball to left field. Jose Fernandez scores.",
       "playId": "88d06342-51c7-3d1d-9fa0-8149e4f9c5db",
+      "videoUrl": "https://sporty-clips.mlb.com/d2VsNXFfWGw0TUFRPT1fRGdrRlZGSUhVZ0FBRFZOUlVRQUhWUWNDQUZoVEFsRUFDbFFCQ1ZZQlZ3b0dCVllF.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/c0kil5iyd6ug75trigko.jpg",
       "date": "2026-08-25",
       "gamePk": 825042,
       "atBatNumber": 71,
@@ -539,8 +537,7 @@
       "wpa": -0.849,
       "xwoba": 1.432,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/d2VsNXFfWGw0TUFRPT1fRGdrRlZGSUhVZ0FBRFZOUlVRQUhWUWNDQUZoVEFsRUFDbFFCQ1ZZQlZ3b0dCVllF.mp4"
+      "gameType": "R"
     },
     {
       "id": "824063-74-9",
@@ -611,6 +608,8 @@
       "title": "Home Run — Pavin Smith",
       "description": "Pavin Smith homers (3) on a fly ball to right center field. Ildemaro Vargas scores.",
       "playId": "85d8d143-969c-3155-9a7d-ff2dd35a727b",
+      "videoUrl": "https://sporty-clips.mlb.com/OHlaUmJfWGw0TUFRPT1fRGdRRlhBQUZVZ0VBQVZRTEJRQUhBQU5UQUZoVVZBVUFWQU1IVkZjR0JGSlNBZ1VF.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/qtnkv1balmcvhtca3thc.jpg",
       "date": "2026-09-19",
       "gamePk": 825029,
       "atBatNumber": 72,
@@ -624,14 +623,15 @@
       "wpa": -0.376,
       "xwoba": 0.939,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/OHlaUmJfWGw0TUFRPT1fRGdRRlhBQUZVZ0VBQVZRTEJRQUhBQU5UQUZoVVZBVUFWQU1IVkZjR0JGSlNBZ1VF.mp4"
+      "gameType": "R"
     },
     {
       "id": "825028-46-5",
       "title": "Home Run — Nolan Arenado",
       "description": "Nolan Arenado hits a grand slam (27) to left field. Ketel Marte scores. Gabriel Moreno scores. Corbin Carroll scores.",
       "playId": "e70b37e3-0395-3dbc-b6e3-ac3bac0baed8",
+      "videoUrl": "https://sporty-clips.mlb.com/ckRsV29fWGw0TUFRPT1fVXdaUkJsY0RBd0VBQ0ZFTFV3QUhWVlFGQUFNREJsSUFVd1lHVWxKV0FWRUVWVlpl.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/mzzcslol41yf9h2shk45.jpg",
       "date": "2026-09-20",
       "gamePk": 825028,
       "atBatNumber": 46,
@@ -645,8 +645,7 @@
       "wpa": -0.445,
       "xwoba": 0.651,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/ckRsV29fWGw0TUFRPT1fVXdaUkJsY0RBd0VBQ0ZFTFV3QUhWVlFGQUFNREJsSUFVd1lHVWxKV0FWRUVWVlpl.mp4"
+      "gameType": "R"
     }
   ],
   "seasonStats": {
@@ -661,5 +660,5 @@
     "division": "NL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-23T15:56:39.984Z"
+  "generatedAt": "2026-10-25T15:06:32.516Z"
 }

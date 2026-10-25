@@ -1,47 +1,47 @@
 {
   "teamId": 113,
   "year": 2026,
-  "narrative": "The 2026 Cincinnati Reds opened the year with genuine promise, surging to a 17-9 April on the backs of clutch home runs and late-inning heroics. Nathaniel Lowe's go-ahead blast and Eugenio Suárez's early-season thunder announced that this lineup had teeth, and for a brief moment the Queen City dared to dream of a competitive summer.\n\nThen May and June arrived and stripped those dreams bare. The pitching staff — Emilio Pagán, Tony Santillan, Graham Ashcraft — became a parade of broken dams, surrendering mammoth home runs and gut-punch hits at the worst possible moments. The Reds went 10-17 in May and 9-17 in June, a brutal two-month stretch that buried them in the standings and forced a hard reckoning about what this roster actually was.\n\nJuly offered a fragile lifeline. Eugenio Suárez kept swinging his way toward an MVP-caliber campaign, and young Sal Stewart announced himself as a genuine power force, launching multi-run homers that reignited something in the clubhouse. The Reds played .520 ball in July, enough to keep faint hopes alive heading into the second half.\n\nAugust, however, proved the team's ceiling. Moments of individual brilliance — Matt McLain's grand slam, Dane Myers going deep, Stewart's 27th home run — were repeatedly undermined by costly errors and bullpen implosions. The Reds finished 13-16 in August and have stumbled through September at 10-14, leaving them at 75-87 with a season defined more by what could have been than what was. The pitching staff's 4.83 ERA and 826 runs allowed told the truest story of 2026.",
+  "narrative": "The 2026 Cincinnati Reds opened the year with genuine promise. A hot April — 17 wins against just 9 losses — suggested that this roster, built around emerging stars like Sal Stewart and a retooled infield, might finally be ready to compete in the NL Central. Eugenio Suárez provided an emotional jolt in the opening series with a three-run blast, and the team rode that energy through a month that looked like a turning point for the franchise.\n\nThen May and June arrived, and the wheels came off. The bullpen, anchored by the shaky relief work of Emilio Pagán and Tony Santillan, repeatedly surrendered critical leads. Graham Ashcraft gave up momentum-killing home runs. A costly error in June, a gut-punch double play in late June — the Reds went a combined 19-34 over those two months, watching a promising season crater beneath a wave of pitching collapses and defensive miscues. The 4.83 ERA and 826 runs allowed told the whole story of a pitching staff that simply could not hold games.\n\nJuly offered a brief exhale. The Reds played 13-12 ball, buoyed by Suárez continuing to mash and Sal Stewart — whose 27-homer pace signaled a breakout — delivering clutch extra-base hits. Matt McLain's grand slam in August flashed the lineup's ceiling, and there were stretches where Cincinnati looked like a team capable of getting right. But August and September brought more regression, with the bullpen again betraying the offense at the worst moments and the losses piling back up.\n\nAt 75-87, the Reds find themselves on the outside looking in, their season defined by a brilliant April that raised expectations and a pitching staff that could never meet them. Stewart's emergence as a middle-of-the-order force and flashes of brilliance from Suárez, McLain, and TJ Friedl give the organization genuine reasons for optimism, but the chasm between 666 runs scored and 826 allowed encapsulates a team not yet built to compete for October baseball.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Fast Out of the Gate",
-      "description": "The Reds storm through March and April with clutch home runs fueling a 20-11 start that raises hopes across Cincinnati.",
+      "title": "April Believers",
+      "description": "An electric opening month fueled by Suárez's early heroics and Nathaniel Lowe's walk-off power gives Cincinnati genuine hope.",
       "startClipIndex": 0,
       "endClipIndex": 5,
       "tone": "triumph"
     },
     {
       "id": "ch2",
-      "title": "The Floor Falls Out",
-      "description": "A two-month pitching collapse in May and June sends the Reds into a tailspin, with the bullpen surrendering game after game in brutal fashion.",
+      "title": "The Bullpen Burns It Down",
+      "description": "May becomes a nightmare as Pagán, Santillan, and Ashcraft surrender lead after lead, sending the Reds into a 10-17 freefall.",
       "startClipIndex": 6,
-      "endClipIndex": 16,
+      "endClipIndex": 11,
       "tone": "struggle"
     },
     {
       "id": "ch3",
-      "title": "Suárez Sparks a Rally",
-      "description": "Eugenio Suárez delivers a clutch three-run blast in late June that ignites a modest resurgence and keeps the Reds from fully fading.",
-      "startClipIndex": 17,
-      "endClipIndex": 17,
-      "tone": "turning_point"
+      "title": "June Erosion",
+      "description": "Errors, blown saves, and a critical double play define a 9-17 June that pushes Cincinnati to the fringes of contention.",
+      "startClipIndex": 12,
+      "endClipIndex": 16,
+      "tone": "struggle"
     },
     {
       "id": "ch4",
-      "title": "Stewart Takes Center Stage",
-      "description": "Sal Stewart's power surge in July carries the Reds to a winning month and briefly resurrects hope for a second-half run.",
-      "startClipIndex": 18,
-      "endClipIndex": 20,
-      "tone": "clutch"
+      "title": "Stewart Saves the Summer",
+      "description": "A competitive July and early August are anchored by Sal Stewart's power surge and Suárez's continued big moments.",
+      "startClipIndex": 17,
+      "endClipIndex": 21,
+      "tone": "turning_point"
     },
     {
       "id": "ch5",
-      "title": "Flashes and Frustrations",
-      "description": "August brings grand slams and solo shots alongside costly errors and bullpen collapses, summing up a season of unfulfilled potential as September winds down.",
-      "startClipIndex": 21,
+      "title": "Flashes of Ceiling",
+      "description": "McLain's grand slam and Myers's solo shot hint at what this lineup can do, even as late-game mistakes keep the Reds from turning the corner.",
+      "startClipIndex": 22,
       "endClipIndex": 25,
-      "tone": "struggle"
+      "tone": "clutch"
     }
   ],
   "clips": [
@@ -615,5 +615,5 @@
     "division": "NL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-23T15:51:27.699Z"
+  "generatedAt": "2026-10-25T15:01:14.354Z"
 }

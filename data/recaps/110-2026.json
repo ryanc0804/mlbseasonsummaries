@@ -1,45 +1,53 @@
 {
   "teamId": 110,
   "year": 2026,
-  "narrative": "The 2026 Baltimore Orioles entered the season with genuine expectations, built around a core of young talent and proven veterans. April played out as a coin flip — a 13-13 record that masked both the electricity of Jeremiah Jackson's emerging power and the early bullpen instability that would become a recurring headache. Pete Alonso delivered timely thunder, Adley Rutschman launched his first homer of the year, and Samuel Basallo flashed the clutch hitting that made him a fan favorite, yet the month ended feeling unresolved.\n\nMay and June brought the season's most turbulent stretch. The Orioles went a combined 24-32 across those two months, and the play-by-play data tells the story in painful detail. Anthony Nunez's name appears repeatedly as the pitcher who surrendered grand slams and crushing doubles. A nightmare June 24th outing for the bullpen — Keegan Akin and Andrew Kittredge combining to blow a game against the Angels — exemplified the pattern. The only true bright spot was Colton Cowser's three-run blast on May 24th, a swing that carried the highest win probability of any positive play in the season's first half, and a brief multi-play Baltimore comeback on June 9th that showed the offense could erupt when it needed to.\n\nJuly changed everything. The Orioles went 15-8, their best month by a wide margin, and Jeremiah Jackson's line-drive double on July 9th stood as a symbol of a lineup finally clicking in high-leverage moments. Coby Mayo's triple in late July and Dylan Beavers' clutch single underscored a lineup that had found its legs. August maintained that momentum with a 15-13 mark, featuring Samuel Basallo's 17th home run and Gunnar Henderson's three-run shot — the kind of sustained production that turned a floundering season into something worth salvaging.\n\nSeptember brought the Orioles back to earth at 10-13, with Andrew Kittredge and Grant Wolfram again appearing in the wrong kind of highlights, and Yennier Cano yielding a costly homer that nicked away at the win column. But Coby Mayo authored the season's most memorable individual moment — an inside-the-park home run on September 15th that sent the crowd into a frenzy — and Pete Alonso crushed his 40th home run of the year on September 21st, a milestone blast that served as both a personal statement and a reminder of what this lineup is capable of. At 79-82, the Orioles sit below .500, and while the math still allows for possibilities, the season's identity is now clear: a team that found itself too late, flashing real potential in summer before the weight of a brutal spring proved too much to fully overcome.",
+  "narrative": "The 2026 Baltimore Orioles entered the season with playoff aspirations and a roster brimming with young talent, but the year quickly revealed itself to be a test of endurance rather than a coronation. A rocky spring gave way to an inconsistent April, where the highs — Pete Alonso's thunderous home runs, Adley Rutschman's long-awaited first blast of the year, and Jeremiah Jackson's breakout power display — were matched almost blow for blow by gut-punch losses. The bullpen, particularly Andrew Kittredge, became a recurring source of heartbreak, and the pitching staff surrendered grand slams and late-inning rallies at the worst possible moments.\n\nMay and June were the season's low-water mark. The Orioles went a combined 24-32 over those two months, and the defining moments were almost uniformly painful — a brutal collapse on June 19 when Ryan Helsley was touched for a walk-off single that swung nearly a full win in probability, and a disastrous June 24 in Anaheim where Keegan Akin surrendered multiple crushing hits in the same frame. Yet even in that darkness, flickers of brilliance emerged: Colton Cowser's three-run blast on May 24 was the single highest-leverage positive play of the entire season, a reminder that this lineup, when clicking, was dangerous.\n\nJuly changed everything. The Orioles went 15-8, their best month of the year, fueled by Jeremiah Jackson's clutch hitting, Coby Mayo's emerging star power, and a lineup that finally started stringing together productive at-bats. The momentum carried into August, where the team posted a winning record despite continued bullpen volatility. Samuel Basallo's 17th home run and Gunnar Henderson's three-run shot in the final days of August underscored that the core of this team was maturing in real time.\n\nSeptember has been a mixed bag — a 10-13 record that has kept the Orioles from fully capitalizing on their summer momentum. Coby Mayo's electric inside-the-park home run on September 15 provided one of the season's most thrilling moments, and Pete Alonso's 40th home run late in the month offered a milestone finish to a complicated year. At 79-82, Baltimore finds itself on the outside of the postseason picture looking in, but the building blocks of a contender are undeniably in place.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Mixed Signals in April",
-      "description": "A 13-13 April features big moments from Alonso, Rutschman, and Jackson but offers no clear direction for the young Orioles.",
+      "title": "Early Fireworks, Mixed Results",
+      "description": "April delivers a rollercoaster of big home runs and gut-punch losses as the Orioles struggle to find consistency.",
       "startClipIndex": 0,
       "endClipIndex": 6,
       "tone": "turning_point"
     },
     {
       "id": "ch2",
-      "title": "The Costly Slide",
-      "description": "A brutal May-June stretch — highlighted by repeated bullpen implosions and opponent grand slams — drags Baltimore deep into a 24-32 two-month hole.",
+      "title": "Sinking in May and June",
+      "description": "A brutal two-month stretch sees the bullpen implode repeatedly and the offense unable to sustain rallies, pushing Baltimore under .500.",
       "startClipIndex": 7,
-      "endClipIndex": 12,
+      "endClipIndex": 9,
       "tone": "struggle"
     },
     {
       "id": "ch3",
-      "title": "The June Spark",
-      "description": "A multi-hit Baltimore rally on June 9th offers a rare offensive burst, briefly threatening to reverse the month's miserable tide.",
-      "startClipIndex": 13,
+      "title": "Cowser's Blast Breaks the Drought",
+      "description": "Colton Cowser's three-run homer becomes the emotional turning point of the season, offering a rare moment of joy amid the May doldrums.",
+      "startClipIndex": 10,
       "endClipIndex": 19,
       "tone": "clutch"
     },
     {
       "id": "ch4",
-      "title": "July Resurgence",
-      "description": "The Orioles rip off a 15-8 July, with Jackson, Mayo, and Beavers leading a lineup that finally delivers in high-leverage moments.",
+      "title": "The July Surge",
+      "description": "Baltimore catches fire with a 15-8 July, powered by Jeremiah Jackson's clutch doubles and Coby Mayo's blossoming power.",
       "startClipIndex": 20,
-      "endClipIndex": 26,
+      "endClipIndex": 23,
       "tone": "triumph"
     },
     {
       "id": "ch5",
-      "title": "Fading in the Fall",
-      "description": "A 10-13 September closes the book on playoff hopes, though Coby Mayo's inside-the-park homer and Pete Alonso's 40th offer flashes of what this team can be.",
-      "startClipIndex": 27,
+      "title": "Fading Down the Stretch",
+      "description": "August and September bring flashes of brilliance — Mayo's inside-the-park homer, Alonso's 40th — but inconsistency keeps the Orioles from making a meaningful push.",
+      "startClipIndex": 24,
+      "endClipIndex": 29,
+      "tone": "struggle"
+    },
+    {
+      "id": "ch6",
+      "title": "Milestone Moments to Close",
+      "description": "Pete Alonso's 40th home run and Coby Mayo's historic inside-the-parker give fans something to celebrate even as the season winds down short of October.",
+      "startClipIndex": 30,
       "endClipIndex": 32,
       "tone": "milestone"
     }
@@ -767,5 +775,5 @@
     "division": "AL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-23T15:24:45.458Z"
+  "generatedAt": "2026-10-25T14:32:04.242Z"
 }

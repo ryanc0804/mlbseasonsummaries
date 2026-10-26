@@ -1,47 +1,55 @@
 {
   "teamId": 141,
   "year": 2026,
-  "narrative": "The 2026 Toronto Blue Jays opened the year with a promising spring, going 4-1 in March on the strength of early heroics from Alejandro Kirk and Andrés Giménez. But April brought a brutal reality check, as the rotation — particularly Jeff Hoffman — cratered under high-leverage pressure, and the team stumbled to a 10-16 mark that put them immediately behind the eight-ball.\n\nMay and June offered mixed signals. Daulton Varsho's grand slam on May 13th was the kind of moment that felt like a turning point, and the club clawed back to near-.500 in May, but June unraveled with costly performances from the bullpen arms of Braydon Fisher and Louis Varland, whose big moments allowed opponents to seize crucial games. The team finished June at 11-15, leaving them well below the waterline.\n\nAugust was where Toronto found something resembling an identity. Nathan Lukes emerged as a genuine spark plug, delivering back-to-back big moments in early August, and Andrés Giménez's clutch doubles gave the offense a much-needed pulse. The Jays went 17-11 that month, their best stretch of the season, and briefly reignited conversation about a late push.\n\nSeptember, however, has been a story of too little runway. Kazuma Okamoto's three-run blast on September 14th — his 33rd homer of the year — offered one of the most electric moments of the season, but Tyler Rogers surrendering a Pete Alonso bomb late in September captures the cruel arithmetic of a team that simply gave back too much all year. At 79-83, the Blue Jays find themselves in the difficult middle ground of a season still technically in progress, but defined more by what could have been than what was.",
+  "narrative": "The 2026 Toronto Blue Jays opened the year with a flash of promise and a warning sign rolled into one opening weekend. Alejandro Kirk's home run on March 28 provided an early jolt of optimism, but Jeff Hoffman's struggles as a run-prevention presence haunted the early going — opponents seemed to find him for damage with unsettling regularity. The result was a brutal April collapse, the team stumbling to a 10-16 record that threatened to bury the season before it had a chance to breathe.\n\nMay brought a measure of stability, and one swing changed the emotional weather entirely. Daulton Varsho's grand slam on May 13 — his fifth of the young season — was the kind of thunderclap that can reset a clubhouse's belief. The Blue Jays went 15-14 that month, nothing to celebrate in isolation, but a meaningful step back from the edge. June proved more turbulent, with Braydon Fisher giving back leads and Louis Varland absorbing punishment, though Nathan Lukes provided a bright spot with a clutch two-run shot late in the month to close out June on something resembling stable footing.\n\nAugust was the season's clearest success story. The Blue Jays went 17-11, their best month by a wide margin, powered in part by the emergence of Nathan Lukes and the steady production of Andrés Giménez. Lukes homered twice in a critical August 8 sequence alongside a Giménez double that drove in multiple runs — the kind of complementary offense that had been missing all year. For a stretch, it genuinely felt like a team that had figured something out.\n\nSeptember, though, has been a grind. At 11-13 through most of the month, the Blue Jays have been unable to string together the kind of sustained run they would need to make a late push meaningful. Kazuma Okamoto's three-run homer on September 14 — his 33rd of the year — was a genuine highlight, a reminder of what the lineup can do at its best. But Pete Alonso's 40th home run off Tyler Rogers on September 21 stung, one of the season's most damaging single plays. At 79-83, the Blue Jays find themselves in a familiar and uncomfortable position — too good to fully rebuild, not quite good enough to contend — with the final days of the season still offering a chance to at least finish with dignity.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Fast Start, False Dawn",
-      "description": "Toronto opens the year with early fireworks from Kirk and Giménez, building a 4-1 spring record before the calendar flips.",
+      "title": "Opening Weekend Whiplash",
+      "description": "A hopeful Kirk home run and a damaging Hoffman outing set the contradictory tone for Toronto's early spring.",
       "startClipIndex": 0,
       "endClipIndex": 2,
-      "tone": "triumph"
+      "tone": "turning_point"
     },
     {
       "id": "ch2",
-      "title": "April Free Fall",
-      "description": "Jeff Hoffman becomes the symbol of the rotation's struggles as Toronto sputters to a dismal 10-16 April, falling far off pace.",
+      "title": "April's Long Slide",
+      "description": "Jeff Hoffman's repeated struggles allow opponents to pile on, pushing the Blue Jays to a 10-16 April that puts the season in early jeopardy.",
       "startClipIndex": 3,
       "endClipIndex": 5,
       "tone": "struggle"
     },
     {
       "id": "ch3",
-      "title": "Varsho's Moment and a June Unraveling",
-      "description": "A grand slam in May sparks hope, but bullpen implosions from Fisher and Varland make June another losing month.",
+      "title": "Varsho's Grand Statement",
+      "description": "Daulton Varsho's grand slam in May provides the emotional reset Toronto desperately needed, steadying a team on the brink.",
       "startClipIndex": 6,
-      "endClipIndex": 13,
-      "tone": "turning_point"
+      "endClipIndex": 7,
+      "tone": "clutch"
     },
     {
       "id": "ch4",
-      "title": "August Surge",
-      "description": "Nathan Lukes and Andrés Giménez lead the team's best month, a 17-11 August that briefly reignites playoff talk.",
+      "title": "June's Mixed Signals",
+      "description": "Braydon Fisher and Louis Varland give up costly runs but Nathan Lukes delivers a timely homer to keep the Blue Jays afloat.",
+      "startClipIndex": 8,
+      "endClipIndex": 13,
+      "tone": "struggle"
+    },
+    {
+      "id": "ch5",
+      "title": "August Awakening",
+      "description": "Nathan Lukes and Andrés Giménez power a 17-11 August — the team's best stretch of the year and a tantalizing glimpse of what this roster could be.",
       "startClipIndex": 14,
       "endClipIndex": 16,
       "tone": "triumph"
     },
     {
-      "id": "ch5",
-      "title": "September's Last Stand",
-      "description": "Okamoto's 33rd home run flashes brilliance, but late-game heartbreaks define a September that can't finish the job.",
+      "id": "ch6",
+      "title": "September's Unfinished Business",
+      "description": "Okamoto's 33rd home run thrills but a late Alonso blast stings, as the Blue Jays fight for relevance in an uncertain final month.",
       "startClipIndex": 17,
       "endClipIndex": 20,
-      "tone": "struggle"
+      "tone": "turning_point"
     }
   ],
   "clips": [
@@ -366,8 +374,6 @@
       "title": "Double — Andrés Giménez",
       "description": "Andrés Giménez doubles (18) on a line drive to center fielder Justin Crawford. Vladimir Guerrero Jr. scores. George Springer scores.",
       "playId": "b15ccc44-7093-364a-b7a1-095ec18042ae",
-      "videoUrl": "https://sporty-clips.mlb.com/TDY1OXhfWGw0TUFRPT1fVkFCVUJ3ZFhVZ1lBRDFJTFZRQUhCd0lIQUFNQ0FsQUFBbHdBVlZBRUNRTlJBbE1E.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/k0hatyqdrtwiaimzpnxv.jpg",
       "date": "2026-08-08",
       "gamePk": 823426,
       "atBatNumber": 63,
@@ -381,15 +387,14 @@
       "wpa": 0.366,
       "xwoba": 0.623,
       "eventType": "double",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/TDY1OXhfWGw0TUFRPT1fVkFCVUJ3ZFhVZ1lBRDFJTFZRQUhCd0lIQUFNQ0FsQUFBbHdBVlZBRUNRTlJBbE1E.mp4"
     },
     {
       "id": "823426-88-11",
       "title": "Home Run — Nathan Lukes",
       "description": "Nathan Lukes homers (6) on a fly ball to right center field. Brandon Valenzuela scores.",
       "playId": "41a33fcb-7f15-37ce-9233-0ab37b49db3b",
-      "videoUrl": "https://sporty-clips.mlb.com/TDY1OXhfWGw0TUFRPT1fQWdBQVYxZFNCVkFBRHdRRFV3QUhCbFVEQUZnSFVGSUFBZ1JYQXdSWEJRb0JVZ0VF.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/eqnyt5fwfhvds1cky84e.jpg",
       "date": "2026-08-08",
       "gamePk": 823426,
       "atBatNumber": 88,
@@ -403,7 +408,8 @@
       "wpa": 0.485,
       "xwoba": 0.835,
       "eventType": "home_run",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/TDY1OXhfWGw0TUFRPT1fQWdBQVYxZFNCVkFBRHdRRFV3QUhCbFVEQUZnSFVGSUFBZ1JYQXdSWEJRb0JVZ0VF.mp4"
     },
     {
       "id": "824958-67-9",
@@ -504,5 +510,5 @@
     "division": "AL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-25T14:37:31.107Z"
+  "generatedAt": "2026-10-26T17:00:08.626Z"
 }

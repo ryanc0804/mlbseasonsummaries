@@ -1,45 +1,53 @@
 {
   "teamId": 138,
   "year": 2026,
-  "narrative": "The 2026 St. Louis Cardinals opened the year with genuine promise, going 18-13 through April behind a roster still finding its identity. JJ Wetherholt announced himself as a weapon in the very first week, delivering a go-ahead single on Opening Day that swung the game's momentum in St. Louis's favor, while Masyn Winn and Yohel Pozo chipped in clutch hits that kept the Cardinals afloat through a competitive spring. The early returns were encouraging enough to believe this was a club capable of contending in a difficult division.\n\nMay and June told a more mixed story. The Cardinals hovered around the .500 line, going 13-13 and then 13-12, relying on timely contributions from Jordan Walker — who was emerging as one of the team's most consistent offensive threats — and a Lars Nootbaar home run that served as one of the season's most electric moments. The bullpen showed cracks, giving up damaging long balls at pivotal moments, but the offense kept finding answers often enough to keep St. Louis in the conversation.\n\nJuly is where the season fractured. The Cardinals went a dismal 10-18, battered by opponent home runs, defensive miscues, and a pitching staff that was consistently victimized at the worst moments. Ryne Stanek, Riley O'Brien, and Luis Gastelum were particularly exposed in high-leverage situations, and the month's damage proved too deep to fully repair. The lone bright spot was Iván Herrera's massive two-run double on July 29th, which momentarily halted the bleeding, but it wasn't enough to reverse the tide.\n\nAugust and September brought uneven attempts at a late-season salvage. The Cardinals went 14-14 in August, showing resilience in spots — none more remarkable than JJ Wetherholt reaching on an error to score two runs in a comeback — before September revealed the team's true ceiling, as Riley O'Brien's repeated misfortunes in relief became a defining symbol of a bullpen that couldn't hold leads. Leo Bernal provided a genuine bright spot down the stretch, delivering clutch singles and home runs that gave Cardinals fans something to cheer, but at 77-85, the season's final chapter belongs to the search for silver linings rather than any postseason dream.",
+  "narrative": "The 2026 St. Louis Cardinals entered the season with cautious optimism, and for the first two months they largely delivered on it. A fast 3-2 March was bookended by a gut-punch opener and a JJ Wetherholt walk-off single that set the tone for a scrappy, personality-driven team. April went 15-11 behind timely hitting from Masyn Winn, Yohel Pozo, and the emerging Jordan Walker, with the bullpen occasionally letting things slip but the offense answering back. May was a coin-flip 13-13, with Riley O'Brien suffering a damaging loss to Castellanos and the Phillies, but Walker and Gorman kept swinging the Cardinals back into contention. Through the first half, St. Louis looked like a team that could make noise.\n\nJune represented the Cardinals' best extended stretch of the season, posting a 13-12 mark that included some of the year's most electric moments — Lars Nootbaar's first home run of 2026 carrying a massive win probability swing, and Jordan Walker putting together a double-digit doubles pace that announced him as a genuine middle-of-the-order force. The rotation had its stumbles — Ryne Stanek gifted a three-run shot to Kody Clemens — but the lineup's resiliency kept the Cardinals afloat and competitive heading into the summer.\n\nJuly was where the season fractured. A brutal 10-18 mark came with a parade of devastating bullpen appearances, costly errors, and opposing hitters feasting on St. Louis arms. Luis Gastelum and George Soriano were punished repeatedly, Masyn Winn's throwing error cost a pivotal game against Atlanta, and Pete Crow-Armstrong's blast off Gastelum swung the pendulum violently in Chicago's favor. The one bright spot was Iván Herrera's enormous late-game double on July 29th, which nearly saved a series, but the damage was done. August steadied at 14-14, full of wild swings in both directions — Matt McLain's grand slam off Stanek on one night, Wetherholt's error-aided two-run comeback the next — before September's 9-15 finish confirmed this was a team that had fought but ultimately fallen short of where it needed to be.\n\nThe Cardinals close out 2026 at 77-85, a record that tells the story of a squad with genuine offensive weapons — Walker's 20 home runs, Herrera's clutch hitting, Nootbaar's return to form — but a pitching staff that too often gave back whatever the lineup generated. Young contributors like Leo Bernal showed flashes down the stretch, homering and delivering clutch singles in September as if auditioning for a larger role in 2027. The summer collapse proved too deep to climb out of, but the pieces assembled throughout this season give Cardinals fans reasons to believe the rebuild is trending in a meaningful direction.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Spring Optimism",
-      "description": "The Cardinals post an encouraging 18-13 mark through April, buoyed by clutch hits from Wetherholt, Winn, and Pozo.",
+      "title": "Fast Starts and Early Grit",
+      "description": "The Cardinals get punched in the opener but Wetherholt and Winn answer back, carrying St. Louis to a promising 15-11 April.",
       "startClipIndex": 0,
       "endClipIndex": 6,
-      "tone": "triumph"
-    },
-    {
-      "id": "ch2",
-      "title": "Treading Water",
-      "description": "May and June see St. Louis hover near .500, with Jordan Walker and Lars Nootbaar providing sparks amid persistent bullpen concerns.",
-      "startClipIndex": 7,
-      "endClipIndex": 14,
       "tone": "turning_point"
     },
     {
-      "id": "ch3",
-      "title": "July Collapse",
-      "description": "A brutal 10-18 July derails any playoff aspirations, as the pitching staff is repeatedly victimized and defensive mistakes compound the damage.",
-      "startClipIndex": 15,
-      "endClipIndex": 23,
+      "id": "ch2",
+      "title": "May Grind",
+      "description": "A coin-flip May sees the bullpen crack under pressure but Walker, Gorman, and Pozo keep the Cardinals in the hunt with timely hits.",
+      "startClipIndex": 7,
+      "endClipIndex": 11,
       "tone": "struggle"
     },
     {
+      "id": "ch3",
+      "title": "June Surge",
+      "description": "Nootbaar's first home run and Walker's torrid hitting power a 13-12 June that represents the Cardinals' best sustained stretch of the year.",
+      "startClipIndex": 12,
+      "endClipIndex": 15,
+      "tone": "triumph"
+    },
+    {
       "id": "ch4",
-      "title": "Fightback and Fade",
-      "description": "The Cardinals claw back to .500 in August with comeback moments and clutch plays before September's struggles seal their fate at 77-85.",
-      "startClipIndex": 24,
-      "endClipIndex": 35,
-      "tone": "clutch"
+      "title": "The July Collapse",
+      "description": "A catastrophic 10-18 July exposes the pitching staff's vulnerabilities as opposing hitters batter Cardinals relievers night after night.",
+      "startClipIndex": 16,
+      "endClipIndex": 22,
+      "tone": "struggle"
     },
     {
       "id": "ch5",
-      "title": "Late Glimmers",
-      "description": "Leo Bernal emerges as an unexpected bright spot in September, delivering back-to-back impact moments to give Cardinals fans a reason to watch down the stretch.",
-      "startClipIndex": 36,
+      "title": "August Chaos",
+      "description": "Wild swings define a 14-14 August — grand slams surrendered one night, improbable comeback runs the next — as St. Louis fights to stay relevant.",
+      "startClipIndex": 23,
+      "endClipIndex": 31,
+      "tone": "clutch"
+    },
+    {
+      "id": "ch6",
+      "title": "September Fade and Future Sparks",
+      "description": "A 9-15 September closes the book on playoff hopes, though Bernal and Herrera deliver late-season fireworks that hint at better days ahead.",
+      "startClipIndex": 32,
       "endClipIndex": 38,
       "tone": "milestone"
     }
@@ -375,8 +383,6 @@
       "title": "Home Run — Jordan Walker",
       "description": "Jordan Walker homers (20) on a fly ball to left center field. JJ Wetherholt scores. Alec Burleson scores.",
       "playId": "d5113740-d163-3a41-942d-535339a2af6a",
-      "videoUrl": "https://sporty-clips.mlb.com/ek13eVpfV0ZRVkV3dEdEUT09X1VnUlFWVmNEVWdJQVhGTUVWUUFIVUFKWEFGZ0JVUVVBQjFZQUF3QU1VQUVFVmdRSA==.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/kiv9h3aqnhg4gjchwdmq.jpg",
       "date": "2026-07-05",
       "gamePk": 824656,
       "atBatNumber": 43,
@@ -390,7 +396,8 @@
       "wpa": 0.361,
       "xwoba": 1.956,
       "eventType": "home_run",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/ek13eVpfV0ZRVkV3dEdEUT09X1VnUlFWVmNEVWdJQVhGTUVWUUFIVUFKWEFGZ0JVUVVBQjFZQUF3QU1VQUVFVmdRSA==.mp4"
     },
     {
       "id": "823029-74-9",
@@ -893,5 +900,5 @@
     "division": "NL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-25T15:05:13.569Z"
+  "generatedAt": "2026-10-26T17:25:23.467Z"
 }

@@ -1,52 +1,52 @@
 {
   "teamId": 145,
   "year": 2026,
-  "narrative": "The 2026 Chicago White Sox arrived with cautious optimism, and an ugly Opening Week served as an early warning sign. Christian Yelich's three-run blast off Seranthony Domínguez on March 29th nearly cost them a game before April had barely begun, and the team limped to a 1-4 March record. But the Sox refused to let that early stumble define them. Derek Hill's clutch bunt single and Tristan Peters' follow-up hit in early April sparked a comeback, and Andrew Benintendi's three-run shot on April 23rd signaled that this offense had real teeth. The team finished April at a respectable 13-13 — steadied, not buried.\n\nMay was when Chicago truly announced itself. The White Sox went 18-10, their best month of the season, powered by a relentless offense. Tristan Peters and Edgar Quero went back-to-back on May 17th to blow open a game, Munetaka Murakami's power announced itself in late May, and Miguel Vargas delivered a walk-off two-run shot on May 29th that was the single highest-leverage hit of the entire regular season. This was a team finding its identity — power from unexpected corners, a lineup that refused to concede leads. June brought a more contested stretch at 13-12, but memorable moments like Sam Antonacci's clutch game-winning single and Randal Grichuk's solo shot kept the Sox above water and in the race.\n\nThe summer grind from July through August was the truest test of this team's character. A brutal Grant Taylor-allowed home run on July 2nd swung a game badly, and the bullpen showed its vulnerabilities against the Cubs and Red Sox in August, with Jordan Hicks and Trevor Richards giving up key hits in the same series. But the offense kept answering — Meidroth's homer, Benintendi's 13th, Jake Rogers and Tristan Peters both going deep — and the Sox won the second half of the season at a combined 27-27 clip, enough to hold their wild card position. A rollercoaster September, highlighted by Randal Grichuk's mammoth two-run shot on September 12th and undercut by Grant Taylor's brutal late-month surrender, ended at 12-13, but it was enough. Chicago finished 84-78 and earned a postseason berth.\n\nThe ALDS brought the Cleveland Guardians and a cruel reminder of how thin the margin between October glory and elimination can be. Murakami homered in Game 1, Braden Montgomery's RBI double in Game 2 provided hope, but Cleveland's Jo Adell terrorized the Sox all series — tripling twice — and José Ramírez delivered the knockout blows with home runs in Games 4 and 5. The White Sox, a team that had clawed and slugged their way to 84 wins on the back of unexpected contributors, fell short in the Division Series, their promising renaissance season ending one round too soon.",
+  "narrative": "The 2026 Chicago White Sox arrived with something to prove, and from the very first pitch of Opening Week, the season had teeth. A brutal three-run homer surrendered by Seranthony Domínguez on March 29th set an anxious early tone, but the South Siders refused to be rattled. By early April, gritty contributions from Derek Hill and Tristan Peters in clutch moments signaled that this was a team built on competitive toughness. A shaky 1-4 March gave way to a .500 April as the roster found its footing, and then May ignited — an 18-10 month fueled by a power surge from Edgar Quero, Tristan Peters, and the thunderous bat of Munetaka Murakami, culminating in Miguel Vargas delivering what would become one of the most important home runs of the regular season on May 29th. The White Sox were for real.\n\nJune and July were a study in resilience and frustration in equal measure. The team played winning baseball — 13-12 in both months — but the highlight reel reflected a squad that won and lost with equal drama. Sam Antonacci's clutch single in a disputed play against Cleveland, Braden Montgomery's breakthrough homer, and Randal Grichuk's timely blasts kept the Sox in the thick of the AL race, while Grant Taylor's bullpen meltdowns and the occasional costly force-out reminded fans that nothing would come easy on the South Side.\n\nAugust proved to be the grinding middle chapter of a pennant push. The team went 14-14, splitting a brutal stretch that saw the bullpen stumble against Boston and Chicago, only to bounce back with home runs from Chase Meidroth, Andrew Benintendi, and Tristan Peters keeping the Sox's chin above water. September's final push crested with Randal Grichuk's towering shot on September 12th, but late-season stumbles — including a devastating two-run double by Brayan Rocchio on September 15th — nearly cost the White Sox their postseason ticket. They held on, finishing 84-78 and claiming their spot in October for the first time in years.\n\nThe ALDS against Cleveland was a short, hard story. The White Sox took punches and threw some back — Murakami's homer in Game 1 sparked belief, and Braden Montgomery's clutch double in Game 2 gave them real hope. But Cleveland was relentless. Jo Adell tortured the Sox pitching staff with two triples, José Ramírez launched a pair of postseason home runs off Jordan Hicks and Sean Burke, and the White Sox bats went quiet at the worst possible moments, including a gut-punch double play by Kyle Teel with the season on the line. The dream ended in the Division Series, but the 2026 White Sox had finally shown Chicago's South Side what winning baseball looks like again.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Stumbling Out of the Gate",
-      "description": "A disastrous Opening Week home run sinks the Sox early as the team searches for its footing in March and early April.",
+      "title": "Opening Wounds & Early Answers",
+      "description": "A painful Opening Week homer sets a tense tone, but clutch hits from Hill and Peters steady the ship through a .500 April.",
       "startClipIndex": 0,
-      "endClipIndex": 0,
-      "tone": "struggle"
-    },
-    {
-      "id": "ch2",
-      "title": "The Comeback Kids",
-      "description": "Clutch hits from Hill, Peters, and Benintendi stabilize the ship and carry Chicago to a respectable .500 April.",
-      "startClipIndex": 1,
       "endClipIndex": 4,
       "tone": "turning_point"
     },
     {
-      "id": "ch3",
-      "title": "May Eruption",
-      "description": "Back-to-back bombs, Murakami's emergence, and Vargas's walk-off power Chicago through their best month at 18-10.",
+      "id": "ch2",
+      "title": "May Explosion",
+      "description": "The White Sox erupt for an 18-10 May powered by a power surge from Quero, Peters, Murakami, and a walk-off Vargas blast.",
       "startClipIndex": 5,
-      "endClipIndex": 14,
+      "endClipIndex": 9,
       "tone": "triumph"
     },
     {
-      "id": "ch4",
+      "id": "ch3",
       "title": "Grinding Through Summer",
-      "description": "The Sox battle bullpen vulnerabilities and a brutal July-August schedule, staying afloat on clutch offense and grit.",
-      "startClipIndex": 15,
-      "endClipIndex": 23,
+      "description": "June and July bring winning baseball at 13-12 each month, with clutch heroics and gut-punch losses arriving in equal measure.",
+      "startClipIndex": 10,
+      "endClipIndex": 16,
       "tone": "clutch"
+    },
+    {
+      "id": "ch4",
+      "title": "August Perseverance",
+      "description": "A 14-14 August tests the rotation and bullpen, but timely power from Meidroth, Benintendi, and Peters keeps the playoff chase alive.",
+      "startClipIndex": 17,
+      "endClipIndex": 23,
+      "tone": "struggle"
     },
     {
       "id": "ch5",
       "title": "September Scramble",
-      "description": "Grichuk's big shot and late-season heroics keep Chicago in the race, but a shaky finish sets a nervous tone heading into October.",
+      "description": "Grichuk delivers a pivotal homer to keep the playoff push alive, but late-season blowups make the final stretch a white-knuckle ride to 84 wins.",
       "startClipIndex": 24,
       "endClipIndex": 28,
       "tone": "turning_point"
     },
     {
       "id": "ch6",
-      "title": "October Dreams, Cleveland Reality",
-      "description": "The White Sox reach the ALDS but are undone by José Ramírez and Jo Adell as their promising season ends one round short of glory.",
+      "title": "October's Short Story",
+      "description": "The White Sox battle valiantly in the ALDS but are undone by José Ramírez's power and Cleveland's resilience, ending their postseason run in the Division Series.",
       "startClipIndex": 29,
       "endClipIndex": 36,
       "tone": "struggle"
@@ -860,5 +860,5 @@
     "division": "AL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-25T14:38:49.679Z"
+  "generatedAt": "2026-10-26T17:01:30.945Z"
 }

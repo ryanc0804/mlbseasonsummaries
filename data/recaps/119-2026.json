@@ -1,47 +1,47 @@
 {
   "teamId": 119,
   "year": 2026,
-  "narrative": "The 2026 Los Angeles Dodgers arrived with championship expectations and largely delivered on them, finishing 100-62 and standing as one of the National League's dominant forces. From the opening weekend, Will Smith's two-run blast on March 28 announced that this team meant business, and the Dodgers carried that energy into April with a 16-10 record built on timely power. The acquisition of Kyle Tucker paid immediate dividends — his clutch single on April 27 erased a three-run deficit surrendered by Yamamoto and turned a potential loss into a statement win, exemplifying the lineup's relentless depth.\n\nThe summer months brought a different kind of baseball. June was brilliant — 18-9, fueled by Dalton Rushing's dramatic walk-off single on June 19 and Teoscar Hernández's Independence Day weekend grand slam — but the bullpen, particularly Tanner Scott and Edwin Díaz, showed troubling cracks. Scott surrendered homers in back-to-back late-game spots in May and June, while Díaz imploded across consecutive August outings against Arizona, giving up a homer and two triples in what became a genuinely alarming stretch. August finished 13-14, the team's only losing month, and it raised real questions about the club's postseason readiness.\n\nSeptember answered those questions emphatically. The Dodgers went 18-7, their best month of the year, with Teoscar Hernández, Mookie Betts, and Tommy Edman delivering enormous clutch hits in back-to-back-to-back games in early September. The rotation steadied, the lineup reasserted itself, and Los Angeles clinched with authority, looking every bit like a World Series contender.\n\nThe postseason told a bittersweet story. The Dodgers dispatched their Division Series opponent with contributions up and down the roster — Hernández and Enrique Hernández homering, Andy Pages delivering a multi-RBI single — before running into Milwaukee in the NLCS. The Brewers matched the Dodgers blow for blow. Will Smith provided heroics with two doubles across NLCS games, and Shohei Ohtani launched a three-run homer to keep the series alive, but Milwaukee's pitching ultimately proved too much. The dream season ended in the Championship Series, leaving a talented, 100-win club one step short of the Fall Classic.",
+  "narrative": "The 2026 Los Angeles Dodgers announced themselves immediately, opening the year with Will Smith's two-run blast on Opening Day and riding a wave of offensive firepower through a strong April. Will Smith, Max Muncy, and the newly added Kyle Tucker gave the lineup a different look, and a wild late-April comeback — punctuated by Tucker's go-ahead single to plate multiple runs after Yamamoto was tagged for a three-run homer — set the tone for a team that could manufacture big moments when it mattered most.\n\nMay and June belonged to the Dodgers in the standings, as the team went 18-10 and 18-9 respectively, assembling one of the best two-month stretches in the National League. Freddie Freeman supplied a milestone home run, Dalton Rushing emerged with a clutch walk-off single, and Teoscar Hernández delivered a grand slam to close out the first half with authority. Beneath the surface, however, the bullpen showed cracks — Tanner Scott surrendered back-to-back crushing homers in late May and early June, a warning sign that would loom larger as the season wore on.\n\nJuly and August were a genuine grind. The team went a combined 26-25 over those two months, and the high-leverage failures piled up. Edwin Díaz — once the elite closer — became a liability, surrendering a walk-off homer and getting lit up in back-to-back outings in early August. Relievers Alex Vesia and Tanner Scott continued to bleed runs at the worst moments. Yet the offense kept the Dodgers afloat: Max Muncy delivered a three-run homer in mid-August, Tommy Edman chipped in timely hits, and the rotation held things together well enough to stay in contention. September was a triumphant surge — an 18-7 record powered by Teoscar Hernández, Mookie Betts, and Tommy Edman all delivering signature moments — that sent Los Angeles into October as one of baseball's most dangerous teams at 100-62.\n\nThe postseason started with a rousing NLDS victory, with Hernández homering to open the series and Andy Pages delivering a pivotal multi-run single to close it out. But the NLCS proved a bridge too far. The Milwaukee Brewers — powered by Christian Yelich and a deep bullpen — consistently punched back against LA's starters, and while Will Smith and Shohei Ohtani provided flashes of brilliance in Games 3 and 4, the Dodgers could never fully pull away. A 100-win season ended in the Championship Series, leaving a talented roster with one final question still unanswered.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Opening Statements",
-      "description": "The Dodgers flex their offensive muscle early, with Will Smith's opening-weekend homer setting the tone for a promising spring.",
+      "title": "Opening Salvo",
+      "description": "The Dodgers storm out of the gate behind Will Smith and a high-powered lineup that announces its World Series intentions from the very first series.",
       "startClipIndex": 0,
-      "endClipIndex": 1,
+      "endClipIndex": 4,
       "tone": "triumph"
     },
     {
       "id": "ch2",
-      "title": "Tucker's Arrival Changes Everything",
-      "description": "A wild late-April series encapsulates the season's identity — the Dodgers absorb punches and punch back harder, with Kyle Tucker's clutch single proving the lineup's new dimension.",
-      "startClipIndex": 2,
-      "endClipIndex": 5,
-      "tone": "clutch"
-    },
-    {
-      "id": "ch3",
-      "title": "Summer Surge and Bullpen Cracks",
-      "description": "Back-to-back 18-win months in May and June showcase the Dodgers' dominance, but Scott and Díaz surrendering critical homers hint at the bullpen vulnerabilities that will loom large.",
-      "startClipIndex": 6,
-      "endClipIndex": 14,
-      "tone": "turning_point"
-    },
-    {
-      "id": "ch4",
-      "title": "August Stumble, September Roar",
-      "description": "Díaz's back-to-back meltdowns make August the team's only losing month, but the Dodgers respond with an 18-7 September powered by Hernández, Betts, and Edman delivering timely fireworks.",
-      "startClipIndex": 15,
-      "endClipIndex": 28,
+      "title": "Peak Dodger Baseball",
+      "description": "A dominant May-June stretch — highlighted by Tucker's clutch hit, Freeman's milestone homer, and Rushing's walk-off — carries LA to the top of the NL West.",
+      "startClipIndex": 5,
+      "endClipIndex": 10,
       "tone": "triumph"
     },
     {
+      "id": "ch3",
+      "title": "Midsummer Turbulence",
+      "description": "The bullpen cracks and the wins become harder to find as Díaz, Scott, and Vesia all falter in high-leverage spots during a grueling July and August stretch.",
+      "startClipIndex": 11,
+      "endClipIndex": 24,
+      "tone": "struggle"
+    },
+    {
+      "id": "ch4",
+      "title": "September Surge",
+      "description": "Hernández, Betts, and Edman ignite a blazing 18-7 September that stamps the Dodgers' 100-win season and sends them into October with full momentum.",
+      "startClipIndex": 25,
+      "endClipIndex": 28,
+      "tone": "turning_point"
+    },
+    {
       "id": "ch5",
-      "title": "October's Promise and Heartbreak",
-      "description": "The Dodgers advance through the Division Series with collective firepower before falling in the NLCS, with Ohtani's homer and Will Smith's clutch doubles unable to hold off a determined Milwaukee club.",
+      "title": "October's Unfinished Business",
+      "description": "LA dispatches their NLDS opponent before running into a battle-tested Brewers squad in the NLCS, where moments of Ohtani brilliance and Smith heroics aren't quite enough to close the door.",
       "startClipIndex": 29,
       "endClipIndex": 36,
-      "tone": "struggle"
+      "tone": "clutch"
     }
   ],
   "clips": [
@@ -856,5 +856,5 @@
     "division": "NL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-25T15:09:04.801Z"
+  "generatedAt": "2026-10-26T17:28:52.826Z"
 }

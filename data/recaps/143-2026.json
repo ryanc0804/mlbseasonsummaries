@@ -1,55 +1,55 @@
 {
   "teamId": 143,
   "year": 2026,
-  "narrative": "The 2026 Philadelphia Phillies were a team that built their season in waves, never quite finding consistency but always finding a way to stay afloat. They stumbled out of the gate in March and sank to 10-16 in April, a month marked by costly double plays and missed opportunities that suggested this might be a long year in Philadelphia. But the roster had enough talent to right the ship, and when they did, they did it emphatically.\n\nMay and June became the heartbeat of the Phillies' season. Bryson Stott emerged as a quiet cornerstone, delivering clutch hit after clutch hit, while Justin Crawford flashed the kind of upside that energized the fanbase. Kyle Schwarber's 30th home run arrived in late June as a statement, and a wild June 23rd game — full of lead changes, a Kerkering stumble, and a walk-off Stott blast — captured everything unpredictable and thrilling about this team. June closed 18-9, the best month of the year.\n\nJuly brought a predictable regression, the Phillies going 9-15 as the league caught up and the lineup went quiet in the biggest moments. But August answered every doubt. Going 21-7 in their best month, the Phillies rode Derek Hill's grand slam, Edmundo Sosa's clutch home runs, and a revitalized offense to punch their ticket to the postseason. Sosa's late-August grand slam — a 0.769 WPA eruption — was the emotional crescendo of the regular season, a reminder of what this team could be when everything clicked.\n\nOctober, however, was brief and brutal. Facing the Atlanta Braves in the Wild Card round, the Phillies won a gritty Game 2 on the strength of Alec Bohm's solo shot and J.T. Realmuto's clutch triple, but the series was bookended by heartbreak. Jhoan Duran surrendered Austin Riley's crushing three-run homer in Game 1, a -0.637 WPA gut punch that set the tone, and in Game 3 Aaron Nola couldn't hold the line as Michael Harris II's three-run blast ended Philadelphia's season. An 88-74 record, a Wild Card berth, and a first-round exit — close enough to dream, not close enough to matter.",
+  "narrative": "The 2026 Philadelphia Phillies were a team defined by streaks — electric runs of dominance interrupted by stretches of maddening inconsistency. They opened the year stumbling, going 2-3 in March and a dismal 10-16 in April, but the offense showed flashes of what was possible: Brandon Marsh doubled in a pair of runs on Opening Weekend, and Edmundo Sosa delivered a clutch single on April 1st to keep hope alive. The month of April was littered with squandered opportunities, including Adolis García's crushing double play in a key situation, but the pieces were clearly there.\n\nMay and June transformed the Phillies into one of baseball's hottest teams. A remarkable three-game sequence at the end of April — featuring Schwarber's double, Stott's triple, and Crawford's walk-off single — seemed to flip a switch. The club went 18-10 in May and 18-9 in June, powered by a rotation of clutch performers. Bryson Stott emerged as a genuine middle-of-the-order force, Edmundo Sosa contributed timely home runs, and Justin Crawford announced himself as a legitimate everyday player. The June 23rd game alone featured a Stott three-run homer, a Marsh two-run shot, and a Realmuto double — the kind of fireworks that made Citizens Bank Park feel like a playoff venue. Schwarber's 30th home run on June 28th punctuated one of the finest two-month stretches in recent Phillies history.\n\nJuly brought a reality check. The team went 9-15, and the high-leverage moments tilted sharply negative — none more damaging than Brandon Marsh's pivotal double play in a late-July loss. But the Phillies found something extraordinary in August, going a stunning 21-7, the best month of the season. Derek Hill's grand slam on August 3rd, Alec Bohm's clutch triple, and above all, Edmundo Sosa's walk-off grand slam on August 28th — one of the most significant swings of the entire year — carried the team into genuine wild card contention. September, however, saw the offense sputter and the bullpen falter, as a brutal three-game collapse on September 11th derailed momentum and forced the club to grind to an 88-74 finish.\n\nThe Wild Card was a microcosm of the entire season — heartening moments followed by crushing blows. J.T. Realmuto's triple kept Game 1 alive, and Alec Bohm and Bryce Harper delivered home runs in Game 2 to push the series. But Jhoan Duran's three-run homer off Philadelphia's bullpen in Game 1 proved impossible to overcome, and Aaron Nola's inability to contain the Atlanta Braves in the deciding game — culminating in a Michael Harris II three-run blast — ended the Phillies' year. Eighty-eight wins, a spectacular August, and a postseason berth were not enough to mask the inconsistency that had defined 2026 all along.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Sputtering Start",
-      "description": "The Phillies limp through March and April, posting a 12-19 combined record as costly mistakes and missed chances pile up.",
+      "title": "A Slow, Shaky Start",
+      "description": "The Phillies stumble through March and a rough April, managing only 12 wins in their first 28 games despite occasional offensive bursts.",
       "startClipIndex": 0,
-      "endClipIndex": 5,
+      "endClipIndex": 2,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "Finding Their Footing",
-      "description": "A productive May sees the Phillies go 18-10, powered by Bryson Stott's two-run homer and Edmundo Sosa's clutch blast to end the month.",
-      "startClipIndex": 6,
-      "endClipIndex": 9,
-      "tone": "turning_point"
-    },
-    {
-      "id": "ch3",
-      "title": "The June Surge",
-      "description": "The Phillies catch fire at 18-9 in June, headlined by a wild June 23rd comeback and Kyle Schwarber's 30th home run.",
-      "startClipIndex": 10,
+      "title": "The Switch Flips",
+      "description": "A three-homer sequence to close April ignites a red-hot May and June run, with Stott, Crawford, and Schwarber carrying the offense to elite heights.",
+      "startClipIndex": 3,
       "endClipIndex": 16,
       "tone": "triumph"
     },
     {
-      "id": "ch4",
-      "title": "July Stumble, August Roar",
-      "description": "After a 9-15 July slide, the Phillies explode for a 21-7 August — their best month — powered by Derek Hill's grand slam and Edmundo Sosa's late-month eruption.",
+      "id": "ch3",
+      "title": "Stumbling in July",
+      "description": "The offense goes cold and key moments slip away, sending the Phillies to a 9-15 July that raises serious questions about the team's ceiling.",
       "startClipIndex": 17,
+      "endClipIndex": 17,
+      "tone": "struggle"
+    },
+    {
+      "id": "ch4",
+      "title": "August Ablaze",
+      "description": "The Phillies catch fire with a 21-7 August powered by Derek Hill's grand slam and Edmundo Sosa's walk-off bases-clearing blast, rescuing the season.",
+      "startClipIndex": 18,
       "endClipIndex": 26,
-      "tone": "turning_point"
+      "tone": "triumph"
     },
     {
       "id": "ch5",
       "title": "September Fade",
-      "description": "The Phillies go 10-14 in September, surviving late-season collapses and a Stott clutch hit to secure their Wild Card spot.",
+      "description": "A brutal three-game bullpen collapse on September 11th encapsulates a 10-14 September that nearly costs Philadelphia its playoff spot.",
       "startClipIndex": 27,
       "endClipIndex": 31,
       "tone": "struggle"
     },
     {
       "id": "ch6",
-      "title": "October Heartbreak",
-      "description": "The Phillies steal a game in the Wild Card round behind Bohm and Realmuto but are ultimately sunk by Jhoan Duran's Game 1 meltdown and Aaron Nola's Game 3 collapse against Atlanta.",
+      "title": "Wild Card, Bitter Exit",
+      "description": "The Phillies fight to the final out against Atlanta but are undone by a Jhoan Duran three-run homer and a Harris walk-off blast that ends their October.",
       "startClipIndex": 32,
       "endClipIndex": 39,
-      "tone": "struggle"
+      "tone": "clutch"
     }
   ],
   "clips": [
@@ -930,5 +930,5 @@
     "division": "NL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-28T17:12:33.212Z"
+  "generatedAt": "2026-10-29T17:25:47.990Z"
 }

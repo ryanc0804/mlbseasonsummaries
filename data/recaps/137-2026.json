@@ -1,44 +1,44 @@
 {
   "teamId": 137,
   "year": 2026,
-  "narrative": "The 2026 San Francisco Giants entered the season with modest expectations, and those expectations were quickly tested. The club stumbled through March and April, never finding consistent footing, and a catastrophic late-April collapse against Philadelphia — punctuated by a brutal series of high-leverage hits allowed by Keaton Winn and Ryan Walker — set an early tone of fragility that would define much of the year. By the end of April the Giants sat at 13-18, already fighting an uphill battle.\n\nMay brought little relief. The pitching staff continued to hemorrhage runs at the worst moments, with Matt Gage's three-run home run surrender to Ketel Marte on May 19 serving as a microcosm of the team's inability to hold games late. The lone bright spot came when Willy Adames delivered a clutch two-run single on May 10, briefly igniting hope, but the Giants finished May at 10-18 — their worst month of the season. June, however, offered the most sustained glimmer of the year: Bryce Eldridge's grand slam on June 10, back-to-back home runs from Rafael Devers and Victor Bericoto on June 24, and Jung Hoo Lee's triple the following day gave the club a 13-14 record for the month and a genuine sense that the young pieces could compete.\n\nJuly and August told the story of a team unable to sustain momentum. Pitchers Dylan Smith, Logan Webb, and Carson Seymour each yielded back-breaking hits at pivotal moments, and the bullpen continued to be a liability. The Giants went a combined 22-31 across those two months, and whatever optimism June had manufactured quietly dissolved. The offense, anchored by Willy Adames's 18th home run in late July and Jung Hoo Lee's steady production, showed flashes but could never fully compensate for a rotation cycling through too many unproven arms.\n\nSeptember has offered little comfort, with Carson Seymour's struggles — including a three-run blast allowed to Bo Bichette on September 6 — and continued defensive miscues compounding losses. At 65-97, the Giants find themselves well short of contention in 2026, though the emergence of Bryce Eldridge, the durability of Jung Hoo Lee, and Adames's presence at shortstop provide genuine building blocks for a franchise still searching for its next chapter.",
+  "narrative": "The 2026 San Francisco Giants entered the season with cautious optimism, but the early months made it clear this would be a long year. A brutal April (11-15) set the tone, and the pitching staff was repeatedly victimized in high-leverage moments — most memorably on April 30, when a single disastrous inning against Philadelphia saw Bryson Stott triple in a run and Justin Crawford single home another, unraveling Keaton Winn and Ryan Walker in succession. The Giants' rotation struggled to hold leads, and the offense rarely provided enough cushion to absorb the damage.\n\nMay and June offered flickers of hope amid the wreckage. Willy Adames delivered a clutch two-run single on May 10 to spark the offense, and a remarkable June stretch saw Bryce Eldridge crush a grand slam and Rafael Devers and Victor Bericoto each go deep in back-to-back games, with Jung Hoo Lee capping a series with a two-run triple. Those moments briefly lifted the club, and a 13-14 June suggested the team could compete on individual nights — but consistency remained elusive, and the Giants could never string enough wins together to truly threaten the standings.\n\nThe summer months were a grind of attrition. Dylan Smith became a recurring symbol of the pitching staff's woes, surrendering costly hits in July, August, and again in September. Logan Webb gave up a three-run blast in July, Carson Seymour was touched for a punishing Bo Bichette three-run homer in September, and a throwing error by Osleivis Basabe exemplified the unforced mistakes that plagued San Francisco all season. Willy Adames continued to provide bright spots offensively — his 18th home run in late July was one of the season's more satisfying moments — and Jung Hoo Lee's late-September double gave fans one last reason to cheer. But by September, with a 65-97 record, the Giants are grinding through the final weeks of a disappointing campaign, their season defined less by any single collapse than by a relentless accumulation of close games that slipped away.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Early Stumbles",
-      "description": "A disastrous late-April series exposes the Giants' pitching vulnerabilities and sets a troubling tone for the young season.",
+      "title": "Early Turbulence",
+      "description": "A rough April bleeds into May as the pitching staff absorbs costly blows in close games.",
       "startClipIndex": 0,
-      "endClipIndex": 2,
+      "endClipIndex": 3,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "Grinding Through May",
-      "description": "Moments of individual brilliance from Adames and the rotation can't prevent another brutal month as the Giants sink deeper into the standings.",
-      "startClipIndex": 3,
+      "title": "Fighting Back",
+      "description": "Adames, Kilian's double play, and the offense provide genuine moments of hope amid a difficult stretch.",
+      "startClipIndex": 4,
       "endClipIndex": 10,
-      "tone": "struggle"
+      "tone": "turning_point"
     },
     {
       "id": "ch3",
-      "title": "A June to Remember",
-      "description": "Eldridge's grand slam, Devers's power surge, and Lee's clutch hitting give San Francisco their best month and a rare taste of winning baseball.",
+      "title": "June Sparks",
+      "description": "Eldridge's grand slam and back-to-back homers from Devers and Bericoto ignite a brief mid-summer surge.",
       "startClipIndex": 11,
       "endClipIndex": 15,
       "tone": "triumph"
     },
     {
       "id": "ch4",
-      "title": "Summer Fade",
-      "description": "The Giants play competitive but inconsistent baseball through July and August, with the pitching staff repeatedly yielding game-changing hits at the worst moments.",
+      "title": "Summer Slide",
+      "description": "July and August bring more heartbreak as Dylan Smith and the bullpen repeatedly surrender leads.",
       "startClipIndex": 16,
       "endClipIndex": 21,
-      "tone": "turning_point"
+      "tone": "struggle"
     },
     {
       "id": "ch5",
-      "title": "September Struggles",
-      "description": "Errors, blown leads, and late-game home runs allowed define a September that cements a disappointing 2026 campaign.",
+      "title": "Finishing the Fade",
+      "description": "September brings more of the same as the Giants play out a disappointing 65-win season.",
       "startClipIndex": 22,
       "endClipIndex": 25,
       "tone": "struggle"
@@ -611,5 +611,5 @@
     "division": "NL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-28T17:26:45.289Z"
+  "generatedAt": "2026-10-29T17:39:05.324Z"
 }

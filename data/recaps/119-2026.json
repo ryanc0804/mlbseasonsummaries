@@ -1,52 +1,44 @@
 {
   "teamId": 119,
   "year": 2026,
-  "narrative": "The 2026 Los Angeles Dodgers arrived with championship expectations, and Will Smith's two-run blast on Opening Day announced that this team meant business. Through April and into May, the Dodgers raced out to one of the best records in baseball, with newcomer Kyle Tucker delivering clutch hits and veterans like Max Muncy and Freddie Freeman providing the power the lineup needed. Even when disaster struck — a brutal Yamamoto outing against Philadelphia and a Freeman double-play that cost them a win — the Dodgers found ways to keep winning, going 16-10 in April and an even more impressive 18-10 in May.\n\nJune brought the team's most electric baseball, capped by Dalton Rushing's walk-off single that electrified Dodger Stadium and Teoscar Hernández's grand slam that swung a pivotal July contest. The offense was humming at 801 runs for the season, the pitching staff posted a sterling 3.55 ERA, and Los Angeles looked every bit like a 100-win juggernaut. But the bullpen showed cracks that would deepen — Tanner Scott surrendered back-to-back critical home runs in late May and early June, a warning sign the front office could not ignore.\n\nAugust turned ugly in a way the record reflects — a 13-14 month that marked the Dodgers' only losing stretch of the season. Edwin Díaz, entrusted with the highest-leverage moments, was torched across consecutive nights by the Arizona Diamondbacks, surrendering a home run and two triples in a demoralizing back-to-back series. Alex Vesia also struggled in relief, and for a stretch it felt like the bullpen might unravel everything the rotation had built. Yet the offense answered: Max Muncy's three-run homer on August 13 reignited a late-month surge, and Tommy Edman's clutch single and Mookie Betts and Teoscar Hernández's big September swings powered an 18-7 close to the regular season that felt like a team hitting its stride at precisely the right time.\n\nThe postseason, however, told a bittersweet story. The Dodgers dispatched their Division Series opponent with contributions from Hernández, Enrique Hernández, and Andy Pages, but the Championship Series against Milwaukee proved a bridge too far. Yamamoto was tagged early in Game 1, and though Will Smith's doubles and Shohei Ohtani's three-run homer kept Los Angeles competitive, Blake Snell surrendered a key two-run shot that shifted momentum irreversibly. A 100-win season, 801 runs scored, and a roster built for October ended one round short — a painful conclusion that will haunt Dodger blue all winter long.",
+  "narrative": "The 2026 Los Angeles Dodgers announced themselves as a legitimate powerhouse from the very first swing of the year, with Will Smith's two-run Opening Day homer setting a tone of confidence that would carry the team through a spectacular first half. Adding Kyle Tucker to an already fearsome lineup gave the Dodgers a new dimension, and the roster delivered big moments throughout April and into a dominant June — finishing the first half among the best teams in baseball.\n\nThe summer, however, brought turbulence in the bullpen. Tanner Scott and Edwin Díaz each had nightmarish stretches, surrendering home runs and key hits at the worst possible moments. August was the one month where the Dodgers genuinely stumbled, going 13-14 as the back end of the bullpen became a liability. Yet the offense never quit — Max Muncy's power surge, Tommy Edman's clutch hitting, and Dalton Rushing's emergence as a difference-maker kept Los Angeles afloat even when the relief corps let them down.\n\nSeptember was when the Dodgers remembered who they were. An 18-7 record in the final month, punctuated by a Teoscar Hernández two-run double, a Mookie Betts three-run bomb, and Tommy Edman's go-ahead blast, sent them into October with 100 wins and genuine World Series aspirations. The offense was humming, the rotation was sharp, and the bullpen had steadied enough to inspire cautious optimism.\n\nThe postseason started with promise — wins in the Division Series powered by Teoscar Hernández, Enrique Hernández, and Andy Pages showed the Dodgers at their best. But the Championship Series proved one step too far. Yoshinobu Yamamoto was touched up early in Game 1, and while Will Smith and Shohei Ohtani provided moments of magic, Blake Snell's struggles and the opponent's relentless offense ultimately ended the Dodgers' season in the NLCS. A 100-win year ends with what-ifs, but the foundation for another run remains firmly in place.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Opening Day Sparks",
-      "description": "Will Smith's Opening Day blast sets the tone for a fast-charging Dodger squad that races through April with serious title intentions.",
+      "title": "Fast Out of the Gate",
+      "description": "Will Smith's Opening Day blast ignites a hot start as the Dodgers storm through March and April.",
       "startClipIndex": 0,
       "endClipIndex": 1,
       "tone": "triumph"
     },
     {
       "id": "ch2",
-      "title": "Tucker Steps Up",
-      "description": "Kyle Tucker and Shohei Ohtani fuel a pivotal late-April comeback that signals the Dodgers' offensive depth and postseason ceiling.",
+      "title": "Tucker's Big Night and the Grind of May",
+      "description": "Kyle Tucker delivers a clutch multi-run single in a wild late-April comeback, and the Dodgers keep winning through May despite bullpen scares.",
       "startClipIndex": 2,
-      "endClipIndex": 5,
+      "endClipIndex": 7,
       "tone": "clutch"
     },
     {
       "id": "ch3",
-      "title": "Winning Through June",
-      "description": "Despite bullpen wobbles from Tanner Scott, the Dodgers post a blazing 18-9 June powered by Dalton Rushing's walk-off heroics and Hernández's grand slam.",
-      "startClipIndex": 6,
-      "endClipIndex": 14,
+      "title": "Cruising Through June",
+      "description": "Dalton Rushing's game-winning single and Freddie Freeman's power lead an 18-9 June that cements the Dodgers as the class of the NL.",
+      "startClipIndex": 8,
+      "endClipIndex": 12,
       "tone": "triumph"
     },
     {
       "id": "ch4",
-      "title": "August Turbulence",
-      "description": "A 13-14 August exposes real bullpen vulnerabilities as Edwin Díaz is battered on back-to-back nights, but the offense and a strong September close salvage the stretch.",
-      "startClipIndex": 15,
-      "endClipIndex": 24,
-      "tone": "struggle"
-    },
-    {
-      "id": "ch5",
-      "title": "September Surge",
-      "description": "Betts, Hernández, and Edman power an 18-7 September close that restores confidence and sends the Dodgers into October riding peak momentum.",
-      "startClipIndex": 25,
+      "title": "August Storms and a September Surge",
+      "description": "Bullpen meltdowns from Díaz and Scott make August a slog, but the offense roars back and the team posts a scorching 18-7 September to close the regular season.",
+      "startClipIndex": 13,
       "endClipIndex": 28,
       "tone": "turning_point"
     },
     {
-      "id": "ch6",
-      "title": "October Falls Short",
-      "description": "The Dodgers advance through the Division Series but are stopped in the NLCS, as Milwaukee's bats prove too much despite Ohtani's home run and Will Smith's clutch doubles.",
+      "id": "ch5",
+      "title": "October Ends Too Soon",
+      "description": "The Dodgers cruise past the Division Series before falling in the NLCS, as moments of brilliance from Ohtani and Will Smith can't overcome pitching breakdowns against a tough opponent.",
       "startClipIndex": 29,
       "endClipIndex": 36,
       "tone": "struggle"
@@ -864,5 +856,5 @@
     "division": "NL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-28T17:24:17.881Z"
+  "generatedAt": "2026-10-29T17:36:51.212Z"
 }

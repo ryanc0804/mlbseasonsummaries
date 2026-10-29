@@ -1,47 +1,47 @@
 {
   "teamId": 120,
   "year": 2026,
-  "narrative": "The 2026 Washington Nationals entered the season with cautious optimism, and the early months reflected exactly that tension. A rocky April, bookended by costly pitching implosions from Cole Henry and Clayton Beeter and a brutal series that saw the Phillies batter Brad Lord for multiple homers in a single game, kept the Nationals below .500. But flashes of brilliance from CJ Abrams — whose eighth homer on the final day of April helped salvage some dignity — hinted at the offensive firepower Washington was capable of unleashing.\n\nMay and June told a more compelling story. The lineup caught fire, with Abrams and Daylen Lile emerging as one of baseball's most exciting young duos. Lile's two-run bomb in mid-May and Abrams' clutch triple late in the month helped Washington post a 16-12 record in May, the team's best month. June was a push-and-pull affair — Jorbit Vivas delivered a stunning three-run homer to keep one game alive, and Curtis Mead's bat proved a reliable weapon, but Mitchell Parker's surrender of a grand slam to Bryce Eldridge and a nightmarish bullpen performance against the Phillies on June 23rd underscored just how fragile this roster's margins truly were.\n\nJuly and August proved the season's undoing. The bullpen became a revolving door of disasters — Matt Krook and Andrew Alvarez surrendered massive blows to the Yankees, Tom Cosgrove gave up a grand slam that effectively ended one August afternoon early, and a 11-18 August mark erased all the goodwill the team had built. Brady House's three-run shot in mid-August and a pair of late-game singles from Lile and Dylan Crews provided isolated moments of hope, but Washington was clearly treading water.\n\nSeptember arrived with the Nationals at 66-74, needing a near-miracle run to push themselves into playoff contention. The month has been a mixed bag — Clayton Beeter and Will Dion have continued to struggle in high-leverage spots, with Tommy Edman and Mookie Betts both punishing them for costly home runs. At 77-85 through September's midpoint, Washington's playoff hopes are all but mathematically extinguished, though the young core of Abrams, Lile, Crews, and House has given the fanbase genuine reason to believe in what's being built in the nation's capital.",
+  "narrative": "The 2026 Washington Nationals entered the season carrying genuine optimism, a roster blending emerging young talent with veterans capable of carrying a lineup. The early weeks were turbulent — Cole Henry's April opener went sideways almost immediately, and the pitching staff surrendered pivotal home runs at inopportune moments — but James Wood's three-run blast on April 6th and CJ Abrams' clutch shot on April 30th signaled that the offense had real teeth. Washington finished April at 15-17, a disappointing but not disqualifying start for a team still finding its footing.\n\nMay and early June represented the Nationals at their best. A 16-12 May was fueled by Abrams and Daylen Lile emerging as a dynamic offensive duo, combining for back-to-back high-leverage hits that won games in the late innings. The team's balanced attack — 210 home runs on the season — was at its most consistent during this stretch, and for a window in late May the Nationals looked like a legitimate contender pushing above .500. June proved more complicated: Mitchell Parker surrendered a grand slam on June 10th that swung a full 0.617 in win probability, and a catastrophic June 23rd-24th stretch saw Brad Lord and Richard Lovelady burned by Philadelphia, turning what could have been a series win into a demoralizing slide.\n\nJuly and August were the months that defined Washington's ceiling. A 11-13 July was bookended by brutal moments — Matt Krook allowing a two-run Jazz Chisholm shot, Andrew Alvarez watching Ben Rice's triple empty the bases in a late-inning collapse — and the offense couldn't quite compensate. August turned outright ugly at 11-18, as Tom Cosgrove and others were tagged repeatedly in high-leverage spots, and the run differential that had been slightly favorable all season began to erode. The Nationals' 821 runs scored couldn't fully cover for a 4.67 ERA and a bullpen that leaked runs at the worst moments.\n\nSeptember arrived as a mixed portrait of this franchise in transition. The 11-11 finish showed a team that had stabilized but couldn't push past the .500 line in the season's final act, with Clayton Beeter and Will Dion absorbing punishing late-season home runs against the Dodgers and others. At 77-85, Washington falls short of the postseason, but the bones of something promising are visible — Abrams, Wood, Lile, and Crews form one of the more exciting young cores in the National League, and the questions about pitching depth are answerable questions for a front office with reasons to believe in the direction of this rebuild.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "False Starts and Early Scuffles",
-      "description": "A turbulent April sees the Nationals struggle to find consistency, with pitching meltdowns offsetting early offensive sparks.",
+      "title": "Rocky Beginnings",
+      "description": "Washington stumbles out of the gate as early pitching miscues and costly home runs allowed define a turbulent April.",
       "startClipIndex": 0,
       "endClipIndex": 6,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "Abrams and Lile Ignite the Offense",
-      "description": "Washington's best stretch of the season arrives as CJ Abrams and Daylen Lile carry a red-hot offense to a 16-12 May.",
+      "title": "Abrams and Lile Ignite",
+      "description": "CJ Abrams and Daylen Lile power a resurgent May as the Nationals reel off their best month of the season at 16-12.",
       "startClipIndex": 7,
-      "endClipIndex": 9,
+      "endClipIndex": 10,
       "tone": "triumph"
     },
     {
       "id": "ch3",
-      "title": "June's Wild Swings",
-      "description": "A back-and-forth June features highlight-reel moments and gut-punch losses in equal measure, leaving Washington at .500's edge.",
-      "startClipIndex": 10,
+      "title": "June Unravels",
+      "description": "A grand slam, back-to-back bullpen disasters, and a series collapse against Philadelphia turn a promising June into a 13-14 disappointment.",
+      "startClipIndex": 11,
       "endClipIndex": 18,
-      "tone": "turning_point"
+      "tone": "struggle"
     },
     {
       "id": "ch4",
-      "title": "The Dog Days Drag Washington Under",
-      "description": "A brutal 11-18 August, defined by bullpen collapses and untimely home runs allowed, effectively ends the Nationals' playoff aspirations.",
+      "title": "Fading in the Heat",
+      "description": "July and August bring the Nationals' ceiling into painful focus as the bullpen bleeds runs and an 11-18 August buries any postseason hopes.",
       "startClipIndex": 19,
       "endClipIndex": 28,
       "tone": "struggle"
     },
     {
       "id": "ch5",
-      "title": "September's Last Stand",
-      "description": "With the playoff door nearly closed, Washington's young core battles through September, searching for pride and a glimpse of the future.",
+      "title": "Playing Out the String",
+      "description": "September offers a .500 finish and flashes of the young core's potential, even as late home runs surrendered underline the team's lingering pitching concerns.",
       "startClipIndex": 29,
       "endClipIndex": 34,
-      "tone": "milestone"
+      "tone": "turning_point"
     }
   ],
   "clips": [
@@ -804,5 +804,5 @@
     "division": "NL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-28T17:13:52.413Z"
+  "generatedAt": "2026-10-29T17:27:07.252Z"
 }

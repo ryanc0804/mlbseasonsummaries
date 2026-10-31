@@ -1,52 +1,44 @@
 {
   "teamId": 117,
   "year": 2026,
-  "narrative": "The 2026 Houston Astros were a team forever teetering on the edge — good enough to scrape into October, never good enough to feel safe doing it. They opened spring with a tidy 4-2 record and a flash of the old magic when Carlos Correa's go-ahead single in early April hinted at something special. But the hope was short-lived. April collapsed around them like a bad foundation, a brutal 8-18 month defined by bullpen meltdowns and opposing hitters feasting on Houston's pitching staff. It was the kind of month that buries teams before summer even begins.\n\nWhat saved the Astros was an unlikely mid-season resurrection. May stabilized things just enough, and then June became the month that rewrote their story. Joey Loperfido's go-ahead three-run homer on June 23rd was the signature blast of the turnaround — a 0.575 WPA swing that stood as the single most impactful moment of the entire regular season. Yordan Alvarez's grand slam on the last day of June, his 26th of the year, punctuated a remarkable stretch in which the Astros went 16-11 for the month. Cam Smith emerged as a legitimate force, Isaac Paredes delivered clutch extra-base hits, and Houston started to look like the franchise it had spent a decade building.\n\nThe summer was a grind, never easy, never pretty — double-digit home runs piling up, an ERA that refused to budge below 4.45, and a rotation that kept giving games away. A pair of crushing August wins, capped by Christian Walker's three-run shot on August 14th, kept the Astros afloat in a crowded playoff race. Ronald Acuña Jr.'s grand slam off Bryan Abreu in September was a gut-punch that summed up how fragile the team remained, but Cam Smith's solo home run on September 10th — his 20th of the year — represented the quiet breakout of a young star quietly building his case.\n\nThe Wild Card round brought Boston and a two-game gauntlet that Houston couldn't survive. Altuve and Smith homered in Game 2 trying to claw back, but the bullpen — Bryan Abreu surrendering a crushing three-run blast, Hunter Brown getting burned for a two-run single — couldn't hold the line. The Astros flew out and grounded out when it mattered most, Alvarez lining out and Altuve flying out in the final moments of a season that ended exactly how it felt all year: a team of legitimate talent that never quite found the margin for error that October demands.",
+  "narrative": "The 2026 Houston Astros were a team perpetually chasing their own best version of themselves, never quite finding it long enough to matter. They opened the year with a promising 4-2 March, got a glimpse of what was possible when Carlos Correa's clutch single in early April briefly lit the fuse — and then watched April detonate into an 8-18 catastrophe, the worst month of the season, defined by opponents torching a shaky bullpen and a lineup that kept leaving runs stranded.\n\nMay and June told a different story. The Astros steadied themselves at 15-14 in May, with Cam Smith emerging as an unexpected weapon, then caught genuine fire in June at 16-11 — the best month of their season. Joey Loperfido's walk-off three-run homer on June 23rd was the emotional high-water mark, Altuve hit a go-ahead three-run shot, Yordan Alvarez launched a grand slam, and for a few weeks Minute Maid Park hummed with the old electricity. It felt like a team remembering who it was.\n\nJuly and August were grinding, workmanlike months — 13-10 and 14-13 respectively — enough to stay in the wild card picture but not enough to separate. Daulton Varsho and Christian Walker combined for a stunning August comeback that kept hope alive, but Bryan Abreu's inability to retire Ronald Acuña Jr. in September — surrendering a grand slam in a crucial late-season game — was a gut punch the team never fully absorbed. September limped home at 11-13, and Houston backed into the Wild Card as much as earned it.\n\nThe postseason lasted exactly two games and told the story of a team running on fumes. The Astros showed flashes — Velázquez homered, Smith and Altuve went deep in Game 2 — but the bullpen, specifically Bryan King and Hunter Brown, couldn't hold leads, and the offense went quiet when it mattered most. Yordan Alvarez lined out with the season on the line. Just like that, the 2026 Astros were done: an 81-81 team that was occasionally brilliant, frequently frustrating, and ultimately not quite enough.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Correa's Spark, April's Crash",
-      "description": "A promising opening flash from Carlos Correa gives way to a disastrous 8-18 April as the bullpen and lineup both let the team down.",
+      "title": "Early Promise, April Collapse",
+      "description": "A hopeful Correa single sparks optimism that quickly evaporates as the Astros crater to 8-18 in April, getting burned repeatedly by opposing hitters in high-leverage moments.",
       "startClipIndex": 0,
-      "endClipIndex": 0,
+      "endClipIndex": 2,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "May Steadies the Ship",
-      "description": "The Astros grind through a .500 May, surviving late-game failures and controversial calls to claw back toward respectability.",
-      "startClipIndex": 1,
+      "title": "Finding Footing in May",
+      "description": "Houston steadies itself to a 15-14 May record despite a brutal Altuve double play and a failed challenge, with Cam Smith's clutch single signaling that reinforcements are arriving.",
+      "startClipIndex": 3,
       "endClipIndex": 4,
       "tone": "turning_point"
     },
     {
       "id": "ch3",
-      "title": "June Ignition",
-      "description": "A 16-11 June powered by Loperfido's breakout blast, Altuve's clutch homers, and Alvarez's grand slam transforms Houston into a genuine contender.",
+      "title": "June Fire — The Season's Best Month",
+      "description": "The Astros rip off a 16-11 June powered by Loperfido's walk-off homer, Altuve's three-run shot, and Yordan's grand slam, briefly restoring the old Astros swagger.",
       "startClipIndex": 5,
       "endClipIndex": 10,
       "tone": "triumph"
     },
     {
       "id": "ch4",
-      "title": "Summer Wars",
-      "description": "The Astros fight through a grinding July and August, leaning on Walker's power and Varsho's clutch hitting to stay in the playoff picture despite a shaky rotation.",
+      "title": "Grinding Through Summer",
+      "description": "July and August produce winning records through sheer grit, highlighted by a Walker-Varsho comeback in mid-August, but Acuña's grand slam off Abreu in September signals the season is slipping away.",
       "startClipIndex": 11,
-      "endClipIndex": 12,
+      "endClipIndex": 14,
       "tone": "clutch"
     },
     {
       "id": "ch5",
-      "title": "September Fade",
-      "description": "Cam Smith's 20th home run provides a highlight, but Acuña's grand slam off Abreu and a 11-13 month reveal the team's ceiling heading into October.",
-      "startClipIndex": 13,
-      "endClipIndex": 14,
-      "tone": "struggle"
-    },
-    {
-      "id": "ch6",
-      "title": "Wild Card Exit",
-      "description": "Altuve and Smith homer to keep hope alive, but a bullpen that couldn't hold leads and a lineup that ran out of answers end Houston's season in the Wild Card round.",
+      "title": "October Exit",
+      "description": "The Astros reach the Wild Card but fall in two games, with flashes of life from Smith and Altuve ultimately overwhelmed by bullpen failures and a lineup that goes cold at the worst possible moment.",
       "startClipIndex": 15,
       "endClipIndex": 22,
       "tone": "struggle"
@@ -186,8 +178,6 @@
       "title": "Triple — Cam Smith",
       "description": "Cam Smith triples (1) on a sharp ground ball to right fielder Jake Mangum. Christian Walker scores. Isaac Paredes scores.",
       "playId": "74097460-962c-33b5-9acb-119df141bfb4",
-      "videoUrl": "https://sporty-clips.mlb.com/MTZOQlJfWGw0TUFRPT1fQVFWUlhWTUFVQUlBQVZRQUJRQUhBbFJUQUZoVUFBTUFBMVFNVkZVRUJRSUhWbEJT.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/m6dlzed4zhfnck5jjsyo.jpg",
       "date": "2026-06-03",
       "gamePk": 824188,
       "atBatNumber": 82,
@@ -201,15 +191,14 @@
       "wpa": 0.372,
       "xwoba": 0.431,
       "eventType": "triple",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/MTZOQlJfWGw0TUFRPT1fQVFWUlhWTUFVQUlBQVZRQUJRQUhBbFJUQUZoVUFBTUFBMVFNVkZVRUJRSUhWbEJT.mp4"
     },
     {
       "id": "824179-47-6",
       "title": "Home Run — Jose Altuve",
       "description": "Jose Altuve homers (8) on a fly ball to left field. Yordan Alvarez scores. Isaac Paredes scores.",
       "playId": "ad157e15-8013-3856-8619-4963def07799",
-      "videoUrl": "https://sporty-clips.mlb.com/YVlkbjhfWGw0TUFRPT1fVjFWUVVWTlJWd2NBQUZJRFZRQUhDUU5RQUZrRFVsZ0FCbHdEQTFkUVZ3TlNCd3Rm.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/ywv91y3m4na5zagxsoqq.jpg",
       "date": "2026-06-19",
       "gamePk": 824179,
       "atBatNumber": 47,
@@ -223,7 +212,8 @@
       "wpa": 0.366,
       "xwoba": 1.02,
       "eventType": "home_run",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/YVlkbjhfWGw0TUFRPT1fVjFWUVVWTlJWd2NBQUZJRFZRQUhDUU5RQUZrRFVsZ0FCbHdEQTFkUVZ3TlNCd3Rm.mp4"
     },
     {
       "id": "822799-97-11",
@@ -252,8 +242,6 @@
       "title": "Double — Isaac Paredes",
       "description": "Isaac Paredes doubles (16) on a line drive to right fielder Matt Vierling. Christian Vázquez scores. Jeremy Peña scores.",
       "playId": "eeb1fca0-87df-3111-bca4-fc1828be7a70",
-      "videoUrl": "https://sporty-clips.mlb.com/YkJMTTlfWGw0TUFRPT1fVTFRRFZRSlhCd0lBQUZWV0FBQUhBQWRYQUFOV0FsVUFWQVlFQ0FFTlUxWlNVUVZX.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/vjsjqxbmcjbhg3ckqqht.jpg",
       "date": "2026-06-27",
       "gamePk": 824257,
       "atBatNumber": 74,
@@ -267,15 +255,14 @@
       "wpa": 0.391,
       "xwoba": 0.482,
       "eventType": "double",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/YkJMTTlfWGw0TUFRPT1fVTFRRFZRSlhCd0lBQUZWV0FBQUhBQWRYQUFOV0FsVUFWQVlFQ0FFTlUxWlNVUVZX.mp4"
     },
     {
       "id": "824175-39-4",
       "title": "Home Run — Yordan Alvarez",
       "description": "Yordan Alvarez hits a grand slam (26) to right center field. Yainer Diaz scores. Raynel Delgado scores. Jose Altuve scores.",
       "playId": "42413554-9840-3e51-bdc6-c440ea9db4f7",
-      "videoUrl": "https://sporty-clips.mlb.com/QXc3MktfWGw0TUFRPT1fQWdOVlZWY0JVd1lBQVZvR1ZnQUhWQU5YQUFOUkFGY0FVVkVCQUZaVUNGY0hCRlJS.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/stzmw8p5vtcwzkb5r3x4.jpg",
       "date": "2026-06-30",
       "gamePk": 824175,
       "atBatNumber": 39,
@@ -289,15 +276,14 @@
       "wpa": 0.385,
       "xwoba": 1.252,
       "eventType": "home_run",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/QXc3MktfWGw0TUFRPT1fQWdOVlZWY0JVd1lBQVZvR1ZnQUhWQU5YQUFOUkFGY0FVVkVCQUZaVUNGY0hCRlJS.mp4"
     },
     {
       "id": "824159-89-10",
       "title": "Single — Daulton Varsho",
       "description": "Daulton Varsho singles on a ground ball to left fielder Randy Arozarena. Nick Allen scores. Jose Altuve to 2nd.",
       "playId": "e5baaafe-c839-3177-bea5-5bdd4633655f",
-      "videoUrl": "https://sporty-clips.mlb.com/V0FXVlJfWGw0TUFRPT1fVXdRREJRVlZBRmNBVzFvQlh3QUhBQUZSQUFOUUFsUUFCd2RSVkFjREFnQlRCUWNB.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/mzkg31oqdulhaaaskxqd.jpg",
       "date": "2026-08-14",
       "gamePk": 824159,
       "atBatNumber": 89,
@@ -311,15 +297,14 @@
       "wpa": 0.423,
       "xwoba": 0.246,
       "eventType": "single",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/V0FXVlJfWGw0TUFRPT1fVXdRREJRVlZBRmNBVzFvQlh3QUhBQUZSQUFOUUFsUUFCd2RSVkFjREFnQlRCUWNB.mp4"
     },
     {
       "id": "824159-90-10",
       "title": "Home Run — Christian Walker",
       "description": "Christian Walker homers (23) on a fly ball to left field. Jose Altuve scores. Daulton Varsho scores.",
       "playId": "a19e29b1-6367-385b-bbde-b39b93ffd1f8",
-      "videoUrl": "https://sporty-clips.mlb.com/V0FXVlJfWGw0TUFRPT1fVndCWUFWWU5CQU1BRGxFRVVRQUhDUU1FQUFOWEJ3UUFVRllNVWdvR1YxVUJBVlJl.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/bvfkzjzs8ajkbi2jhnyl.jpg",
       "date": "2026-08-14",
       "gamePk": 824159,
       "atBatNumber": 90,
@@ -333,7 +318,8 @@
       "wpa": 0.381,
       "xwoba": 1.949,
       "eventType": "home_run",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/V0FXVlJfWGw0TUFRPT1fVndCWUFWWU5CQU1BRGxFRVVRQUhDUU1FQUFOWEJ3UUFVRllNVWdvR1YxVUJBVlJl.mp4"
     },
     {
       "id": "823413-60-9",
@@ -563,5 +549,5 @@
     "division": "AL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-29T17:16:22.259Z"
+  "generatedAt": "2026-10-31T16:06:37.287Z"
 }

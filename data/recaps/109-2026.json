@@ -1,12 +1,12 @@
 {
   "teamId": 109,
   "year": 2026,
-  "narrative": "The 2026 Arizona Diamondbacks opened the year with a jolt of bad news, dropping two of their first three games in March as opposing bats battered their pitching staff. But the club found its footing in April, finishing 14-11 and showing enough resilience — including a clutch double-play ball and a Paul Sewald escape act — to signal that this roster had fight in it. May and June were the rocky middle passage, a stretch where the Diamondbacks hovered around .500 and watched too many leads evaporate late. High-leverage surrendered home runs piled up, and the bullpen — Sewald and Morillo in particular — absorbed some punishing blows. Still, the team refused to crater, scraping through a 15-13 May and a difficult 12-15 June without ever going into full free fall.\n\nJuly became the season's turning point. Arizona went 15-10, its best month of the year, riding a wave of momentum that erased the doubts of the summer grind. The offense found grooves, the rotation steadied, and even when Sewald gave up a Reynolds bomb late in the month, the Diamondbacks had enough cushion to absorb it. August was trickier — Ryan Waldschmidt's own home run off his bat thrilled fans, but opponents countered with gut-punch moments that kept the month at a hard-fought 15-14. The Diamondbacks were winning ugly, but they were winning.\n\nSeptember brought both peril and payoff. Corbin Carroll's 21st home run of the year — a two-run shot that hurt the club — and Nolan Arenado's grand slam against them were painful reminders of how thin the margins remained. But Taylor Clarke's critical relief appearance on September 15th, which ended an opposing threat and swung momentum back to Arizona, captured the gritty identity of this team. The Diamondbacks closed September 13-10, finishing the regular season at 86-76, a record that speaks to a club that weathered every storm the schedule threw at them.\n\nAt 86-76, Arizona finds itself in a familiar position: alive, battle-tested, and waiting to see if October will call their name. The run differential — 739 scored against 730 allowed — is razor-thin, a mathematical portrait of a season decided by inches. This is a team that has been forged in close games and late-inning drama all year long, and whatever comes next, the 2026 Diamondbacks have earned the right to believe in themselves.",
+  "narrative": "The 2026 Arizona Diamondbacks opened their season with an immediate gut punch, dropping two of their first three games in March with the bullpen surrendering critical home runs. April brought a steadier hand — the D-backs finished 14-11, buoyed by timely defensive plays and a clutch outing from Paul Sewald that helped them escape a jam — but the month also revealed the fragility at the back of their rotation and the vulnerability of their relievers in high-leverage spots.\n\nMay and June proved to be the season's most turbulent stretch. The offense sputtered at key moments, Juan Morillo and Paul Sewald both surrendered costly hits that unraveled close games, and a stunning three-run home run by Ketel Marte — against his own team's foes — underscored how thin the margin for error was. June went 12-15, the team's worst month, as the bullpen continued to leak runs and the lineup failed to answer back. Through it all, Arizona stayed afloat, never fully capsizing despite the accumulation of damaging moments.\n\nJuly was the turning point. The D-backs went 15-10, their best month of the year, riding a wave of momentum that carried into August. Even as individual plays hurt — Bryan Reynolds launching one off Sewald, a pair of blasts from Ryan Waldschmidt proving costly in the rotation — the team kept grinding out wins. The lineup found consistency and the defense tightened, keeping Arizona relevant deep into the summer.\n\nSeptember tested the Diamondbacks' resolve one final time. They went 13-10 to close out the regular season, finishing at 86-76 — a winning record built on resilience rather than dominance. Nolan Arenado's grand slam in late September served as a bookend reminder that this team could be beaten in spectacular fashion, but Arizona's ability to absorb punishment and keep winning is precisely what has kept them in the thick of the postseason race as the calendar turns to October.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Rough Start in the Desert",
-      "description": "A rocky March and early April sees Arizona's pitching staff give up critical home runs, putting the club on the back foot from the jump.",
+      "title": "A Rough Opening Act",
+      "description": "The Diamondbacks stumble out of the gate in March and early April, with the bullpen surrendering critical home runs that set an anxious tone.",
       "startClipIndex": 0,
       "endClipIndex": 1,
       "tone": "struggle"
@@ -14,15 +14,15 @@
     {
       "id": "ch2",
       "title": "Finding Footing in April",
-      "description": "The Diamondbacks steady themselves with timely defensive plays and bullpen escapes, closing April at 14-11 and flashing real promise.",
+      "description": "Arizona steadies itself with defensive gems and clutch relief work, posting a winning April record despite some late-inning scares.",
       "startClipIndex": 2,
       "endClipIndex": 5,
       "tone": "turning_point"
     },
     {
       "id": "ch3",
-      "title": "The Grind of May and June",
-      "description": "A difficult two-month stretch tests Arizona's resolve as late-inning surrendered runs and a 12-15 June push the team toward the margins of contention.",
+      "title": "Turbulence Through May and June",
+      "description": "The D-backs hit their roughest patch, with the bullpen and rotation both leaking runs at critical moments and the team posting its worst month of the season in June.",
       "startClipIndex": 6,
       "endClipIndex": 13,
       "tone": "struggle"
@@ -30,26 +30,26 @@
     {
       "id": "ch4",
       "title": "July Surge",
-      "description": "Arizona catches fire with a 15-10 July, its best month of the season, turning the corner on the year's narrative and building real playoff momentum.",
+      "description": "Arizona catches fire in July, going 15-10 in their best month of the year and transforming from a .500 team into a legitimate contender.",
       "startClipIndex": 14,
       "endClipIndex": 17,
       "tone": "triumph"
     },
     {
       "id": "ch5",
-      "title": "Winning Ugly in August",
-      "description": "The Diamondbacks gut out a 15-14 August despite a pair of damaging home runs, demonstrating the resilience that has defined their entire season.",
+      "title": "Grinding Through August",
+      "description": "The D-backs absorb costly home runs and defensive lapses but continue to find ways to win, staying in contention with a 15-14 August record.",
       "startClipIndex": 18,
       "endClipIndex": 22,
       "tone": "clutch"
     },
     {
       "id": "ch6",
-      "title": "September Stakes",
-      "description": "A 13-10 closing month seals an 86-76 finish, with high-drama moments — painful and exhilarating alike — leaving Arizona's October fate tantalizingly unresolved.",
+      "title": "September and the Finish Line",
+      "description": "Arizona closes strong at 13-10 in September, weathering late-season drama including Arenado's grand slam, to finish 86-76 and position themselves for October baseball.",
       "startClipIndex": 23,
       "endClipIndex": 27,
-      "tone": "turning_point"
+      "tone": "triumph"
     }
   ],
   "clips": [
@@ -668,5 +668,5 @@
     "division": "NL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-29T17:34:37.320Z"
+  "generatedAt": "2026-10-31T16:27:55.373Z"
 }

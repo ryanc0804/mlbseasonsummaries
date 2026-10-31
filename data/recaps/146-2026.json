@@ -1,52 +1,44 @@
 {
   "teamId": 146,
   "year": 2026,
-  "narrative": "The 2026 Miami Marlins opened the season with a jolt of electricity. Owen Caissie's opening-series home run — a towering shot to right-center that sent Loanhead Park into a frenzy — announced that this team had teeth. But the promise of March gave way to a grinding April, as the Marlins posted an 11-15 record against a brutal schedule, with Pete Fairbanks showing up repeatedly on the wrong side of the ledger and the bullpen coughing up leads at the worst moments. The month felt like two steps forward, one step back, with Graham Pauley's clutch double against the Yankees and Liam Hicks' three-run blast providing rare bright spots against a backdrop of late-inning heartbreak.\n\nThen came May — a 11-18 slog that threatened to sink the season before it truly began. The pitching staff leaked runs, Fairbanks remained a liability out of the pen, and the offense sputtered at critical moments. But even in the darkness, Javier Sanoja flashed the kind of all-around ability that would make him the quiet heartbeat of this ballclub. His doubles, his hustle, his willingness to grind — Sanoja embodied what the Marlins needed to become. The team needed something to change, and change it did, spectacularly.\n\nJune was nothing short of a revelation. A 20-6 record — one of the best months in recent Marlins history — transformed the narrative entirely. The offense clicked, the pitching held, and Miami climbed back into relevance. Xavier Edwards drove in runs in the clutch, Heriberto Hernández emerged as a dangerous middle-of-the-order presence, and the rotation finally gave the bullpen reasonable leads to protect. It was the kind of month that makes you believe, and the Marlins carried that belief into a bumpy but respectable back half of the season.\n\nJuly, August, and September brought the inevitable turbulence of a long season — Brewers and Nationals inflicting damage, Jarren Duran's grand slam stinging in late August, and Jack Ralston surrendering a crushing homer to Corbin Carroll in September. But through it all, Sanoja continued to deliver (his 30th double of the year plating two in a September win) and Esteury Ruiz provided late-season spark. At 80-82, the Marlins find themselves hovering on the edge of relevance, still mathematically alive and playing meaningful baseball as the calendar winds down.",
+  "narrative": "The 2026 Miami Marlins opened their season with a burst of electricity, riding Owen Caissie's opening-week home run and a scrappy offense to a 4-1 March record that suggested something special might be brewing in South Florida. But April proved a brutal corrective — a 11-15 month defined by bullpen meltdowns, particularly from Pete Fairbanks, whose repeated late-game implosions buried leads and drained momentum. The Marlins entered May still searching for their identity, and a 11-18 month threatened to send the season into freefall.\n\nThen came June, and everything changed. The Marlins turned in the best month on the team's calendar, posting a stunning 20-6 record that transformed the clubhouse and the standings. Javier Sanoja emerged as a catalyst throughout, and the offense found ways to manufacture runs when it mattered most. That midsummer surge was the spine of the season — the month that gave this team reason to believe.\n\nThe back half of the season has been a grinding exercise in survival. July and August both produced losing records, and the bullpen remained unreliable, with costly surrendered home runs and late singles continuing to sting. Pete Fairbanks in particular has been a recurring source of heartbreak. Yet the Marlins have shown enough fight — clutch sacrifice flies, timely doubles from Sanoja and Esteury Ruiz — to keep from unraveling entirely. September has been uneven at 11-13, but the team continues to compete.\n\nAt 80-82, the Marlins sit on the margins of relevance as the 2026 season winds toward its conclusion. The June explosion remains the defining chapter — proof that this roster has genuine upside — but the inability to sustain that level over a full season is equally telling. Sanoja's growth, Caissie's power, and moments of real clutch hitting give the fanbase something to hold onto heading into the final days of a complicated but not quite finished year.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Opening Thunder",
-      "description": "Owen Caissie's electrifying Opening Day homer sets the tone for a promising March.",
+      "title": "Opening Day Thunder",
+      "description": "Caissie's early home run ignites a promising 4-1 March and sets an optimistic tone for Miami.",
       "startClipIndex": 0,
       "endClipIndex": 0,
       "tone": "triumph"
     },
     {
       "id": "ch2",
-      "title": "April Growing Pains",
-      "description": "The Marlins battle through an 11-15 April, collecting clutch hits but repeatedly undone by bullpen meltdowns.",
+      "title": "April Unraveling",
+      "description": "A brutal 11-15 April is defined by Fairbanks bullpen disasters and late-inning collapses that erase hard-earned leads.",
       "startClipIndex": 1,
-      "endClipIndex": 7,
+      "endClipIndex": 8,
       "tone": "struggle"
     },
     {
       "id": "ch3",
-      "title": "Sinking in May",
-      "description": "An 11-18 May threatens to bury Miami's season as the pitching staff buckles under pressure.",
-      "startClipIndex": 8,
+      "title": "The June Explosion",
+      "description": "Miami catches fire with a remarkable 20-6 June, turning a sinking season into something worth watching.",
+      "startClipIndex": 9,
       "endClipIndex": 10,
-      "tone": "struggle"
-    },
-    {
-      "id": "ch4",
-      "title": "June Eruption",
-      "description": "A stunning 20-6 June resurrects the Marlins and announces them as legitimate contenders.",
-      "startClipIndex": 11,
-      "endClipIndex": 12,
       "tone": "triumph"
     },
     {
-      "id": "ch5",
-      "title": "Midsummer Turbulence",
-      "description": "July and August bring a choppy 23-29 stretch as the Marlins struggle to sustain their June momentum against tough competition.",
-      "startClipIndex": 13,
+      "id": "ch4",
+      "title": "Grinding Through Summer",
+      "description": "July and August bring losing records and bullpen heartbreaks, but the Marlins keep clawing back with clutch hits.",
+      "startClipIndex": 11,
       "endClipIndex": 20,
-      "tone": "turning_point"
+      "tone": "struggle"
     },
     {
-      "id": "ch6",
-      "title": "September Stakes",
-      "description": "Sanoja and Ruiz lead a late charge as Miami battles to stay alive in the standings with the season still on the line.",
+      "id": "ch5",
+      "title": "September on the Edge",
+      "description": "Sanoja's 30th double and Ruiz's clutch extra-base hits fuel a late push as Miami fights to close the season with purpose.",
       "startClipIndex": 21,
       "endClipIndex": 23,
       "tone": "clutch"
@@ -58,8 +50,6 @@
       "title": "Home Run — Owen Caissie",
       "description": "Owen Caissie homers (1) on a line drive to right center field. Javier Sanoja scores.",
       "playId": "1d628e4b-3321-3ced-8c6f-49870686bdce",
-      "videoUrl": "https://sporty-clips.mlb.com/QndSWnJfWGw0TUFRPT1fQjFWWFZseFJVbEFBQzFFQVZ3QUhVbE1DQUZsV1ZRY0FCbHdOQndNRENRVUhWRkVE.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/vk57qmrh0wgbjangivi0.jpg",
       "date": "2026-03-29",
       "gamePk": 823891,
       "atBatNumber": 75,
@@ -73,7 +63,8 @@
       "wpa": 0.849,
       "xwoba": 1.42,
       "eventType": "home_run",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/QndSWnJfWGw0TUFRPT1fQjFWWFZseFJVbEFBQzFFQVZ3QUhVbE1DQUZsV1ZRY0FCbHdOQndNRENRVUhWRkVE.mp4"
     },
     {
       "id": "823566-66-8",
@@ -145,8 +136,6 @@
       "title": "Home Run — Liam Hicks",
       "description": "Liam Hicks homers (6) on a fly ball to right field. Jakob Marsee scores. Xavier Edwards scores.",
       "playId": "f605dc04-0c16-360c-a10a-81b24aeb692d",
-      "videoUrl": "https://sporty-clips.mlb.com/VndQenZfWGw0TUFRPT1fVUFkUlVRQlhWZ1lBQ0FFRFVBQUhCd1lGQUFBRVV3QUFDbFJYQWdkVVZGRlRDUUFD.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/wgb78bhvfiue07xzjw6o.jpg",
       "date": "2026-04-27",
       "gamePk": 823961,
       "atBatNumber": 40,
@@ -160,7 +149,8 @@
       "wpa": 0.384,
       "xwoba": 0.794,
       "eventType": "home_run",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/VndQenZfWGw0TUFRPT1fVUFkUlVRQlhWZ1lBQ0FFRFVBQUhCd1lGQUFBRVV3QUFDbFJYQWdkVVZGRlRDUUFD.mp4"
     },
     {
       "id": "823961-75-9",
@@ -577,5 +567,5 @@
     "division": "NL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-29T17:23:21.501Z"
+  "generatedAt": "2026-10-31T16:14:33.646Z"
 }

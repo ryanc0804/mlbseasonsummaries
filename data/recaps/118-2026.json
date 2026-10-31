@@ -1,52 +1,44 @@
 {
   "teamId": 118,
   "year": 2026,
-  "narrative": "The 2026 Kansas City Royals entered the season with hopes of building on recent momentum, but April quickly revealed the gap between expectation and reality. The month was a brutal 10-17, defined by a wild series of swings — Salvador Perez launching a three-run shot one afternoon, only for the bullpen to surrender the lead before the final out. Lucas Erceg's name became synonymous with disaster in those early weeks, his appearances seemingly scripted to end in heartbreak, whether it was surrendering a go-ahead double to Riley Greene or watching Anthony Volpe single home two runs in a crushing late-inning collapse. The Royals were treading water at best, and sinking at worst.\n\nMay offered little reprieve, finishing 10-18 and pushing Kansas City deeper into the AL Central basement. But scattered through the wreckage were moments that hinted at what this team could be: Jac Caglianone's reviewed-and-upheld home run on April 26, Lane Thomas launching a stunning three-run shot moments later, and Bobby Witt Jr. continuing to flash the star power that makes him the franchise's beating heart. The offense showed life in bursts, but the pitching staff — particularly the bullpen — could not hold a lead when it mattered. Alex Lange and Matt Strahm became recurring villains in the club's own story.\n\nJune brought a surprising steadiness, the Royals managing a near-.500 mark of 13-14, and then July turned sour in the most dramatic fashion possible. A Royce Lewis triple that cleared the bases in a devastating late-inning sequence and Kody Clemens' grand slam off Matt Strahm — a swing worth nearly a full win in probability lost — encapsulated everything wrong with Kansas City's relief corps. Yet August became the season's unexpected bright spot, the Royals going 16-11 in their best month of the year. Tyler Tolbert and Bobby Witt Jr. delivered back-to-back clutch singles in an August win, and the team briefly showed the cohesion and fight that had been absent all spring.\n\nSeptember has erased those gains, Kansas City stumbling to 7-17 in the final month and watching the standings grow irrelevant. Carter Jensen — who has quietly emerged as one of the season's quiet success stories, slugging his 27th home run late in September — and Vinnie Pasquantino have provided some final-week electricity, but the bullpen continues to give it back. At 69-93, the Royals finish well short of the postseason threshold, a season defined more by what the bullpen surrendered than what the lineup produced. The foundation pieces — Witt, Caglianone, Jensen — are real. The question heading into the offseason is whether the organization can build a pitching staff worthy of them.",
+  "narrative": "The 2026 Kansas City Royals entered the season with hope but quickly found themselves in a familiar spring pattern: inconsistent pitching, a bullpen prone to meltdowns, and an offense that could light up the scoreboard one night and go quiet the next. April was a microcosm of the whole — Salvador Perez delivered a breathtaking three-run shot, Lane Thomas announced himself with a walk-off blast, and Bobby Witt Jr. continued to be the engine of everything good in Kansas City. But the bullpen, led by a struggling Lucas Erceg, surrendered lead after lead, and the Royals finished April a discouraging 10-17.\n\nMay and early June brought little relief. The starting pitching remained inconsistent, the bullpen continued to hemorrhage runs at key moments, and the offense couldn't sustain the flashes of brilliance long enough to climb the standings. A modest stretch of .500 baseball in June — 13-14 — hinted at a team capable of competing, with Witt and Jac Caglianone providing moments of genuine electricity. But for every rally, a damaging loss followed, and the Royals found themselves buried in the AL Central standings by the All-Star break.\n\nJuly told the most painful chapter of the season. Alex Lange and the bullpen suffered one catastrophic night after another — including Royce Lewis's stunning triple that erased a late lead and Kody Clemens's grand slam that delivered the most gut-wrenching loss of the year. The Royals went 11-14 in July, with their biggest moments almost entirely negative. Michael Massey and Nick Loftin provided occasional heroics, but they couldn't outpace a relief corps that seemed to find new ways to lose. By the time August arrived, Kansas City needed something to hold onto.\n\nAugust became the season's lone bright spot. Going 16-11, the Royals played their best baseball of the year, with Tyler Tolbert and Bobby Witt Jr. coming through in clutch situations and the lineup finding a steadier rhythm. But September cruelly reversed the gains — a 7-17 collapse confirmed what the numbers had suggested all along. A Carter Jensen home run late in the month, his 27th of the year, offered a glimpse of a young piece worth watching, as did John Rave's contributions. At 69-93, the Royals will not be playing October baseball in 2026, but flickers of youth and the enduring brilliance of Bobby Witt Jr. leave a foundation to build on heading into the offseason.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Chaos in April",
-      "description": "A roller-coaster opening month sees the Royals trade big offensive moments for crushing bullpen collapses, setting a difficult tone for the season.",
+      "title": "April Whiplash",
+      "description": "The Royals open the year with thrilling highs from Perez, Thomas, and Witt but are repeatedly undone by a shaky bullpen in a rough 10-17 April.",
       "startClipIndex": 0,
-      "endClipIndex": 6,
-      "tone": "struggle"
-    },
-    {
-      "id": "ch2",
-      "title": "Sparks in the Wreckage",
-      "description": "Late April heroics from Lane Thomas and Jac Caglianone hint at offensive potential even as May's losses pile up and the bullpen remains unreliable.",
-      "startClipIndex": 7,
-      "endClipIndex": 14,
+      "endClipIndex": 9,
       "tone": "turning_point"
     },
     {
-      "id": "ch3",
-      "title": "Holding Steady in June",
-      "description": "The Royals post a near-.500 June and show brief signs of competitiveness before the dog days of summer arrive.",
-      "startClipIndex": 15,
+      "id": "ch2",
+      "title": "Treading Water",
+      "description": "May and early June see the Royals unable to find consistency, grinding through losses with only occasional bursts from Caglianone and Witt keeping hope alive.",
+      "startClipIndex": 10,
       "endClipIndex": 15,
-      "tone": "triumph"
+      "tone": "struggle"
     },
     {
-      "id": "ch4",
-      "title": "July Meltdown",
-      "description": "The bullpen reaches its nadir in July, highlighted by Royce Lewis's devastating triple and Kody Clemens' grand slam that swing the season's biggest games away from Kansas City.",
+      "id": "ch3",
+      "title": "Summer Collapse",
+      "description": "A brutal July stretch defined by bullpen catastrophes — including a Royce Lewis triple and a Kody Clemens grand slam — pushes Kansas City deeper into the cellar.",
       "startClipIndex": 16,
       "endClipIndex": 23,
       "tone": "struggle"
     },
     {
-      "id": "ch5",
-      "title": "August's Unlikely Surge",
-      "description": "The Royals reel off a surprising 16-11 August, their best month of the year, with Tolbert, Witt, and Massey delivering in the clutch.",
+      "id": "ch4",
+      "title": "August Resurgence",
+      "description": "The Royals play their best baseball of the season at 16-11 in August, with Tolbert and Witt delivering clutch hits and the offense finally finding a groove.",
       "startClipIndex": 24,
       "endClipIndex": 26,
       "tone": "triumph"
     },
     {
-      "id": "ch6",
+      "id": "ch5",
       "title": "September Fade",
-      "description": "A dismal 7-17 September closes out a disappointing season, though Jensen and Pasquantino offer flashes of hope for the future.",
+      "description": "A 7-17 September collapse ends the Royals' season on a sour note, though Carter Jensen's power surge and John Rave's contributions offer reasons for cautious optimism.",
       "startClipIndex": 27,
       "endClipIndex": 31,
       "tone": "struggle"
@@ -754,5 +746,5 @@
     "division": "AL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-29T17:13:53.928Z"
+  "generatedAt": "2026-10-31T16:03:35.469Z"
 }

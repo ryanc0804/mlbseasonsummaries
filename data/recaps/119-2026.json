@@ -1,44 +1,52 @@
 {
   "teamId": 119,
   "year": 2026,
-  "narrative": "The 2026 Los Angeles Dodgers announced themselves as a legitimate powerhouse from the very first swing of the year, with Will Smith's two-run Opening Day homer setting a tone of confidence that would carry the team through a spectacular first half. Adding Kyle Tucker to an already fearsome lineup gave the Dodgers a new dimension, and the roster delivered big moments throughout April and into a dominant June — finishing the first half among the best teams in baseball.\n\nThe summer, however, brought turbulence in the bullpen. Tanner Scott and Edwin Díaz each had nightmarish stretches, surrendering home runs and key hits at the worst possible moments. August was the one month where the Dodgers genuinely stumbled, going 13-14 as the back end of the bullpen became a liability. Yet the offense never quit — Max Muncy's power surge, Tommy Edman's clutch hitting, and Dalton Rushing's emergence as a difference-maker kept Los Angeles afloat even when the relief corps let them down.\n\nSeptember was when the Dodgers remembered who they were. An 18-7 record in the final month, punctuated by a Teoscar Hernández two-run double, a Mookie Betts three-run bomb, and Tommy Edman's go-ahead blast, sent them into October with 100 wins and genuine World Series aspirations. The offense was humming, the rotation was sharp, and the bullpen had steadied enough to inspire cautious optimism.\n\nThe postseason started with promise — wins in the Division Series powered by Teoscar Hernández, Enrique Hernández, and Andy Pages showed the Dodgers at their best. But the Championship Series proved one step too far. Yoshinobu Yamamoto was touched up early in Game 1, and while Will Smith and Shohei Ohtani provided moments of magic, Blake Snell's struggles and the opponent's relentless offense ultimately ended the Dodgers' season in the NLCS. A 100-win year ends with what-ifs, but the foundation for another run remains firmly in place.",
+  "narrative": "The 2026 Los Angeles Dodgers announced themselves immediately, with Will Smith's two-run homer on Opening Day setting the tone for what would become a 100-win season. March and April belonged to the offense, as Smith, Max Muncy, and the newly acquired Kyle Tucker combined to carry the Dodgers to a 20-11 start. The April 27th roller coaster — Yamamoto surrendering a three-run blast before Ohtani's ground-rule double and Tucker's go-ahead single rescued the game — captured the Dodgers' early identity: explosive, resilient, and just deep enough to overcome adversity.\n\nMay and June saw Los Angeles at its dominant best, posting a blistering 36-19 record over those two months. The offense erupted behind Freddie Freeman's power, a stunning two-RBI single by Dalton Rushing in a June comeback, and Teoscar Hernández's July 3rd grand slam that kept the Dodgers afloat heading into the All-Star break. The bullpen showed cracks — Tanner Scott surrendered back-to-back late-game homers in May and June — but the lineup was so potent that the Dodgers absorbed those blows and kept winning. At the midpoint, Los Angeles looked like the class of the National League.\n\nAugust brought the season's only genuine turbulence, as the Dodgers skidded to a 13-14 mark. Edwin Díaz became the story for all the wrong reasons, giving up a two-run homer and consecutive triples on back-to-back days in a bruising early-August stretch in Arizona. Alex Vesia also struggled in the back end of the bullpen, and the offense occasionally stalled at critical moments. But the Dodgers never truly unraveled — Max Muncy provided a three-run homer on August 13th, Tommy Edman delivered clutch hits, and September produced the season's finest stretch: an 18-7 record fueled by Teoscar Hernández's two-run double, a three-run Mookie Betts homer, and Tommy Edman's own three-run shot that cemented the division title.\n\nThe postseason brought Dodger Blue to the brink of the World Series before the dream dissolved. They dispatched their Division Series opponent with relative comfort, getting contributions from Hernández, Enrique Hernández, and Andy Pages. But the NLCS proved a step too far. Yoshinobu Yamamoto was touched up early in Game 1 against Milwaukee, allowing a three-run rally that set the tone for the series. Will Smith's doubles in Games 2 and 3 kept the Dodgers alive, and Shohei Ohtani's three-run homer in Game 3 offered a fleeting glimpse of a comeback, but the Brewers held firm. The 100-win Dodgers, loaded with stars and capable of beating anyone on any given night, fell just short of the pennant, leaving a talented roster hungry for another October run.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Fast Out of the Gate",
-      "description": "Will Smith's Opening Day blast ignites a hot start as the Dodgers storm through March and April.",
+      "title": "Opening Statement",
+      "description": "The Dodgers storm out of the gate behind Will Smith, Max Muncy, and an offense that can overcome anything.",
       "startClipIndex": 0,
-      "endClipIndex": 1,
+      "endClipIndex": 5,
       "tone": "triumph"
     },
     {
       "id": "ch2",
-      "title": "Tucker's Big Night and the Grind of May",
-      "description": "Kyle Tucker delivers a clutch multi-run single in a wild late-April comeback, and the Dodgers keep winning through May despite bullpen scares.",
-      "startClipIndex": 2,
-      "endClipIndex": 7,
-      "tone": "clutch"
-    },
-    {
-      "id": "ch3",
-      "title": "Cruising Through June",
-      "description": "Dalton Rushing's game-winning single and Freddie Freeman's power lead an 18-9 June that cements the Dodgers as the class of the NL.",
-      "startClipIndex": 8,
-      "endClipIndex": 12,
+      "title": "Peak Dodgers",
+      "description": "Los Angeles dominates May and June with explosive offense and a relentless winning pace, building the best record in the NL.",
+      "startClipIndex": 6,
+      "endClipIndex": 10,
       "tone": "triumph"
     },
     {
+      "id": "ch3",
+      "title": "Grand Slam Summer",
+      "description": "Teoscar Hernández's July 4th grand slam caps a stretch where the Dodgers win ugly and stay ahead despite bullpen concerns.",
+      "startClipIndex": 11,
+      "endClipIndex": 14,
+      "tone": "clutch"
+    },
+    {
       "id": "ch4",
-      "title": "August Storms and a September Surge",
-      "description": "Bullpen meltdowns from Díaz and Scott make August a slog, but the offense roars back and the team posts a scorching 18-7 September to close the regular season.",
-      "startClipIndex": 13,
-      "endClipIndex": 28,
-      "tone": "turning_point"
+      "title": "August Wobble",
+      "description": "Edwin Díaz and the bullpen crater while the Dodgers post their only losing month, but the offense steadies the ship.",
+      "startClipIndex": 15,
+      "endClipIndex": 24,
+      "tone": "struggle"
     },
     {
       "id": "ch5",
-      "title": "October Ends Too Soon",
-      "description": "The Dodgers cruise past the Division Series before falling in the NLCS, as moments of brilliance from Ohtani and Will Smith can't overcome pitching breakdowns against a tough opponent.",
+      "title": "September Surge",
+      "description": "The Dodgers catch fire with an 18-7 September, with Hernández, Betts, and Edman delivering the big hits that lock up the division.",
+      "startClipIndex": 25,
+      "endClipIndex": 28,
+      "tone": "triumph"
+    },
+    {
+      "id": "ch6",
+      "title": "October's Edge",
+      "description": "The Dodgers advance past the Division Series before falling to the Brewers in the NLCS, ending a 100-win season one round too soon.",
       "startClipIndex": 29,
       "endClipIndex": 36,
       "tone": "struggle"
@@ -50,8 +58,6 @@
       "title": "Home Run — Will Smith",
       "description": "Will Smith homers (2) on a fly ball to center field. Mookie Betts scores.",
       "playId": "d70405c4-5b7a-3372-af36-d8cca0739ca5",
-      "videoUrl": "https://sporty-clips.mlb.com/OHliMGJfWGw0TUFRPT1fVWdaUlVGUUJCUVlBRFFBRkJ3QUhBZ0ZVQUFCVFVGY0FWbDFXVTFJRkJnQmNVMU5U.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/hpnaudzt747jvorkzlxt.jpg",
       "date": "2026-03-28",
       "gamePk": 823973,
       "atBatNumber": 61,
@@ -65,15 +71,14 @@
       "wpa": 0.62,
       "xwoba": 1.763,
       "eventType": "home_run",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/OHliMGJfWGw0TUFRPT1fVWdaUlVGUUJCUVlBRFFBRkJ3QUhBZ0ZVQUFCVFVGY0FWbDFXVTFJRkJnQmNVMU5U.mp4"
     },
     {
       "id": "823968-80-9",
       "title": "Home Run — Max Muncy",
       "description": "Max Muncy homers (4) on a fly ball to right center field.",
       "playId": "d35284f6-ef96-3d72-a9b1-cd203ce69fbd",
-      "videoUrl": "https://sporty-clips.mlb.com/ZU53dnhfWGw0TUFRPT1fVWdKVVZsd0FBQVFBWFFRTFVBQUhWUUZVQUFBTUFWQUFVUUVIQUFCV1ZBVmNWbEFD.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/fa75mubanyjp5dzhdmwa.jpg",
       "date": "2026-04-10",
       "gamePk": 823968,
       "atBatNumber": 80,
@@ -87,7 +92,8 @@
       "wpa": 0.478,
       "xwoba": 1.437,
       "eventType": "home_run",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/ZU53dnhfWGw0TUFRPT1fVWdKVVZsd0FBQVFBWFFRTFVBQUhWUUZVQUFBTUFWQUFVUUVIQUFCV1ZBVmNWbEFD.mp4"
     },
     {
       "id": "823961-40-5",
@@ -222,8 +228,6 @@
       "title": "Home Run — Freddie Freeman",
       "description": "Freddie Freeman homers (10) on a fly ball to center field.",
       "playId": "2243b8de-eb8f-39d2-8273-62ea116bf195",
-      "videoUrl": "https://sporty-clips.mlb.com/dnZ3bnlfWGw0TUFRPT1fQkFOVlZ3WU1BbGNBWFFBS0FBQUhDRkpVQUZrSFZGSUFCRmRRVVFJRUIxRURBUXRU.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/ylg2ntojufix7fi4flzy.jpg",
       "date": "2026-06-05",
       "gamePk": 823943,
       "atBatNumber": 63,
@@ -237,7 +241,8 @@
       "wpa": 0.35,
       "xwoba": 1.19,
       "eventType": "home_run",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/dnZ3bnlfWGw0TUFRPT1fQkFOVlZ3WU1BbGNBWFFBS0FBQUhDRkpVQUZrSFZGSUFCRmRRVVFJRUIxRURBUXRU.mp4"
     },
     {
       "id": "823372-68-8",
@@ -265,8 +270,6 @@
       "title": "Single — Dalton Rushing",
       "description": "Dalton Rushing singles on a line drive to right fielder Tyler O'Neill. Alex Call scores. Ryan Ward scores. Throwing error by right fielder Tyler O'Neill.",
       "playId": "b30704ad-1f75-391e-83c5-26e1d50aedfd",
-      "videoUrl": "https://sporty-clips.mlb.com/RDFkTE1fWGw0TUFRPT1fVkFKUlUxUUFCMVlBQ1FRRlV3QUhDQWNEQUZrR0FGUUFBRk5RQVZjQUFWSUFWRlFD.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/b7y84n2ofndendnwosn8.jpg",
       "date": "2026-06-19",
       "gamePk": 823936,
       "atBatNumber": 78,
@@ -280,15 +283,14 @@
       "wpa": 0.827,
       "xwoba": 0.56,
       "eventType": "single",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/RDFkTE1fWGw0TUFRPT1fVkFKUlUxUUFCMVlBQ1FRRlV3QUhDQWNEQUZrR0FGUUFBRk5RQVZjQUFWSUFWRlFD.mp4"
     },
     {
       "id": "823933-56-7",
       "title": "Home Run — Teoscar Hernández",
       "description": "Teoscar Hernández hits a grand slam (8) to center field. Mookie Betts scores. Max Muncy scores. Kyle Tucker scores.",
       "playId": "1f54fe5f-add1-381f-941b-b35806e886ce",
-      "videoUrl": "https://sporty-clips.mlb.com/R0Jyb1ZfWGw0TUFRPT1fQjFkVVVBSlJVMVFBV1FaV1Z3QUhDUWNBQUZnQlVnTUFVRllBQ0FNRFZBdGRCbEVE.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/wqc6olmhdkyhux81mbqj.jpg",
       "date": "2026-07-03",
       "gamePk": 823933,
       "atBatNumber": 56,
@@ -302,7 +304,8 @@
       "wpa": 0.407,
       "xwoba": 1.916,
       "eventType": "home_run",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/R0Jyb1ZfWGw0TUFRPT1fQjFkVVVBSlJVMVFBV1FaV1Z3QUhDUWNBQUZnQlVnTUFVRllBQ0FNRFZBdGRCbEVE.mp4"
     },
     {
       "id": "823437-65-9",
@@ -351,8 +354,6 @@
       "title": "Double — Shohei Ohtani",
       "description": "Shohei Ohtani doubles (20) on a sharp line drive to right fielder Victor Robles. Dalton Rushing scores. Shohei Ohtani to 3rd. Shohei Ohtani advances to 3rd, on a fielding error by right fielder Victor Robles.",
       "playId": "6c049e77-387a-37f9-bd49-18bf0f56c718",
-      "videoUrl": "https://sporty-clips.mlb.com/Uk85dk1fWGw0TUFRPT1fQUZKUlVGMVJVUVVBQzFvRkJ3QUhCbEJmQUFOUlYxZ0FBMTFYVmdOVEJBVUdCd05l.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/war9fbzcdldjdcvsce0o.jpg",
       "date": "2026-07-28",
       "gamePk": 823923,
       "atBatNumber": 74,
@@ -366,7 +367,8 @@
       "wpa": 0.381,
       "xwoba": 0.906,
       "eventType": "double",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/Uk85dk1fWGw0TUFRPT1fQUZKUlVGMVJVUVVBQzFvRkJ3QUhCbEJmQUFOUlYxZ0FBMTFYVmdOVEJBVUdCd05l.mp4"
     },
     {
       "id": "825051-72-9",
@@ -457,8 +459,6 @@
       "title": "Double — Max Muncy",
       "description": "Max Muncy doubles (17) on a line drive to right fielder Starling Marte. Tommy Edman scores. Miguel Rojas scores. Kyle Tucker scores. Max Muncy to 3rd.",
       "playId": "5e02d112-f768-3e8c-a9e0-10a153c41c35",
-      "videoUrl": "https://sporty-clips.mlb.com/cU93V2tfWGw0TUFRPT1fQTFSUlZnQUZWd0FBWGxVRVhnQUhWQTRGQUFBTUJsRUFBMVZVQVFZR1VnZFVVd0ZU.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/zkqdsoodlifuudpbwzcf.jpg",
       "date": "2026-08-10",
       "gamePk": 823918,
       "atBatNumber": 50,
@@ -472,7 +472,8 @@
       "wpa": 0.44,
       "xwoba": 0.903,
       "eventType": "double",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/cU93V2tfWGw0TUFRPT1fQTFSUlZnQUZWd0FBWGxVRVhnQUhWQTRGQUFBTUJsRUFBMVZVQVFZR1VnZFVVd0ZU.mp4"
     },
     {
       "id": "823915-50-6",
@@ -543,8 +544,6 @@
       "title": "Single — Tommy Edman",
       "description": "Tommy Edman singles on a line drive to left fielder Bryan Reynolds. Enrique Hernández scores. Kyle Tucker to 2nd.",
       "playId": "dc7a2cef-7d8a-3663-8b06-10f8ac8059c8",
-      "videoUrl": "https://sporty-clips.mlb.com/TUFYYTlfWGw0TUFRPT1fVWxKV0JWWlhBMVFBRHdZS0J3QUhCd0JWQUZsWFUxY0FBMVZUQ0ZKV0NRTlFDVkZl.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/rbulkovncfxlbsnqaqka.jpg",
       "date": "2026-08-21",
       "gamePk": 823911,
       "atBatNumber": 85,
@@ -558,7 +557,8 @@
       "wpa": 0.418,
       "xwoba": 0.691,
       "eventType": "single",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/TUFYYTlfWGw0TUFRPT1fVWxKV0JWWlhBMVFBRHdZS0J3QUhCd0JWQUZsWFUxY0FBMVZUQ0ZKV0NRTlFDVkZl.mp4"
     },
     {
       "id": "824878-88-9",
@@ -608,8 +608,6 @@
       "title": "Home Run — Tommy Edman",
       "description": "Tommy Edman homers (6) on a fly ball to right center field. Alex Freeland scores. Enrique Hernández scores.",
       "playId": "a85dd8a4-18f2-3fd8-a7c1-3079d9dad53a",
-      "videoUrl": "https://sporty-clips.mlb.com/NXk5ajFfWGw0TUFRPT1fVndsVUFBQU1Cd1lBQ1ZwVVZBQUhWMUplQUFBQ0FGQUFBVlVDQ1ZjTVZWSUJCUUVI.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/b2bkxyqvryspastj8fnu.jpg",
       "date": "2026-09-05",
       "gamePk": 823904,
       "atBatNumber": 59,
@@ -623,7 +621,8 @@
       "wpa": 0.534,
       "xwoba": 0.743,
       "eventType": "home_run",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/NXk5ajFfWGw0TUFRPT1fVndsVUFBQU1Cd1lBQ1ZwVVZBQUhWMUplQUFBQ0FGQUFBVlVDQ1ZjTVZWSUJCUUVI.mp4"
     },
     {
       "id": "823903-75-8",
@@ -856,5 +855,5 @@
     "division": "NL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-29T17:36:51.212Z"
+  "generatedAt": "2026-10-31T16:30:47.240Z"
 }

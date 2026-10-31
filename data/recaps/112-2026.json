@@ -1,44 +1,44 @@
 {
   "teamId": 112,
   "year": 2026,
-  "narrative": "The 2026 Chicago Cubs arrived at spring training with genuine division ambitions, and they wasted little time making a statement. After a modest 2-3 start in March, the team erupted in April, going 17-9 in one of the best months in recent franchise memory. Alex Bregman proved his worth as a marquee acquisition almost immediately, delivering a walk-off single on April 11th, and Michael Busch followed with a two-run clutch hit the very next day. Michael Conforto provided timely pop, Moisés Ballesteros launched a grand slam, and the Cubs looked every bit like a playoff contender with genuine star power up and down the lineup.\n\nMay and June told a more complicated story. Pete Crow-Armstrong announced himself as the team's electric engine, tripling and homering on the same May 4th afternoon before adding another blast two days later — but the bullpen began showing cracks. Phil Maton and Ryan Rolison surrendered damaging home runs in a brutal mid-May stretch, and the team limped to a 13-16 mark for the month. June brought a necessary correction — a 16-10 record — as Crow-Armstrong continued his breakout, Dansby Swanson delivered clutch RBI hits, and Jordan Wicks even contributed a pivotal defensive gem. But relief failures from Jacob Webb and Caleb Thielbar showed a pattern that would haunt this team all summer.\n\nJuly and August were the Cubs playing their best baseball even as their bullpen kept threatening to undo it all. The offense posted 850 runs on the season, and stretches like Ian Happ's go-ahead blast on July 20th and Bregman's two August home runs illustrated a lineup that could manufacture offense in multiple ways. But Jacob Webb became the villain of the summer, surrendering a walk-off grand slam on August 22nd and another crushing two-run shot three days later — back-to-back near-disasters that epitomized the team's fragile relief corps. The Cubs weathered it all to finish 89-73 and earn a Wild Card berth, a real achievement.\n\nThe postseason lasted exactly two games, and it was a story of a team that ran out of answers against a sharper opponent. Matthew Boyd was tagged for two home runs in Game 1, and the Cubs never truly seized control in Game 2 despite a Nico Hoerner RBI single that briefly gave them life. Dansby Swanson, so often a clutch performer during the regular season, struck out and flew out in critical moments. A Gavin Sheets home run off Daniel Palencia sealed the Cubs' fate and sent them home — a bitter ending to a season that held so much early promise, and a winter full of questions about a bullpen that was never quite good enough when it mattered most.",
+  "narrative": "The 2026 Chicago Cubs arrived with legitimate expectations, and April validated every bit of them. Alex Bregman delivered clutch hit after clutch hit from the third-base corner, Michael Busch and Michael Conforto provided timely pop, and a Moisés Ballesteros grand slam late in the month punctuated a 17-9 run that announced Chicago as a genuine contender. The offense was explosive — 850 runs over the full season, 220 home runs — and when the lineup clicked, it was something to behold.\n\nMay started with fireworks, Pete Crow-Armstrong announcing himself as the team's most electric weapon with a triple-and-homer game alongside Conforto, then following it with another go-ahead shot days later. But May finished at 13-16, a rough patch fueled largely by bullpen implosions. Ryan Rolison was torched for a walk-off homer by Edgar Quero, and Phil Maton coughed up a three-run shot to Tristan Peters in the same brutal week. The Cubs had enough talent to absorb those blows, but the bullpen's fragility was a fault line that would never fully close.\n\nJune and July represented the heartbeat of Chicago's season — winning months at 16-10 and 14-10 respectively, carried on the broad shoulders of Pete Crow-Armstrong, who homered in back-to-back series and became the team's undisputed star. Bregman, Ian Happ, and Seiya Suzuki kept the lineup deep and dangerous, and Jordan Wicks induced a clutch double play in a tight June game that preserved a lead. But the relievers kept bleeding: Jacob Webb gave up crushing homers in June, Caleb Thielbar surrendered a three-run shot, and Trent Thornton saw a two-run lead evaporate on a sharp Iván Herrera double. The Cubs were winning in spite of their bullpen, not because of it.\n\nAugust was a microcosm of the whole season — brilliant individual moments, a winning record, and terrifying late-game vulnerability. Bregman had a monster month, hitting multiple go-ahead homers and singles. Nico Hoerner came through in a pivotal August series. Happ's grand slam gave the team breathing room. But Jacob Webb surrendered three catastrophic home runs across August 22, 25, and a September 8 appearance, each one a near-walk-off gut punch. The Cubs limped to 11-13 in September and scraped into the Wild Card as a bubble team. In October, Matthew Boyd was shellacked by Fernando Tatis Jr. and Manny Machado in Game 1, and though Nico Hoerner delivered a spark in Game 2, a Gavin Sheets homer off Daniel Palencia ended Chicago's season. It was a fitting, if painful, summary: a team with genuine stars and a leaky bullpen, good enough to get there, not quite built to go further.",
   "chapters": [
     {
       "id": "ch1",
       "title": "April Ascent",
-      "description": "The Cubs roar out of the gate with clutch hitting from Bregman, Busch, and Conforto, posting a 17-9 April that sets the tone for a contending season.",
+      "description": "Bregman, Busch, and Conforto power the Cubs to a sizzling 17-9 April and establish Chicago as a legitimate contender.",
       "startClipIndex": 0,
       "endClipIndex": 4,
       "tone": "triumph"
     },
     {
       "id": "ch2",
-      "title": "PCA's Breakout and a Stumble",
-      "description": "Pete Crow-Armstrong emerges as a star with a stunning early-May performance, but bullpen implosions drag the Cubs to a 13-16 May record.",
+      "title": "May Turbulence",
+      "description": "Pete Crow-Armstrong's breakout provides thrills but bullpen disasters against the White Sox drag the Cubs to a losing month.",
       "startClipIndex": 5,
       "endClipIndex": 9,
-      "tone": "turning_point"
+      "tone": "struggle"
     },
     {
       "id": "ch3",
-      "title": "June Resilience",
-      "description": "The Cubs bounce back to 16-10 in June on the strength of timely offense and clutch pitching, even as relief vulnerabilities linger dangerously.",
+      "title": "Crow-Armstrong Takes Flight",
+      "description": "June and July belong to Pete Crow-Armstrong, whose power surge carries the Cubs through consecutive winning months despite recurring bullpen woes.",
       "startClipIndex": 10,
-      "endClipIndex": 16,
+      "endClipIndex": 21,
       "tone": "triumph"
     },
     {
       "id": "ch4",
-      "title": "Summer Wars",
-      "description": "The Cubs grind out winning baseball in July and August despite a bullpen that repeatedly costs them, with Bregman and Happ carrying the offense to the finish line.",
-      "startClipIndex": 17,
+      "title": "Bregman's August and Webb's Nightmare",
+      "description": "Alex Bregman carries the offense to another winning month while Jacob Webb repeatedly blows high-leverage late-inning leads.",
+      "startClipIndex": 22,
       "endClipIndex": 31,
-      "tone": "clutch"
+      "tone": "turning_point"
     },
     {
       "id": "ch5",
-      "title": "October Heartbreak",
-      "description": "A two-game Wild Card exit against San Diego ends the Cubs' season, as pitching failures and quiet bats in the clutch erase all the promise of a 89-win year.",
+      "title": "October Exit",
+      "description": "A Wild Card appearance ends swiftly as Boyd is roughed up by San Diego in Game 1 and a late Gavin Sheets homer in Game 2 sends the Cubs home.",
       "startClipIndex": 32,
       "endClipIndex": 39,
       "tone": "struggle"
@@ -159,8 +159,6 @@
       "title": "Triple — Pete Crow-Armstrong",
       "description": "Pete Crow-Armstrong triples (2) on a sharp fly ball to center fielder Dane Myers.",
       "playId": "aab6db90-3640-3543-808d-d43469d33a0f",
-      "videoUrl": "https://sporty-clips.mlb.com/bGJ3NFdfWGw0TUFRPT1fVjFBRFVnQldYd0lBQzFRR1ZnQUhCQUpWQUZrRld3VUFWbEVHQkFVTVZRQldVUUlB.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/jenacg1varzl4ps61dbv.jpg",
       "date": "2026-05-04",
       "gamePk": 824684,
       "atBatNumber": 74,
@@ -174,15 +172,14 @@
       "wpa": 0.384,
       "xwoba": 1.323,
       "eventType": "triple",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/bGJ3NFdfWGw0TUFRPT1fVjFBRFVnQldYd0lBQzFRR1ZnQUhCQUpWQUZrRld3VUFWbEVHQkFVTVZRQldVUUlB.mp4"
     },
     {
       "id": "824684-77-9",
       "title": "Home Run — Michael Conforto",
       "description": "Michael Conforto homers (1) on a fly ball to center field.",
       "playId": "750219d9-fb9e-3161-bdfb-a0dacc158553",
-      "videoUrl": "https://sporty-clips.mlb.com/bGJ3NFdfWGw0TUFRPT1fQVFSUlZsVU5BZ3NBWGdBTEF3QUhBQUJYQUFOUkJRTUFVMVZSVVZCV0FBWmRCUWRW.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/yxnkogenjx8zhmljs77c.jpg",
       "date": "2026-05-04",
       "gamePk": 824684,
       "atBatNumber": 77,
@@ -196,15 +193,14 @@
       "wpa": 0.46,
       "xwoba": 0.776,
       "eventType": "home_run",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/bGJ3NFdfWGw0TUFRPT1fQVFSUlZsVU5BZ3NBWGdBTEF3QUhBQUJYQUFOUkJRTUFVMVZSVVZCV0FBWmRCUWRW.mp4"
     },
     {
       "id": "824683-75-9",
       "title": "Home Run — Pete Crow-Armstrong",
       "description": "Pete Crow-Armstrong homers (4) on a fly ball to left center field. Carson Kelly scores.",
       "playId": "d92ff253-e4b2-3849-9bdf-38c046b2fba0",
-      "videoUrl": "https://sporty-clips.mlb.com/UUFLNzZfWGw0TUFRPT1fVWdoVEFnSUdVd0VBWFZaUVZBQUhDUUpmQUZoWEJ3Y0FBVjFXQUFjRFV3RURVbE5X.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/rqjwshvudj8yhfrvnhri.jpg",
       "date": "2026-05-06",
       "gamePk": 824683,
       "atBatNumber": 75,
@@ -218,7 +214,8 @@
       "wpa": 0.455,
       "xwoba": 1.474,
       "eventType": "home_run",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/UUFLNzZfWGw0TUFRPT1fVWdoVEFnSUdVd0VBWFZaUVZBQUhDUUpmQUZoWEJ3Y0FBVjFXQUFjRFV3RURVbE5X.mp4"
     },
     {
       "id": "824599-73-8",
@@ -267,8 +264,6 @@
       "title": "Single — Dansby Swanson",
       "description": "Dansby Swanson singles on a ground ball to center fielder Henry Bolte. Kevin Alcántara scores. Seiya Suzuki to 3rd.",
       "playId": "c0e2f8dd-bcb6-34d6-ae82-db44e6e4a8fb",
-      "videoUrl": "https://sporty-clips.mlb.com/ckR3dmRfWGw0TUFRPT1fVlFFRVZnSU1BbFlBV2dGUVVBQUhCVkpRQUFCUVcxTUFWZ2NCQkZZRFZBY0VDRlFF.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/koddjylsjylzadlwtfy4.jpg",
       "date": "2026-06-04",
       "gamePk": 824672,
       "atBatNumber": 72,
@@ -282,15 +277,14 @@
       "wpa": 0.463,
       "xwoba": 0.531,
       "eventType": "single",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/ckR3dmRfWGw0TUFRPT1fVlFFRVZnSU1BbFlBV2dGUVVBQUhCVkpRQUFCUVcxTUFWZ2NCQkZZRFZBY0VDRlFF.mp4"
     },
     {
       "id": "824672-73-9",
       "title": "Single — Pete Crow-Armstrong",
       "description": "Pete Crow-Armstrong singles on a fly ball to right fielder Lawrence Butler. Seiya Suzuki scores. Dansby Swanson to 3rd.",
       "playId": "a4923d02-afe8-3ecc-b3db-f6c92ef712a9",
-      "videoUrl": "https://sporty-clips.mlb.com/ckR3dmRfWGw0TUFRPT1fVndWWVZsZFFWZ0FBV1FSWFhnQUhWRlVGQUFNR0J3TUFWRk5XQ1FGUVZ3UlVBbE5m.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/rumnepxoclpbooqojkzj.jpg",
       "date": "2026-06-04",
       "gamePk": 824672,
       "atBatNumber": 73,
@@ -304,15 +298,14 @@
       "wpa": 0.373,
       "xwoba": 0.455,
       "eventType": "single",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/ckR3dmRfWGw0TUFRPT1fVndWWVZsZFFWZ0FBV1FSWFhnQUhWRlVGQUFNR0J3TUFWRk5XQ1FGUVZ3UlVBbE5m.mp4"
     },
     {
       "id": "824669-72-9",
       "title": "Home Run — Pete Crow-Armstrong",
       "description": "Pete Crow-Armstrong homers (11) on a fly ball to right field.",
       "playId": "56588ffe-24d9-31c4-8eb0-74e929ee7bee",
-      "videoUrl": "https://sporty-clips.mlb.com/ZFh2T3dfWGw0TUFRPT1fQXdkVVhGeFNBRmNBQ2xaV1h3QUhBRlZTQUZsUUFWRUFCVkZRQ1FFTVZGWlNVbGNE.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/pcjksejx9fmxqjcwypcz.jpg",
       "date": "2026-06-06",
       "gamePk": 824669,
       "atBatNumber": 72,
@@ -326,7 +319,8 @@
       "wpa": 0.489,
       "xwoba": 1.639,
       "eventType": "home_run",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/ZFh2T3dfWGw0TUFRPT1fQXdkVVhGeFNBRmNBQ2xaV1h3QUhBRlZTQUZsUUFWRUFCVkZRQ1FFTVZGWlNVbGNE.mp4"
     },
     {
       "id": "824348-61-8",
@@ -396,8 +390,6 @@
       "title": "Single — Seiya Suzuki",
       "description": "Seiya Suzuki singles on a fly ball to left fielder Jase Bowen. Pete Crow-Armstrong scores. Alex Bregman to 3rd.",
       "playId": "057bb196-4b37-32d5-8a80-6c5f75292f83",
-      "videoUrl": "https://sporty-clips.mlb.com/cU93enFfWGw0TUFRPT1fQmdSV0JnWUZYd1FBREFBQlVRQUhBMUpUQUZsVVcxRUFCQVlBVmdRQUF3cFhWZ3BW.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/a3une4m7waik5bjel3jz.jpg",
       "date": "2026-06-29",
       "gamePk": 824662,
       "atBatNumber": 78,
@@ -411,7 +403,8 @@
       "wpa": 0.363,
       "xwoba": 0.055,
       "eventType": "single",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/cU93enFfWGw0TUFRPT1fQmdSV0JnWUZYd1FBREFBQlVRQUhBMUpUQUZsVVcxRUFCQVlBVmdRQUF3cFhWZ3BW.mp4"
     },
     {
       "id": "824656-43-6",
@@ -460,8 +453,6 @@
       "title": "Home Run — Ian Happ",
       "description": "Ian Happ homers (18) on a fly ball to right center field. Alex Bregman scores.",
       "playId": "84c04478-973a-3923-aa52-764bb90ad735",
-      "videoUrl": "https://sporty-clips.mlb.com/OTdQbFdfWGw0TUFRPT1fRGdVQ1ZGQUFVUW9BQVZVQkJ3QUhDQVJWQUFCVVZsTUFCVk1CVWxFTUFWSUJCd0ZU.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/yiqbswp8fjrl1pda9w1o.jpg",
       "date": "2026-07-20",
       "gamePk": 824654,
       "atBatNumber": 68,
@@ -475,7 +466,8 @@
       "wpa": 0.393,
       "xwoba": 2,
       "eventType": "home_run",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/OTdQbFdfWGw0TUFRPT1fRGdVQ1ZGQUFVUW9BQVZVQkJ3QUhDQVJWQUFCVVZsTUFCVk1CVWxFTUFWSUJCd0ZU.mp4"
     },
     {
       "id": "823022-72-10",
@@ -568,8 +560,6 @@
       "title": "Single — Nico Hoerner",
       "description": "Nico Hoerner singles on a line drive to center fielder Tristan Peters. Tyrone Taylor scores. Ian Happ to 3rd.",
       "playId": "9fc38a4f-b8db-3f30-85dd-dc8c7562d330",
-      "videoUrl": "https://sporty-clips.mlb.com/TzA0cm9fWGw0TUFRPT1fRDFjQ1YxeFZVbFFBV2xwV0JBQUhWd1ZXQUZrQUJ3VUFWZ1lOVXdRQUJ3RUJBd0ZX.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/iulfxpc2po0zfyjfdwsw.jpg",
       "date": "2026-08-17",
       "gamePk": 824641,
       "atBatNumber": 80,
@@ -583,15 +573,14 @@
       "wpa": 0.481,
       "xwoba": 0.86,
       "eventType": "single",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/TzA0cm9fWGw0TUFRPT1fRDFjQ1YxeFZVbFFBV2xwV0JBQUhWd1ZXQUZrQUJ3VUFWZ1lOVXdRQUJ3RUJBd0ZX.mp4"
     },
     {
       "id": "824639-77-9",
       "title": "Single — Alex Bregman",
       "description": "Alex Bregman singles on a line drive to center fielder Tristan Peters. Carson Kelly scores. Pete Crow-Armstrong to 2nd.",
       "playId": "87a1bd24-ee51-3f4e-8059-e9b6a51cfa12",
-      "videoUrl": "https://sporty-clips.mlb.com/UUFLZzZfWGw0TUFRPT1fRGdZQVZRWlFWQVlBWFFjSFZ3QUhWd0lEQUZrRlZsZ0FWMXhYQmxJQUFGQURVUU5V.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/xrftf0hnfu7cm6ojpqke.jpg",
       "date": "2026-08-18",
       "gamePk": 824639,
       "atBatNumber": 77,
@@ -605,7 +594,8 @@
       "wpa": 0.386,
       "xwoba": 0.676,
       "eventType": "single",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/UUFLZzZfWGw0TUFRPT1fRGdZQVZRWlFWQVlBWFFjSFZ3QUhWd0lEQUZrRlZsZ0FWMXhYQmxJQUFGQURVUU5V.mp4"
     },
     {
       "id": "823101-74-9",
@@ -915,5 +905,5 @@
     "division": "NL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-29T17:28:25.790Z"
+  "generatedAt": "2026-10-31T16:20:14.803Z"
 }

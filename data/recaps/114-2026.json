@@ -1,47 +1,47 @@
 {
   "teamId": 114,
   "year": 2026,
-  "narrative": "The 2026 Cleveland Guardians opened the year with a split-decision spring, stumbling through a rocky March and April that finished at a perfectly even 16-16. The early months were defined by a bullpen that couldn't hold leads — Cade Smith surrendered critical hits in back-to-back series, and Connor Brogdon gave away a gut-punch three-run homer on the same afternoon Daniel Schneemann had electrified the crowd with a grand slam. Still, young talent flashed through the noise: Chase DeLauter drove in runs in clutch moments, and Brayan Rocchio announced himself as a force with a three-run homer that salvaged an April series. The Guardians were a team still learning who they were.\n\nMay changed everything. Cleveland exploded to 18-11, their best month of the season, carried by a lineup that suddenly looked dangerous from top to bottom. Kyle Manzardo's solo homer in late May was a symbol of a team growing into its power, and the rotation gave the offense enough time to do damage. The Guardians rode that wave into June but crashed hard — a 10-15 month that exposed real bullpen vulnerabilities. Cade Smith was torched repeatedly, including a devastating late-game single on June 22nd that cost them dearly, and the Astros feasted on Matt Festa in a brutal mid-June loss. The June swoon left Cleveland scrambling to protect its division positioning.\n\nJuly and August were a grind — a combined 25-26, barely above water. But Brayan Rocchio became the heartbeat of the offense, launching a two-run walk-off homer on July 2nd that kept the ship from sinking entirely. The team leaned on pitching and small-ball execution, weathering the dog days without ever fully breaking down. September brought the surge Cleveland needed: a 16-9 final month powered by Rocchio's clutch two-run double, Petey Halpin's three-run blast, and a lineup that finally put it all together when the calendar demanded it most. The Guardians finished 85-77 and punched their ticket to October.\n\nThe postseason was a wild, emotionally charged run. Cleveland dispatched their Division Series opponent with José Ramírez and Jo Adell delivering in the biggest moments, setting up an ALCS showdown that pushed them to their limits. Nathaniel Lowe's go-ahead single in Game 1 of the Championship Series gave the city hope, but Tampa Bay proved relentless — Chandler Simpson's triple off Gavin Williams and Junior Caminero's double off Daniel Espino slowly turned the tide, and a Richie Palacios double in the final game sealed Cleveland's fate. The Guardians bowed out in the ALCS, their young roster bloodied but emboldened, leaving no doubt that this team's October story was far from its last chapter.",
+  "narrative": "The 2026 Cleveland Guardians were a team defined by resilience and just enough magic to reach October, even if they couldn't quite punch through to the World Series. They opened the year with a pedestrian 3-3 spring and a flat .500 April, a stretch marred by ugly bullpen moments — Cade Smith surrendering clutch hits, Connor Brogdon giving up a three-run bomb on the same night Daniel Schneemann's grand slam had briefly lifted spirits. The Guardians were treading water, searching for an identity.\n\nMay changed everything. An 18-11 month announced Cleveland as a genuine contender, with Kyle Manzardo delivering timely power and the lineup finding its rhythm. Brayan Rocchio emerged as the quiet engine of the offense, his home runs and clutch doubles becoming the team's most reliable currency. June brought the inevitable hangover — a 10-15 stumble fueled by Cade Smith's continued woes and a brutal walk-off single that cost them dearly — but the Guardians never fully collapsed. July and August were a grind, hovering near .500 but refusing to fall out of the race.\n\nSeptember was when Cleveland remembered who they were. A 16-9 closing surge, powered by Rocchio's magnificent double on the 15th, Petey Halpin's clutch home run on the 16th, and Angel Martínez stepping up with a go-ahead blast, propelled them to 85 wins and a postseason berth. The bullpen steadied. The lineup produced. It wasn't always pretty, but it was enough.\n\nIn October, the Guardians dispatched their Division Series opponent with José Ramírez's trademark October heroics and Jo Adell delivering a stunning three-run triple. But the ALCS proved a bridge too far. Gavin Williams was battered in a pivotal Game 4, and the Tampa Bay pitching staff quieted Cleveland's bats when it mattered most. Petey Halpin's home run in Game 4 offered a brief flicker of hope, and Nathaniel Lowe's clutch single in Game 1 had set the tone, but the Guardians ran out of answers as the series slipped away. A season of grit and gradual ascent ended one round short of glory.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Growing Pains in the Margins",
-      "description": "A rocky spring and even April expose bullpen frailty, even as young bats like Rocchio and DeLauter flash real promise.",
+      "title": "Treading Water",
+      "description": "A rocky opening stretch sees Cleveland hover at .500 as bullpen miscues and offensive sputters define a frustrating first month.",
       "startClipIndex": 0,
-      "endClipIndex": 7,
+      "endClipIndex": 4,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "May Surge, June Swoon",
-      "description": "Cleveland's best month of the season is immediately followed by a damaging June collapse, with the bullpen repeatedly letting the team down in high-leverage moments.",
-      "startClipIndex": 8,
-      "endClipIndex": 12,
-      "tone": "turning_point"
-    },
-    {
-      "id": "ch3",
-      "title": "Rocchio Carries the Dog Days",
-      "description": "A walk-off two-run homer from Brayan Rocchio on July 2nd anchors a summer grind as the Guardians tread water through July and August.",
-      "startClipIndex": 13,
-      "endClipIndex": 14,
-      "tone": "clutch"
-    },
-    {
-      "id": "ch4",
-      "title": "September's Last Stand",
-      "description": "A 16-9 September surge — fueled by Rocchio's clutch double, Halpin's three-run homer, and a locked-in lineup — propels Cleveland to 85 wins and a playoff berth.",
-      "startClipIndex": 15,
-      "endClipIndex": 22,
+      "title": "Rocchio Rises",
+      "description": "Cleveland catches fire in late April and into May, with Brayan Rocchio's clutch hitting and Chase DeLauter's timely extra-base hits igniting the offense.",
+      "startClipIndex": 5,
+      "endClipIndex": 8,
       "tone": "triumph"
     },
     {
+      "id": "ch3",
+      "title": "June Swoon",
+      "description": "A 10-15 June sees the bullpen crack under pressure, with Cade Smith's struggles and a devastating late-inning single threatening to derail the season.",
+      "startClipIndex": 9,
+      "endClipIndex": 14,
+      "tone": "struggle"
+    },
+    {
+      "id": "ch4",
+      "title": "The September Surge",
+      "description": "Brayan Rocchio delivers the biggest hit of the regular season and the Guardians reel off a 16-9 September to lock up a postseason spot.",
+      "startClipIndex": 15,
+      "endClipIndex": 22,
+      "tone": "turning_point"
+    },
+    {
       "id": "ch5",
-      "title": "October's Promise and Heartbreak",
-      "description": "The Guardians advance through the Division Series on the backs of Ramírez and Adell, only to fall in an ALCS where Tampa Bay's relentless offense finally extinguishes Cleveland's October dream.",
+      "title": "October's Edge",
+      "description": "Cleveland advances past the Division Series on Ramírez's power and Adell's heroics before falling short in the ALCS against a deeper Tampa Bay club.",
       "startClipIndex": 23,
       "endClipIndex": 30,
-      "tone": "struggle"
+      "tone": "clutch"
     }
   ],
   "clips": [
@@ -725,5 +725,5 @@
     "division": "AL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-29T17:11:24.111Z"
+  "generatedAt": "2026-10-31T16:00:39.381Z"
 }

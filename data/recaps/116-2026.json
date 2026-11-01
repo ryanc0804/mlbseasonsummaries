@@ -1,47 +1,47 @@
 {
   "teamId": 116,
   "year": 2026,
-  "narrative": "The 2026 Detroit Tigers opened the year with a familiar kind of heartbreak. Kenley Jansen, now well into the back half of his career, became an unlikely villain in his own team's story — surrendering crushing home runs almost from the first day of the season. A Jose Fernandez blast on the final day of March set the tone for what March and early April would look like: a squad fighting to stay above water but undermined by the bullpen at the worst possible moments. The Tigers went 2-3 in March and a middling 14-13 in April, surviving on isolated bursts of offense from Riley Greene, Colt Keith, and Kerry Carpenter, who each delivered clutch moments that kept Detroit in ballgames the bullpen often gave away.\n\nMay was the month that broke this team open. A 6-22 record told the whole story — this was a collapse, a genuine free fall — driven by Jansen blowing leads in late innings, Drew Anderson surrendering go-ahead shots, and Will Vest giving up a grand slam to Vaughn Grissom in Angel Stadium. The Tigers couldn't hold leads and couldn't manufacture enough offense to overcome the bullpen's damage. Spencer Torkelson flickered with promise, doubling home runs in a May game that briefly offered hope, but the losses piled up relentlessly. By the end of May, Detroit was buried in the standings and searching for answers.\n\nJune brought a genuine resurrection. The Tigers went 15-11, their best month of the season, fueled by young players stepping forward. Kevin McGonigle delivered a line-drive single to right that won a crucial June game, and Dillon Dingler came through with clutch hits at catcher. The offense started to look like something real, and the pitching — while never dominant — stabilized enough to let the wins accumulate. July continued in the same spirit, with Detroit going 15-9 and Hao-Yu Lee, James Outman, and Spencer Torkelson all delivering big moments. Torkelson's 20th home run signaled that the first baseman was turning into the slugger Detroit always hoped he could be.\n\nAugust and September told a more sobering story. Jansen continued to haunt the club — surrendering back-to-back homers to Rafael Flores Jr. and Brandon Lowe on the same August night — and the rotation frayed as the schedule wore on. Drew Sommers and Kyle Finnegan added to a litany of bullpen failures, and a September stumble dropped the Tigers to 76-86 on the year. Eduardo Valencia's home run late in September, a two-run shot that scored Hao-Yu Lee, offered a small emotional exclamation point in an otherwise deflating final stretch — a reminder of the youth and potential that makes this team worth watching even when the season hasn't gone the way anyone planned.",
+  "narrative": "The 2026 Detroit Tigers entered the season with cautious optimism, but March offered an immediate gut-punch when closer Kenley Jansen surrendered a three-run homer on the final day of the opening series, setting a tone that would haunt the bullpen all year. April proved to be a mixed bag of promise and heartbreak — Riley Greene and Colt Keith delivered a stunning comeback in mid-April, Kerry Carpenter launched clutch home runs, and Spencer Torkelson showed signs of becoming a cornerstone presence, yet Jansen's late-inning collapses against Cincinnati and Atlanta left wins on the table and raised urgent questions about the back end of the bullpen.\n\nMay became the season's darkest chapter, a 6-22 disaster that buried Detroit in the standings and forced the front office to ask hard questions. Drew Anderson couldn't stop the bleeding, Will Vest surrendered a grand slam to the Angels, and Brant Hurter couldn't hold late leads either. The offense went quiet at the worst moments, and the Tigers found themselves more than twenty games below .500 before the calendar even turned to summer. It was a month that defined the season's ceiling.\n\nJune and July represented something of a resurrection. The Tigers went a combined 30-20 over those two months, with young players stepping into the spotlight. Kevin McGonigle delivered a walk-off single in early June, Dillon Dingler came through in clutch spots, and Hao-Yu Lee's reviewed double in July became a symbol of the scrappy, grind-it-out baseball that briefly made Detroit feel dangerous. James Outman's three-run homer and Spencer Torkelson's 20th of the year in late July gave the lineup genuine pop, even as the bullpen continued to leak runs on bad nights.\n\nAugust and September brought the Tigers back to earth. Kenley Jansen's struggles continued deep into the dog days, surrendering two home runs in a single August outing and continuing to cost games into early September. Drew Sommers and Kyle Finnegan added to the bullpen's woes, and a 76-86 final record tells the story of a team with real offensive and pitching building blocks — 181 home runs, a 3.67 ERA — but one undone by late-inning volatility and that catastrophic May. Eduardo Valencia's two-run blast in late September was a bright closing note, a reminder that youth and power remain the Tigers' most legitimate reasons for hope heading into 2027.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Holding On by a Thread",
-      "description": "The Tigers survive a rocky start as the bullpen already shows cracks, but timely hits from Greene, Keith, and Carpenter keep Detroit afloat through April.",
+      "title": "Early Stumbles, Early Sparks",
+      "description": "A brutal Opening Day blow from Jansen sets the tone, but April's offense — led by Greene, Keith, and Carpenter — keeps Detroit afloat near .500.",
       "startClipIndex": 0,
       "endClipIndex": 7,
-      "tone": "struggle"
+      "tone": "turning_point"
     },
     {
       "id": "ch2",
       "title": "The May Collapse",
-      "description": "A catastrophic 6-22 May buries Detroit in the standings as Kenley Jansen, Drew Anderson, and Will Vest surrender one gut-punch home run after another.",
+      "description": "A disastrous 6-22 month defined by bullpen implosions and a lifeless offense sends the Tigers plummeting out of contention.",
       "startClipIndex": 8,
       "endClipIndex": 12,
       "tone": "struggle"
     },
     {
       "id": "ch3",
-      "title": "Rising from the Ashes",
-      "description": "A 15-11 June signals a genuine turnaround, with McGonigle, Dingler, and the offense finding rhythm and the pitching stabilizing enough to win ballgames.",
+      "title": "The Summer Surge",
+      "description": "Detroit catches fire with a 30-20 run over June and July, fueled by clutch hits from McGonigle, Dingler, Lee, and Torkelson's 20th homer.",
       "startClipIndex": 13,
-      "endClipIndex": 15,
+      "endClipIndex": 22,
       "tone": "triumph"
     },
     {
       "id": "ch4",
-      "title": "Tork and the Summer Surge",
-      "description": "Detroit's best baseball of the year arrives in July as Spencer Torkelson hits his 20th homer, Hao-Yu Lee delivers clutch doubles, and the Tigers go 15-9.",
-      "startClipIndex": 16,
-      "endClipIndex": 22,
-      "tone": "turning_point"
+      "title": "Fading in the Stretch",
+      "description": "Jansen's continued late-inning meltdowns and a shaky supporting cast doom any remaining playoff hope through August and September.",
+      "startClipIndex": 23,
+      "endClipIndex": 28,
+      "tone": "struggle"
     },
     {
       "id": "ch5",
-      "title": "Fading in the Stretch",
-      "description": "August and September see the bullpen unravel again, Jansen yields more late-inning damage, and the Tigers finish below .500 despite a hopeful Valencia blast to close the year.",
-      "startClipIndex": 23,
+      "title": "A Closing Statement",
+      "description": "Eduardo Valencia's late-September two-run blast provides a hopeful final image of a season defined by youth, power, and painful inconsistency.",
+      "startClipIndex": 29,
       "endClipIndex": 29,
-      "tone": "struggle"
+      "tone": "milestone"
     }
   ],
   "clips": [
@@ -699,5 +699,5 @@
     "division": "AL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-31T16:02:05.865Z"
+  "generatedAt": "2026-11-01T17:05:05.208Z"
 }

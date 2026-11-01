@@ -1,44 +1,52 @@
 {
   "teamId": 108,
   "year": 2026,
-  "narrative": "The 2026 Los Angeles Angels entered the season with hopes of turning a corner, but April quickly told a familiar story. The bullpen imploded early and often, with Jordan Romano surrendering a back-breaking double on April 15th that swung the game nearly 71 percentage points against the Halos, and Drew Pomeranz and Joey Lucchesi combining for a disastrous April 26th that sent the team spiraling to a 9-17 record by month's end. The Angels were already swimming upstream before the calendar turned to May.\n\nMay and June offered the briefest glimpses of what this roster could be. Oswald Peraza delivered a clutch single to spark a rally, Zach Neto launched a go-ahead blast that crackled with electricity, and Vaughn Grissom's grand slam on May 26th — clearing the bases with Mike Trout aboard — felt like a rallying cry. June brought a magnificent three-play sequence on the 24th, with Nolan Schanuel, Wade Meckler, and Logan O'Hoppe stringing together clutch singles in what stood as one of the season's few genuine offensive fireworks. But for every bright moment, the bullpen and the rotation found new ways to extinguish the flame, and the Angels finished May and June a combined 24-31.\n\nJuly cratered everything. A 6-17 month, the worst of the season, was punctuated by Kirby Yates surrendering a controversial boundary-call double to Hao-Yu Lee that unraveled yet another late game. The dog days of August were no kinder — Ben Joyce was tagged for a damaging two-hit sequence against Texas, and Sammy Peralta's implosion on August 28th, when Edmundo Sosa launched a grand slam to center, was the kind of gut-punch that defines a lost season. At 62-100, the Angels have been mathematically buried for weeks, their season a monument to bullpen volatility and an offense that could never sustain its occasional brilliance.\n\nYet September has carried something unexpected: a quiet dignity. Mike Trout's line-drive single on the 17th, Denzer Guzman's clutch double on the 12th, and Vaughn Grissom's solo shot on the 19th suggest that younger pieces are finding their footing even as the wins remain scarce. The Angels won't be playing October baseball in 2026, but the final weeks have offered a canvas for prospects and veterans alike to write something worth carrying into the offseason.",
+  "narrative": "The 2026 Los Angeles Angels entered the season with cautious optimism, but April quickly revealed the steep hill ahead. A bullpen that couldn't hold leads, a rotation that surrendered big hits at the worst moments, and an offense that sputtered when it mattered most combined to produce a 9-17 April. Pitchers like Jordan Romano and Brent Suter were put in tough spots early, and opposing bats made them pay dearly. By the end of the month, Anaheim already had the feel of a team scrambling for footing.\n\nMay and June offered brief flickers of hope. Zach Neto emerged as a genuine offensive force, launching home runs that swung games and energized a quiet fanbase. Vaughn Grissom's grand slam late in May and Jose Siri's bases-clearing blast on June 1st showcased the kind of pop this lineup could produce. A remarkable comeback on June 24th — built on back-to-back clutch singles from Nolan Schanuel and Logan O'Hoppe — suggested that maybe, just maybe, this team had the fight in it to claw back toward respectability. June closed at 13-14, the only month that ended with a winning record.\n\nJuly erased whatever goodwill had been built. A brutal 6-17 month, punctuated by Kirby Yates surrendering a pivotal double and the bullpen unraveling repeatedly, sent the Angels into a tailspin from which they never recovered. August brought more of the same: Sammy Peralta allowed a grand slam to Edmundo Sosa in one of the season's most damaging single swings, and Ben Joyce was torched for multiple extra-base hits in the same outing. The run prevention simply wasn't there.\n\nSeptember has become a long goodbye for the 2026 Angels. Sam Bachman has continued to struggle on the mound, giving up key home runs, while moments of individual brightness — Mike Trout's veteran line drives, Vaughn Grissom's solo shots, Denzer Guzman's timely doubles — feel more like closing-chapter highlights than rallying cries. At 62-100, this is a season defined by what didn't work, though it has also begun to sketch what might: Neto's power, Grissom's bat, and flashes from young arms hint at a foundation worth building upon.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "April Alarm Bells",
-      "description": "A brutal April sets the tone as the bullpen bleeds early leads and the Angels limp to a 9-17 record.",
+      "title": "Early Turbulence",
+      "description": "A rocky April sees the bullpen and rotation fail to protect leads, sending the Angels to a 9-17 record and setting a frustrating tone for the year.",
       "startClipIndex": 0,
       "endClipIndex": 5,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "Flickers of Life",
-      "description": "May's scattered offensive outbursts, led by Neto's home runs and Grissom's grand slam, hint at a roster with more fight than the standings suggest.",
+      "title": "Sparks of Life",
+      "description": "May brings genuine offensive firepower from Zach Neto and Vaughn Grissom, giving the Angels reasons for cautious optimism despite continued pitching woes.",
       "startClipIndex": 6,
       "endClipIndex": 12,
       "tone": "turning_point"
     },
     {
       "id": "ch3",
-      "title": "June's Brief Rally",
-      "description": "A remarkable June 24th comeback and Jose Siri's grand slam briefly energize the Halos, but the pitching staff can't hold ground.",
+      "title": "June's Best Hope",
+      "description": "A stretch of clutch hits — grand slams, timely singles, and Neto's surging power — fuels the Angels' only winning month of the season.",
       "startClipIndex": 13,
       "endClipIndex": 21,
       "tone": "clutch"
     },
     {
       "id": "ch4",
-      "title": "Summer Collapse",
-      "description": "July's 6-17 catastrophe and a punishing August — capped by a grand slam off Sammy Peralta — close the door on any lingering hope.",
+      "title": "July Collapse",
+      "description": "A catastrophic 6-17 July, headlined by bullpen meltdowns and blown leads, extinguishes any remaining playoff hopes and exposes deep roster flaws.",
       "startClipIndex": 22,
-      "endClipIndex": 28,
+      "endClipIndex": 23,
       "tone": "struggle"
     },
     {
       "id": "ch5",
-      "title": "Playing for the Future",
-      "description": "September becomes a showcase for young contributors like Denzer Guzman and a returning Mike Trout, closing a difficult season with glimpses of tomorrow.",
+      "title": "August Unraveling",
+      "description": "The bullpen continues to hemorrhage runs through August, with Sammy Peralta's grand slam surrender standing as the gut-punch symbol of a lost season.",
+      "startClipIndex": 24,
+      "endClipIndex": 28,
+      "tone": "struggle"
+    },
+    {
+      "id": "ch6",
+      "title": "September Farewells",
+      "description": "With the season winding down, individual bright spots from Trout, Grissom, and Guzman offer glimpses of what the next chapter in Anaheim might look like.",
       "startClipIndex": 29,
       "endClipIndex": 33,
       "tone": "milestone"
@@ -712,6 +720,8 @@
       "title": "Single — Mike Trout",
       "description": "Mike Trout singles on a line drive to left fielder Austin Martin. Jose Siri scores. Zach Neto to 3rd.",
       "playId": "484dd212-22af-3e50-a81c-bb5eb405f9ba",
+      "videoUrl": "https://sporty-clips.mlb.com/b0d3ZzBfWGw0TUFRPT1fQWdsVkFBQUdWd0FBQ2xCVEFBQUhWQU5XQUFBTlVnSUFVQWNBVlZFQkFRWURDVkFI.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/chnka8bjujf50q2pkzba.jpg",
       "date": "2026-09-17",
       "gamePk": 823978,
       "atBatNumber": 80,
@@ -725,14 +735,15 @@
       "wpa": 0.398,
       "xwoba": 0.589,
       "eventType": "single",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/b0d3ZzBfWGw0TUFRPT1fQWdsVkFBQUdWd0FBQ2xCVEFBQUhWQU5XQUFBTlVnSUFVQWNBVlZFQkFRWURDVkFI.mp4"
+      "gameType": "R"
     },
     {
       "id": "823976-80-9",
       "title": "Home Run — Vaughn Grissom",
       "description": "Vaughn Grissom homers (12) on a fly ball to center field.",
       "playId": "960592d1-a791-3680-a373-7d6f96644a0e",
+      "videoUrl": "https://sporty-clips.mlb.com/MDRYMDFfWGw0TUFRPT1fRHdkUlVWMEdBZ01BV1ZVTFZ3QUhCdzVXQUFBR1ZGSUFCUUVEVmdvREJ3ZFJVUUlE.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/ioxeym9r5npnlisnbwp9.jpg",
       "date": "2026-09-19",
       "gamePk": 823976,
       "atBatNumber": 80,
@@ -746,8 +757,7 @@
       "wpa": 0.467,
       "xwoba": 1.605,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/MDRYMDFfWGw0TUFRPT1fRHdkUlVWMEdBZ01BV1ZVTFZ3QUhCdzVXQUFBR1ZGSUFCUUVEVmdvREJ3ZFJVUUlE.mp4"
+      "gameType": "R"
     },
     {
       "id": "824953-75-8",
@@ -783,5 +793,5 @@
     "division": "AL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-10-31T16:07:57.669Z"
+  "generatedAt": "2026-11-01T17:10:23.958Z"
 }

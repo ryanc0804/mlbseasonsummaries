@@ -1,47 +1,47 @@
 {
   "teamId": 139,
   "year": 2026,
-  "narrative": "The 2026 Tampa Bay Rays arrived at the season opener with something to prove, and catcher Nick Fortes made sure everyone noticed from the very first week. His timely hits in the opening series set an early tone, even as the bullpen's struggles — Bryan Baker in particular becoming a recurring villain — kept the club from running away early. The Rays finished March at a modest 2-3, but the machine was warming up.\n\nApril and May told a tale of two teams. The offense surged behind Yandy Díaz, Jonathan Aranda, and a breakout from young Junior Caminero, while Baker continued to bleed runs in relief and Aaron Brooks served up a back-breaking grand slam to the Blue Jays in mid-May. Yet none of those disasters could slow a Tampa Bay club that went 16-9 in April and 18-8 in May — winning ugly, winning often, and building a cushion that carried them through a flat 13-13 June.\n\nThe second half belonged to Jonny DeLuca and Junior Caminero. DeLuca's back-to-back home runs in late August — the second a two-run shot that swung nearly half a win in one swing — announced the Rays as a legitimate contender, and Caminero's 41st homer in mid-September underlined just how dangerous this lineup had become. The Rays closed the year at 98-64, one of the best records in the American League, powered by 736 runs and an ERA of 3.70 that held opponents in check night after night.\n\nOctober brought heartbreak wrapped in heroism. Victor Mesa Jr. announced himself on the playoff stage with a clutch ALDS home run, and Chandler Simpson's triple helped push Tampa through a hard-fought Championship Series against Cleveland. But the World Series proved a bridge too far. Ian Seymour, heroic across the postseason, could not hold the dam, surrendering a pivotal home run to Cooper Pratt. Even a late rally — Liam Hicks igniting, DeLuca delivering yet again — could not complete the comeback. The Rays fell in the Fall Classic, their 98 wins unable to finish the job, leaving a city proud but hungry for the ring that got away.",
+  "narrative": "The 2026 Tampa Bay Rays arrived in March with familiar questions about their roster's depth, and the opening week provided no clean answers. A thrilling walk-off from catcher Nick Fortes on Opening Day gave way almost immediately to a gut-punch single off Griffin Jax that flipped the script, setting the tone for a season that would oscillate between resilience and vulnerability. The Rays stumbled through March at 2-3, but the seeds of something real were already visible in the clutch hitting from an unlikely source behind the plate.\n\nApril and May became a story of Bryan Baker's struggles out of the bullpen and the offense rising to compensate. Baker surrendered damaging extra-base hits in three separate high-leverage appearances, yet Tampa Bay posted a combined 34-17 record across those two months — a testament to a rotation anchored by Shane McClanahan and a lineup increasingly energized by Jonathan Aranda, Yandy Díaz, and the emerging Junior Caminero. A Daulton Varsho grand slam off Aaron Brooks in mid-May was the low point of the stretch, but Díaz answered with a two-run shot days later to keep the Rays afloat and rolling.\n\nJune hit like a wall. The Rays went 13-13, their only sub-.500 month of the second half, and the offense sputtered in close games. But July and August told a different story entirely. Jonny DeLuca became a genuine weapon, launching back-to-back home runs in August that energized the clubhouse, while Junior Caminero — who would ultimately slug 41 home runs on the season — announced himself as one of baseball's brightest young stars with a series of monstrous swings. The Rays finished the regular season 98-64, earning their postseason berth with a September surge that saw them go 16-9.\n\nThe playoffs brought heartbreak layered over glory. Tampa Bay dispatched their Division Series opponent with help from an unlikely Victor Mesa Jr. home run, then clawed through a Championship Series against a rugged Cleveland squad, with Chandler Simpson's triple and Junior Caminero's double providing the signature moments. The World Series, however, belonged to Milwaukee. Ian Seymour's inability to contain Cooper Pratt in a pivotal moment proved costly, and despite late-inning heroics from Liam Hicks and Jonny DeLuca, the Rays fell short of the ultimate prize — a 98-win season ending not in celebration but in the particular anguish of a team that came so close.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Opening Sparks, Early Stumbles",
-      "description": "The Rays open the season with Fortes delivering clutch hits but the bullpen immediately showing its vulnerability, producing a 2-3 start.",
+      "title": "Opening Swings",
+      "description": "Tampa Bay's first week swings wildly between clutch heroics from Nick Fortes and early bullpen heartbreak, setting the tone for a complicated season.",
       "startClipIndex": 0,
       "endClipIndex": 3,
       "tone": "turning_point"
     },
     {
       "id": "ch2",
-      "title": "Winning Ugly in April and May",
-      "description": "Despite Bryan Baker's maddening reliability and a grand slam disaster, Tampa Bay reels off a dominant 34-17 stretch across April and May.",
+      "title": "Winning Ugly",
+      "description": "Despite Bryan Baker's recurring struggles in high-leverage spots, the Rays rack up wins through April and May behind a potent and resilient lineup.",
       "startClipIndex": 4,
       "endClipIndex": 11,
       "tone": "triumph"
     },
     {
       "id": "ch3",
-      "title": "The June Plateau",
-      "description": "A flat 13-13 June tests the Rays' depth, but a timely Jonny DeLuca home run reminds everyone this team has real firepower.",
+      "title": "The June Wall",
+      "description": "A .500 month in June stalls Tampa Bay's momentum, but Jonny DeLuca's timely home run late in the month signals the offense is not done.",
       "startClipIndex": 12,
-      "endClipIndex": 13,
+      "endClipIndex": 12,
       "tone": "struggle"
     },
     {
       "id": "ch4",
-      "title": "Caminero and DeLuca Ignite the Stretch Run",
-      "description": "Junior Caminero and Jonny DeLuca carry Tampa Bay through August and September with clutch blasts, powering a 34-19 finish to reach 98 wins.",
-      "startClipIndex": 14,
+      "title": "Caminero's Ascent",
+      "description": "Junior Caminero emerges as the team's cornerstone slugger through a dominant July-September stretch that carries the Rays to 98 wins.",
+      "startClipIndex": 13,
       "endClipIndex": 21,
-      "tone": "clutch"
+      "tone": "milestone"
     },
     {
       "id": "ch5",
-      "title": "October's Promise and Heartbreak",
-      "description": "The Rays survive the ALDS and ALCS behind Mesa, Simpson, and Caminero, only to fall short in the World Series as the final rally comes up just short.",
+      "title": "October's Edge",
+      "description": "The Rays navigate a thrilling postseason run through the ALDS and ALCS before falling short in the World Series against Milwaukee in a heartbreaking finale.",
       "startClipIndex": 22,
       "endClipIndex": 29,
-      "tone": "struggle"
+      "tone": "clutch"
     }
   ],
   "clips": [
@@ -706,5 +706,5 @@
     "division": "AL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-01T16:59:44.009Z"
+  "generatedAt": "2026-11-02T20:35:21.587Z"
 }

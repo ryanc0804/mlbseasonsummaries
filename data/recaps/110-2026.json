@@ -1,47 +1,55 @@
 {
   "teamId": 110,
   "year": 2026,
-  "narrative": "The 2026 Baltimore Orioles have been a team of contradictions — flashes of brilliance interrupted by costly mistakes, a roster loaded with young talent that has yet to fully harness its potential. April opened with promise, as Pete Alonso and Adley Rutschman provided timely home runs and Jeremiah Jackson emerged as a surprising force in the middle of the lineup. But the month ended as a wash at 13-13, the Orioles simultaneously capable of thrilling comebacks and maddening collapses in the same week.\n\nMay and June proved to be the season's most difficult stretch. Blown leads, bullpen implosions anchored by Andrew Kittredge's recurring struggles, and a brutal June 19th loss when Ryan Helsley watched a throwing error turn a manageable situation into a nightmare — these were the defining images of a team sliding to 11-16 in June. Colton Cowser's three-run blast on May 24th and a spirited three-game sequence in early June offered glimpses of what this lineup could do, but too often the bullpen or a miscue erased the hard work of a close game.\n\nJuly changed everything. The Orioles went 15-8, their best month of the season, fueled by Jeremiah Jackson's clutch doubles, Coby Mayo's emerging power, and a lineup that finally started to click with depth and consistency. August followed at a respectable 15-13, with Samuel Basallo's home run power and Gunnar Henderson's continued excellence keeping Baltimore afloat. The young core was showing signs of becoming the team many had projected them to be.\n\nSeptember has been a more sobering return to reality at 10-13, with fresh bullpen wounds — Grant Wolfram's September 2nd disaster and Yennier Cano's blown moment — reopening old scars. Yet Pete Alonso's 40th home run on September 21st and Coby Mayo's stunning inside-the-park home run keep alive the sense that this team has not quit. At 79-82, the Orioles' postseason math is difficult, but this young roster has spent 2026 learning painful lessons that may yet pay dividends in seasons to come.",
+  "narrative": "The 2026 Baltimore Orioles entered the season carrying expectations forged in recent years of contention, but the early months revealed a team searching for its footing. April ended in a perfectly split 13-13 record, a microcosm of a roster with undeniable firepower — Pete Alonso, Adley Rutschman, and the emerging Jeremiah Jackson providing highlight-reel moments — but a bullpen and rotation prone to surrendering big innings at the worst times. May followed a similar pattern, finishing 13-16 as the team's pitching staff gave up critical leads and the win column refused to pull away from the loss column.\n\nJune was the low point of the Baltimore summer, a 11-16 month defined by costly relief appearances and untimely defensive miscues. The Ryan Helsley disaster in late June — a sequence that shifted win probability by nearly 83 points in a single at-bat — captured everything that was going wrong: leads squandered, bullpen overexposed, the team unable to protect late advantages. Andrew Kittredge's name appeared on the wrong side of the ledger repeatedly, and the Orioles found themselves several games below .500 as the calendar turned to July.\n\nThen something clicked. Baltimore went 15-8 in July, their best month of the season, sparked by Jeremiah Jackson's breakout contributions and timely hitting up and down the lineup. Coby Mayo began asserting himself as a genuine middle-of-the-order force, capping the surge with a remarkable inside-the-park home run in mid-September — his 24th of the year — that electrified the Camden Yards faithful. Pete Alonso reached the 40-home-run milestone in late September, a landmark moment that underscored the offensive identity this team built despite its pitching inconsistencies.\n\nAt 79-82, the Orioles close the 2026 season having outscored some expectations but fallen short of others. The run differential of minus-21 tells an honest story: this was a team with real offensive weapons — 199 home runs, the long ball always a threat — but a pitching staff that surrendered 739 runs and never quite stabilized the back of the bullpen. July and August showed what this roster could look like when everything aligned, and those glimpses offer genuine reason for optimism heading into the offseason.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Highs and Lows in April",
-      "description": "The Orioles open the year with equal parts promise and peril, finishing .500 as big moments from Alonso, Rutschman, and Jackson are offset by gut-punch losses.",
+      "title": "Split Decisions: April's Push and Pull",
+      "description": "The Orioles open the year with alternating heroics and heartbreaks, finishing April at an even 13-13 as big home runs from Alonso, Rutschman, and Jackson are offset by crushing opponent blasts.",
       "startClipIndex": 0,
       "endClipIndex": 6,
       "tone": "turning_point"
     },
     {
       "id": "ch2",
-      "title": "Sinking in May and June",
-      "description": "Bullpen breakdowns and costly errors define a brutal two-month stretch that drops Baltimore well below .500 and puts the season in jeopardy.",
+      "title": "Treading Water: A Difficult May",
+      "description": "Baltimore stumbles to a 13-16 May as pitching breakdowns and a late-game error prove costly, though Colton Cowser's three-run blast and Jeremiah Jackson's clutch single provide fleeting moments of relief.",
       "startClipIndex": 7,
-      "endClipIndex": 19,
+      "endClipIndex": 11,
       "tone": "struggle"
     },
     {
       "id": "ch3",
-      "title": "The July Resurgence",
-      "description": "The Orioles catch fire in their best month of the season, with Jeremiah Jackson and Coby Mayo leading a 15-8 run that revives postseason hope.",
+      "title": "The June Collapse",
+      "description": "An 11-16 June becomes the season's nadir, headlined by a catastrophic Ryan Helsley appearance and repeated bullpen meltdowns that bury the Orioles several games below .500.",
+      "startClipIndex": 12,
+      "endClipIndex": 19,
+      "tone": "struggle"
+    },
+    {
+      "id": "ch4",
+      "title": "July Turnaround",
+      "description": "Baltimore catches fire with a 15-8 July, with Jeremiah Jackson's clutch double and steady contributions throughout the lineup finally turning the season's momentum in the right direction.",
       "startClipIndex": 20,
       "endClipIndex": 23,
       "tone": "triumph"
     },
     {
-      "id": "ch4",
-      "title": "Holding Ground in August",
-      "description": "Baltimore sustains momentum with a winning August, anchored by Basallo's power surge and Henderson's consistency, keeping the team in the hunt.",
+      "id": "ch5",
+      "title": "Grinding Through August",
+      "description": "A 15-13 August keeps the Orioles afloat as Samuel Basallo and Gunnar Henderson provide big home runs, though Andrew Kittredge continues to haunt the bullpen in high-leverage spots.",
       "startClipIndex": 24,
       "endClipIndex": 26,
       "tone": "clutch"
     },
     {
-      "id": "ch5",
-      "title": "September's Unfinished Story",
-      "description": "A stumbling September reopens old wounds through the bullpen, but Coby Mayo's inside-the-park homer and Pete Alonso's 40th home run remind Baltimore — and everyone else — that this team still has a pulse.",
+      "id": "ch6",
+      "title": "September Statements",
+      "description": "The Orioles close the year with individual milestones — Coby Mayo's inside-the-park homer and Pete Alonso's 40th home run among them — even as the team finishes 10-13 and settles at 79-82.",
       "startClipIndex": 27,
       "endClipIndex": 32,
-      "tone": "struggle"
+      "tone": "milestone"
     }
   ],
   "clips": [
@@ -767,5 +775,5 @@
     "division": "AL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-01T16:55:35.142Z"
+  "generatedAt": "2026-11-02T20:30:46.257Z"
 }

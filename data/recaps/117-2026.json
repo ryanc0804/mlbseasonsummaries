@@ -1,47 +1,55 @@
 {
   "teamId": 117,
   "year": 2026,
-  "narrative": "The 2026 Houston Astros were a team that spent most of the year searching for an identity, lurching between flashes of brilliance and stretches of maddening inconsistency. An 8-18 April nearly buried them before the calendar even turned to May, a brutal stretch defined by late-inning collapses and untimely bullpen blunders that left Minute Maid Park eerily quiet. The lone bright spot in those dark early weeks was Carlos Correa, whose clutch single on April 5th offered a brief reminder of what this lineup could be — but it wasn't enough to stop the bleeding.\n\nThe Astros clawed back to respectability through May and June, riding a remarkable offensive surge powered by Yordan Alvarez's grand slam heroics, a Cam Smith breakout, and timely contributions from newly acquired pieces like Christian Walker and Isaac Paredes. Joey Loperfido's stunning three-run homer on June 23rd — his first of the year — embodied the team's newfound confidence, and for a stretch in late June Houston looked like a genuine contender. The lineup was clicking, the pitching had steadied, and a 16-11 June run had transformed a season that once looked terminal into something worth believing in.\n\nJuly and August brought the grinding, unspectacular baseball of a .500 team fighting to stay alive in a crowded wild card race. Daulton Varsho's clutch single and Christian Walker's go-ahead home run in mid-August captured both the promise and the precariousness of this ballclub — capable of heroics, but never quite able to build sustained momentum. Bryan Abreu's late-season implosion against Ronald Acuña Jr. — a devastating grand slam that swung the game entirely — summed up a pitching staff that was one bad outing away from unraveling on any given night.\n\nHouston squeaked into the Wild Card round at 81-81, a mediocre record masking a roster that genuinely believed it could make a run. Those dreams died quickly. Bryan King's bullpen struggles opened the door for the opposition in Game 1, and by Game 2 the Astros found themselves in a furious but ultimately futile comeback, with Cam Smith and Jose Altuve both going deep before the offense went silent when it mattered most. Hunter Brown's inability to hold a lead and Chase Meidroth's three-run homer off Bryan Abreu in the decisive moments extinguished the last ember of Houston's 2026 season, ending a year that will be remembered as one of transition — talented enough to tease, not quite good enough to deliver.",
+  "narrative": "The 2026 Houston Astros were a team defined by extremes — capable of breathtaking moments of clutch brilliance, yet perpetually undermined by a pitching staff that surrendered runs in bunches and an April that nearly sank the entire season before it began. After stumbling out of the gate with an 8-18 April that forced the roster to scramble for answers, Houston's bats slowly came to life behind a resurgent Carlos Correa, the emerging Cam Smith, and the veteran reliability of Jose Altuve and Yordan Alvarez, who reminded everyone in June that he remains one of the most dangerous hitters in baseball.\n\nThe summer months told the story of a team clawing its way back to respectability. June was the turning point — a 16-11 record fueled by walk-off moments, Altuve home runs, and Loperfido's breakout blast — and the Astros rode that momentum through July and August, threading together just enough wins to keep playoff hopes alive. Christian Walker's power and Daulton Varsho's timely hitting provided the lineup depth Houston desperately needed, while Bryan Abreu and the bullpen remained a liability, never more painfully than when Ronald Acuña Jr. crushed a grand slam in September to remind Houston how thin the margin for error truly was.\n\nThe Astros finished 81-81, a testament to the grit of a team that refused to quit after April's disaster but could never fully escape the consequences of a run differential that told a harsher truth. They squeaked into the Wild Card round, where the Boston Red Sox — a younger, hungrier club — pushed them to the brink across two grinding games. Smith and Altuve homered to keep hopes alive in Game 2, but Bryan Abreu surrendered a pivotal three-run blast to Chase Meidroth, and when Yordan Alvarez lined out with men on base in the late innings, the season was over.\n\nIt was a fitting, bittersweet end to a season that was never quite enough. The 2026 Astros had the talent to compete but not the consistency to advance, and the Wild Card exit felt like the honest verdict on 162 games of promise mixed with frustration. The foundation remains — Alvarez, Altuve, Cam Smith's obvious future stardom — but the roster needs answers in the rotation and bullpen if Houston intends to return to the October stage it once owned.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "April Freefall",
-      "description": "A promising Correa single early in the month gives way to a disastrous 8-18 April, with the Astros' bullpen surrendering game after game and the season already teetering on the brink.",
+      "title": "Sinking in April",
+      "description": "An early Correa spark couldn't prevent Houston from stumbling to an 8-18 April, setting a brutal early hole.",
       "startClipIndex": 0,
-      "endClipIndex": 2,
+      "endClipIndex": 0,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "Finding Their Footing",
-      "description": "A rocky early May gives way to a turnaround, as Cam Smith's clutch single rescues the offense and the team begins to believe again heading into summer.",
-      "startClipIndex": 3,
+      "title": "Grinding Back to Even",
+      "description": "The Astros posted a winning May despite late-game heartbreak, beginning the slow climb toward respectability.",
+      "startClipIndex": 1,
       "endClipIndex": 4,
       "tone": "turning_point"
     },
     {
       "id": "ch3",
-      "title": "The June Surge",
-      "description": "The Astros catch fire through June, powered by Yordan Alvarez's grand slam, Joey Loperfido's first career homer, and Isaac Paredes's clutch hitting to produce a 16-11 month that puts Houston back in the race.",
+      "title": "June Eruption",
+      "description": "A 16-11 June powered by Loperfido's breakout homer, Altuve's pop, and Yordan's grand slam brought Houston roaring back to life.",
       "startClipIndex": 5,
       "endClipIndex": 10,
       "tone": "triumph"
     },
     {
       "id": "ch4",
-      "title": "Grinding to October",
-      "description": "Houston plays grinding .500 baseball through August and September, surviving on clutch individual moments while Bryan Abreu's late-season grand slam surrender underscores the fragility of this roster.",
+      "title": "Holding the Line",
+      "description": "Clutch performances from Walker and Varsho in August kept the Astros afloat as they fought for a playoff spot.",
       "startClipIndex": 11,
+      "endClipIndex": 12,
+      "tone": "clutch"
+    },
+    {
+      "id": "ch5",
+      "title": "September Shadows",
+      "description": "Cam Smith's milestone home run offered hope, but Acuña's grand slam off Abreu underscored the pitching vulnerabilities that would haunt October.",
+      "startClipIndex": 13,
       "endClipIndex": 14,
       "tone": "struggle"
     },
     {
-      "id": "ch5",
-      "title": "Wild Card Exit",
-      "description": "The Astros' postseason dreams arrive and evaporate in two games, with Cam Smith and Altuve homering in a valiant Game 2 comeback that falls short as the bullpen implodes one final time.",
+      "id": "ch6",
+      "title": "Wild Card, Wild Finish",
+      "description": "Smith and Altuve homered to keep the dream alive, but Bryan Abreu's blown lead in Game 2 ended Houston's season in heartbreaking fashion.",
       "startClipIndex": 15,
       "endClipIndex": 22,
-      "tone": "clutch"
+      "tone": "struggle"
     }
   ],
   "clips": [
@@ -555,5 +563,5 @@
     "division": "AL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-01T17:09:12.256Z"
+  "generatedAt": "2026-11-02T20:45:20.652Z"
 }

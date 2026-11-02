@@ -1,44 +1,44 @@
 {
   "teamId": 112,
   "year": 2026,
-  "narrative": "The 2026 Chicago Cubs came out of the gates with genuine promise, turning a pedestrian March into a launching pad for one of the better Aprils in recent franchise memory. Alex Bregman proved his worth as a high-leverage hitter almost immediately, delivering clutch singles in the season's earliest pivotal moments, while young Michael Busch and the emerging Moisés Ballesteros — whose grand slam in late April sent a message around the league — gave the lineup unexpected depth. The Cubs went 17-9 in April, and for a stretch it looked like they might be a genuine division threat.\n\nMay brought turbulence. Pete Crow-Armstrong dazzled with a triple-homer combination that hinted at stardom, but the pitching staff began to crack. Ryan Rolison and Phil Maton surrendered crushing home runs in mid-May, and Chicago limped to a 13-16 mark that month. June steadied the ship — Crow-Armstrong continued his breakout with his 11th homer, Jordan Wicks induced a massive double play to escape a jam, and the Cubs posted a solid 16-10 record — though the bullpen's volatility, embodied by Caleb Thielbar's late blow against Colorado, kept the month from feeling clean.\n\nJuly and August defined the Cubs' character as a team capable of winning ugly. Crow-Armstrong and Ian Happ provided pop, Bregman delivered timely singles and home runs through the dog days, and the offense — 850 runs on the season — kept Chicago afloat even as Jacob Webb became the roster's most dangerous liability, surrendering three catastrophic home runs in August alone including a two-run walk-off by Randy Arozarena worth nearly a full win of lost probability. The Cubs still managed 16-12 in August, a testament to the lineup's resilience.\n\nWhen October arrived, it came against San Diego, and the Cubs found themselves outgunned. Matthew Boyd could not navigate the Padres' dangerous core — Fernando Tatis Jr. and Manny Machado each homered in Game 1, and by Game 2 the offense managed only scattered moments of hope. Nico Hoerner's single plated a run to give the Wrigley faithful a brief spark, but a Gavin Sheets homer off Daniel Palencia extinguished it. The Wild Card exit stung, but an 89-win season and a return to October baseball left Cubs fans with more reasons for optimism than regret heading into 2027.",
+  "narrative": "The 2026 Chicago Cubs came out of the gate swinging, turning a modest spring into a dominant April that set the tone for a season full of promise. Alex Bregman's clutch hitting and a suddenly fearsome lineup that featured breakout contributions from Pete Crow-Armstrong and Moisés Ballesteros made Wrigley Field a dangerous place for opponents. The Cubs scored runs in bunches, and the 17-9 April record announced them as a legitimate National League contender.\n\nMay and June brought turbulence. A .448 winning percentage in May — scarred by bullpen implosions, including Ryan Rolison surrendering key home runs — threatened to derail the early optimism. But Crow-Armstrong emerged as a bona fide star, clubbing home runs and delivering clutch hits on both sides of what could have been a prolonged slump. June steadied the ship: the Cubs went 16-10, buoyed by Jordan Wicks inducing critical double plays and Seiya Suzuki delivering timely singles, even as the bullpen continued to give games away at the worst moments.\n\nJuly and August were the heart of the Cubs' season — gritty, uneven, and ultimately successful. The offense continued to thrive, with Ian Happ blasting grand slams and Alex Bregman providing veteran leadership in the middle of the lineup. But Jacob Webb became the season's most glaring wound, surrendering multiple devastating home runs that turned wins into losses in an instant. Through it all, the Cubs kept winning, posting a combined 30-22 record across those two months and holding their postseason positioning firm.\n\nThe Cubs clinched a Wild Card berth and met San Diego in October, but the postseason was over almost before it began. Matthew Boyd couldn't contain Fernando Tatis Jr. and Manny Machado in Game 1, and despite Nico Hoerner's spark in Game 2, the Cubs' bats went quiet when it mattered most. Dansby Swanson's strikeout and a Gavin Sheets home run off Daniel Palencia sealed the fate of a team that had worked all summer to earn a shot at the title — only to see it slip away in the cruelest, most abrupt way possible.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Fast Starters",
-      "description": "Bregman's clutch hitting and a Ballesteros grand slam power a dominant 17-9 April that establishes the Cubs as contenders.",
+      "title": "April Ascent",
+      "description": "Bregman, Busch, and Conforto power a dominant April that establishes the Cubs as a legitimate contender.",
       "startClipIndex": 0,
       "endClipIndex": 4,
       "tone": "triumph"
     },
     {
       "id": "ch2",
-      "title": "May Stumble",
-      "description": "Back-to-back costly home runs surrendered by the pitching staff expose bullpen vulnerabilities and send Chicago to a 13-16 May.",
+      "title": "Crow-Armstrong Takes Flight",
+      "description": "Pete Crow-Armstrong's breakout fuels a resilient stretch even as the bullpen stumbles through a rocky May.",
       "startClipIndex": 5,
       "endClipIndex": 9,
-      "tone": "struggle"
-    },
-    {
-      "id": "ch3",
-      "title": "Crow-Armstrong Takes Flight",
-      "description": "Pete Crow-Armstrong's offensive explosion leads a 16-10 June resurgence, though the bullpen remains a source of heartbreak.",
-      "startClipIndex": 10,
-      "endClipIndex": 16,
       "tone": "turning_point"
     },
     {
-      "id": "ch4",
-      "title": "Winning Ugly",
-      "description": "Bregman, Happ, and Crow-Armstrong keep the Cubs afloat through July and August despite Jacob Webb's repeated late-game disasters.",
-      "startClipIndex": 17,
-      "endClipIndex": 31,
+      "id": "ch3",
+      "title": "June Grind",
+      "description": "The Cubs claw to a 16-10 June with clutch hits and timely pitching despite ongoing late-inning vulnerabilities.",
+      "startClipIndex": 10,
+      "endClipIndex": 16,
       "tone": "clutch"
     },
     {
+      "id": "ch4",
+      "title": "Summer Wars",
+      "description": "An entertaining but uneven July and August tests the Cubs' resolve as big offensive moments clash with Jacob Webb's costly implosions.",
+      "startClipIndex": 17,
+      "endClipIndex": 31,
+      "tone": "struggle"
+    },
+    {
       "id": "ch5",
-      "title": "October's Short Stay",
-      "description": "Matthew Boyd is battered by Tatis and Machado in Game 1, and a Gavin Sheets homer ends the Cubs' Wild Card hopes in Game 2.",
+      "title": "October's Cruel Exit",
+      "description": "The Cubs reach the Wild Card but are quickly eliminated as San Diego's bats overpower a thin Chicago pitching staff.",
       "startClipIndex": 32,
       "endClipIndex": 39,
       "tone": "struggle"
@@ -915,5 +915,5 @@
     "division": "NL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-01T17:22:04.447Z"
+  "generatedAt": "2026-11-02T20:59:09.188Z"
 }

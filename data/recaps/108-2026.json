@@ -1,53 +1,45 @@
 {
   "teamId": 108,
   "year": 2026,
-  "narrative": "The 2026 Los Angeles Angels entered the season with cautious optimism, but April quickly revealed the steep hill ahead. A bullpen that couldn't hold leads, a rotation that surrendered big hits at the worst moments, and an offense that sputtered when it mattered most combined to produce a 9-17 April. Pitchers like Jordan Romano and Brent Suter were put in tough spots early, and opposing bats made them pay dearly. By the end of the month, Anaheim already had the feel of a team scrambling for footing.\n\nMay and June offered brief flickers of hope. Zach Neto emerged as a genuine offensive force, launching home runs that swung games and energized a quiet fanbase. Vaughn Grissom's grand slam late in May and Jose Siri's bases-clearing blast on June 1st showcased the kind of pop this lineup could produce. A remarkable comeback on June 24th — built on back-to-back clutch singles from Nolan Schanuel and Logan O'Hoppe — suggested that maybe, just maybe, this team had the fight in it to claw back toward respectability. June closed at 13-14, the only month that ended with a winning record.\n\nJuly erased whatever goodwill had been built. A brutal 6-17 month, punctuated by Kirby Yates surrendering a pivotal double and the bullpen unraveling repeatedly, sent the Angels into a tailspin from which they never recovered. August brought more of the same: Sammy Peralta allowed a grand slam to Edmundo Sosa in one of the season's most damaging single swings, and Ben Joyce was torched for multiple extra-base hits in the same outing. The run prevention simply wasn't there.\n\nSeptember has become a long goodbye for the 2026 Angels. Sam Bachman has continued to struggle on the mound, giving up key home runs, while moments of individual brightness — Mike Trout's veteran line drives, Vaughn Grissom's solo shots, Denzer Guzman's timely doubles — feel more like closing-chapter highlights than rallying cries. At 62-100, this is a season defined by what didn't work, though it has also begun to sketch what might: Neto's power, Grissom's bat, and flashes from young arms hint at a foundation worth building upon.",
+  "narrative": "The 2026 Los Angeles Angels arrived with familiar hopes and familiar heartbreak. From the opening weeks, the bullpen and rotation proved porous, surrendering walk-off hits and critical home runs at an alarming rate. April was a disaster in the making — Jordan Romano and Drew Pomeranz were torched in high-leverage situations, and by the end of the month the Angels sat at 9-17, already looking up at the rest of the AL West.\n\nMay and June offered the briefest flickers of light. Zach Neto emerged as a genuine offensive force, delivering a clutch two-run blast on May 18 and following it up with another go-ahead shot in late June. Vaughn Grissom's grand slam on May 26 was a highlight-reel moment, and a wild multi-hit comeback on June 24 — featuring back-to-back clutch singles from Nolan Schanuel and Logan O'Hoppe — gave the Angels their best offensive showing of the season. Yet for every rally, the pitching staff found a new way to unravel, and the team finished June just 13-14 for the month, treading water rather than gaining ground.\n\nJuly was the breaking point. A 6-17 record shattered any lingering illusions, with Kirby Yates surrendering a pivotal double in mid-July that symbolized everything wrong with the club's relief corps. August and September brought more of the same — Ben Joyce was beaten for extra bases in back-to-back crushing losses, Sammy Peralta gave up a devastating grand slam to Edmundo Sosa in late August, and Sam Bachman was lit up twice in September. Mike Trout provided a sentimental late-season single, and young Denzer Guzman flashed promise with a clutch double in September, but the damage was long done.\n\nAt 62-100, the 2026 Angels are one of the worst teams in baseball, a franchise still searching for an identity beyond the fading legend of Mike Trout. The pitching staff was undermined by inconsistent bullpen usage, the offense could not sustain rallies, and a brutal second half turned a disappointing season into a genuine rebuilding moment. The bright spots — Neto's power surge, Grissom's clutch hitting, glimpses from young players like Guzman — offer thin but real hope heading into the offseason.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Early Turbulence",
-      "description": "A rocky April sees the bullpen and rotation fail to protect leads, sending the Angels to a 9-17 record and setting a frustrating tone for the year.",
+      "title": "Sinking Fast",
+      "description": "A brutal April sees the bullpen torched repeatedly and the Angels fall to 9-17 before May even begins.",
       "startClipIndex": 0,
       "endClipIndex": 5,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "Sparks of Life",
-      "description": "May brings genuine offensive firepower from Zach Neto and Vaughn Grissom, giving the Angels reasons for cautious optimism despite continued pitching woes.",
+      "title": "Sparks in the Rubble",
+      "description": "Zach Neto and Vaughn Grissom provide electrifying moments as the Angels show signs of life in May.",
       "startClipIndex": 6,
       "endClipIndex": 12,
       "tone": "turning_point"
     },
     {
       "id": "ch3",
-      "title": "June's Best Hope",
-      "description": "A stretch of clutch hits — grand slams, timely singles, and Neto's surging power — fuels the Angels' only winning month of the season.",
+      "title": "June Rallies, Briefly",
+      "description": "A spirited June — including a dramatic multi-hit comeback on the 24th — keeps the Angels afloat at 13-14 for the month.",
       "startClipIndex": 13,
       "endClipIndex": 21,
       "tone": "clutch"
     },
     {
       "id": "ch4",
-      "title": "July Collapse",
-      "description": "A catastrophic 6-17 July, headlined by bullpen meltdowns and blown leads, extinguishes any remaining playoff hopes and exposes deep roster flaws.",
+      "title": "The Floor Falls Out",
+      "description": "A catastrophic 6-17 July, anchored by another Kirby Yates meltdown, ends any hope of a turnaround.",
       "startClipIndex": 22,
       "endClipIndex": 23,
       "tone": "struggle"
     },
     {
       "id": "ch5",
-      "title": "August Unraveling",
-      "description": "The bullpen continues to hemorrhage runs through August, with Sammy Peralta's grand slam surrender standing as the gut-punch symbol of a lost season.",
+      "title": "Fading to Fall",
+      "description": "August and September bring more of the same — costly blown leads and late-season losses — though young talent like Denzer Guzman and Trout's late hit provide small reasons to watch.",
       "startClipIndex": 24,
-      "endClipIndex": 28,
-      "tone": "struggle"
-    },
-    {
-      "id": "ch6",
-      "title": "September Farewells",
-      "description": "With the season winding down, individual bright spots from Trout, Grissom, and Guzman offer glimpses of what the next chapter in Anaheim might look like.",
-      "startClipIndex": 29,
       "endClipIndex": 33,
       "tone": "milestone"
     }
@@ -793,5 +785,5 @@
     "division": "AL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-01T17:10:23.958Z"
+  "generatedAt": "2026-11-02T20:46:39.126Z"
 }

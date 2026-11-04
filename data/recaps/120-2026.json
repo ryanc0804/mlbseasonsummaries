@@ -1,44 +1,52 @@
 {
   "teamId": 120,
   "year": 2026,
-  "narrative": "The 2026 Washington Nationals entered the season with cautious optimism, and the early returns were mixed at best. A rocky April — bookended by a brutal Opening Day single off Cole Henry that let two runs score and a shaky 12-15 record — hinted at a team still searching for its identity. Yet amid the turbulence, young stars like James Wood and CJ Abrams flashed the kind of talent that keeps a fan base believing. Abrams in particular announced himself with an eighth home run on the final day of April that kept Washington's hopes alive heading into the warmer months.\n\nMay and June represented the season's brightest stretch. The Nationals surged to a 16-12 May on the strength of clutch contributions from Daylen Lile and CJ Abrams, with Abrams' two-run triple on May 22nd standing as one of the most electric plays of the year. June was more turbulent — a Mitchell Parker grand slam allowed and a nightmarish multi-homer meltdown against Philadelphia on June 23rd threatened to unravel everything — but Washington fought back with timely home runs from Jorbit Vivas and Curtis Mead to finish 13-14. The offense was humming, posting 821 runs on the season, and for a fleeting moment a winning record felt attainable.\n\nJuly brought the turning point in the wrong direction. The Nationals went 11-13 in a month defined by opposing hitters feasting on Washington's bullpen — Jazz Chisholm's two-run bomb off Matt Krook in early July serving as a particularly painful example. August was the cruelest month, a 11-18 collapse that effectively buried any wild-card dreams. Tom Cosgrove surrendered a grand slam, Richard Lovelady had already cost the team dearly in June, and the bullpen as a unit seemed incapable of protecting leads in high-leverage moments. The young starters showed flashes, but the lack of a reliable back-end rotation left too many games on the table.\n\nSeptember offered a measure of dignity but no redemption. At 11-11 through the month, Washington played competitive baseball, though the biggest plays still cut against them — Mookie Betts crushing a three-run homer off Will Dion and Tommy Edman doing damage off Clayton Beeter among the lowlights. The Nationals finish the year at 77-85, a record that reflects a club with genuine offensive firepower — 210 home runs, a .744 OPS — but a rotation and bullpen that too often gave back what the lineup worked to create. The seeds of something better are clearly planted in Abrams, Wood, Lile, and Crews, and the 2026 season may ultimately be remembered as a necessary step in a longer journey.",
+  "narrative": "The 2026 Washington Nationals entered the season with cautious optimism, and that mood proved appropriate — a 3-2 March gave way to a rocky April (12-15) where the pitching staff bled early, most painfully when Cole Henry surrendered a two-run single to Edmundo Sosa on Opening Day that swung the game dramatically in the opponent's favor. Yet the offense showed genuine life: James Wood's three-run blast on April 6th, CJ Abrams' go-ahead homer to close the month, and timely double plays from Cionel Pérez and Orlando Ribalta that bailed out shaky bullpen outings all suggested a team capable of competing.\n\nMay and June represented the Nationals' high-water mark. A 16-12 May was fueled by the emerging Abrams-Lile tandem — Abrams' clutch triple on May 22nd and Lile's two-run shot on May 13th were the kind of plays that define a hopeful summer. June went 13-14, technically a losing record, but the team kept punching back. Jorbit Vivas' three-run homer on June 23rd answered a brutal Phillies rally, and Curtis Mead stayed hot offensively. The month was also marked by the season's single costliest moment: Richard Lovelady surrendering a walk-off two-run shot to Derek Hill on June 24th, a -0.751 WPA gut-punch that encapsulated a bullpen that could not hold late-game leads.\n\nJuly brought a 11-13 stumble, and August was the season's true breaking point at 11-18. Pitchers like Matt Krook, Clayton Beeter, and Andrew Alvarez took turns surrendering crushing blows — Jazz Chisholm's two-run homer in July, Ben Rice's two-run triple, and Derek Hill's grand slam off Tom Cosgrove in August all arriving in high-leverage moments. The offense gave glimpses of life — Brady House's three-run shot on August 15th, Daylen Lile's clutch RBI singles — but the bullpen kept undoing the work. By the end of August Washington sat well below .500, the postseason dream effectively fading.\n\nSeptember arrived as a complicated coda: an 11-11 record that was neither surrender nor resurgence. Clayton Beeter and Will Dion absorbed punishing home runs from Tommy Edman and Mookie Betts in back-to-back September games, and late-season losses to the Braves and Cardinals underscored the roster's limits. The Nationals finish 2026 at 77-85 — a team that spent the year just close enough to tease but never close enough to threaten, a bridge year where young pieces like Abrams, Wood, Lile, and Mead showed enough to fuel belief in what might come next.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Rocky Beginnings",
-      "description": "A turbulent April sees the Nationals stumble to 12-15 as the bullpen and young starters struggle under early pressure.",
+      "title": "Early Turbulence, Early Promise",
+      "description": "A rough April opening gives way to flashes of offensive brilliance as Wood and Abrams carry Washington to a competitive spring.",
       "startClipIndex": 0,
-      "endClipIndex": 5,
-      "tone": "struggle"
+      "endClipIndex": 6,
+      "tone": "turning_point"
     },
     {
       "id": "ch2",
-      "title": "Abrams and Lile Ignite",
-      "description": "May's best stretch arrives on the arms and bats of CJ Abrams and Daylen Lile, lifting Washington to a winning month.",
-      "startClipIndex": 6,
+      "title": "The Abrams-Lile Surge",
+      "description": "May's best month of baseball arrives on the backs of CJ Abrams and Daylen Lile, who deliver clutch hit after clutch hit to push Washington into contention.",
+      "startClipIndex": 7,
       "endClipIndex": 9,
       "tone": "triumph"
     },
     {
       "id": "ch3",
-      "title": "June's Wild Swings",
-      "description": "A chaotic June features grand slams, late-game collapses, and clutch home runs in a month Washington barely survives at 13-14.",
+      "title": "June's Double-Edged Sword",
+      "description": "The Nationals keep fighting through a see-saw June, but bullpen implosions — led by the devastating Lovelady blow — reveal the team's ceiling.",
       "startClipIndex": 10,
       "endClipIndex": 18,
-      "tone": "turning_point"
+      "tone": "struggle"
     },
     {
       "id": "ch4",
-      "title": "Summer Unravels",
-      "description": "July and August bring the season's darkest chapter as the bullpen implodes and an 11-18 August buries playoff hopes.",
+      "title": "The July Slide",
+      "description": "An 11-13 July turns ominous as opposing hitters repeatedly victimize Washington's pitching staff in high-leverage situations.",
       "startClipIndex": 19,
-      "endClipIndex": 28,
+      "endClipIndex": 21,
       "tone": "struggle"
     },
     {
       "id": "ch5",
-      "title": "Playing Out the String",
-      "description": "A .500 September salvages some pride but can't mask the season's deeper flaws as Washington finishes 77-85.",
+      "title": "August Collapse",
+      "description": "An 11-18 August buries any postseason hopes as the bullpen surrenders grand slams and late-inning leads at an unsustainable rate.",
+      "startClipIndex": 22,
+      "endClipIndex": 28,
+      "tone": "struggle"
+    },
+    {
+      "id": "ch6",
+      "title": "September Fade",
+      "description": "A .500 September offers a measure of dignity but cannot paper over the losses as the Nationals limp to the finish line at 77-85.",
       "startClipIndex": 29,
       "endClipIndex": 34,
       "tone": "milestone"
@@ -804,5 +812,5 @@
     "division": "NL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-02T20:57:48.467Z"
+  "generatedAt": "2026-11-04T18:40:47.343Z"
 }

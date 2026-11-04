@@ -1,55 +1,55 @@
 {
   "teamId": 147,
   "year": 2026,
-  "narrative": "The 2026 New York Yankees arrived with modest expectations and quickly established themselves as a legitimate American League contender. A 4-1 March gave way to a solid April, where the offense sparked to life behind unlikely heroes — Amed Rosario's three-run blast, José Caballero's clutch doubles, and contributions from Ryan McMahon and Trent Grisham set the tone for a team that could manufacture runs from top to bottom. The rotation and bullpen kept opponents at bay with a sterling 3.23 ERA, and 223 home runs over the course of the season underscored that this was a dangerous lineup on any given night.\n\nMay and early June tested the Yankees' resolve. David Bednar, charged with protecting leads, became the story for all the wrong reasons — surrendering walk-off and go-ahead home runs that erased hard-earned victories. The Brewers and Orioles punished the bullpen in ways that stung. Yet the team refused to spiral. Anthony Volpe delivered a clutch hit on May 25th to remind everyone what this lineup was capable of, and even through a rough 12-14 June, key bats like Paul Goldschmidt and Ben Rice continued to produce. The Yankees were winning ugly when they had to, and losing close games when they couldn't escape trouble.\n\nJuly ignited a genuine turning point. Jazz Chisholm Jr.'s go-ahead homer on July 10th, Trent Grisham's follow-up blast the next day, and Ben Rice's thunderous triple on July 12th announced that New York was ready to make a move. August and September produced their best baseball — a combined 31-20 record — as Luis García Jr., Ben Rice, Austin Wells, and Anthony Volpe all delivered signature moments. The rotation tightened and the offense hummed, carrying the Yankees to 93 wins and an American League Wild Card berth.\n\nOctober, however, ended in heartbreak. After surviving the Wild Card round, the Yankees ran into a sharp Tampa Bay squad in the ALDS. Max Fried surrendered back-to-back home runs in Game 2, and despite Spencer Jones and Anthony Volpe showing flashes of October magic, the Rays' pitching and timely hitting proved too much. The Yankees fell in the Division Series, their promising season ending just short of the promise everyone sensed from the very start of summer.",
+  "narrative": "The 2026 New York Yankees arrived with something to prove, and April delivered immediate drama. A 16-10 month was punctuated by a series of clutch moments — none bigger than José Caballero's reviewed-and-upheld double that swung the game by over 70 win-probability points, and Amed Rosario's three-run homer that ignited an early winning streak. The pitching staff was crisp, the lineup was deep, and the Yankees looked every bit like a division contender.\n\nMay and June told a more complicated story. David Bednar proved to be a persistent thorn, surrendering home runs that each cost the Yankees nearly half a game's worth of win probability — a troubling pattern from a bullpen arm. Brent Headrick also had rough outings, and a 12-14 June marked the season's lowest ebb. Yet the team never fully unraveled. Anthony Volpe's clutch single in late May and Paul Goldschmidt's power surge in June kept the Yankees afloat through the dog days, a testament to a lineup with enough depth to absorb the bad stretches.\n\nJuly and August reignited the flame. Jazz Chisholm Jr. delivered a go-ahead two-run blast in early July worth nearly 65 win-probability points, and Ben Rice — who had been building toward a monster season — contributed a stunning triple and a game-turning single in consecutive months. Luis García Jr. was quietly becoming one of the team's most reliable power sources, and by September the Yankees were surging at 15-8, earning their postseason berth on the strength of a roster that pitched brilliantly all year — a 3.23 ERA anchoring everything.\n\nThe postseason, however, was brief and bittersweet. After navigating the Wild Card round with García's homer, the Yankees ran into a Tampa Bay squad that would not be intimidated in the ALDS. Max Fried surrendered key home runs in Game 2 — including a two-run shot to Victor Mesa Jr. — and a would-be Volpe home run was controversially overturned to a double on fan interference. The Yankees had moments, including Spencer Jones announcing himself on the big stage, but Trent Grisham's strikeout to end a rally captured the quiet frustration of an October that ended too soon. At 93-68, this was a genuinely good Yankees team — just not quite good enough when it mattered most.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Rising in April",
-      "description": "Unlikely contributors spark an early surge as the Yankees establish their identity with clutch hitting and a dominant pitching staff.",
+      "title": "April Sparks",
+      "description": "The Yankees burst out of the gate with clutch hits and timely power, building early momentum through a winning April.",
       "startClipIndex": 0,
       "endClipIndex": 6,
       "tone": "triumph"
     },
     {
       "id": "ch2",
-      "title": "Bullpen Blues",
-      "description": "David Bednar and the relief corps become the team's Achilles heel, surrendering critical home runs in a stretch of frustrating late-game losses.",
+      "title": "Bullpen Cracks",
+      "description": "Costly home runs allowed by relievers in May and June drag the Yankees to their worst month of the season.",
       "startClipIndex": 7,
       "endClipIndex": 10,
       "tone": "struggle"
     },
     {
       "id": "ch3",
-      "title": "Finding Their Footing",
-      "description": "Volpe's clutch single and timely contributions from Goldschmidt and Rice keep the Yankees afloat through a mixed June despite ongoing bullpen concerns.",
+      "title": "Staying the Course",
+      "description": "Late May and June saw clutch hits from Volpe and Goldschmidt keep the Yankees competitive despite the roster's rough patches.",
       "startClipIndex": 11,
       "endClipIndex": 14,
       "tone": "turning_point"
     },
     {
       "id": "ch4",
-      "title": "The July Explosion",
-      "description": "Chisholm, Grisham, and Rice go on a three-day tear that ignites a dominant stretch and sends the Yankees surging toward the postseason.",
+      "title": "Summer Surge",
+      "description": "Jazz Chisholm Jr., Ben Rice, and Luis García Jr. ignite a powerful stretch run, carrying the Yankees to a postseason berth.",
       "startClipIndex": 15,
-      "endClipIndex": 17,
+      "endClipIndex": 20,
       "tone": "triumph"
     },
     {
       "id": "ch5",
-      "title": "Closing Strong",
-      "description": "The Yankees lock down a Wild Card spot with clutch performances from García, Wells, and Volpe while weathering a few September scares.",
-      "startClipIndex": 18,
+      "title": "September Stumbles",
+      "description": "Late-season losses to crushing home runs provide warning signs even as the Yankees clinch their playoff spot at 93-68.",
+      "startClipIndex": 21,
       "endClipIndex": 25,
-      "tone": "clutch"
+      "tone": "struggle"
     },
     {
       "id": "ch6",
-      "title": "October's Bitter End",
-      "description": "The Yankees reach the ALDS but fall to Tampa Bay as Max Fried is victimized twice and the offense cannot overcome the Rays' relentless attack.",
+      "title": "October Cut Short",
+      "description": "A Wild Card victory gives way to an ALDS exit as Tampa Bay's bats silence the Yankees' October dreams.",
       "startClipIndex": 26,
       "endClipIndex": 33,
-      "tone": "struggle"
+      "tone": "clutch"
     }
   ],
   "clips": [
@@ -795,5 +795,5 @@
     "division": "AL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-02T20:33:52.842Z"
+  "generatedAt": "2026-11-04T18:16:17.689Z"
 }

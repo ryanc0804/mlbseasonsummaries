@@ -1,44 +1,52 @@
 {
   "teamId": 138,
   "year": 2026,
-  "narrative": "The 2026 St. Louis Cardinals opened the year with genuine promise, riding a hot April that put them at 15-11 and signaled that the rebuilding core — led by Jordan Walker, Masyn Winn, and young catcher Iván Herrera — might be ready to compete. JJ Wetherholt announced himself as a legitimate offensive force from the jump, delivering a walk-off single on Opening Weekend that set an optimistic tone for what many hoped would be a return to relevance in the National League Central.\n\nMay and June were months of equilibrium — the Cardinals played near-.500 ball and found moments of genuine brilliance, including Lars Nootbaar's first home run of the season in a high-leverage spot and Walker racking up doubles at a remarkable clip. The bullpen, however, was becoming a liability. Ryne Stanek, JoJo Romero, and Riley O'Brien each surrendered critical blows at the worst possible moments, keeping St. Louis from ever truly separating itself from the pack and building a cushion in the standings.\n\nJuly was where the season fractured. A 10-18 record in the dog days exposed every weakness — shaky relief pitching, a rotation without an ace, and mental lapses in the field, including a costly Masyn Winn throwing error that let Atlanta back into a game. Opponents like Pete Crow-Armstrong, Nolan Arenado, and Corbin Carroll took turns feasting on a Cardinals pitching staff that had no answers. By the time August arrived, the postseason felt like a distant dream, and the team was simply playing to find answers for 2027.\n\nSeptember brought flickers of pride if not salvation. Iván Herrera emerged as one of the most compelling storylines of the second half, delivering a three-run homer in early September that showcased his enormous potential. Rookie Leo Bernal also turned heads late in the year with clutch hits that hinted at a brighter future. But Riley O'Brien's continued struggles — culminating in a devastating late-game home run allowed to Randal Grichuk on September 12th — underscored just how far the Cardinals' pitching depth still needs to develop. At 77-85, St. Louis finishes with a losing record but with a core of young position players who have given the fanbase genuine reasons to believe the next chapter could be different.",
+  "narrative": "The 2026 St. Louis Cardinals opened the year with legitimate hope, and the first two months delivered enough to sustain it. A wild Opening Series in late March set the tone immediately — a gut-punch single by Ryne Stanek (pitching for the opposition) nearly sank the debut, before rookie JJ Wetherholt answered with a walk-off single that sent Busch III into an early frenzy. That sequence — gut-punch followed by resilience — would define much of the Cardinals' spring. April produced a 15-11 record, fueled by timely hitting from Masyn Winn, Yohel Pozo, and the emerging Jordan Walker, whose doubles were becoming a weekly highlight. May was a tightrope walk at 13-13, but Nolan Gorman's sixth home run of the season and clutch contributions from Walker and Pozo kept the Cardinals hovering above .500 and dreaming of something more.\n\nJune offered perhaps the most hopeful stretch of the season. Lars Nootbaar's first home run of the year — a two-run shot worth over half a win in probability — was the signature moment of a 13-12 month that felt like a team beginning to click. Walker continued his assault on extra-base hit records, and the rotation, while imperfect, was holding opponents in check often enough. At the midpoint of the season, St. Louis sat in genuinely competitive territory, the kind of position that makes front offices nervous and fan bases electric.\n\nThen came July, and it came apart. A 10-18 collapse buried whatever goodwill the first half had built. The bullpen — particularly Ryne Stanek, JoJo Romero, Riley O'Brien, and Luis Gastelum — hemorrhaged leads with alarming regularity. A throwing error by Masyn Winn, a Nolan Arenado home run off Gordon Graceffo, and a crushing Pete Crow-Armstrong blast off Gastelum encapsulated a month in which almost nothing went right. August began to feel like recovery, and at 14-14 it was statistically neutral, but the damage was done — and Riley O'Brien continued to be a liability, surrendering a Matt McLain grand slam in the most damaging single moment of the entire season.\n\nSeptember arrived with the Cardinals already well outside the playoff picture, their 77-85 record a quiet but clear verdict on a roster that couldn't survive its own bullpen. Still, the final weeks produced some genuine brightness: Iván Herrera announced himself with a three-run homer against the Dodgers, Leo Bernal's clutch single and a later home run offered a glimpse of what young players might become, and Alec Burleson's 36th double drove in multiple runs in a September win that briefly felt meaningful. The 2026 Cardinals were a team that played just well enough in the spring to believe, and not quite well enough in the summer to deliver.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Opening Sparks",
-      "description": "The Cardinals burst out of the gate with clutch hitting and a winning April that raised early hopes for the season.",
+      "title": "Opening Acts: Hope and Heartbreak",
+      "description": "A turbulent but winning March and April establishes the Cardinals as a competitive team, with young players delivering clutch hits to overcome bullpen stumbles.",
       "startClipIndex": 0,
       "endClipIndex": 6,
-      "tone": "triumph"
-    },
-    {
-      "id": "ch2",
-      "title": "Walking the Tightrope",
-      "description": "May and June saw the Cardinals hover around .500, mixing timely offense with costly bullpen implosions.",
-      "startClipIndex": 7,
-      "endClipIndex": 14,
       "tone": "turning_point"
     },
     {
+      "id": "ch2",
+      "title": "Treading Water in May",
+      "description": "A .500 May keeps St. Louis alive in the race, with Jordan Walker, Yohel Pozo, and Nolan Gorman providing the offensive firepower to offset pitching lapses.",
+      "startClipIndex": 7,
+      "endClipIndex": 11,
+      "tone": "triumph"
+    },
+    {
       "id": "ch3",
-      "title": "July Collapse",
-      "description": "A brutal 10-18 July exposed the team's pitching fragility and effectively ended any realistic postseason conversation.",
+      "title": "June's Fleeting Promise",
+      "description": "The Cardinals post their best stretch of play, highlighted by Lars Nootbaar's first home run and Walker's relentless line drives, raising genuine postseason hopes.",
+      "startClipIndex": 12,
+      "endClipIndex": 14,
+      "tone": "triumph"
+    },
+    {
+      "id": "ch4",
+      "title": "The July Collapse",
+      "description": "A brutal 10-18 July exposes the team's bullpen as fatally unreliable, with a parade of opposition home runs and a costly Masyn Winn error erasing the first-half gains.",
       "startClipIndex": 15,
       "endClipIndex": 22,
       "tone": "struggle"
     },
     {
-      "id": "ch4",
+      "id": "ch5",
       "title": "August Turbulence",
-      "description": "The Cardinals played .500 baseball in August but couldn't escape the damage, with relief pitchers and opponents' power hitters trading blows.",
+      "description": "The Cardinals play .500 ball in August but cannot escape Riley O'Brien's grand slam disaster and other bullpen collapses, even as a remarkable JJ Wetherholt error-gift sparks one comeback.",
       "startClipIndex": 23,
       "endClipIndex": 31,
       "tone": "struggle"
     },
     {
-      "id": "ch5",
-      "title": "September Silver Linings",
-      "description": "With the season's outcome decided, young Cardinals like Iván Herrera and Leo Bernal gave fans something to look forward to in 2027.",
+      "id": "ch6",
+      "title": "September's Silver Linings",
+      "description": "With the season's fate effectively sealed, Iván Herrera, Leo Bernal, and Alec Burleson offer flashes of the future even as Riley O'Brien's September struggles underscore the year's defining frustration.",
       "startClipIndex": 32,
       "endClipIndex": 38,
       "tone": "milestone"
@@ -375,6 +383,8 @@
       "title": "Home Run — Jordan Walker",
       "description": "Jordan Walker homers (20) on a fly ball to left center field. JJ Wetherholt scores. Alec Burleson scores.",
       "playId": "d5113740-d163-3a41-942d-535339a2af6a",
+      "videoUrl": "https://sporty-clips.mlb.com/ek13eVpfV0ZRVkV3dEdEUT09X1VnUlFWVmNEVWdJQVhGTUVWUUFIVUFKWEFGZ0JVUVVBQjFZQUF3QU1VQUVFVmdRSA==.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/kiv9h3aqnhg4gjchwdmq.jpg",
       "date": "2026-07-05",
       "gamePk": 824656,
       "atBatNumber": 43,
@@ -388,8 +398,7 @@
       "wpa": 0.361,
       "xwoba": 1.956,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/ek13eVpfV0ZRVkV3dEdEUT09X1VnUlFWVmNEVWdJQVhGTUVWUUFIVUFKWEFGZ0JVUVVBQjFZQUF3QU1VQUVFVmdRSA==.mp4"
+      "gameType": "R"
     },
     {
       "id": "823029-74-9",
@@ -754,6 +763,8 @@
       "title": "Home Run — Iván Herrera",
       "description": "Iván Herrera homers (15) on a fly ball to center field. Thomas Saggese scores. José Fermín scores.",
       "playId": "ff525039-59d7-38a5-9ccc-b2c45dcb07e1",
+      "videoUrl": "https://sporty-clips.mlb.com/TUFYa1FfWGw0TUFRPT1fVUZkVVZsRUVWUXNBRFZ0V1VRQUhDVmRUQUZoV0FBSUFVRmRXQkFaUlVsRlZCMWRY.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/mox8luipxvff3szobleg.jpg",
       "date": "2026-09-04",
       "gamePk": 824311,
       "atBatNumber": 75,
@@ -767,8 +778,7 @@
       "wpa": 0.616,
       "xwoba": 1.605,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/TUFYa1FfWGw0TUFRPT1fVUZkVVZsRUVWUXNBRFZ0V1VRQUhDVmRUQUZoV0FBSUFVRmRXQkFaUlVsRlZCMWRY.mp4"
+      "gameType": "R"
     },
     {
       "id": "823172-68-8",
@@ -891,5 +901,5 @@
     "division": "NL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-04T18:48:10.597Z"
+  "generatedAt": "2026-11-06T18:14:52.755Z"
 }

@@ -1,47 +1,47 @@
 {
   "teamId": 115,
   "year": 2026,
-  "narrative": "The 2026 Colorado Rockies entered the season with modest expectations, and the early months did little to inspire optimism. March and April were defined by bullpen failures and untimely home runs surrendered by the likes of Victor Vodnik, whose two costly blasts in late March and late April encapsulated a pitching staff that simply could not hold leads or keep opponents off the board. The team limped to a 14-18 combined record through those two months, with the offense offering only sporadic resistance against an ERA that was bloating toward historically bad territory.\n\nMay brought more of the same misery, as Juan Mejia and Jimmy Herget each surrendered momentum-killing home runs and the Rockies went just 8-20 — their worst month of the season. The pitching staff was hemorrhaging runs at a staggering pace, and the offense, while showing flashes, could not keep pace. It was a month that tested the patience of even the most devoted fans at Coors Field, and the losses began to pile up with a numbing regularity.\n\nJune, however, delivered something unexpected: a pulse. Cole Carrigg emerged as a genuine bright spot, slugging two crucial home runs that swung games, while Hunter Goodman continued his assault on opposing pitching with towering shots of his own. Jake McCarthy's RBI triple and Braxton Fulford's clutch double in late June gave the Rockies a 11-15 record for the month — not spectacular, but a marked improvement that suggested young talent was beginning to cohere. The team played with an energy that had been absent in the dark early weeks.\n\nJuly and August offered little sustained momentum, as the Rockies slid back into losing habits, going a combined 19-33 over those two months. Jaden Hill's costly outing in late August, when Michael Harris II's double deflected off two Rockies defenders for maximum damage, symbolized the luck and execution problems that plagued this team all year. September has continued in that vein, though Brett Sullivan's walk-off single on September 2nd provided one of the season's most electric moments. At 58-104, the Rockies are mathematically eliminated from playoff contention and are playing out the string, searching for young players who can be building blocks for a future that feels, perhaps for the first time in years, worth imagining.",
+  "narrative": "The 2026 Colorado Rockies entered the season with modest expectations and promptly confirmed them, stumbling out of the gate in March and April while their bullpen and rotation leaked runs at an alarming rate. Pitchers like Victor Vodnik and Juan Mejia found themselves on the wrong end of highlight reels, surrendering home runs in critical moments that set the tone for a long, difficult summer. The team's ERA of 5.59 told the story plainly: at Coors Field and everywhere else, opposition hitters feasted.\n\nMay brought little relief, as the Rockies posted an 8-20 record — their worst month of the season — with the bullpen continuing to unravel in high-leverage spots and the offense unable to compensate. But something stirred in late May, when Hunter Goodman and Ezequiel Tovar delivered back-to-back home runs on the same afternoon, offering a glimpse of the offensive firepower buried in this roster. Those two swings planted a seed of belief heading into June.\n\nJune represented the most surprising chapter of the Rockies' season. Despite dropping games in ugly fashion — Senzatela and the pitching staff surrendering triples and costly doubles — Cole Carrigg emerged as an unexpected catalyst, slugging go-ahead home runs and igniting a stretch that pushed Colorado to an 11-15 monthly record. Hunter Goodman's monster power numbers continued to grow, Jake McCarthy came through with a clutch bases-clearing triple, and young players like Braxton Fulford and TJ Rumfield flashed promise. For a few weeks, Coors Field felt alive.\n\nThe optimism faded as summer deepened. July and August returned to the familiar rhythm of struggle, with Jaden Hill's costly outing in late August epitomizing a pitching staff that could not hold leads when it mattered most. By September, elimination from playoff contention was a mathematical certainty, with the team sitting at 58-104 and playing out the string. Yet even in defeat, moments of dignity emerged — Brett Sullivan's walk-off single in early September and Mickey Moniak's milestone home run reminded anyone watching that individual stories of perseverance continued to be written, even in a lost season.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Early Turbulence",
-      "description": "Victor Vodnik and a leaky bullpen set the tone as Colorado stumbles through March and April.",
+      "title": "Rough Beginnings",
+      "description": "The Rockies stumble through March and April, with relievers surrendering pivotal home runs that signal an early season in trouble.",
       "startClipIndex": 0,
       "endClipIndex": 2,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "The Depths of May",
-      "description": "Colorado's worst month arrives in full, with the pitching staff collapsing and the losses mounting to an 8-20 record.",
+      "title": "May Meltdown",
+      "description": "An 8-20 May buries the Rockies' season hopes early, though late-month home runs from Goodman and Tovar offer a faint spark.",
       "startClipIndex": 3,
-      "endClipIndex": 5,
-      "tone": "struggle"
+      "endClipIndex": 7,
+      "tone": "turning_point"
     },
     {
       "id": "ch3",
-      "title": "June Flicker",
-      "description": "Cole Carrigg, Hunter Goodman, and Jake McCarthy give Rockies fans something to cheer about as the team posts its best month of the year.",
-      "startClipIndex": 6,
+      "title": "June Surge",
+      "description": "Cole Carrigg, Hunter Goodman, and a cast of young contributors ignite the Rockies' best stretch of the season in an unexpected June revival.",
+      "startClipIndex": 8,
       "endClipIndex": 18,
       "tone": "triumph"
     },
     {
       "id": "ch4",
-      "title": "Fading Summer",
-      "description": "July and August bring a return to losing ways as the Rockies go 19-33 and the season's ceiling becomes painfully clear.",
+      "title": "Fading Fast",
+      "description": "July and August bring a return to losing ways, with the bullpen collapsing in key spots and playoff hopes evaporating entirely.",
       "startClipIndex": 19,
-      "endClipIndex": 21,
+      "endClipIndex": 20,
       "tone": "struggle"
     },
     {
       "id": "ch5",
-      "title": "Playing for the Future",
-      "description": "September offers flashes of promise from young players even as the losses pile up and the season draws to a close.",
-      "startClipIndex": 22,
+      "title": "Playing Out the String",
+      "description": "With elimination certain, the Rockies find isolated moments of pride in September — a clutch Sullivan single and Moniak's power — amid the wreckage of a 58-104 campaign.",
+      "startClipIndex": 21,
       "endClipIndex": 24,
-      "tone": "turning_point"
+      "tone": "milestone"
     }
   ],
   "clips": [
@@ -176,6 +176,8 @@
       "title": "Home Run — Hunter Goodman",
       "description": "Umpire reviewed (home run), call on the field was upheld: Hunter Goodman homers (13) on a fly ball to left field. Jake McCarthy scores. Tyler Freeman scores.",
       "playId": "dbe332a3-7127-37fd-b6f0-75955f020637",
+      "videoUrl": "https://sporty-clips.mlb.com/SzRCWWpfWGw0TUFRPT1fVWxNRVYxY0dCd0VBRDFNQVVRQUhCbEFDQUFNREJWRUFCVkFNQlFaVEFRRlZCZ0ZS.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/aprp4ugjvfmipbhxl4cs.jpg",
       "date": "2026-05-29",
       "gamePk": 824353,
       "atBatNumber": 83,
@@ -189,14 +191,15 @@
       "wpa": 0.475,
       "xwoba": 1.15,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/SzRCWWpfWGw0TUFRPT1fVWxNRVYxY0dCd0VBRDFNQVVRQUhCbEFDQUFNREJWRUFCVkFNQlFaVEFRRlZCZ0ZS.mp4"
+      "gameType": "R"
     },
     {
       "id": "824353-86-9",
       "title": "Home Run — Ezequiel Tovar",
       "description": "Ezequiel Tovar homers (4) on a fly ball to left field. Willi Castro scores.",
       "playId": "221f2e3b-0031-38a7-9d41-8e4d28d1b671",
+      "videoUrl": "https://sporty-clips.mlb.com/SzRCWWpfWGw0TUFRPT1fQkFOUUFsWlJWVkFBQ0ZJQlZ3QUhDVmRSQUZoUlYxQUFDZ0FCVkFFTlZRSUhCZ1ZY.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/umx2x3xvkxlibwljgkaw.jpg",
       "date": "2026-05-29",
       "gamePk": 824353,
       "atBatNumber": 86,
@@ -210,8 +213,7 @@
       "wpa": 0.437,
       "xwoba": 1.739,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/SzRCWWpfWGw0TUFRPT1fQkFOUUFsWlJWVkFBQ0ZJQlZ3QUhDVmRSQUZoUlYxQUFDZ0FCVkFFTlZRSUhCZ1ZY.mp4"
+      "gameType": "R"
     },
     {
       "id": "824027-30-3",
@@ -303,6 +305,8 @@
       "title": "Home Run — TJ Rumfield",
       "description": "TJ Rumfield homers (8) on a fly ball to right field. Edouard Julien scores.",
       "playId": "6c2a4e74-4f15-3e2e-b45d-531556999b85",
+      "videoUrl": "https://sporty-clips.mlb.com/NXk5V05fWGw0TUFRPT1fQUZKVEJWQlJVUVlBREFRRFV3QUhWQVFEQUFNQlZnVUFCMVlFQlFZRENBcGNVZ3BU.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/vgwaweasqigvrlqwhebg.jpg",
       "date": "2026-06-10",
       "gamePk": 824348,
       "atBatNumber": 61,
@@ -316,8 +320,7 @@
       "wpa": 0.537,
       "xwoba": 0.317,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/NXk5V05fWGw0TUFRPT1fQUZKVEJWQlJVUVlBREFRRFV3QUhWQVFEQUFNQlZnVUFCMVlFQlFZRENBcGNVZ3BU.mp4"
+      "gameType": "R"
     },
     {
       "id": "824997-46-6",
@@ -368,6 +371,8 @@
       "title": "Double — Braxton Fulford",
       "description": "Braxton Fulford doubles (3) on a sharp line drive to center fielder Jake Mangum. Tyler Freeman scores. Cole Carrigg scores.",
       "playId": "003e0d4a-1f88-3a4a-ac40-22d5def585fa",
+      "videoUrl": "https://sporty-clips.mlb.com/M3k2YjRfWGw0TUFRPT1fQmdGU0FWUlFVbE1BQ1FRS1hnQUhVQUlIQUFCV1YxRUFBRmRSQlZkUVZ3WmRCVlFI.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/qtplwo329nvlpon439qo.jpg",
       "date": "2026-06-19",
       "gamePk": 824345,
       "atBatNumber": 64,
@@ -381,8 +386,7 @@
       "wpa": 0.536,
       "xwoba": 0.737,
       "eventType": "double",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/M3k2YjRfWGw0TUFRPT1fQmdGU0FWUlFVbE1BQ1FRS1hnQUhVQUlIQUFCV1YxRUFBRmRSQlZkUVZ3WmRCVlFI.mp4"
+      "gameType": "R"
     },
     {
       "id": "824345-70-9",
@@ -410,6 +414,8 @@
       "title": "Triple — Jake McCarthy",
       "description": "Jake McCarthy triples (4) on a ground ball to left fielder Jarren Duran. TJ Rumfield scores. Hunter Goodman scores. Cole Carrigg scores.",
       "playId": "2f85ee71-fae8-389a-91d0-2387d41926a5",
+      "videoUrl": "https://sporty-clips.mlb.com/MTZOTTJfWGw0TUFRPT1fQkZkWlVRRlJVUU1BWGdOWFhnQUhDUThIQUZnRUIxRUFBRllOQjFjQkFBcFhCbE5U.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/dbhcdgx7sigxnuibwktt.jpg",
       "date": "2026-06-22",
       "gamePk": 824344,
       "atBatNumber": 69,
@@ -423,8 +429,7 @@
       "wpa": 0.52,
       "xwoba": 0.297,
       "eventType": "triple",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/MTZOTTJfWGw0TUFRPT1fQkZkWlVRRlJVUU1BWGdOWFhnQUhDUThIQUZnRUIxRUFBRllOQjFjQkFBcFhCbE5U.mp4"
+      "gameType": "R"
     },
     {
       "id": "823688-73-9",
@@ -453,6 +458,8 @@
       "title": "Home Run — Kyle Karros",
       "description": "Kyle Karros homers (7) on a fly ball to left center field. TJ Rumfield scores. Braxton Fulford scores.",
       "playId": "80d9c5be-82c2-3246-9a63-48c1959d3482",
+      "videoUrl": "https://sporty-clips.mlb.com/R0Jya0xfV0ZRVkV3dEdEUT09X0RnRUZYUWNCQkZjQUFGQlJWQUFIQXdKUUFGaFVWVklBQmwxV0FRb0FDRmRXQkFwVQ==.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/ek3sxnce0y6hknlccea6.jpg",
       "date": "2026-07-05",
       "gamePk": 824333,
       "atBatNumber": 71,
@@ -466,14 +473,15 @@
       "wpa": 0.542,
       "xwoba": 2,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/R0Jya0xfV0ZRVkV3dEdEUT09X0RnRUZYUWNCQkZjQUFGQlJWQUFIQXdKUUFGaFVWVklBQmwxV0FRb0FDRmRXQkFwVQ==.mp4"
+      "gameType": "R"
     },
     {
       "id": "824318-62-7",
       "title": "Home Run — Mickey Moniak",
       "description": "Mickey Moniak homers (20) on a fly ball to right field. Jake McCarthy scores.",
       "playId": "a8e25a2c-4341-3fa3-ab2b-5f546861737e",
+      "videoUrl": "https://sporty-clips.mlb.com/cU93MXZfWGw0TUFRPT1fVndrRVZsRlZWRkVBREZFR1Z3QUhWMWRWQUFCWFVRTUFCd01BQkFVTkJ3SlNBd1VE.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/zaf9sflrlqipfgxfdlxi.jpg",
       "date": "2026-08-19",
       "gamePk": 824318,
       "atBatNumber": 62,
@@ -487,8 +495,7 @@
       "wpa": 0.351,
       "xwoba": 0.381,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/cU93MXZfWGw0TUFRPT1fVndrRVZsRlZWRkVBREZFR1Z3QUhWMWRWQUFCWFVRTUFCd01BQkFVTkJ3SlNBd1VE.mp4"
+      "gameType": "R"
     },
     {
       "id": "824874-64-8",
@@ -516,6 +523,8 @@
       "title": "Double — Zac Veen",
       "description": "Zac Veen doubles (2) on a sharp line drive to center fielder Colton Cowser. Cole Carrigg scores.",
       "playId": "b2125148-5317-390b-8c1f-63f28db0aa0a",
+      "videoUrl": "https://sporty-clips.mlb.com/ek13S3hfWGw0TUFRPT1fVkFOUVZsRUZVZ29BRFZFRFVRQUhDQVlFQUZsV1VnY0FCRlpUQWd0UlV3TUVVUUlI.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/cyhqgwxggelbb77jg6kx.jpg",
       "date": "2026-09-02",
       "gamePk": 824312,
       "atBatNumber": 70,
@@ -529,14 +538,15 @@
       "wpa": 0.462,
       "xwoba": 0.641,
       "eventType": "double",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/ek13S3hfWGw0TUFRPT1fVkFOUVZsRUZVZ29BRFZFRFVRQUhDQVlFQUZsV1VnY0FCRlpUQWd0UlV3TUVVUUlI.mp4"
+      "gameType": "R"
     },
     {
       "id": "824312-90-11",
       "title": "Single — Brett Sullivan",
       "description": "Brett Sullivan singles on a line drive to left fielder Luis Robert Jr. TJ Rumfield scores. Adael Amador scores.",
       "playId": "ec34c814-9742-384d-93e9-065d8ac3690c",
+      "videoUrl": "https://sporty-clips.mlb.com/ek13S3hfWGw0TUFRPT1fVTFKU1VBY01Wd1lBQVZVR1ZBQUhDUUlDQUZnR0JsZ0FBbE1BVkF0VVVnQlRDUUlG.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/onvvn12lbwngjdgtgh7a.jpg",
       "date": "2026-09-02",
       "gamePk": 824312,
       "atBatNumber": 90,
@@ -550,8 +560,7 @@
       "wpa": 0.752,
       "xwoba": 0.893,
       "eventType": "single",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/ek13S3hfWGw0TUFRPT1fVTFKU1VBY01Wd1lBQVZVR1ZBQUhDUUlDQUZnR0JsZ0FBbE1BVkF0VVVnQlRDUUlG.mp4"
+      "gameType": "R"
     },
     {
       "id": "824311-75-9",
@@ -587,5 +596,5 @@
     "division": "NL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-04T18:50:54.869Z"
+  "generatedAt": "2026-11-06T18:17:38.366Z"
 }

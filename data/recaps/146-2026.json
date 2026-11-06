@@ -1,47 +1,47 @@
 {
   "teamId": 146,
   "year": 2026,
-  "narrative": "The 2026 Miami Marlins have been a team of dramatic contradictions, capable of breathtaking highs and gut-punch lows, often in the same week. They opened the year with a sizzling 4-1 March, Owen Caissie's walk-off blast on Opening Weekend setting a tone of bold possibility. But April arrived like cold water — the Marlins stumbled to 11-15, with Pete Fairbanks repeatedly finding himself at the center of late-inning disasters, and the month ended with the Dodgers reminding Miami just how wide the gap could feel.\n\nThen came June, and everything changed. The Marlins caught fire in a way no one outside South Florida expected, posting a stunning 20-6 record that stands as one of the best months any team has had in baseball this season. Javier Sanoja emerged as a spark plug up and down the lineup, and the offense found a rhythm that made the team feel genuinely dangerous. That June run is the reason this team is still alive in the standings.\n\nJuly and August brought the Marlins back to earth — a grinding, uneven stretch where they went a combined 23-29 and reliever Pete Fairbanks remained a liability in high-leverage spots. William Contreras punished them with a three-run homer in Milwaukee, Jarren Duran's grand slam stung in Boston, and the wins came harder. Yet the team refused to fold, with Xavier Edwards, Heriberto Hernández, and Joe Mack providing just enough clutch moments to stay in the picture.\n\nNow in September, sitting at 80-82, the Marlins are battling for relevance. Javier Sanoja's 30th double plated two crucial runs in a mid-September win, and Esteury Ruiz delivered a momentum-shifting double just days later. The final weeks will determine whether June's magic was a mirage or a preview — and this roster, flawed and feisty, is not ready to stop competing.",
+  "narrative": "The 2026 Miami Marlins have been a team of dramatic contradictions — capable of brilliance and heartbreak in equal measure, never quite settling into an identity for long. They burst out of the gate in March, winning four of five with Owen Caissie's jaw-dropping opening blast setting the tone. But April unraveled quickly, as closer Pete Fairbanks became a recurring villain in the bullpen, surrendering lead after lead in a month that ended 11-15 and left the Marlins scrambling for footing.\n\nThen came June — an almost inexplicable 20-6 run that stands as one of the most dominant single months in recent Marlins history. The roster cohered around Javier Sanoja's growing offensive presence, timely hitting from the likes of Agustín Ramírez and Liam Hicks, and a defense that turned clutch double plays when it mattered most. The Fish looked like a genuine contender, and the ballpark on Biscayne Bay was electric with possibility.\n\nJuly and August brought the team back to earth. Bullpen collapses — Fairbanks surrendering a grand slam, Cade Gibson getting tagged, Lake Bachar and Michael Petersen leaking runs — erased hard-won leads with maddening regularity. The Marlins went a combined 23-29 in those two months, watching their playoff window narrow game by game. Yet they refused to fully quit, with Xavier Edwards, Heriberto Hernández, and Joe Mack providing just enough offense to stay relevant.\n\nSeptember has been a microcosm of the whole season: moments of genuine magic — Sanoja's 30th double, Esteury Ruiz's clutch two-run double — interspersed with gut-punch losses like Jack Ralston surrendering a go-ahead homer to Corbin Carroll. At 80-82, the Marlins' fate is still being written, and every game carries the weight of a season that has never stopped being interesting.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Opening Day Fireworks",
-      "description": "Owen Caissie's early home run signals Miami's early promise in a red-hot March.",
+      "title": "Caissie Ignites Opening Day",
+      "description": "Owen Caissie's towering Opening Day home run announces Miami's intentions, sparking a promising 4-1 March.",
       "startClipIndex": 0,
       "endClipIndex": 0,
       "tone": "triumph"
     },
     {
       "id": "ch2",
-      "title": "April Turbulence",
-      "description": "The Marlins struggle to a losing April record as late-inning collapses undercut promising moments.",
+      "title": "April's Bullpen Blues",
+      "description": "Pete Fairbanks and a leaky bullpen repeatedly squander leads as the Marlins stumble to an 11-15 April.",
       "startClipIndex": 1,
-      "endClipIndex": 7,
+      "endClipIndex": 6,
       "tone": "struggle"
     },
     {
       "id": "ch3",
       "title": "The June Explosion",
-      "description": "Miami goes 20-6 in an electric June, transforming from a struggling squad into one of baseball's hottest teams.",
-      "startClipIndex": 8,
+      "description": "Miami goes an astonishing 20-6 in June, riding Javier Sanoja's bat and clutch contributions up and down the lineup.",
+      "startClipIndex": 7,
       "endClipIndex": 10,
       "tone": "triumph"
     },
     {
       "id": "ch4",
-      "title": "Summer Grind",
-      "description": "July and August test the Marlins with a bruising schedule and inconsistent relief pitching, but clutch hits keep them afloat.",
+      "title": "Summer Stumble",
+      "description": "Bullpen meltdowns and timely opponent hits derail the Marlins through a grinding 23-29 July and August stretch.",
       "startClipIndex": 11,
       "endClipIndex": 20,
-      "tone": "turning_point"
+      "tone": "struggle"
     },
     {
       "id": "ch5",
-      "title": "September Push",
-      "description": "With their playoff fate still unwritten, the Marlins battle through the final weeks behind Sanoja's bat and a relentless offense.",
+      "title": "September on the Ledge",
+      "description": "With playoff hopes flickering, Sanoja and Ruiz deliver clutch hits while the bullpen's reliability remains in question down the stretch.",
       "startClipIndex": 21,
       "endClipIndex": 23,
-      "tone": "clutch"
+      "tone": "turning_point"
     }
   ],
   "clips": [
@@ -569,5 +569,5 @@
     "division": "NL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-04T18:36:35.037Z"
+  "generatedAt": "2026-11-06T18:03:04.441Z"
 }

@@ -1,71 +1,50 @@
 {
   "teamId": 134,
   "year": 2026,
-  "narrative": "The 2026 Pittsburgh Pirates entered the season with cautious optimism, and the early returns were mixed at best. A brutal Opening Series saw Luis Robert Jr. crush a three-run homer off Hunter Barco to open the year on a sour note, and April brought more of the same emotional whiplash — late-game heroics undercut by costly double plays and bullpen implosions. Still, the team clawed to a 14-13 April record, a testament to their resilience even when the highlight reel was unkind.\n\nMay was the month Pittsburgh found its footing. Bryan Reynolds delivered the swing of the first half on May 29th, a two-run walk-off homer that announced the Pirates as a legitimate contender, and the team went 16-12 on the month. June proved more turbulent — Gregory Soto's bullpen disasters cost Pittsburgh dearly, and a three-run homer surrendered on June 27th with a swing in win probability approaching 0.74 was perhaps the low point of the summer. The Pirates limped to 11-15 in June, their worst month of the year, raising real questions about the roster's ceiling.\n\nJuly and August were a grind. Esmerlyn Valdez provided a grand slam highlight in early July, and Bryan Reynolds continued his quiet brilliance with home run number 15 in late July, but the team went a combined 24-28 over those two months. The bullpen remained the Achilles heel, with Gregory Soto and Evan Sisk repeatedly turning leads into losses. Brandon Lowe emerged as a consistent offensive force through this stretch, and his back-to-back home run performances in mid-August kept the Pirates treading water in a competitive wild card race.\n\nSeptember became the month Pittsburgh showed its true character. A 15-9 record in the final month — their best stretch of the year — was powered by timely hitting and clutch home runs from Lowe, Rafael Flores Jr., and Oneil Cruz. A late-season Eduardo Valencia bomb off Carmen Mlodzinski in the penultimate week served as a reminder of how fine the margins were, but the Pirates finished at 82-80, a winning record that leaves their postseason fate still being determined.",
+  "narrative": "The 2026 Pittsburgh Pirates entered the season with cautious optimism, and April proved the team was neither a pushover nor a world-beater. A 14-13 record masked some genuinely gut-wrenching moments — Gregory Soto and Justin Lawrence surrendering late leads, Nick Yorke killing rallies with twin killers — but Brandon Lowe's clutch single and Yohan Ramírez's foul pop to end a rally showed the Pirates could claw back when they needed to. The month established the defining rhythm of the year: a team capable of brilliance and infuriating inconsistency in almost equal measure.\n\nMay and early June brought the season's emotional peak. Bryan Reynolds delivered the most electrifying swing of the year on May 29th, a two-run walk-off bomb worth nearly a full win of probability, and Henry Davis followed suit with a grand slam on June 3rd that briefly made Pittsburgh feel like a contender. Tyler Callihan and Brandon Lowe added their own long balls to keep the energy alive. But June also introduced the season's most damaging stretch — Gregory Soto's three-run bomb in late June, Mason Montgomery getting shelled, and Jared Triolo's double-play implosion painted a 11-15 June that erased much of the goodwill May had built.\n\nJuly and August were a grind, the Pirates hovering perpetually around .500 as if tethered to mediocrity by an invisible rope. Esmerlyn Valdez's grand slam and Bryan Reynolds' solo shot in late July kept the team breathing, but Wilber Dotel's bullpen disaster and Gregory Soto's continued struggles made those wins feel precarious. August's 12-15 record continued the fade, though Flores Jr. and Lowe briefly sparked hope with back-to-back homers on August 19th, and Oneil Cruz's laser to right kept the Pirates technically in the picture.\n\nSeptember became the Pirates' best month, a 15-9 surge that turned a quietly disappointing year into something worth talking about. Lowe homered for the 33rd time on September 19th, Flores Jr. answered a Royals bomb with one of his own the very next night, and the team played with a looseness that had eluded them all summer. The final clip — Eduardo Valencia going deep off Carmen Mlodzinski on September 26th — was a painful reminder that nothing comes easy in Pittsburgh, and at 82-80 the Pirates find themselves in the rare and uncomfortable position of a team that played well enough to matter but must now wait to see if that is enough.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Rough Beginnings",
-      "description": "Early-season stumbles set a turbulent tone as Pittsburgh's bullpen and offense both struggle to find consistency in March and April.",
+      "title": "Treading Water in April",
+      "description": "The Pirates play competitive but inconsistent baseball, trading momentum swings in a 14-13 month defined by bullpen hiccups and clutch escapes.",
       "startClipIndex": 0,
-      "endClipIndex": 7,
-      "tone": "struggle"
+      "endClipIndex": 6,
+      "tone": "turning_point"
     },
     {
       "id": "ch2",
-      "title": "Reynolds Ignites a Hot May",
-      "description": "Bryan Reynolds delivers a walk-off two-run homer to cap Pittsburgh's best month, lifting the Pirates to a 16-12 record.",
-      "startClipIndex": 8,
-      "endClipIndex": 11,
+      "title": "Reynolds Lights the Fuse",
+      "description": "A Bryan Reynolds walk-off homer and Henry Davis grand slam ignite a thrilling stretch as Pittsburgh surges in May.",
+      "startClipIndex": 7,
+      "endClipIndex": 10,
       "tone": "triumph"
     },
     {
       "id": "ch3",
-      "title": "June Collapse",
-      "description": "Bullpen meltdowns — capped by a crushing three-run homer from Eugenio Suárez — drag Pittsburgh to its worst month at 11-15.",
-      "startClipIndex": 12,
+      "title": "June Unravels",
+      "description": "Promising offensive moments are undone by Gregory Soto's late-inning collapses and a Guardians blowup that sends Pittsburgh into a 11-15 tailspin.",
+      "startClipIndex": 11,
       "endClipIndex": 19,
       "tone": "struggle"
     },
     {
       "id": "ch4",
-      "title": "Grinding Through Summer",
-      "description": "A combined 24-28 record across July and August tests the Pirates' resilience, with Valdez's grand slam and Lowe's power surge providing rare bright spots.",
+      "title": "Grinding Through July and August",
+      "description": "Valdez's grand slam and Lowe's growing home run total keep the Pirates alive, but inconsistent relief pitching and a losing record leave them stuck near .500.",
       "startClipIndex": 20,
-      "endClipIndex": 28,
+      "endClipIndex": 27,
       "tone": "turning_point"
     },
     {
       "id": "ch5",
       "title": "September Surge",
-      "description": "A blistering 15-9 September powered by Lowe, Flores, and Cruz pushes Pittsburgh to a winning record and keeps postseason hopes very much alive.",
-      "startClipIndex": 29,
-      "endClipIndex": 33,
+      "description": "A 15-9 September, powered by Brandon Lowe's 33rd homer and Rafael Flores Jr.'s clutch blasts, lifts Pittsburgh to a winning record and keeps postseason hope alive.",
+      "startClipIndex": 28,
+      "endClipIndex": 32,
       "tone": "clutch"
     }
   ],
   "clips": [
-    {
-      "id": "823651-91-11",
-      "title": "Home Run — Hunter Barco",
-      "description": "Luis Robert Jr. homers (1) on a fly ball to left center field. Bo Bichette scores. Jorge Polanco scores.",
-      "playId": "ab8fca92-af7b-3910-a1a4-a70e699a168f",
-      "date": "2026-03-28",
-      "gamePk": 823651,
-      "atBatNumber": 91,
-      "inning": 11,
-      "isTopInning": false,
-      "batter": "Hunter Barco",
-      "pitcher": "",
-      "exitVelocity": 104.6,
-      "launchAngle": 23,
-      "distance": 387,
-      "wpa": -0.464,
-      "xwoba": 1.474,
-      "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/NHlLOFFfWGw0TUFRPT1fVjFOWkFnZFZYd0FBV1FRRkJBQUhDQWRXQUFBRUFsVUFVMUlGVlFVTUNGSlVCZ29B.mp4"
-    },
     {
       "id": "824697-78-9",
       "title": "Single — Dennis Santana",
@@ -785,5 +764,5 @@
     "division": "NL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-06T18:13:19.271Z"
+  "generatedAt": "2026-11-08T17:16:15.723Z"
 }

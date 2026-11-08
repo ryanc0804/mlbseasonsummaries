@@ -1,52 +1,44 @@
 {
   "teamId": 111,
   "year": 2026,
-  "narrative": "The 2026 Boston Red Sox opened the year with a jolt of optimism — Wilyer Abreu's opening-week home run set the tone for what the club hoped would be a statement season — but the bullpen quickly threw cold water on those dreams. Greg Weissert surrendered back-to-back crushing home runs in consecutive games to close March, and by the time April ended at 11-15, it was clear Boston would need to grind for every win it could find.\n\nThe calendar turned in Boston's favor through May and June, as the Red Sox steadied themselves and climbed back toward respectability. Willson Contreras delivered a go-ahead two-run blast on May 16th that felt like a rallying cry, and the offense showed flashes of cohesion. But Aroldis Chapman's bullpen outings proved chronically unreliable — surrendering a walk-off single in early April, an ugly double in June, and then a devastating triple on June 22nd that collapsed a close game. Despite the turbulence, Boston stayed afloat at 25-29 through two months.\n\nJuly was nothing short of electric. The Red Sox went 21-4, the best month of anyone's recent memory at Fenway, and the highlights poured in. Wilyer Abreu's 15th home run ignited a mid-July surge, and Ceddanne Rafaela's grand slam on July 27th captured the pure joy of a team that had finally found its rhythm. Boston entered August with real wild card momentum, and though the final two months mixed hot and cold stretches in roughly equal measure, Nick Sogard emerged as a late-season sparkplug and Trevor Story's three-run blast on September 17th kept the club in the playoff hunt down the wire.\n\nThe Wild Card round against the Yankees was a tense, two-game affair that ultimately slipped away. Boston couldn't protect leads, Erik Miller and Sonny Gray each surrendered home runs at the worst moments, and the offense went quiet when it mattered most. Willson Contreras hit a home run that briefly flickered hope in Game 2, but it wasn't enough. After 87 wins and one of the most thrilling July runs in franchise history, the 2026 Red Sox fell one round short of where they believed they belonged.",
+  "narrative": "The 2026 Boston Red Sox opened the year with promise but stumbled through a rough March and April, going a combined 12-19 in those first two months. Bullpen troubles defined the early stretch, with Greg Weissert surrendering back-to-back crushing home runs in the opening days of the season, and Aroldis Chapman repeatedly finding himself on the wrong end of high-leverage moments. Yet the roster showed enough flashes — Wilyer Abreu's opening-day blast, Willson Contreras emerging as a force behind the plate — to suggest better days were ahead.\n\nJuly transformed the Red Sox into a different team entirely. Boston went a remarkable 21-4 that month, one of the best single-month records in franchise history during the decade. Wilyer Abreu was at the heart of it, smashing his 15th homer in a pivotal mid-July win, and Ceddanne Rafaela capped a stunning July 27th comeback with a grand slam that sent Fenway into a frenzy. The pitching staff stabilized, the lineup clicked, and Boston used that torrid stretch to vault itself into Wild Card contention after a mediocre first half.\n\nAugust and September were a grind. The Red Sox went a steady but unspectacular 29-24 over those two months, mixing clutch moments — Nick Sogard's big August double, Jarren Duran's grand slam, Trevor Story's three-run shot in September — with continued bullpen volatility from Chapman and Whitlock. The team scratched and clawed its way to 87 wins, enough to earn a Wild Card berth, though the lack of a true ace and an inconsistent relief corps left them vulnerable come October.\n\nThe Wild Card round against the Yankees proved to be a bridge too far. Boston's relievers couldn't hold leads, surrendering timely home runs to Ben Rice and Luis García Jr. in back-to-back games. Willson Contreras provided a spark with a postseason homer, and Caleb Durbin's heads-up play started a key double play, but the Yankees' lineup was relentless. The Red Sox were eliminated, their season ending on the same note it had wavered through all year — brilliant potential, but not quite enough consistency in the decisive moments.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Opening Week Whiplash",
-      "description": "Wilyer Abreu's early homer sparks hope, but the bullpen immediately surrenders the lead in back-to-back losses.",
+      "title": "False Start",
+      "description": "Early-season hope flickered but the bullpen repeatedly surrendered leads, sending Boston into a 12-19 hole through April.",
       "startClipIndex": 0,
-      "endClipIndex": 1,
-      "tone": "turning_point"
-    },
-    {
-      "id": "ch2",
-      "title": "April's Growing Pains",
-      "description": "Chapman and Whitlock struggles pile up as Boston stumbles to an 11-15 April, searching for a reliable identity.",
-      "startClipIndex": 2,
       "endClipIndex": 4,
       "tone": "struggle"
     },
     {
-      "id": "ch3",
-      "title": "Finding Their Footing",
-      "description": "Contreras delivers a clutch homer and the Red Sox grind out winning baseball through May and June despite bullpen volatility.",
+      "id": "ch2",
+      "title": "Grinding Through May and June",
+      "description": "Boston played respectable but uneven baseball, with Willson Contreras's big May homer offset by Chapman's repeated late-game meltdowns.",
       "startClipIndex": 5,
       "endClipIndex": 11,
-      "tone": "triumph"
+      "tone": "turning_point"
     },
     {
-      "id": "ch4",
+      "id": "ch3",
       "title": "The July Explosion",
-      "description": "A blistering 21-4 July, powered by Abreu's big shots and Rafaela's grand slam, transforms Boston into a legitimate wild card threat.",
+      "description": "A historic 21-4 July propelled Boston into the Wild Card race, powered by Wilyer Abreu's relentless hitting and Ceddanne Rafaela's grand slam.",
       "startClipIndex": 12,
       "endClipIndex": 14,
       "tone": "triumph"
     },
     {
-      "id": "ch5",
-      "title": "Holding On Through August and September",
-      "description": "Sogard, Duran, and Story carry the offense through a grinding 29-24 final two months to secure a playoff berth.",
+      "id": "ch4",
+      "title": "Holding On",
+      "description": "Boston went 29-24 over August and September, mixing clutch moments from Duran, Sogard, and Story with enough bullpen drama to keep fans on edge.",
       "startClipIndex": 15,
       "endClipIndex": 23,
       "tone": "clutch"
     },
     {
-      "id": "ch6",
-      "title": "October Comes Up Short",
-      "description": "The Wild Card round against the Yankees brings two tight games that Boston cannot close out, ending a promising season one round too soon.",
+      "id": "ch5",
+      "title": "October's Short Story",
+      "description": "The Wild Card round saw Boston's season-long bullpen vulnerabilities come home to roost, as the Yankees ended the Red Sox run in two games.",
       "startClipIndex": 24,
       "endClipIndex": 31,
       "tone": "struggle"
@@ -746,5 +738,5 @@
     "division": "AL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-06T17:40:30.275Z"
+  "generatedAt": "2026-11-08T16:49:04.174Z"
 }

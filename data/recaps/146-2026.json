@@ -1,47 +1,47 @@
 {
   "teamId": 146,
   "year": 2026,
-  "narrative": "The 2026 Miami Marlins have been a team of dramatic contradictions — capable of brilliance and heartbreak in equal measure, never quite settling into an identity for long. They burst out of the gate in March, winning four of five with Owen Caissie's jaw-dropping opening blast setting the tone. But April unraveled quickly, as closer Pete Fairbanks became a recurring villain in the bullpen, surrendering lead after lead in a month that ended 11-15 and left the Marlins scrambling for footing.\n\nThen came June — an almost inexplicable 20-6 run that stands as one of the most dominant single months in recent Marlins history. The roster cohered around Javier Sanoja's growing offensive presence, timely hitting from the likes of Agustín Ramírez and Liam Hicks, and a defense that turned clutch double plays when it mattered most. The Fish looked like a genuine contender, and the ballpark on Biscayne Bay was electric with possibility.\n\nJuly and August brought the team back to earth. Bullpen collapses — Fairbanks surrendering a grand slam, Cade Gibson getting tagged, Lake Bachar and Michael Petersen leaking runs — erased hard-won leads with maddening regularity. The Marlins went a combined 23-29 in those two months, watching their playoff window narrow game by game. Yet they refused to fully quit, with Xavier Edwards, Heriberto Hernández, and Joe Mack providing just enough offense to stay relevant.\n\nSeptember has been a microcosm of the whole season: moments of genuine magic — Sanoja's 30th double, Esteury Ruiz's clutch two-run double — interspersed with gut-punch losses like Jack Ralston surrendering a go-ahead homer to Corbin Carroll. At 80-82, the Marlins' fate is still being written, and every game carries the weight of a season that has never stopped being interesting.",
+  "narrative": "The 2026 Miami Marlins have been a team of dramatic contradictions — capable of brilliance and frustration in almost equal measure. They burst out of the gate with a 4-1 March, powered by Owen Caissie's stunning opening-week home run, only to sink into a difficult April and an even rougher May as closer Pete Fairbanks became a recurring villain in their biggest moments. The bullpen's struggles cost the Marlins dearly in several high-leverage situations, and by the end of May the team sat at a discouraging 11-18 for that month alone.\n\nThen came June, and with it one of the most remarkable single-month turnarounds in recent Marlins history. Going 20-6, Miami transformed from a struggling club into a genuine contender, riding a balanced attack and a rotation that finally stabilized. Players like Javier Sanoja and Xavier Edwards emerged as the heart of the lineup, and the June surge gave the franchise and its fans something they hadn't felt in years — genuine belief.\n\nThe summer months proved more turbulent. July and August brought winning streaks and losing streaks in roughly equal measure, with Pete Fairbanks continuing to haunt the team's late-inning moments and Milwaukee's bats delivering a particularly painful three-run homer at the worst possible time. Yet the Marlins kept fighting, with Heriberto Hernández and Joe Mack delivering clutch contributions that kept Miami competitive through the dog days. Javier Sanoja, meanwhile, evolved into the team's most reliable offensive weapon, anchoring the lineup night after night.\n\nAs September unfolds, the Marlins sit at 80-82 — hovering near the bubble of relevance, refusing to be counted out. Sanoja's 30th double was a signal of just how far this team has come individually even as the collective record remains frustratingly below .500. With games still to play, Miami's season story is not yet written, and the character these Marlins have shown through June's glory and summer's grind suggests they won't go quietly.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Caissie Ignites Opening Day",
-      "description": "Owen Caissie's towering Opening Day home run announces Miami's intentions, sparking a promising 4-1 March.",
+      "title": "Lightning in a Bottle",
+      "description": "Caissie's opening blast ignites a hot March start, before early April struggles begin to surface.",
       "startClipIndex": 0,
-      "endClipIndex": 0,
+      "endClipIndex": 1,
       "tone": "triumph"
     },
     {
       "id": "ch2",
-      "title": "April's Bullpen Blues",
-      "description": "Pete Fairbanks and a leaky bullpen repeatedly squander leads as the Marlins stumble to an 11-15 April.",
-      "startClipIndex": 1,
-      "endClipIndex": 6,
+      "title": "Fairbanks and the Fire Drills",
+      "description": "A brutal April and May stretch is defined by late-inning collapses and bullpen implosions that derail early promise.",
+      "startClipIndex": 2,
+      "endClipIndex": 8,
       "tone": "struggle"
     },
     {
       "id": "ch3",
       "title": "The June Explosion",
-      "description": "Miami goes an astonishing 20-6 in June, riding Javier Sanoja's bat and clutch contributions up and down the lineup.",
-      "startClipIndex": 7,
+      "description": "Miami goes a stunning 20-6 in June, transforming from a sinking ship into one of baseball's hottest teams.",
+      "startClipIndex": 9,
       "endClipIndex": 10,
       "tone": "triumph"
     },
     {
       "id": "ch4",
-      "title": "Summer Stumble",
-      "description": "Bullpen meltdowns and timely opponent hits derail the Marlins through a grinding 23-29 July and August stretch.",
+      "title": "Summer Turbulence",
+      "description": "The Marlins grind through July and August with no shortage of drama, trading momentum-shifting victories with costly defeats.",
       "startClipIndex": 11,
       "endClipIndex": 20,
-      "tone": "struggle"
+      "tone": "turning_point"
     },
     {
       "id": "ch5",
-      "title": "September on the Ledge",
-      "description": "With playoff hopes flickering, Sanoja and Ruiz deliver clutch hits while the bullpen's reliability remains in question down the stretch.",
+      "title": "Sanoja and the September Push",
+      "description": "Javier Sanoja leads a scrappy September charge as Miami fights to define what this season will ultimately mean.",
       "startClipIndex": 21,
       "endClipIndex": 23,
-      "tone": "turning_point"
+      "tone": "clutch"
     }
   ],
   "clips": [
@@ -569,5 +569,5 @@
     "division": "NL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-06T18:03:04.441Z"
+  "generatedAt": "2026-11-08T17:07:35.958Z"
 }

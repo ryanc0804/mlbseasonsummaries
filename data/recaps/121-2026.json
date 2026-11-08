@@ -1,44 +1,52 @@
 {
   "teamId": 121,
   "year": 2026,
-  "narrative": "The 2026 New York Mets opened the year with cautious optimism, bolstered by the additions of Luis Robert Jr. and Bo Bichette, only to watch April unravel into one of the most damaging months in recent memory. A 7-19 mark in April was not a fluke — the bullpen bled leads, opponents launched grand slams off Huascar Brazobán, and the relief corps simply could not hold games late. The gap between the Mets' offensive ceiling and their pitching floor was exposed almost immediately, and by the end of the month New York found itself in a deep hole with no easy path out.\n\nMay offered the first real glimpse of what this roster could do when healthy and clicking. Tyrone Taylor's three-run blast on May 17th encapsulated the best of the Mets' offense — explosive, timely, and capable of flipping a game in an instant. The team went 16-12, their best month of the season, and briefly quieted the panic. June and July told a more complicated story: the rotation cracked under the strain of Kodai Senga's inconsistency, the bullpen remained a liability, and yet Juan Soto's monster three-run home run on July 6th — the highest-leverage moment of the entire season — showed that individual brilliance was always just one at-bat away.\n\nAugust brought a modest resurgence, a 15-12 record fueled by contributions from unexpected sources. Francisco Alvarez began to impose himself as a force in the middle of the lineup, A.J. Ewing emerged as a credible power bat, and the team played its steadiest baseball since May. But the pitching staff kept undoing the gains — Sean Manaea gave up a crushing three-run shot in mid-August, and Jefry Yan and Kodai Senga surrendered home runs in back-to-back outings. The Mets were winning just enough to stay interesting, but not enough to erase the damage April had done.\n\nSeptember arrived with the team 12-12 through the final stretch, unable to string together the extended runs needed to climb back into contention. Bo Bichette's towering three-run homer on September 6th was a bright moment, and A.J. Ewing's late-season blast on September 26th ended the year on a note of personal achievement. But the shadow of a lost season — 74 wins against 88 losses — hangs over Citi Field as the calendar turns. The Mets showed flashes of a dangerous lineup capable of competing with anyone, yet the combination of a battered rotation and a bullpen that could never be trusted in high-leverage spots cost them dearly. The offseason conversations will center on pitching depth, and whether this core can finally be surrounded with enough support to make the talent count.",
+  "narrative": "The 2026 New York Mets arrived at spring training with genuine optimism, bolstered by the additions of Luis Robert Jr., Bo Bichette, and a bullpen anchored by Devin Williams. That optimism evaporated almost immediately. A promising Opening Series gave way to an historically brutal April, during which the Mets went 7-19, buried under a cascade of late-inning collapses, bullpen implosions, and an offense that couldn't hold leads. Grand slams surrendered, walk-off losses, and a CJ Abrams bomb off Luke Weaver in the final days of the month painted a picture of a team simply not ready for the moment.\n\nMay brought the first exhale. The Mets clawed back to respectability with a 16-12 month, their offense finally clicking in stretches — none more memorable than Tyrone Taylor's three-run blast on May 17th that swung a game the Mets desperately needed. But June unraveled again at 10-17, punctuated by bullpen disasters from Austin Warren and Devin Williams and a Kodai Senga start that ended with Kyle Schwarber's 30th home run of the season. The Mets were a team of extremes: capable of brilliance in isolated moments, allergic to sustained success.\n\nJuly became the season's most emotionally complex chapter. Juan Soto delivered the most electric moment of the year on July 6th — a go-ahead three-run homer worth +0.716 WPA — only for Devin Williams to give back the lead later in the same game. Yet through the chaos, the Mets finished July 11-14 and August 15-12, their best sustained stretch of the season. Taylor homered again in late July, Luis Robert Jr. delivered a clutch multi-RBI single, and Francisco Alvarez began asserting himself as a cornerstone piece. Bo Bichette's towering three-run home run on September 6th felt like the kind of play that could anchor a late push.\n\nIn the end, the 2026 Mets finished 74-88, a record that reflects how much damage the catastrophic April inflicted on a season that otherwise showed genuine signs of life. The run differential tells the same story — a team that allowed more than it scored, undone by a bullpen that ranked among the most unreliable in the league. A.J. Ewing's three-run shot in late September offered a glimpse of what the future might hold, but the season's final tally is a sobering reminder that in baseball, you cannot spot the standings 7-19 and simply solve your way back.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Opening Day Hopes, April Nightmares",
-      "description": "A promising Opening Day win gave way to a catastrophic April as the bullpen collapsed and opponents feasted on a porous Mets pitching staff.",
+      "title": "Opening Flicker",
+      "description": "A fast start in March gives way immediately to April disaster as Luis Robert Jr.'s opening homer proves a false dawn.",
       "startClipIndex": 0,
+      "endClipIndex": 0,
+      "tone": "turning_point"
+    },
+    {
+      "id": "ch2",
+      "title": "April in Freefall",
+      "description": "The Mets' bullpen and rotation crater through a brutal 7-19 April, with grand slams allowed and late-game leads squandered at every turn.",
+      "startClipIndex": 1,
       "endClipIndex": 6,
       "tone": "struggle"
     },
     {
-      "id": "ch2",
-      "title": "The May Turnaround",
-      "description": "Tyrone Taylor's big moments led a 16-12 May that proved the Mets' offense was real and gave the fanbase reason to believe.",
+      "id": "ch3",
+      "title": "May Lifeline",
+      "description": "A 16-12 May breathes life into the season, with Tyrone Taylor's three-run homer standing as the month's signature moment.",
       "startClipIndex": 7,
       "endClipIndex": 7,
       "tone": "triumph"
     },
     {
-      "id": "ch3",
-      "title": "Soto's Brilliance Can't Mask June-July Drift",
-      "description": "Juan Soto delivered the season's most electrifying moment, but pitching woes and inconsistency prevented the Mets from gaining real ground.",
+      "id": "ch4",
+      "title": "June Collapses Again",
+      "description": "Back-to-back bullpen implosions and a Schwarber grand slam drag the Mets to a 10-17 June and push them out of contention.",
       "startClipIndex": 8,
-      "endClipIndex": 15,
-      "tone": "turning_point"
+      "endClipIndex": 9,
+      "tone": "struggle"
     },
     {
-      "id": "ch4",
-      "title": "Late Summer Steadiness",
-      "description": "Alvarez, Ewing, and Taylor provided pop and the Mets posted a winning August, though the rotation continued to give back hard-earned leads.",
-      "startClipIndex": 16,
+      "id": "ch5",
+      "title": "Soto and the Summer Surge",
+      "description": "Juan Soto's monster July 6th homer ignites the team's best stretch of play, with the Mets going a combined 26-26 in July and August.",
+      "startClipIndex": 10,
       "endClipIndex": 20,
       "tone": "clutch"
     },
     {
-      "id": "ch5",
-      "title": "September: Pride Plays in a Lost Season",
-      "description": "Bichette and Ewing delivered highlight-reel moments in a .500 September, but the Mets finished well short of contention at 74-88.",
+      "id": "ch6",
+      "title": "September Salvage",
+      "description": "Bichette, Ewing, and the young core provide late-season highlights even as the Mets play out the string on a disappointing 74-88 campaign.",
       "startClipIndex": 21,
       "endClipIndex": 23,
       "tone": "milestone"
@@ -572,5 +580,5 @@
     "division": "NL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-06T18:04:27.768Z"
+  "generatedAt": "2026-11-08T17:08:53.296Z"
 }

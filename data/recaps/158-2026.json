@@ -1,72 +1,58 @@
 {
   "teamId": 158,
   "year": 2026,
-  "narrative": "The 2026 Milwaukee Brewers announced their intentions immediately. On Opening Day, Christian Yelich launched a three-run home run that set the tone for a franchise season, and the club raced to a 4-1 mark in March. April proved bumpier — a 12-13 record masked real growing pains, with Abner Uribe's bullpen struggles and a costly Gary Sánchez double play haunting the month — but the talent was undeniable, and the moments that helped outweighed those that hurt.\n\nMay changed everything. The Brewers went 19-7, the best month in recent franchise memory, powered by Jackson Chourio's clutch singles, Brice Turang's home run surge, and a rotation that suddenly looked dominant. That momentum carried into a strong June and July, where the club hovered around .600 ball despite Aaron Ashby's recurring nightmare outings — including a grand slam allowed in July and an Ozzie Albies bomb in June that briefly threatened to unravel things. William Contreras answered with a three-run shot in July that epitomized the Brewers' resilience: for every gut-punch, someone stepped up.\n\nAugust and September brought the stretch run, with Logan Henderson, Antonio Senzatela, and Colton Gordon all having rough outings, yet Milwaukee posted a combined 35-18 record over those two months. The offense, led by Contreras, Yelich, and Chourio, refused to let the pitching stumbles define them. By the time September closed at 18-6, Milwaukee had secured the best record in the National League at 103-59 and was locked in as a World Series contender.\n\nThe postseason was a showcase. Jackson Chourio's two-run single in the Division Series was the signature moment of the NLDS, and the Brewers dispatched their opponents with authority. The Championship Series brought a Dodgers test — Will Smith's sharp double off Abner Uribe stung — but Jake Bauers answered with a clutch two-run homer to stabilize the ship. In the World Series, Cooper Pratt's home run on October 27th put Milwaukee ahead, and though Shane Drohan was tested in a tense late frame, the Brewers held on through it all. Milwaukee's first World Series championship in franchise history was forged through a full season of resilience, clutch performances, and an identity built on never staying down.",
+  "narrative": "The 2026 Milwaukee Brewers began their campaign with a stumble, posting a pedestrian 4-1 in March before sinking to 12-13 in April — a month defined by costly bullpen blunders and blown leads that threatened to derail the season before it found its footing. Yet even in those lean weeks, flashes of brilliance arrived: Garrett Mitchell's contested single, Gary Sánchez's three-run blast, and Brandon Lockridge's clutch double hinted at the firepower waiting to be unleashed.\n\nMay changed everything. The Brewers went 19-7 in a torrid stretch that announced Milwaukee as a genuine pennant contender. Jackson Chourio emerged as a catalyst, Brice Turang was launching balls to center field, and the offense was clicking in ways that the April record had made impossible to imagine. The rotation and bullpen tightened despite occasional meltdowns from Abner Uribe, and the team carried that momentum into June and July, compiling a 50-37 record through the All-Star break with star turns from William Contreras, whose 10th home run on a July evening was one of the year's most electric moments.\n\nThe dog days of August brought renewed tests — Logan Henderson surrendered a costly home run, Antonio Senzatela was tagged twice in back-to-back games, and the grind of a 162-game schedule showed — but the Brewers refused to wilt, going 17-12 to stay comfortably ahead. September was their exclamation point: an 18-6 surge powered by Jackson Chourio's 22nd homer and William Contreras's 27th double locked up the division and sent Milwaukee into October as one of baseball's most dangerous teams, finishing 103-59 with 832 runs scored and an ERA of 3.51.\n\nThe postseason was a showcase of clutch baseball. Chourio's line-drive single in the Division Series delivered two runs and shifted a series, while Contreras continued his assault on opposing pitching. The Championship Series brought a tense Dodgers showdown before Milwaukee punched through. In the World Series, Cooper Pratt's solo home run ignited a decisive game, and despite Shane Drohan navigating late danger, the Brewers held their nerve to claim the franchise's most celebrated championship — a fitting coronation for a team that had climbed from an April .480 winning percentage all the way to the top of the baseball world.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Yelich Fires the Opening Shot",
-      "description": "The Brewers burst out of the gate with Yelich's Opening Day bomb and a 4-1 March to signal a team ready to compete.",
+      "title": "A Rocky Start",
+      "description": "An uneven April sees the Brewers slip under .500 as costly pitching lapses offset early offensive sparks.",
       "startClipIndex": 0,
-      "endClipIndex": 0,
-      "tone": "triumph"
-    },
-    {
-      "id": "ch2",
-      "title": "April Growing Pains",
-      "description": "A 12-13 April exposed bullpen vulnerabilities and clutch failures, but flashes of brilliance from Sánchez and Lockridge kept the Brewers afloat.",
-      "startClipIndex": 1,
-      "endClipIndex": 7,
+      "endClipIndex": 5,
       "tone": "struggle"
     },
     {
-      "id": "ch3",
-      "title": "The May Explosion",
-      "description": "A 19-7 May transformed Milwaukee into a true contender, with Chourio, Turang, and the offense catching fire.",
-      "startClipIndex": 8,
-      "endClipIndex": 10,
+      "id": "ch2",
+      "title": "May Explosion",
+      "description": "A blistering 19-7 May transforms Milwaukee into a legitimate contender, powered by clutch hits and a surging lineup.",
+      "startClipIndex": 6,
+      "endClipIndex": 8,
       "tone": "triumph"
     },
     {
-      "id": "ch4",
-      "title": "Grinding Through Summer",
-      "description": "Ashby's struggles and inconsistent pitching threatened to derail the Brewers, but Contreras, Mitchell, and the lineup refused to let the team slip, posting winning records through June, July, August, and September.",
-      "startClipIndex": 11,
-      "endClipIndex": 29,
+      "id": "ch3",
+      "title": "Midsummer Tests",
+      "description": "June and July bring big wins and big moments alongside stubborn pitching trouble, but the Brewers keep winning.",
+      "startClipIndex": 9,
+      "endClipIndex": 19,
       "tone": "turning_point"
     },
     {
+      "id": "ch4",
+      "title": "Grinding Through August",
+      "description": "Back-to-back pitching blunders slow the pace, but the offense bails Milwaukee out enough to maintain a commanding lead.",
+      "startClipIndex": 20,
+      "endClipIndex": 24,
+      "tone": "struggle"
+    },
+    {
       "id": "ch5",
-      "title": "October Glory",
-      "description": "From Chourio's NLDS heroics to Bauers' NLCS home run to Pratt's World Series blast, the Brewers survived every postseason test to claim Milwaukee's first championship.",
-      "startClipIndex": 30,
-      "endClipIndex": 37,
+      "title": "September Surge",
+      "description": "An 18-6 final month cements the division title and sends a confident Brewers club into October at full throttle.",
+      "startClipIndex": 25,
+      "endClipIndex": 27,
+      "tone": "triumph"
+    },
+    {
+      "id": "ch6",
+      "title": "October Champions",
+      "description": "From a Division Series stunner to a World Series triumph, the Brewers deliver clutch play when it matters most and claim the title.",
+      "startClipIndex": 28,
+      "endClipIndex": 35,
       "tone": "clutch"
     }
   ],
   "clips": [
-    {
-      "id": "823810-75-8",
-      "title": "Home Run — Christian Yelich",
-      "description": "Christian Yelich homers (1) on a fly ball to right field. Brice Turang scores. Luis Rengifo scores.",
-      "playId": "19f00611-d14c-319a-b87a-f38b170a9183",
-      "videoUrl": "https://sporty-clips.mlb.com/OTdQeWxfWGw0TUFRPT1fQndnSFZGUUNWd01BWEZNR0JRQUhBQThIQUFNTlZBQUFWRllOVWdJQ0FWSmNBUXBW.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/cekjoy9vh8yvfiyy5tdq.jpg",
-      "date": "2026-03-29",
-      "gamePk": 823810,
-      "atBatNumber": 75,
-      "inning": 8,
-      "isTopInning": false,
-      "batter": "Christian Yelich",
-      "pitcher": "",
-      "exitVelocity": 111.1,
-      "launchAngle": 35,
-      "distance": 421,
-      "wpa": 0.641,
-      "xwoba": 1.881,
-      "eventType": "home_run",
-      "gameType": "R"
-    },
     {
       "id": "823809-66-9",
       "title": "Double — Trevor Megill",
@@ -87,28 +73,6 @@
       "eventType": "double",
       "gameType": "R",
       "videoUrl": "https://sporty-clips.mlb.com/SzRCVmVfWGw0TUFRPT1fRGxRRVhWeFdVbGNBRGxjSFVBQUhBMU5lQUFNQUFGa0FVMXdIVkZJRVVsQUhVUWRS.mp4"
-    },
-    {
-      "id": "823807-38-5",
-      "title": "Single — Brice Turang",
-      "description": "Brewers challenged (tag play), call on the field was overturned: Brice Turang singles on a line drive to right fielder Jake Fraley. Gary Sánchez scores. Brandon Lockridge scores. Joey Ortiz scores. Brice Turang to 2nd. Brice Turang advances to 2nd, on a missed catch error by center fielder Cedric Mullins, assist to right fielder Jake Fraley.",
-      "playId": "55339916-c869-33a1-821c-596e6eeeb7b9",
-      "videoUrl": "https://sporty-clips.mlb.com/NHlLWnhfWGw0TUFRPT1fQXdSU1YxME5Wd1FBVzFvRVh3QUhBbGRYQUZrSFVnSUFCMXdEVlFWUVZGWUhCMUJm.mp4",
-      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/yhlucauaeq2qiv6hx3g5.jpg",
-      "date": "2026-03-31",
-      "gamePk": 823807,
-      "atBatNumber": 38,
-      "inning": 5,
-      "isTopInning": false,
-      "batter": "Brice Turang",
-      "pitcher": "",
-      "exitVelocity": 95.9,
-      "launchAngle": 9,
-      "distance": 142,
-      "wpa": 0.381,
-      "xwoba": 0.584,
-      "eventType": "single",
-      "gameType": "R"
     },
     {
       "id": "824783-74-8",
@@ -876,5 +840,5 @@
     "division": "NL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-06T18:11:54.120Z"
+  "generatedAt": "2026-11-08T17:15:03.498Z"
 }

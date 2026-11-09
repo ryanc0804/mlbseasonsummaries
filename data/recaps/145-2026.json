@@ -1,58 +1,79 @@
 {
   "teamId": 145,
   "year": 2026,
-  "narrative": "The 2026 Chicago White Sox arrived as a team with something to prove, and they wasted no time making their case. After a rough March, April found them playing .500 ball while delivering some of the most electrifying moments of the early season — Derek Hill's bunt single igniting a comeback, Tristan Peters following it up in the same game, and Andrew Benintendi announcing himself with a three-run blast. The Sox were messy but competitive, a team still learning how good they could be.\n\nMay was when Chicago truly caught fire. An 18-10 record made it the best month of the season, and the highlights tell the story: Edgar Quero and Tristan Peters hitting back-to-back homers on May 17th, Munetaka Murakami going deep on the 26th, and Miguel Vargas delivering a mammoth two-run shot on May 29th worth nearly a full win in probability alone. This was a team peaking at exactly the right time, with young talent and veteran savvy clicking in unison. June kept the momentum going with Braden Montgomery's breakout home run, Sam Antonacci's clutch single surviving a replay challenge against Cleveland, and Randal Grichuk adding punch in the middle of the lineup.\n\nThe second half brought the grind that separates contenders from pretenders. July and August were near-.500 stretches, full of the kind of back-and-forth tension that tests a roster's depth. Grant Taylor gave up a brutal two-run homer that flipped a July game, bullpen arms like Jordan Hicks and Huascar Brazobán had their difficult outings, but the lineup kept answering — Meidroth, Benintendi, Tristan Peters, and Jake Rogers all going deep in August to keep the Sox within reach. September was a roller coaster, with Randal Grichuk's 13th homer on September 12th providing a signature late-season moment and Tommy Pham delivering a surprise three-run shot, even as the pitching staff endured some late collapses.\n\nThe White Sox finished 84-78 and punched their ticket to October for the first time in years, but the ALDS proved to be a step too far. Cleveland's Jo Adell was a nightmare, tripling twice across the series, and José Ramírez reminded the baseball world why he remains one of its most feared postseason hitters, homering twice to help close out the Sox. Braden Montgomery fought hard with a clutch RBI double in Game 2, and Murakami's Game 1 homer gave the South Side faithful brief hope, but Cleveland's lineup was relentless. The White Sox bowed out in the ALDS, stung but not broken — a franchise back on the map, with the hunger to return.",
+  "narrative": "The 2026 Chicago White Sox arrived with cautious optimism, and opening week nearly shattered it immediately. Christian Yelich's three-run blast off Seranthony Domínguez on March 29th sent an early warning that the bullpen would need minding — but the Sox rallied, going 1-4 in March before finding their footing. April steadied the ship at 13-13, buoyed by Derek Hill's clutch bunt single and Tristan Peters' timely follow-up hit that swung a critical early-April game, and Andrew Benintendi's three-run shot late in the month gave the lineup a sense of real offensive identity.\n\nMay was when the White Sox announced themselves as genuine contenders, posting an 18-10 record — their best month of the season. Edgar Quero and Tristan Peters delivered back-to-back home runs on May 17th that swung a game decisively, Munetaka Murakami continued his prodigious power output, and Miguel Vargas capped the month with the season's single most impactful swing: a go-ahead home run on May 29th worth nearly nine-tenths of a win. This was a team that could hit, and hit big.\n\nJune and July saw the Sox grind through a competitive stretch, going a combined 26-24 and cementing themselves above .500. Sam Antonacci's line-drive single in a contested Cleveland game and Randal Grichuk's solo shots provided the offensive fireworks, while the pitching staff had its share of costly moments — Grant Taylor's blown lead on July 2nd stung the most. August mirrored July's grind, finishing 14-14, with Benintendi and Peters continuing to contribute timely home runs even as the bullpen occasionally surrendered leads. September tightened, 12-13, but Grichuk's two-run homer on September 12th — his 13th of the year — helped the Sox claw into postseason position and book an ALDS berth at 84-78.\n\nThe playoffs brought the Cleveland Guardians, and for a moment, it seemed possible. Murakami homered in Game 1, and Braden Montgomery's sharp double in Game 2 kept Chicago alive. But Cleveland's weapons — most painfully José Ramírez — proved too much. Jo Adell's triples, a Ramírez two-run shot in Game 3, and another Ramírez homer in Game 4 steadily closed the door on Chicago's hopes. The White Sox, who had clawed from baseball's depths just a year earlier, were eliminated in the ALDS — a painful ending, but a foundation laid for something more.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Early Sparks",
-      "description": "A rocky March gives way to April magic as Hill, Peters, and Benintendi announce the Sox are ready to compete.",
+      "title": "Rocky Start, Early Resolve",
+      "description": "A brutal opening blast nearly derails the Sox before clutch hits from Hill and Peters restore belief in April.",
       "startClipIndex": 0,
-      "endClipIndex": 3,
-      "tone": "turning_point"
+      "endClipIndex": 4,
+      "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "May Surge",
-      "description": "The White Sox catch fire with an 18-10 month powered by back-to-back homers, Murakami's power, and Vargas's near-walk-off blast.",
-      "startClipIndex": 4,
-      "endClipIndex": 8,
+      "title": "May Eruption",
+      "description": "Back-to-back home runs, Murakami's power, and Vargas's season-defining blast fuel an 18-10 May and announce Chicago as contenders.",
+      "startClipIndex": 5,
+      "endClipIndex": 9,
       "tone": "triumph"
     },
     {
       "id": "ch3",
-      "title": "June Clutch",
-      "description": "The Sox stay above water in June on the strength of Montgomery's breakout shot, Antonacci's replay-surviving single, and Grichuk's big fly.",
-      "startClipIndex": 9,
-      "endClipIndex": 13,
-      "tone": "clutch"
+      "title": "Grinding Through Summer",
+      "description": "The Sox win ugly through June and July, navigating blown leads and clutch moments in equal measure to stay above .500.",
+      "startClipIndex": 10,
+      "endClipIndex": 16,
+      "tone": "turning_point"
     },
     {
       "id": "ch4",
-      "title": "Second-Half Grind",
-      "description": "July and August test the roster's depth with bullpen struggles and lineup heroes trading blows to keep Chicago's playoff hopes alive.",
-      "startClipIndex": 14,
-      "endClipIndex": 22,
-      "tone": "struggle"
+      "title": "Holding On in August",
+      "description": "Benintendi, Peters, and Grichuk keep the offense humming through a 14-14 August as the bullpen tests everyone's nerves.",
+      "startClipIndex": 17,
+      "endClipIndex": 23,
+      "tone": "clutch"
     },
     {
       "id": "ch5",
       "title": "September Push",
-      "description": "Grichuk's power and Pham's surprise heroics carry the Sox to the finish line despite late pitching woes and a 12-13 final month.",
-      "startClipIndex": 23,
-      "endClipIndex": 27,
+      "description": "Grichuk's big homer and late-season production secure a postseason berth despite a 12-13 finish.",
+      "startClipIndex": 24,
+      "endClipIndex": 28,
       "tone": "turning_point"
     },
     {
       "id": "ch6",
-      "title": "October's End",
-      "description": "The White Sox make the ALDS but are undone by José Ramírez and Jo Adell as Cleveland sends Chicago home with unfulfilled ambitions.",
-      "startClipIndex": 28,
-      "endClipIndex": 35,
+      "title": "October's Short Story",
+      "description": "The White Sox push Cleveland in the ALDS but José Ramírez and the Guardians have the final word, ending Chicago's season.",
+      "startClipIndex": 29,
+      "endClipIndex": 36,
       "tone": "struggle"
     }
   ],
   "clips": [
+    {
+      "id": "823810-75-8",
+      "title": "Home Run — Seranthony Domínguez",
+      "description": "Christian Yelich homers (1) on a fly ball to right field. Brice Turang scores. Luis Rengifo scores.",
+      "playId": "19f00611-d14c-319a-b87a-f38b170a9183",
+      "date": "2026-03-29",
+      "gamePk": 823810,
+      "atBatNumber": 75,
+      "inning": 8,
+      "isTopInning": false,
+      "batter": "Seranthony Domínguez",
+      "pitcher": "",
+      "exitVelocity": 111.1,
+      "launchAngle": 35,
+      "distance": 421,
+      "wpa": -0.641,
+      "xwoba": 1.881,
+      "eventType": "home_run",
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/OTdQeWxfWGw0TUFRPT1fQndnSFZGUUNWd01BWEZNR0JRQUhBQThIQUFNTlZBQUFWRllOVWdJQ0FWSmNBUXBW.mp4"
+    },
     {
       "id": "824621-80-10",
       "title": "Single — Derek Hill",
@@ -839,5 +860,5 @@
     "division": "AL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-08T16:54:21.754Z"
+  "generatedAt": "2026-11-09T21:06:54.178Z"
 }

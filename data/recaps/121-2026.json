@@ -1,55 +1,55 @@
 {
   "teamId": 121,
   "year": 2026,
-  "narrative": "The 2026 New York Mets entered the season with legitimate ambitions, bolstered by the marquee addition of Juan Soto and a roster built to compete. Those hopes collided almost immediately with a brutal April, one of the worst months in recent franchise memory. A 7-19 record buried them in the standings before May even arrived, and the opening weeks were defined by bullpen collapses, grand slams surrendered, and late-inning leads evaporating. Luis Robert Jr.'s opening-week three-run blast offered a brief flash of promise, but the Mets couldn't hold leads long enough to matter, and April left them staring at a deep hole.\n\nMay brought a genuine turnaround. A 16-12 record represented the club's best month of the season, and Tyrone Taylor emerged as an unlikely catalyst, delivering clutch home runs that swung games the Mets desperately needed. Soto was building toward his best form, and for a stretch in mid-to-late May, Citi Field felt alive again. But June arrived and snuffed the momentum almost immediately, bringing a 10-17 collapse punctuated by Kodai Senga's struggles on the mound — a reminder that the rotation remained a persistent vulnerability throughout 2026.\n\nJuly became the season's most emotionally complex month. Soto delivered the single most impactful moment of the year, a three-run blast on July 6th that briefly reignited belief, and Luis Torrens and Tyrone Taylor added complementary heroics across a stretch where the Mets showed genuine fight. The team finished July at 11-14, not winning but not surrendering either. August steadied somewhat at 15-12, the Mets' second-best month, though the rotation continued to betray them on key nights. Through it all, the team kept punching.\n\nSeptember has found the Mets in a familiar and uncomfortable position — mathematically alive but grinding through a 12-12 pace that reflects a team that has never quite found consistent footing. At 74-88 with games still remaining, the 2026 Mets are a club that showed flashes of what this roster can be, particularly when Soto, Bichette, and Taylor were all clicking at once, but one that never strung together enough sustained excellence to overcome that catastrophic April. The roster has the talent to look back at this season as a foundation — but that will depend heavily on what the final weeks produce and how the offseason reshapes the rotation.",
+  "narrative": "The 2026 New York Mets opened with cautious optimism, but April quickly dismantled whatever goodwill the opening week had built. A Luis Robert Jr. three-run blast on Opening Weekend briefly lit up Citi Field, but the month caved in around a 7-19 record — the worst stretch of the season and arguably the wound from which New York never fully recovered. Blown leads, bullpen implosions, and a Devin Williams who surrendered an Olson home run at the worst moments all became early signatures of a team that couldn't hold late-inning advantages.\n\nMay and August offered the clearest proof that this Mets roster had real talent buried under misfortune. A 16-12 May — anchored by Tyrone Taylor's go-ahead three-run blast on May 17 — showed the offense could explode when given the chance. Juan Soto's 19th home run on July 6, a towering three-run shot that registered the highest single-play swing of the year at +0.716 WPA, was the kind of moment that reminded the Citi Field faithful why they invested in this roster. Taylor, Soto, and an emerging Luis Robert Jr. gave the lineup genuine star power on its best nights.\n\nThe middle months told a story of a team perpetually spinning its wheels. June and July combined for a 21-31 mark, with Kodai Senga allowing a Kyle Schwarber moon shot in late June and the bullpen — particularly Austin Warren and Devin Williams — struggling to protect leads. Jonathan Pintaro's disastrous September 15 outing, in which Coby Mayo's inside-the-park home run swung the game by -0.571 WPA, encapsulated how cruelly the baseball gods treated this team's younger arms down the stretch.\n\nYet the Mets never fully capsized. August finished 15-12, Francisco Alvarez delivered a clutch double to keep rallies alive, and Bo Bichette's three-run homer on September 6 — worth +0.641 WPA — ignited a brief late-season surge. A.J. Ewing's three-run shot on September 26 gave the season a defiant final exclamation point. At 74-88, the 2026 Mets are a team defined by what might have been: enough talent to win, not quite enough consistency to matter.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Opening Week Jolt",
-      "description": "A Luis Robert Jr. three-run homer on Opening Day gives the Mets an early spark, but the promise proves fleeting.",
+      "title": "Opening Week Sparks, Then Silence",
+      "description": "Luis Robert Jr.'s three-run blast gives the Mets an electric start, but the promise evaporates almost immediately.",
       "startClipIndex": 0,
       "endClipIndex": 0,
       "tone": "turning_point"
     },
     {
       "id": "ch2",
-      "title": "April Freefall",
-      "description": "A brutal 7-19 April buries the Mets in a hole, with the bullpen surrendering leads and momentum at nearly every turn.",
+      "title": "April's Long Collapse",
+      "description": "A brutal 7-19 April exposes a bullpen that cannot hold leads, burying the Mets in the standings before May arrives.",
       "startClipIndex": 1,
       "endClipIndex": 6,
       "tone": "struggle"
     },
     {
       "id": "ch3",
-      "title": "May Revival",
-      "description": "A 16-12 May breathes life back into the season, with Tyrone Taylor's clutch home run leading a genuine winning surge.",
+      "title": "May Awakening",
+      "description": "A 16-12 May breathes life back into the Mets, with Tyrone Taylor's three-run homer headlining a genuine winning stretch.",
       "startClipIndex": 7,
       "endClipIndex": 7,
       "tone": "triumph"
     },
     {
       "id": "ch4",
-      "title": "Summer Swings",
-      "description": "Juan Soto delivers the season's biggest moment on July 6th as the Mets alternate between clutch heroics and costly collapses through June and July.",
+      "title": "Treading Water",
+      "description": "Juan Soto delivers the season's most electrifying moment, but June and July's combined losing record keeps New York from climbing.",
       "startClipIndex": 8,
       "endClipIndex": 15,
       "tone": "clutch"
     },
     {
       "id": "ch5",
-      "title": "August Steadiness",
-      "description": "A 15-12 August represents the Mets' second-best month, with Francisco Alvarez and the offense providing answers even as the rotation keeps stumbling.",
+      "title": "August Resilience",
+      "description": "A 15-12 August shows the Mets can win when the lineup and rotation align, with Francisco Alvarez emerging as a clutch presence.",
       "startClipIndex": 16,
       "endClipIndex": 20,
-      "tone": "turning_point"
+      "tone": "triumph"
     },
     {
       "id": "ch6",
-      "title": "September Reckoning",
-      "description": "The Mets play out the string at a .500 pace, mixing moments of pride like Bo Bichette's three-run blast with painful losses that cement a disappointing 2026.",
+      "title": "September's Final Reckoning",
+      "description": "Painful losses and dazzling individual moments collide as the Mets play out a 12-12 September, closing the year on a bittersweet note.",
       "startClipIndex": 21,
       "endClipIndex": 23,
-      "tone": "struggle"
+      "tone": "milestone"
     }
   ],
   "clips": [
@@ -580,5 +580,5 @@
     "division": "NL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-09T21:21:18.808Z"
+  "generatedAt": "2026-11-11T18:22:20.086Z"
 }

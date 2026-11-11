@@ -1,47 +1,47 @@
 {
   "teamId": 115,
   "year": 2026,
-  "narrative": "The 2026 Colorado Rockies entered the season with modest expectations and quickly confirmed them, stumbling out of the gate with a 1-4 March before a passable April gave way to a brutal May collapse. Victor Vodnik and Juan Mejia were torched repeatedly in high-leverage spots, and the bullpen's inability to hold leads defined those painful early months. By the time May closed at 8-20, the Rockies had already established themselves as one of baseball's most vulnerable clubs, surrendering nearly a run per game more than they scored.\n\nJune, however, produced the season's most unexpected storyline. Cole Carrigg emerged as a genuine spark plug, delivering back-to-back clutch home runs and helping the Rockies to an 11-15 month that felt like a revelation compared to what preceded it. Hunter Goodman continued his power surge — reaching 22 home runs before the All-Star break — and Jake McCarthy's big triple in late June crystallized a stretch where Colorado's young core showed it could compete on any given night. The offense, anchored by Goodman and Carrigg, gave the thin Mountain air a reason to crackle again.\n\nJuly and August brought the inevitable regression, as the Rockies' rotation and bullpen combined for an ERA that ballooned past 5.59 on the season. Jaden Hill's late-August implosion against Michael Harris II typified a squad that simply could not hold leads, and the month-by-month records of 10-14 and 9-19 erased whatever optimism June had kindled. Mickey Moniak's 20th home run offered a milestone moment in a month otherwise defined by mounting losses.\n\nSeptember has brought more of the same, though a remarkable Brett Sullivan walk-off single on September 2nd — scoring two runs and swinging nearly 75 points of win probability — reminded observers that this group refuses to quit entirely. With a 58-104 record and a punishing 192-run run differential, the Rockies' season is winding down as a testament to youth over winning, with Goodman, Carrigg, and Karros pointing toward a future that is brighter than the present standings suggest.",
+  "narrative": "The 2026 Colorado Rockies entered the season carrying the familiar weight of a rebuilding franchise, and March offered no gentle introduction. A Victor Vodnik meltdown on Opening Weekend — surrendering a go-ahead home run that swung nearly 85 win-probability points — set the tone for a team that would spend most of the year fighting uphill. April proved marginally better at 13-14, a near-.500 clip that briefly hinted at respectability, but the bullpen kept finding new ways to give games away in the late innings.\n\nMay unraveled quickly, the Rockies going 8-20 as the pitching staff hemorrhaged runs and the offense sputtered. The lone bright spot arrived on May 29th, when Hunter Goodman's reviewed-and-upheld home run and Ezequiel Tovar's back-to-back blast gave Coors Field something to cheer about. June brought the season's most compelling stretch — an 11-15 record that understates how alive the club felt. Cole Carrigg emerged as a genuine spark, homering twice in clutch situations and anchoring a mid-month run. Goodman kept mashing, Jake McCarthy delivered a go-ahead triple, and Braxton Fulford contributed a clutch double in a contested Pirates victory. For a few weeks in June, the young pieces looked like they might actually cohere.\n\nJuly and August returned the Rockies to earth. The club went a combined 19-33 across those two months, and the high-leverage moments shifted back toward heartbreak — most painfully a Jaden Hill implosion in late August that cost Colorado a game it needed. Mickey Moniak reached the 20-homer threshold, a personal milestone in an otherwise bleak stretch, but the wins simply weren't coming. September has followed the same script at 6-18, with Jordan Romano surrendering a three-run homer in a critical late-inning spot and even a Brett Sullivan walk-off single unable to paper over a roster that's given up far more than it's taken.\n\nAt 58-104, Colorado is on pace for one of the worst records in franchise history, outscored by nearly 200 runs and carrying a rotation ERA well above five. The young talent — Goodman, Carrigg, Tovar, Karros, Veen — offers genuine reasons for optimism heading into the offseason, but 2026 will be remembered as another painful year of development, one where flashes of brilliance in June couldn't survive the structural deficiencies that define this era of Rockies baseball.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Rough Beginnings",
-      "description": "Colorado stumbles through March and a rocky April as the bullpen bleeds runs in critical moments.",
+      "title": "Opening Wounds",
+      "description": "A brutal Opening Weekend home run sets the tone for a Rockies team that struggles to escape the bottom of the standings through April.",
       "startClipIndex": 0,
       "endClipIndex": 2,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "May Meltdown",
-      "description": "An 8-20 May exposes the Rockies' pitching vulnerabilities as opponents routinely deliver knockout blows.",
+      "title": "May Unraveling",
+      "description": "An 8-20 month exposes the team's pitching vulnerabilities, though back-to-back home runs on May 29th offer a rare moment of electricity.",
       "startClipIndex": 3,
       "endClipIndex": 5,
       "tone": "struggle"
     },
     {
       "id": "ch3",
-      "title": "June Awakening",
-      "description": "Cole Carrigg and Hunter Goodman ignite a surprising stretch of competitive baseball, giving Colorado its best month of the season.",
+      "title": "The June Surge",
+      "description": "Cole Carrigg, Hunter Goodman, and Jake McCarthy ignite the season's most compelling stretch, giving Coors Field genuine reasons to believe.",
       "startClipIndex": 6,
       "endClipIndex": 18,
       "tone": "triumph"
     },
     {
       "id": "ch4",
-      "title": "Summer Slide",
-      "description": "July and August see the Rockies regress as the rotation falters and the bullpen surrenders key leads.",
+      "title": "Summer Fade",
+      "description": "July and August grind the momentum to a halt as the Rockies go 19-33, with Jaden Hill's August meltdown capturing the painful regression.",
       "startClipIndex": 19,
-      "endClipIndex": 21,
+      "endClipIndex": 20,
       "tone": "struggle"
     },
     {
       "id": "ch5",
-      "title": "September Flickers",
-      "description": "Brett Sullivan's clutch single provides a rare bright moment as the Rockies play out the string with flashes of promise.",
-      "startClipIndex": 22,
+      "title": "September Reckoning",
+      "description": "The final month brings scattered heroics — a Brett Sullivan walk-off, a Zac Veen double — but the losses pile up as the season closes on a losing note.",
+      "startClipIndex": 21,
       "endClipIndex": 24,
-      "tone": "clutch"
+      "tone": "struggle"
     }
   ],
   "clips": [
@@ -596,5 +596,5 @@
     "division": "NL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-09T21:32:04.619Z"
+  "generatedAt": "2026-11-11T18:33:28.394Z"
 }

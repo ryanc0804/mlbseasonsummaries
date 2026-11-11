@@ -1,52 +1,44 @@
 {
   "teamId": 139,
   "year": 2026,
-  "narrative": "The 2026 Tampa Bay Rays arrived with something to prove, and they made their case almost immediately. Opening week was a microcosm of what was to come: Nick Fortes delivering clutch hits, the bullpen occasionally wobbling, and the team finding ways to win anyway. A 2-3 March gave way to a 16-9 April as the Rays established themselves as a genuine AL contender, riding a balanced attack and a rotation anchored by Shane McClanahan and a resurgent bullpen core. Junior Caminero was quietly becoming a star, and the lineup's depth — from Yandy Díaz at the top to Jonny DeLuca's pop in the outfield — made Tampa Bay difficult to put away.\n\nThe May through June stretch tested the Rays' character. Bryan Baker's reliability became a genuine concern, surrendering doubles and runs at critical moments, and Aaron Brooks was torched for a Daulton Varsho grand slam that underscored the bullpen's volatility. June went a flat 13-13, the one month where Tampa Bay looked ordinary. But even in those darker stretches, the offense refused to quit — Jonathan Aranda's two-run double, Yandy Díaz's two-run homer, and Nick Fortes turning into an unlikely clutch hero kept the Rays afloat when the arms stumbled.\n\nThe second half belonged to Tampa Bay. August was their best month at 18-10, powered by Jonny DeLuca's home runs, Junior Caminero's breakout (41 homers on the season), and a bullpen that steadied itself after the midseason turbulence. Jonathan Aranda's three-run blast in September, Richie Palacios delivering big RBI moments, and Caminero's 41st home run on September 15th told the story of a team peaking at exactly the right time. They finished 98-64, one of the AL's elite, and carried that momentum into October.\n\nThe postseason was a roller coaster that ended just one step short. Victor Mesa Jr. delivered a stunning home run in the Division Series to help dispatch their ALDS opponents, and the Rays pushed through the Championship Series with grit — Chandler Simpson's RBI triple and Caminero's clutch double fueling a dramatic series win over Cleveland. The World Series, however, proved a bridge too far. Ian Seymour couldn't hold leads, surrendering a Cooper Pratt home run at a critical juncture, and despite Liam Hicks and Jonny DeLuca providing late-game sparks, the Rays fell short. A 98-win season and a World Series appearance represented a triumphant campaign, even if the final chapter stung.",
+  "narrative": "The 2026 Tampa Bay Rays arrived with modest expectations and quickly proved they were built for the long haul. After a stumbling 2-3 March that featured an Opening Week gut-punch — Griffin Jax's bullpen implosion letting two Yankees cross the plate in the season's first days — the Rays righted themselves in April, going 16-9 behind clutch contributions from an unlikely hero: backup catcher Nick Fortes, whose timely hits in the opening series set the tone for a team that would grind out wins rather than blow opponents away.\n\nMay and June told the full story of Tampa Bay's character. The 18-8 May was the team's finest month, powered by Jonathan Aranda's clutch double against Baltimore, Yandy Díaz's two-run homer showing his unexpected pop, and Junior Caminero continuing his ascent into stardom. The 13-13 June looked like a stumble, but Jonny DeLuca's two-run blast on the 21st kept the Rays afloat. Bryan Baker's recurring struggles in high-leverage spots were the season's one consistent anxiety — his name appeared in three separate damaging moments — but the rotation, anchored by a 3.70 ERA, kept the team competitive through every rough patch.\n\nThe Rays caught fire again in August, going 18-10 — their best record of any month — with Jonny DeLuca's ninth home run and Yandy Díaz's clutch late-inning single against San Diego serving as bookends to a dominant stretch. Junior Caminero's 41st home run on September 15th and Richie Palacios' walk-off single in mid-September sealed a 98-win season, sending Tampa Bay to October as one of baseball's most dangerous teams. The Rays dispatched their Division Series opponent in part thanks to Victor Mesa Jr.'s unexpected home run, a moment that announced a young player's playoff arrival.\n\nThe Championship Series saw the Rays battle through Cleveland's relentless lineup, with Chandler Simpson's first career postseason triple and Junior Caminero's two-RBI double in Game 4 pushing Tampa Bay to the World Series. But October's final chapter was painful. Facing Milwaukee, Ian Seymour — so often reliable — could not hold the line, surrendering a go-ahead homer to Cooper Pratt in a critical World Series moment. Though Liam Hicks and Jonny DeLuca showed fight late, the Rays fell just short of the ultimate prize, their 98-win season ending in heartbreak. It was a year that proved Tampa Bay belonged among baseball's elite — even if the last out of October came one ring too soon.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Opening Salvos",
-      "description": "The Rays open the season with high-leverage drama, with Nick Fortes emerging as an early clutch hero but the bullpen showing its first cracks.",
+      "title": "Opening Stumbles, Early Promise",
+      "description": "The Rays open the year with high drama — Nick Fortes provides instant heroics, but Griffin Jax's first big blow signals a bullpen that will need watching.",
       "startClipIndex": 0,
       "endClipIndex": 3,
       "tone": "turning_point"
     },
     {
       "id": "ch2",
-      "title": "Grinding Through the Fire",
-      "description": "A brutal stretch of bullpen meltdowns and blown leads tests Tampa Bay's depth, but the offense keeps fighting to keep the Rays above water.",
+      "title": "Winning Ugly in April and May",
+      "description": "Bryan Baker's reliability becomes a question mark, but clutch hits from Aranda, Díaz, and Fortes fuel a dominant 34-17 stretch over two months.",
       "startClipIndex": 4,
-      "endClipIndex": 8,
-      "tone": "struggle"
-    },
-    {
-      "id": "ch3",
-      "title": "Finding Their Footing",
-      "description": "Jonathan Aranda and Yandy Díaz provide big moments as the Rays stabilize through late May and a flat June, refusing to let a 13-13 month define them.",
-      "startClipIndex": 9,
-      "endClipIndex": 13,
+      "endClipIndex": 11,
       "tone": "triumph"
     },
     {
+      "id": "ch3",
+      "title": "Grinding Through the Dog Days",
+      "description": "A 13-13 June tests the Rays' resolve, but DeLuca's big fly and steady pitching keep Tampa Bay above water heading into the summer.",
+      "startClipIndex": 12,
+      "endClipIndex": 13,
+      "tone": "struggle"
+    },
+    {
       "id": "ch4",
-      "title": "The Summer Surge",
-      "description": "Junior Caminero blossoms into a superstar, Jonny DeLuca delivers back-to-back monster home runs, and the Rays post a blistering 18-10 August to cement their status as AL contenders.",
+      "title": "August Surge and the Final Push",
+      "description": "The Rays catch fire with an 18-10 August and close the regular season strong, with Caminero's 41st homer and Palacios' clutch single securing 98 wins.",
       "startClipIndex": 14,
-      "endClipIndex": 17,
+      "endClipIndex": 21,
       "tone": "triumph"
     },
     {
       "id": "ch5",
-      "title": "September Statement",
-      "description": "Aranda's three-run blast, Caminero's 41st home run, and clutch contributions across the roster carry Tampa Bay to a dominant finish and 98 wins.",
-      "startClipIndex": 18,
-      "endClipIndex": 21,
-      "tone": "milestone"
-    },
-    {
-      "id": "ch6",
-      "title": "October's Heartbreak",
-      "description": "The Rays storm through the ALDS and ALCS on the strength of unlikely heroes and postseason clutch hits, only to fall agonizingly short in the World Series.",
+      "title": "October Glory and Heartbreak",
+      "description": "Victor Mesa Jr. announces himself on the playoff stage, the Rays battle through the ALCS, but Ian Seymour's World Series struggles end Tampa Bay's dream one round too late.",
       "startClipIndex": 22,
       "endClipIndex": 29,
       "tone": "clutch"
@@ -714,5 +706,5 @@
     "division": "AL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-09T21:04:30.670Z"
+  "generatedAt": "2026-11-11T18:05:38.482Z"
 }

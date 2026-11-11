@@ -1,44 +1,44 @@
 {
   "teamId": 118,
   "year": 2026,
-  "narrative": "The 2026 Kansas City Royals entered the season with modest expectations, and April wasted no time laying bare both the ceiling and the floor of this roster. Salvador Perez turned back the clock with a three-run blast, Lane Thomas delivered a stunning three-run homer that briefly had Kauffman Stadium buzzing, and Bobby Witt Jr. continued his ascent as one of the game's elite talents. But for every heroic swing, the bullpen — anchored by an overworked and inconsistent group — surrendered leads in gut-wrenching fashion. The Royals limped through April at 10-17, a record that told the story of a team just not good enough to win close games.\n\nMay and early June offered little relief. The bullpen remained the team's Achilles heel, with Lucas Erceg's name appearing in multiple collapse sequences and the relief corps routinely squandering leads in the late innings. The offense, while capable of flashing power — Jac Caglianone delivered clutch knocks, Kyle Isbel chipped in timely hits — could not sustain the production needed to cover for a pitching staff allowing runs at an alarming clip. A 10-18 May gave way to a 13-14 June that felt almost like progress, Bobby Witt Jr. providing the brightest individual moments in an otherwise grim first half.\n\nJuly proved to be the cruelest month. Alex Lange was victimized repeatedly, and the defining blow came on July 30 when Matt Strahm served up a Kody Clemens grand slam that swung nearly a full win of probability in a single pitch — a moment that encapsulated the season's recurring nightmare. Yet August arrived like an unexpected reprieve. Going 16-11, the Royals played their best baseball of the year, with Tyler Tolbert, Bobby Witt Jr., and Michael Massey combining for a series of clutch hits that felt, for a few weeks, like the seeds of something real. Carter Jensen emerged as a surprise power source throughout the summer stretch, and John Rave contributed timely home runs that energized the lineup.\n\nSeptember has not been kind. A 7-17 record to close the year underscores the fundamental gap between this club and the contenders in the American League. Pitching remains the core problem — a 4.77 ERA and 810 runs allowed tell the full story. With a 69-93 record, the Royals find themselves well outside playoff contention as the calendar winds toward October. The positives to carry forward: Witt Jr.'s brilliance, Jensen's breakout power, and flashes from a young supporting cast suggest the foundation is not without promise. But 2026 will be remembered as a year of growing pains, bullpen collapses, and a second half that teased but ultimately could not deliver.",
+  "narrative": "The 2026 Kansas City Royals entered the season with modest hopes, and April quickly proved those hopes would be tested. After a respectable 2-2 March, the club stumbled to a 10-17 mark in April — a month defined by Salvador Perez's thunderous three-run blast providing a rare bright spot, only for the bullpen to repeatedly surrender late leads. Lucas Erceg became a recurring villain in Kansas City's story, with opposing hitters doing damage on his watch across multiple devastating late-inning sequences. The Royals were competitive in flashes, but far too often found themselves on the wrong side of high-leverage moments.\n\nMay and June offered little relief, as the Royals posted a combined 23-32 record over those two months. The bullpen remained a persistent wound, with Steven Cruz and others unable to hold games together in the late innings. Bobby Witt Jr. continued to flash the star power that keeps Kauffman Stadium buzzing, and young pieces like Jac Caglianone showed genuine promise, but the team's run prevention woes made every close game feel precarious. A 13-14 June suggested some stabilization, but Kansas City remained well below .500 and sinking in the standings.\n\nJuly brought the season's most volatile stretch — and its most damaging individual moment. Alex Lange surrendered multiple critical home runs, and Matt Strahm's brutal grand slam allowed on July 30th, a Kody Clemens blast that swung win probability by nearly a full run expectancy, effectively encapsulated everything that had gone wrong in the rotation and bullpen all year. That devastating loss was the low point of a 11-14 July. Yet even in the wreckage, Carter Jensen and Michael Massey delivered moments of genuine excitement, reminding the fanbase that the future has a pulse.\n\nAugust brought the season's most surprising chapter: a 16-11 record that stood as Kansas City's best month and a genuine bright spot in an otherwise difficult year. Tyler Tolbert and Bobby Witt Jr. fueled key rallies, and the offense found a rhythm it had been missing for months. The momentum, however, could not survive September, as the Royals collapsed to 7-17 to close out the year. John Rave and Carter Jensen — who reached 27 home runs — provided scattered highlights, but a 69-93 final record tells the full story of a club that was outscored by 120 runs and simply did not have the pitching depth to compete consistently in a demanding American League.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Bright Flashes, Dark Holes",
-      "description": "April delivers moments of genuine excitement from Perez, Thomas, and Witt, but the bullpen repeatedly surrenders leads and the Royals sink to 10-17.",
+      "title": "April Agony: Too Many Holes to Fill",
+      "description": "The Royals open with flashes of brilliance from Perez and Witt but watch the bullpen repeatedly surrender crucial leads in a rough 10-17 April.",
       "startClipIndex": 0,
-      "endClipIndex": 9,
+      "endClipIndex": 10,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "Treading Water",
-      "description": "May and early June see the offense generate clutch moments but the bullpen and rotation remain inconsistent, producing a grinding 23-32 combined record.",
-      "startClipIndex": 10,
+      "title": "Treading Water: May and June Stagnation",
+      "description": "Kansas City gets some offensive contributions from young bats but cannot solve its bullpen problems, limping through a combined 23-32 stretch.",
+      "startClipIndex": 11,
       "endClipIndex": 15,
       "tone": "struggle"
     },
     {
       "id": "ch3",
-      "title": "July's Brutal Lessons",
-      "description": "The Royals go 11-14 in July as Alex Lange and Matt Strahm absorb devastating blows, including a Kody Clemens grand slam that epitomizes the season's bullpen misery.",
+      "title": "July's Grand Collapse",
+      "description": "An 11-14 July is defined by Alex Lange's repeated late-game disasters and a soul-crushing grand slam that becomes the low point of the entire season.",
       "startClipIndex": 16,
       "endClipIndex": 23,
       "tone": "struggle"
     },
     {
       "id": "ch4",
-      "title": "The August Revival",
-      "description": "Kansas City's best month of the season sees Tolbert, Witt, Massey, and Jensen combining for clutch hits in a surprising 16-11 run that briefly sparks hope.",
+      "title": "August Surge: The Season's One Bright Month",
+      "description": "The Royals put together their best baseball of the year at 16-11, with Tolbert and Witt delivering clutch hits and the offense finally clicking.",
       "startClipIndex": 24,
       "endClipIndex": 26,
       "tone": "triumph"
     },
     {
       "id": "ch5",
-      "title": "September Fade",
-      "description": "The Royals collapse down the stretch at 7-17, as late-season home run surrenders and bullpen implosions close out a disappointing 69-93 campaign.",
+      "title": "September Fade: A Season Slips Away",
+      "description": "A 7-17 September extinguishes any late hope, though Carter Jensen's power and John Rave's home runs give fans something to build on heading into the offseason.",
       "startClipIndex": 27,
       "endClipIndex": 31,
       "tone": "struggle"
@@ -746,5 +746,5 @@
     "division": "AL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-09T21:10:52.083Z"
+  "generatedAt": "2026-11-11T18:11:52.474Z"
 }

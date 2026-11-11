@@ -1,52 +1,52 @@
 {
   "teamId": 145,
   "year": 2026,
-  "narrative": "The 2026 Chicago White Sox arrived with cautious optimism, and opening week nearly shattered it immediately. Christian Yelich's three-run blast off Seranthony Domínguez on March 29th sent an early warning that the bullpen would need minding — but the Sox rallied, going 1-4 in March before finding their footing. April steadied the ship at 13-13, buoyed by Derek Hill's clutch bunt single and Tristan Peters' timely follow-up hit that swung a critical early-April game, and Andrew Benintendi's three-run shot late in the month gave the lineup a sense of real offensive identity.\n\nMay was when the White Sox announced themselves as genuine contenders, posting an 18-10 record — their best month of the season. Edgar Quero and Tristan Peters delivered back-to-back home runs on May 17th that swung a game decisively, Munetaka Murakami continued his prodigious power output, and Miguel Vargas capped the month with the season's single most impactful swing: a go-ahead home run on May 29th worth nearly nine-tenths of a win. This was a team that could hit, and hit big.\n\nJune and July saw the Sox grind through a competitive stretch, going a combined 26-24 and cementing themselves above .500. Sam Antonacci's line-drive single in a contested Cleveland game and Randal Grichuk's solo shots provided the offensive fireworks, while the pitching staff had its share of costly moments — Grant Taylor's blown lead on July 2nd stung the most. August mirrored July's grind, finishing 14-14, with Benintendi and Peters continuing to contribute timely home runs even as the bullpen occasionally surrendered leads. September tightened, 12-13, but Grichuk's two-run homer on September 12th — his 13th of the year — helped the Sox claw into postseason position and book an ALDS berth at 84-78.\n\nThe playoffs brought the Cleveland Guardians, and for a moment, it seemed possible. Murakami homered in Game 1, and Braden Montgomery's sharp double in Game 2 kept Chicago alive. But Cleveland's weapons — most painfully José Ramírez — proved too much. Jo Adell's triples, a Ramírez two-run shot in Game 3, and another Ramírez homer in Game 4 steadily closed the door on Chicago's hopes. The White Sox, who had clawed from baseball's depths just a year earlier, were eliminated in the ALDS — a painful ending, but a foundation laid for something more.",
+  "narrative": "The 2026 Chicago White Sox arrived with cautious optimism after years of rebuilding, and they validated that hope almost immediately — before getting kicked in the teeth on Opening Weekend. A three-run Yelich blast off Seranthony Domínguez on March 29th sent an early warning that the bullpen would be both a weapon and a liability all year. But the Sox didn't flinch. April saw them claw back to .500 through clutch moments, then May erupted into their best stretch of baseball, an 18-10 month fueled by power from unexpected names and a lineup that suddenly looked like a genuine contender.\n\nThe heart of the season belonged to players who had waited for their moment. Edgar Quero's first career home run, a clutch two-run shot on May 17th, was emblematic of a roster where youth and veterans blended into something functional and exciting. Miguel Vargas became the team's most reliable run-producer, and Munetaka Murakami brought thunder from the left side. The White Sox weren't dominant, but they were resilient — grinding through June and July at 13-12 each month, finding ways to win even when the high-leverage moments seemed to break against them.\n\nAugust and September were a battle of attrition. The bullpen, led by Jordan Hicks and a rotating cast of question marks, leaked runs at critical moments. Grant Taylor twice became the name attached to crushing losses in September, and the stretch run saw the Sox stumble to 12-13 in the final month. Yet the math held. An 84-78 record, 776 runs scored against 720 allowed, was enough to claim an ALDS berth — a genuine milestone for a franchise that had known far darker recent years.\n\nOctober, though, belonged to Cleveland. The Guardians' Jo Adell was a postseason nightmare, tripling twice across the series to swing momentum. José Ramírez homered twice — once off Jordan Hicks, once off Sean Burke — to close doors the White Sox tried desperately to open. Braden Montgomery's sharp double in Game 2 gave the Sox hope, and Murakami connected again, but Cleveland's pitching depth proved the difference. The ALDS exit stung, but it also confirmed that this Sox team had arrived. The rebuild was over. The next chapter was just beginning.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Rocky Start, Early Resolve",
-      "description": "A brutal opening blast nearly derails the Sox before clutch hits from Hill and Peters restore belief in April.",
+      "title": "Opening Wounds",
+      "description": "The White Sox stumbled through a rough March Opening Series before rallying in early April, with a painful Yelich blast setting the tone for a season that would demand resilience.",
       "startClipIndex": 0,
-      "endClipIndex": 4,
+      "endClipIndex": 0,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "May Eruption",
-      "description": "Back-to-back home runs, Murakami's power, and Vargas's season-defining blast fuel an 18-10 May and announce Chicago as contenders.",
+      "title": "April Comeback",
+      "description": "Derek Hill's bunt single and Tristan Peters' clutch RBI ignited an April turnaround, with Andrew Benintendi and Sam Antonacci providing the big moments that pulled Chicago to .500.",
+      "startClipIndex": 1,
+      "endClipIndex": 4,
+      "tone": "turning_point"
+    },
+    {
+      "id": "ch3",
+      "title": "May Surge",
+      "description": "An 18-10 month saw the White Sox catch fire, with Edgar Quero's first homer, Tristan Peters going deep, Murakami mashing, and Miguel Vargas delivering the team's most impactful swing of the regular season.",
       "startClipIndex": 5,
       "endClipIndex": 9,
       "tone": "triumph"
     },
     {
-      "id": "ch3",
+      "id": "ch4",
       "title": "Grinding Through Summer",
-      "description": "The Sox win ugly through June and July, navigating blown leads and clutch moments in equal measure to stay above .500.",
+      "description": "June and July were marked by clutch home runs and costly bullpen failures in equal measure, as the Sox went 13-12 each month and fought for every win in the AL standings.",
       "startClipIndex": 10,
       "endClipIndex": 16,
-      "tone": "turning_point"
-    },
-    {
-      "id": "ch4",
-      "title": "Holding On in August",
-      "description": "Benintendi, Peters, and Grichuk keep the offense humming through a 14-14 August as the bullpen tests everyone's nerves.",
-      "startClipIndex": 17,
-      "endClipIndex": 23,
       "tone": "clutch"
     },
     {
       "id": "ch5",
-      "title": "September Push",
-      "description": "Grichuk's big homer and late-season production secure a postseason berth despite a 12-13 finish.",
-      "startClipIndex": 24,
+      "title": "Late-Season Push",
+      "description": "August and September tested the Sox's resolve, with Benintendi, Grichuk, and Peters providing big moments while shaky pitching threatened to unravel the playoff push down the stretch.",
+      "startClipIndex": 17,
       "endClipIndex": 28,
       "tone": "turning_point"
     },
     {
       "id": "ch6",
-      "title": "October's Short Story",
-      "description": "The White Sox push Cleveland in the ALDS but José Ramírez and the Guardians have the final word, ending Chicago's season.",
+      "title": "October's End",
+      "description": "The White Sox reached the ALDS and flashed genuine promise, but Cleveland's Jo Adell and José Ramírez proved too much to overcome, ending Chicago's postseason run with a painful series loss.",
       "startClipIndex": 29,
       "endClipIndex": 36,
       "tone": "struggle"
@@ -860,5 +860,5 @@
     "division": "AL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-09T21:06:54.178Z"
+  "generatedAt": "2026-11-11T18:08:05.695Z"
 }

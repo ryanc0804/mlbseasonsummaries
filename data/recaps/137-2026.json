@@ -1,44 +1,52 @@
 {
   "teamId": 137,
   "year": 2026,
-  "narrative": "The 2026 San Francisco Giants entered the season with cautious optimism, but April quickly revealed the painful truth: this was a team in transition, not contention. A brutal April collapse on the 30th — when the bullpen surrendered a triple and two more hits in rapid succession to allow a multi-run meltdown — set the tone for a 11-15 month that felt even worse than the numbers suggested. The pitching staff, patchwork and inconsistent, was regularly torched at the worst moments, and the offense could rarely manufacture enough to cover the damage.\n\nMay and June were defined by alternating flashes of hope and heartbreak. Matt Gage's disastrous outing on May 19th — when Ketel Marte crushed a three-run homer to blow open a game — was emblematic of a staff that couldn't hold leads. Yet the Giants also showed life: Willy Adames drove in two with a clutch single, and in June, Bryce Eldridge's grand slam and back-to-back homers from Rafael Devers and Victor Bericoto hinted at an offense capable of explosive moments. Jung Hoo Lee's RBI triple on June 25th briefly made Oracle Park feel electric again. The Giants went a surprising 13-14 in June, a modest but meaningful improvement.\n\nJuly and August brought no sustained momentum. Logan Webb was lit up in a critical July start, Dylan Smith was battered across multiple outings in August, and the bullpen continued to bleed runs at inopportune moments. Willy Adames provided one of the season's few unambiguous highlights with his 18th home run on July 20th, but the Giants went a combined 22-31 across those two months, any playoff hopes quietly evaporating. The team's 65-97 record heading into September tells the story plainly: this was one of the more difficult seasons in recent Giants history, with pitching depth and lineup consistency both failing to materialize in meaningful ways.\n\nSeptember has offered little reprieve. Carson Seymour's rough outings — including a three-run shot surrendered to Bo Bichette — and continued defensive miscues have kept the losses mounting. Jung Hoo Lee's double on September 9th, plating two runs, stands as a rare bright spot in an otherwise forgettable final stretch. The Giants are playing out the string now, with young players like Eldridge and Bericoto representing the most compelling reason to watch. The 2026 season has become less about winning and more about identifying which pieces might form the foundation of something better in 2027.",
+  "narrative": "The 2026 San Francisco Giants entered the season with cautious optimism, but April quickly revealed the depth of their rebuilding challenge. Going 11-15 in a month that saw their bullpen battered and their pitching staff exposed in late-inning situations, the Giants established a troubling pattern early: leads evaporating, opponents capitalizing on costly mistakes, and a roster still searching for a coherent identity. The month of April closed with one of the season's ugliest evenings, a late collapse that saw Ryan Walker and Keaton Winn each surrender pivotal hits in a game that slipped entirely away.\n\nMay and June offered a complicated picture. The team went a combined 23-32 across those two months, but scattered through the losing were genuine moments of promise. Willy Adames provided a signature clutch hit on May 10th, and Bryce Eldridge's grand slam on June 10th served as a vivid reminder of the young talent quietly developing in orange and black. Rafael Devers and Victor Bericoto each launched home runs on the same June afternoon, and Jung Hoo Lee delivered a stunning triple that briefly turned Oracle Park electric. These weren't the performances of a finished product, but they were the building blocks of something — tantalizing flashes buried inside a frustrating, inconsistent stretch.\n\nJuly brought more of the same uneven baseball, a 12-13 record that told the story of a team treading water. Logan Webb and Dylan Smith both absorbed brutal home run balls that swung games irreparably, and while Willy Adames continued to provide occasional offensive fireworks — his 18th home run of the season arriving in mid-July — the pitching staff simply could not hold leads consistently. August collapsed further, going 10-18, with Dylan Smith repeatedly at the center of damaging outings and the bullpen contributing its share of late-game disasters. The Giants' run differential, allowing nearly a hundred more runs than they scored across the full season, told the unforgiving truth.\n\nSeptember has offered little reprieve. Carson Seymour has been punished in high-leverage spots, including a devastating three-run home run allowed to Bo Bichette, and a throwing error that gifted opponents a crucial run only added to the frustration. Jung Hoo Lee's double on September 9th, plating two runs in what appears to be a tightly contested game, stands as one of the few offensive bright spots in a month that has largely mirrored the season as a whole. At 65-97, the Giants are deep in the kind of losing campaign that prompts organizational reflection — but the emergence of players like Eldridge, Bericoto, and the continued presence of Lee and Adames offers at least a reason to watch as the final weeks of 2026 play out.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "April Unraveling",
-      "description": "A devastating late-game bullpen collapse on the final day of April captures the Giants' early-season fragility.",
+      "title": "Early Turbulence",
+      "description": "A rough April and rocky start to May exposes the Giants' pitching vulnerabilities in brutal late-game fashion.",
       "startClipIndex": 0,
       "endClipIndex": 2,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "May's Mixed Signals",
-      "description": "The Giants alternate between clutch offensive moments and costly pitching disasters across a turbulent May.",
+      "title": "Flickers of Life",
+      "description": "Clutch hits from Adames and a double-play gem briefly lift the Giants as May winds down with a few competitive moments.",
       "startClipIndex": 3,
       "endClipIndex": 8,
       "tone": "turning_point"
     },
     {
       "id": "ch3",
-      "title": "June Flickers of Life",
-      "description": "Eldridge's grand slam and a pair of home runs spark a surprisingly respectable June, giving fans brief reasons to believe.",
+      "title": "June's Bright Spots",
+      "description": "Eldridge's grand slam, back-to-back homers from Devers and Bericoto, and Lee's clutch triple give Giants fans something to cheer in an otherwise mixed month.",
       "startClipIndex": 9,
       "endClipIndex": 15,
       "tone": "triumph"
     },
     {
       "id": "ch4",
-      "title": "Summer Fade",
-      "description": "July and August expose the Giants' lack of pitching depth as the team goes 22-31 and any postseason hope quietly disappears.",
+      "title": "Treading Water",
+      "description": "July's near-.500 play masks ongoing pitching struggles, with home runs surrendered by Webb and Smith keeping the Giants from turning a corner.",
       "startClipIndex": 16,
-      "endClipIndex": 21,
+      "endClipIndex": 18,
       "tone": "struggle"
     },
     {
       "id": "ch5",
+      "title": "August Fade",
+      "description": "A 10-18 August cements the Giants' losing campaign as Dylan Smith and the bullpen continue to surrender critical runs.",
+      "startClipIndex": 19,
+      "endClipIndex": 21,
+      "tone": "struggle"
+    },
+    {
+      "id": "ch6",
       "title": "Playing Out the String",
-      "description": "September belongs to the losses, the errors, and the rare bright spots from a young core trying to salvage something from a lost season.",
+      "description": "September offers little relief as pitching miscues and defensive errors pile up, though Jung Hoo Lee provides a few late-season highlights worth remembering.",
       "startClipIndex": 22,
       "endClipIndex": 25,
       "tone": "milestone"
@@ -611,5 +619,5 @@
     "division": "NL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-11T18:36:51.637Z"
+  "generatedAt": "2026-11-12T19:16:05.177Z"
 }

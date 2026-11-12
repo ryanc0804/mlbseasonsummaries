@@ -1,44 +1,44 @@
 {
   "teamId": 112,
   "year": 2026,
-  "narrative": "The 2026 Chicago Cubs arrived with genuine expectations, and April validated every bit of that optimism. Alex Bregman's clutch single on April 11, Michael Busch's two-run shot the next day, and Michael Conforto's timely double on April 19 set the tone for a 17-9 month that announced Chicago as a legitimate contender. The addition of Bregman paid immediate dividends, and young Moisés Ballesteros punctuated the month with a grand slam that felt like a statement. The Cubs were rolling, scoring at a blistering pace and looking every bit like a team built to go deep into October.\n\nMay brought the first signs of turbulence. While Pete Crow-Armstrong emerged as a genuine star — tripling, homering, and carrying the offense through the early weeks — the pitching staff began to crack. Ryan Rolison's costly home run allowed on May 17 was a harbinger of bullpen troubles that would shadow the team all summer, and the month finished a losing 13-16. June and July told a more complicated story: the Cubs played winning baseball (16-10 and 14-10 respectively), with PCA's 11th home run in June and Ian Happ's big blast in July providing signature moments, but the bullpen continued to betray them in high-leverage spots. Jacob Webb and Caleb Thielbar served up crushing home runs that swung games, and Trent Thornton's disastrous July outing underscored a recurring theme — this staff could not hold late leads.\n\nAugust was the season's most emotionally turbulent stretch. Alex Bregman cemented his MVP-caliber campaign with home runs and clutch singles, Nico Hoerner delivered when it mattered, and Ian Happ's grand slam on August 23 was a season highlight. But Jacob Webb became the story no one wanted to tell, surrendering walk-off and go-ahead home runs on August 22 and August 25 that each carried near-catastrophic WPA losses. The bullpen's unreliability cost the Cubs dearly even as the offense put up 850 runs on the year. September arrived and the Cubs stumbled to 11-13, their grip on the Wild Card tightening with every loss, with Webb allowing yet another crusher in early September.\n\nChicago scraped into the postseason as a Wild Card entrant, but October offered no redemption. Matthew Boyd was shelled in Game 1 against San Diego, surrendering home runs to Fernando Tatis Jr. and Manny Machado and failing to keep the Cubs in the game. Game 2 showed flashes — Nico Hoerner's RBI single gave fans a moment of hope — but Kevin Gausman and Daniel Palencia couldn't hold the fort, and Gavin Sheets' home run off Palencia closed the door on the Cubs' season. It was a fitting if painful ending to a year defined by breathtaking offense, 220 home runs, and a bullpen that too often turned triumph into heartbreak.",
+  "narrative": "The 2026 Chicago Cubs entered the season with genuine ambitions, and April validated every bit of that optimism. After a slow 2-3 March, the Cubs went 17-9 in April, fueled by a lineup that could hurt you in a dozen different ways. Alex Bregman delivered clutch hit after clutch hit, Michael Busch announced himself as a legitimate middle-of-the-order threat, and young Moisés Ballesteros punctuated the month with a grand slam that felt like a statement. This was a team that could score.\n\nMay proved rockier, with the Cubs going 13-16 as the pitching staff showed its vulnerabilities. Ryan Rolison and Phil Maton both surrendered crushing home runs in the same mid-May game, a preview of a bullpen that would be both brilliant and maddening throughout the year. But June reignited the flame — a 16-10 month powered almost entirely by Pete Crow-Armstrong's breakout. The young center fielder homered, tripled, singled in walk-off moments, and made it clear he was becoming the heartbeat of this ballclub. Meanwhile, Jordan Wicks induced a timely double play and Jacob Webb gave up a brutal three-run blast to remind everyone that Chicago's margin for error was thin even in its best months.\n\nThe Cubs cruised through July and August at a 30-22 clip, but Jacob Webb became the story no one wanted to tell. Four times in the season's highest-leverage moments Webb surrendered decisive home runs, including back-to-back walk-off-caliber disasters in late August that nearly derailed the wild card push entirely. Alex Bregman and Ian Happ kept answering the bell — Bregman homering twice in August, Happ launching a grand slam — and the roster's offensive depth kept Chicago afloat despite the bullpen's repeated collapses. A 11-13 September left the Cubs limping into October as a wild card team, the kind of finish that raises questions even as it earns a ticket.\n\nThe Wild Card round against San Diego ended quickly and without mercy. Matthew Boyd was tagged by Fernando Tatis Jr. and Manny Machado in Game 1, and the Cubs never truly recovered their footing across the two-game set. Nico Hoerner provided a brief spark with an RBI single, but Daniel Palencia's surrender of a go-ahead home run to Gavin Sheets in Game 2 was the final punctuation mark on a season that promised more than it delivered in October. At 89-73, this Cubs team was real — talented, entertaining, and genuinely dangerous on their best days — but the postseason exposed the difference between a good regular-season club and a team built to win in October.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "April Believers",
-      "description": "A 17-9 April powered by clutch hits from Bregman, Busch, and Conforto announces the Cubs as genuine contenders.",
+      "title": "April Awakening",
+      "description": "A 17-9 April powered by Bregman, Busch, and Ballesteros announces the Cubs as legitimate contenders.",
       "startClipIndex": 0,
-      "endClipIndex": 4,
+      "endClipIndex": 7,
       "tone": "triumph"
     },
     {
       "id": "ch2",
-      "title": "PCA Rises, Bullpen Wobbles",
-      "description": "Pete Crow-Armstrong emerges as a star in May even as the pitching staff surrenders damaging home runs and the team loses ground.",
-      "startClipIndex": 5,
+      "title": "May Turbulence",
+      "description": "The Cubs stumble to 13-16 as the pitching staff surrenders crucial home runs and the offense sputters.",
+      "startClipIndex": 8,
       "endClipIndex": 9,
-      "tone": "turning_point"
-    },
-    {
-      "id": "ch3",
-      "title": "Winning Despite Themselves",
-      "description": "The Cubs post winning records in June and July behind PCA and Happ, but the bullpen bleeds costly runs in the season's biggest moments.",
-      "startClipIndex": 10,
-      "endClipIndex": 21,
-      "tone": "triumph"
-    },
-    {
-      "id": "ch4",
-      "title": "August Chaos",
-      "description": "Bregman's MVP push and Happ's grand slam light up August, but Jacob Webb's repeated late-game collapses threaten to derail everything.",
-      "startClipIndex": 22,
-      "endClipIndex": 31,
       "tone": "struggle"
     },
     {
+      "id": "ch3",
+      "title": "PCA Takes Over",
+      "description": "Pete Crow-Armstrong's breakout fuels a 16-10 June and cements him as the team's most electrifying player.",
+      "startClipIndex": 10,
+      "endClipIndex": 16,
+      "tone": "milestone"
+    },
+    {
+      "id": "ch4",
+      "title": "Webb's Wild Ride",
+      "description": "The Cubs win 30 games across July and August despite Jacob Webb's repeated late-game disasters threatening to sink the wild card push.",
+      "startClipIndex": 17,
+      "endClipIndex": 31,
+      "tone": "turning_point"
+    },
+    {
       "id": "ch5",
-      "title": "October's Cruel Exit",
-      "description": "A Wild Card berth earned by 89 wins ends swiftly as the Padres' big bats overwhelm Chicago's rotation and bullpen in two painful games.",
+      "title": "October Shortfall",
+      "description": "The Wild Card round against San Diego exposes the Cubs' limits as Boyd and the bullpen can't contain the Padres' power.",
       "startClipIndex": 32,
       "endClipIndex": 39,
       "tone": "struggle"
@@ -915,5 +915,5 @@
     "division": "NL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-11T18:25:59.968Z"
+  "generatedAt": "2026-11-12T19:02:51.721Z"
 }

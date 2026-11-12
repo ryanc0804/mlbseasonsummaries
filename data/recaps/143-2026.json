@@ -1,36 +1,36 @@
 {
   "teamId": 143,
   "year": 2026,
-  "narrative": "The 2026 Philadelphia Phillies were a team of peaks and valleys, a club that never quite found consistent footing until the summer heat forced something out of them. They opened March and April stumbling badly — a 12-19 combined record through the first six weeks — but flashes of brilliance from Edmundo Sosa, Bryson Stott, and a young Justin Crawford hinted at a roster capable of much more. The offense showed life in clutch spots, but the team kept finding ways to give games away, and by the end of April they were staring up at the standings from an uncomfortable position.\n\nMay and June changed everything. The Phillies went 36-19 over those two months, and the lineup finally started clicking in sequence. Stott emerged as a genuine middle-of-the-order force, homering in critical moments and driving in runs at a pace that energized Citizens Bank Park. Crawford announced himself with his first career home run. Kyle Schwarber hit his 30th by late June. Derek Hill delivered a stunning walk-off blast on June 24th that felt like the punctuation mark on a season-turning stretch. For two months, Philadelphia looked like a legitimate postseason threat rather than a bubble team.\n\nJuly brought the team crashing back to earth. A 9-15 record in the dog days exposed real flaws — a bullpen that could not hold leads and an offense that went quiet at the worst moments. Brandon Marsh hitting into a costly double play with the season slipping away captured the month perfectly. But just when the Phillies looked finished, August arrived with a vengeance. They went 21-7 — the best month on the roster — powered by Derek Hill's grand slam, Edmundo Sosa's late-month slam, and Schwarber mashing toward 40 home runs. The Phillies forced their way into the Wild Card conversation and refused to let go.\n\nSeptember was a gut-punch. A 10-14 collapse nearly cost them everything, with the bullpen surrendering leads in Atlanta and Kansas City over a brutal three-day stretch in mid-September. They scraped in as a Wild Card team and pushed the Braves to a third game, with Realmuto's triple and Bohm's home run keeping them alive in Game 2. But Game 3 in Atlanta was a bridge too far — Aaron Nola gave up a three-run shot to Michael Harris II that extinguished any lingering hope. At 88-74, the Phillies had enough to get to October, but not enough to survive it.",
+  "narrative": "The 2026 Philadelphia Phillies were a team that never quite found a consistent identity, lurching between brilliance and frustration across a 162-game season before an agonizing postseason exit. They opened the year in fits and starts — a rough March and a disappointing April (10-16) masking some genuinely electric moments from unexpected heroes like Edmundo Sosa and Bryson Stott. The roster was finding itself, sorting out roles, and leaning on timely hits to stay afloat while the standings were unkind.\n\nThe calendar turned and so did Philadelphia's fortunes. May and June became the team's defining stretch, an extended run of inspired baseball (18-10 in May, 18-9 in June) powered by home run barrages, breakout performances from Derek Hill, and clutch contributions throughout the lineup. Kyle Schwarber reached 30 home runs before summer even arrived, Stott emerged as a driving force in the middle of the order, and even role players stepped into the spotlight on the game's biggest stages. The Phillies looked like a genuine contender, and for a few weeks in late June they played like one.\n\nJuly's collapse (9-15) arrived without warning and stalled all that momentum. The team's pitching showed cracks, double plays killed rallies at the worst moments, and the Phillies stumbled through the dog days looking nothing like the team that had dominated the prior two months. Then August happened — a stunning 21-7 record that ranks among the best single-month stretches in recent Philadelphia history. Edmundo Sosa's grand slam, Derek Hill's power surge, and Schwarber's relentless production made the Phillies feel inevitable again. But September (10-14) eroded that goodwill, leaving Philadelphia scrambling to hold a Wild Card spot.\n\nThe postseason came, and with it, heartbreak. Philadelphia split the first two Wild Card games against Atlanta — Realmuto's clutch triple and Bohm's big homer keeping hope alive — but the series unraveled in Game 3. A three-run shot off Jhoan Duran from Austin Riley swung the pivotal moment decisively toward the Braves, and Aaron Nola couldn't hold the lead as Michael Harris II launched a dagger home run that sent the Phillies home. An 88-win season full of peaks and valleys ended the only way a team like this one could: thrillingly, achingly, one round too soon.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "A Stumbling Start",
-      "description": "The Phillies open the year with a losing record through April, though clutch hits from Sosa and Marsh provide early sparks.",
+      "title": "Treading Water",
+      "description": "A rocky March and April see the Phillies struggle to find their footing, surviving on clutch hits while the losses pile up.",
       "startClipIndex": 0,
-      "endClipIndex": 2,
+      "endClipIndex": 5,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "The Surge",
-      "description": "May and June ignite a 36-19 run as Stott, Crawford, Schwarber, and Hill take turns delivering the biggest moments of the season.",
-      "startClipIndex": 3,
+      "title": "Catching Fire",
+      "description": "May and June ignite a dominant two-month run as Stott, Schwarber, Hill, and the lineup erupt to vault Philadelphia into contention.",
+      "startClipIndex": 6,
       "endClipIndex": 16,
       "tone": "triumph"
     },
     {
       "id": "ch3",
-      "title": "Dog Days Stumble",
-      "description": "July brings a 9-15 skid as missed opportunities and bad bullpen luck threaten to unravel the summer's gains.",
+      "title": "Midsummer Drift",
+      "description": "July brings a grinding 9-15 stumble as double plays, bullpen meltdowns, and inconsistency threaten to undo the summer surge.",
       "startClipIndex": 17,
       "endClipIndex": 17,
       "tone": "struggle"
     },
     {
       "id": "ch4",
-      "title": "August on Fire",
-      "description": "The Phillies go 21-7 in their best month of the year, with grand slams and power surges forcing their way into the postseason picture.",
+      "title": "August Roar",
+      "description": "The Phillies post a stunning 21-7 August, powered by grand slams, big bats, and a renewed sense of postseason destiny.",
       "startClipIndex": 18,
       "endClipIndex": 26,
       "tone": "triumph"
@@ -38,15 +38,15 @@
     {
       "id": "ch5",
       "title": "September Fade",
-      "description": "A 10-14 collapse nearly costs the Phillies everything as the bullpen bleeds late-inning leads in crucial games.",
+      "description": "A 10-14 September tests Philadelphia's resilience, as late-game collapses and bullpen implosions make the Wild Card race uncomfortably close.",
       "startClipIndex": 27,
       "endClipIndex": 31,
-      "tone": "struggle"
+      "tone": "turning_point"
     },
     {
       "id": "ch6",
-      "title": "October's Brief Flame",
-      "description": "The Phillies push the Braves to Game 3 of the Wild Card but are eliminated when Michael Harris II's three-run homer off Nola ends Philadelphia's season.",
+      "title": "October Heartbreak",
+      "description": "The Phillies battle the Braves in a tense Wild Card series, flashing enough magic to tease a longer run before Austin Riley and Michael Harris II deliver the fatal blows.",
       "startClipIndex": 32,
       "endClipIndex": 39,
       "tone": "clutch"
@@ -58,6 +58,8 @@
       "title": "Single — Brandon Marsh",
       "description": "Brandon Marsh singles on a sharp line drive to right fielder Brandon Nimmo. Edmundo Sosa scores. Adolis García scores.",
       "playId": "2a45d3d7-514e-3974-b5e2-810c0d1af7c9",
+      "videoUrl": "https://sporty-clips.mlb.com/MTZOeG5fWGw0TUFRPT1fQkZCVlVRQUhBZ1VBRFZNR0F3QUhDQUZTQUFNQUJsTUFDbFFGVXdOUkFGSURCMUZm.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/pzsustjnhbpbxyotu6kt.jpg",
       "date": "2026-03-28",
       "gamePk": 823488,
       "atBatNumber": 71,
@@ -71,14 +73,15 @@
       "wpa": 0.438,
       "xwoba": 0.839,
       "eventType": "single",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/MTZOeG5fWGw0TUFRPT1fQkZCVlVRQUhBZ1VBRFZNR0F3QUhDQUZTQUFNQUJsTUFDbFFGVXdOUkFGSURCMUZm.mp4"
+      "gameType": "R"
     },
     {
       "id": "823483-82-9",
       "title": "Single — Edmundo Sosa",
       "description": "Edmundo Sosa singles on a line drive to left fielder James Wood. Trea Turner scores. Dylan Moore scores. Alec Bohm to 3rd. Edmundo Sosa to 2nd. Throwing error by left fielder James Wood.",
       "playId": "feb709cd-dcb6-3dcb-89d6-2e1914a49b2b",
+      "videoUrl": "https://sporty-clips.mlb.com/UUFLbzlfWGw0TUFRPT1fVUZRRFUxUU5CVllBWEFGUVVBQUhWVlVFQUZrTUIxY0FBQUFFQ1FJQlVBZGNVZ0FF.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/rp8klfb9mcwrspbn8ugx.jpg",
       "date": "2026-04-01",
       "gamePk": 823483,
       "atBatNumber": 82,
@@ -92,8 +95,7 @@
       "wpa": 0.496,
       "xwoba": 0.937,
       "eventType": "single",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/UUFLbzlfWGw0TUFRPT1fVUZRRFUxUU5CVllBWEFGUVVBQUhWVlVFQUZrTUIxY0FBQUFFQ1FJQlVBZGNVZ0FF.mp4"
+      "gameType": "R"
     },
     {
       "id": "823479-68-8",
@@ -121,6 +123,8 @@
       "title": "Double — Kyle Schwarber",
       "description": "Kyle Schwarber doubles (6) on a line drive to right fielder Jung Hoo Lee. Brandon Marsh scores.",
       "playId": "82ad9261-8df7-3354-b6db-c9aed2e08aaf",
+      "videoUrl": "https://sporty-clips.mlb.com/eHl3TUtfWGw0TUFRPT1fRGdNQUFGMEdVQU1BQUFaVVVRQUhBZ05TQUFNREJ3TUFVVnhVVlZjSFZBTmRVVk1B.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/piujdj5ulacmhaqe2t4h.jpg",
       "date": "2026-04-30",
       "gamePk": 823471,
       "atBatNumber": 83,
@@ -134,14 +138,15 @@
       "wpa": 0.436,
       "xwoba": 0.481,
       "eventType": "double",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/eHl3TUtfWGw0TUFRPT1fRGdNQUFGMEdVQU1BQUFaVVVRQUhBZ05TQUFNREJ3TUFVVnhVVlZjSFZBTmRVVk1B.mp4"
+      "gameType": "R"
     },
     {
       "id": "823472-71-9",
       "title": "Triple — Bryson Stott",
       "description": "Bryson Stott triples (2) on a line drive to right fielder Jung Hoo Lee. Adolis García scores.",
       "playId": "4a88609f-f4ad-3678-8b80-93264556039f",
+      "videoUrl": "https://sporty-clips.mlb.com/ckR3WDFfWGw0TUFRPT1fQWxCWlhGSUVYMVFBWGxaVEFnQUhCd0ZlQUZsWFcxRUFDMVlIQmdjQUJBVlZBd3NB.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/lfy4w1aobvyhodalvxhw.jpg",
       "date": "2026-04-30",
       "gamePk": 823472,
       "atBatNumber": 71,
@@ -155,14 +160,15 @@
       "wpa": 0.6,
       "xwoba": 0.691,
       "eventType": "triple",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/ckR3WDFfWGw0TUFRPT1fQWxCWlhGSUVYMVFBWGxaVEFnQUhCd0ZlQUZsWFcxRUFDMVlIQmdjQUJBVlZBd3NB.mp4"
+      "gameType": "R"
     },
     {
       "id": "823472-73-9",
       "title": "Single — Justin Crawford",
       "description": "Justin Crawford singles on a ground ball to shortstop Willy Adames. Bryson Stott scores.",
       "playId": "f7e822e3-987f-3b01-9a5d-b232b9418431",
+      "videoUrl": "https://sporty-clips.mlb.com/ckR3WDFfWGw0TUFRPT1fVUFZRVhGWUdBd0VBQVZvRkFBQUhVd1pYQUZoVVZnVUFVRmNHQWxFTUJRSmRCQUZY.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/pvbjkysilyqy6w5eqrdv.jpg",
       "date": "2026-04-30",
       "gamePk": 823472,
       "atBatNumber": 73,
@@ -176,14 +182,15 @@
       "wpa": 0.369,
       "xwoba": 0.097,
       "eventType": "single",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/ckR3WDFfWGw0TUFRPT1fVUFZRVhGWUdBd0VBQVZvRkFBQUhVd1pYQUZoVVZnVUFVRmNHQWxFTUJRSmRCQUZY.mp4"
+      "gameType": "R"
     },
     {
       "id": "823466-71-8",
       "title": "Home Run — Justin Crawford",
       "description": "Justin Crawford homers (1) on a fly ball to right center field. Bryson Stott scores.",
       "playId": "8e0e401c-cd13-3aa6-88eb-9f2da2ad6b9b",
+      "videoUrl": "https://sporty-clips.mlb.com/N3l6eDZfWGw0TUFRPT1fRGxSUkFWQUVWMUVBV3dZRFZRQUhVRmRRQUZrTkJnTUFDd01IVkZJSFVGZFRVZ3NF.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/g8sfqnxr28evmlfr5kty.jpg",
       "date": "2026-05-08",
       "gamePk": 823466,
       "atBatNumber": 71,
@@ -197,14 +204,15 @@
       "wpa": 0.393,
       "xwoba": 0.317,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/N3l6eDZfWGw0TUFRPT1fRGxSUkFWQUVWMUVBV3dZRFZRQUhVRmRRQUZrTkJnTUFDd01IVkZJSFVGZFRVZ3NF.mp4"
+      "gameType": "R"
     },
     {
       "id": "823465-65-8",
       "title": "Home Run — Bryson Stott",
       "description": "Bryson Stott homers (5) on a fly ball to right field. Edmundo Sosa scores.",
       "playId": "fe1b4d84-185a-3e8d-b472-c3fd2c560626",
+      "videoUrl": "https://sporty-clips.mlb.com/eUx3ek5fWGw0TUFRPT1fVUZSUUJsQlFYZ1lBQ1ZvSEJ3QUhWQTRDQUFNQlZGTUFVVlpUVkFGV0JBVlZCZ0JR.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/leochdyxknmezwi7eozu.jpg",
       "date": "2026-05-18",
       "gamePk": 823465,
       "atBatNumber": 65,
@@ -218,8 +226,7 @@
       "wpa": 0.62,
       "xwoba": 0.194,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/eUx3ek5fWGw0TUFRPT1fVUZSUUJsQlFYZ1lBQ1ZvSEJ3QUhWQTRDQUFNQlZGTUFVVlpUVkFGV0JBVlZCZ0JR.mp4"
+      "gameType": "R"
     },
     {
       "id": "823461-57-9",
@@ -923,5 +930,5 @@
     "division": "NL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-11T18:23:29.203Z"
+  "generatedAt": "2026-11-12T18:59:37.784Z"
 }

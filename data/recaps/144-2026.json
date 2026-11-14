@@ -1,36 +1,36 @@
 {
   "teamId": 144,
   "year": 2026,
-  "narrative": "The 2026 Atlanta Braves arrived with championship expectations, and through April they looked every bit the part. A scorching 19-8 month, anchored by Matt Olson's towering home runs and Dominic Smith's clutch extra-base hits, established Atlanta as one of the National League's premier clubs. The pitching staff was miserly, the lineup was deep, and the Braves looked poised for another deep October run before the calendar had even turned to May.\n\nMay carried the momentum forward at 18-10, with Michael Harris II emerging as a catalyst and the offense continuing to punish opposing pitchers. But June arrived like a cold front — a brutal 9-15 record that raised genuine questions about the club's ceiling. Raisel Iglesias became a liability in the bullpen, surrendering pivotal home runs that swung games away from Atlanta in the most gut-wrenching fashion. The Braves were still talented, but their margins had evaporated, and the dog days loomed.\n\nJuly and August proved that this team had character. Back-to-back winning months — 16-11 and 17-11 — steadied the ship and rebuilt the confidence that June had eroded. Ha-Seong Kim delivered big hits, Michael Harris II continued his assault on opposing pitchers, and a remarkable three-run rally on September 11th crystallized what this team could be when clicking. Ronald Acuña Jr.'s grand slam in late September put an exclamation mark on a 94-win regular season and punched Atlanta's ticket to October.\n\nThe postseason, however, was a brief and bittersweet story. The Braves survived the Wild Card round against Philadelphia on Austin Riley's thunderous three-run homer, but the Division Series proved a bridge too far. Robert Suarez and the opposition's bullpen closed the door on Atlanta's season, ending a campaign that promised more than it ultimately delivered but nonetheless stood as a testament to this roster's resilience and depth.",
+  "narrative": "The 2026 Atlanta Braves arrived with championship expectations and delivered a season that justified the belief, finishing 94-68 and earning a postseason berth behind a roster that blended veteran power with emerging contributors. The early months set the tone emphatically — a blistering April at 19-8 featured Matt Olson launching moonshots and Dominic Smith delivering clutch extra-base hits, establishing Atlanta as one of the NL's elite teams right out of the gate.\n\nThe summer brought turbulence. June collapsed to 9-15, the team's worst month, as Raisel Iglesias became a recurring villain — surrendering a go-ahead two-run blast on June 9th that swung nearly a full win probability point in the wrong direction. But the Braves refused to let the slide define them. July and August saw Atlanta reassert itself with 16-11 and 17-11 records, respectively, powered by Michael Harris II's relentless line drives, Matt Olson's continued home run barrage, and timely contributions from new faces like Ha-Seong Kim and Joey Bart. Even when Iglesias let games slip away, the offense found answers.\n\nSeptember brought a sense of culmination. Ronald Acuña Jr. reminded everyone of his transcendent ceiling with a grand slam on September 19th, while a remarkable three-hit burst from Sean Murphy, Ha-Seong Kim, and Drake Baldwin on September 11th encapsulated the team's collective resilience. The Braves finished 12-12 in September — steady enough to hold their position and punch their ticket to October.\n\nThe postseason was a brief but electric ride. Austin Riley's three-run bomb in the Wild Card series sent Truist Park into a frenzy, and the Braves advanced past Philadelphia before running into a buzzsaw in the NLDS. A Robert Suarez-led Dodgers rally in Game 1 signaled that the road to a World Series would be harder than hoped, and Atlanta's October story ended too soon — a 94-win team with more to give, left to wonder what might have been.",
   "chapters": [
     {
       "id": "ch1",
       "title": "Hot Out of the Gate",
-      "description": "Atlanta storms through April and into May with elite offense and a dominant Olson leading the charge.",
+      "description": "Olson, Smith, and Harris power a blistering start that stakes Atlanta's claim as an NL contender.",
       "startClipIndex": 0,
       "endClipIndex": 2,
       "tone": "triumph"
     },
     {
       "id": "ch2",
-      "title": "June Swoon",
-      "description": "A brutal 9-15 June exposes bullpen vulnerabilities, with Iglesias surrendering critical home runs at the worst moments.",
+      "title": "Midsummer Turbulence",
+      "description": "A brutal June slide exposes bullpen vulnerabilities, with Raisel Iglesias at the center of the team's most painful losses.",
       "startClipIndex": 3,
       "endClipIndex": 8,
       "tone": "struggle"
     },
     {
       "id": "ch3",
-      "title": "Fighting Back",
-      "description": "The Braves right the ship in July and August, winning ugly and leaning on timely hitting to stay in contention.",
+      "title": "Winning Ugly",
+      "description": "Despite high-leverage heartbreaks, the Braves grind through July and August with enough offense to stay firmly in the hunt.",
       "startClipIndex": 9,
       "endClipIndex": 15,
       "tone": "turning_point"
     },
     {
       "id": "ch4",
-      "title": "September Surge",
-      "description": "A series of clutch performances — including Acuña's grand slam and a remarkable three-run September rally — secure 94 wins and a postseason berth.",
+      "title": "September Statement",
+      "description": "Acuña's grand slam and a trio of clutch September hits signal the Braves are built for October.",
       "startClipIndex": 16,
       "endClipIndex": 22,
       "tone": "clutch"
@@ -38,10 +38,10 @@
     {
       "id": "ch5",
       "title": "October's Promise and Pain",
-      "description": "Riley's Wild Card heroics carry Atlanta past Philadelphia, but the NLDS ends the Braves' season and their championship dreams.",
+      "description": "Riley's Wild Card heroics carry Atlanta into the NLDS, but a Dodgers rally ends a 94-win season short of its ultimate goal.",
       "startClipIndex": 23,
       "endClipIndex": 30,
-      "tone": "struggle"
+      "tone": "milestone"
     }
   ],
   "clips": [
@@ -728,5 +728,5 @@
     "division": "NL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-12T18:55:20.973Z"
+  "generatedAt": "2026-11-14T17:05:10.518Z"
 }

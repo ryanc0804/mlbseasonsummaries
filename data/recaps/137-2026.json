@@ -1,55 +1,47 @@
 {
   "teamId": 137,
   "year": 2026,
-  "narrative": "The 2026 San Francisco Giants entered the season with cautious optimism, but April quickly revealed the depth of their rebuilding challenge. Going 11-15 in a month that saw their bullpen battered and their pitching staff exposed in late-inning situations, the Giants established a troubling pattern early: leads evaporating, opponents capitalizing on costly mistakes, and a roster still searching for a coherent identity. The month of April closed with one of the season's ugliest evenings, a late collapse that saw Ryan Walker and Keaton Winn each surrender pivotal hits in a game that slipped entirely away.\n\nMay and June offered a complicated picture. The team went a combined 23-32 across those two months, but scattered through the losing were genuine moments of promise. Willy Adames provided a signature clutch hit on May 10th, and Bryce Eldridge's grand slam on June 10th served as a vivid reminder of the young talent quietly developing in orange and black. Rafael Devers and Victor Bericoto each launched home runs on the same June afternoon, and Jung Hoo Lee delivered a stunning triple that briefly turned Oracle Park electric. These weren't the performances of a finished product, but they were the building blocks of something — tantalizing flashes buried inside a frustrating, inconsistent stretch.\n\nJuly brought more of the same uneven baseball, a 12-13 record that told the story of a team treading water. Logan Webb and Dylan Smith both absorbed brutal home run balls that swung games irreparably, and while Willy Adames continued to provide occasional offensive fireworks — his 18th home run of the season arriving in mid-July — the pitching staff simply could not hold leads consistently. August collapsed further, going 10-18, with Dylan Smith repeatedly at the center of damaging outings and the bullpen contributing its share of late-game disasters. The Giants' run differential, allowing nearly a hundred more runs than they scored across the full season, told the unforgiving truth.\n\nSeptember has offered little reprieve. Carson Seymour has been punished in high-leverage spots, including a devastating three-run home run allowed to Bo Bichette, and a throwing error that gifted opponents a crucial run only added to the frustration. Jung Hoo Lee's double on September 9th, plating two runs in what appears to be a tightly contested game, stands as one of the few offensive bright spots in a month that has largely mirrored the season as a whole. At 65-97, the Giants are deep in the kind of losing campaign that prompts organizational reflection — but the emergence of players like Eldridge, Bericoto, and the continued presence of Lee and Adames offers at least a reason to watch as the final weeks of 2026 play out.",
+  "narrative": "The 2026 San Francisco Giants entered the season with cautious optimism, bolstered by the additions of Rafael Devers and Willy Adames, but the early months told a painful story. April was a losing month at 11-15, and the last day of that stretch set the tone — a catastrophic April 30 implosion in which Ryan Walker surrendered a triple and a single in rapid succession, turning a winnable game into a rout. The pitching staff, particularly the rotation, was giving up big hits at the worst possible moments.\n\nMay was even grimmer at 10-18, the Giants' worst month of the year. Matt Gage surrendered a three-run homer to Ketel Marte on May 19 that crushed the life out of a game, and Caleb Kilian was torched for back-to-back homers by Colorado on May 29. Even Willy Adames's clutch two-run single on May 10 couldn't paper over the larger pattern: the rotation was leaking, the bullpen was unreliable, and the offense was inconsistent. June offered a brief, tantalizing respite — the Giants went 13-14, buoyed by a Bryce Eldridge grand slam on June 10 and back-to-back homers from Rafael Devers and Victor Bericoto on June 24, with Jung Hoo Lee's three-RBI triple on June 25 adding to a rare moment of offensive abundance.\n\nThe second half brought no salvation. July was a modest 12-13, with Logan Webb giving up a three-run homer in a loss that underscored how even the ace couldn't consistently hold leads. August collapsed to 10-18, matching the misery of May, as Dylan Smith was battered in multiple outings and Sam Hentges contributed a key late-game meltdown. September has continued in the same dispiriting vein at 8-16 through the games captured here — Carson Seymour has been pummeled, including a punishing three-run blast by Bo Bichette on September 6, and even Jung Hoo Lee's RBI double on September 9 couldn't mask the broader dysfunction.\n\nAt 65-97, the Giants are well out of playoff contention and are playing out the remainder of a lost season. The bright spots — Eldridge's power emergence, Lee's consistency, Devers's contributions, and Adames's veteran leadership — offer some foundation for future hope, but 2026 has been a year defined by pitching fragility and an offense that couldn't compensate. The story of this season is one of promise deferred, with the organization now looking toward the offseason for answers.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Early Turbulence",
-      "description": "A rough April and rocky start to May exposes the Giants' pitching vulnerabilities in brutal late-game fashion.",
+      "title": "Rough Start, Rougher Finish to April",
+      "description": "A nightmarish April 30 implosion, with Ryan Walker surrendering a triple and single in quick succession, encapsulates a 11-15 month that set an ominous tone.",
       "startClipIndex": 0,
       "endClipIndex": 2,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "Flickers of Life",
-      "description": "Clutch hits from Adames and a double-play gem briefly lift the Giants as May winds down with a few competitive moments.",
+      "title": "May Meltdown",
+      "description": "The Giants' worst month ends at 10-18, defined by Matt Gage's three-run homer surrender and Caleb Kilian's back-to-back implosions, with Adames's clutch single a lone bright spot.",
       "startClipIndex": 3,
       "endClipIndex": 8,
-      "tone": "turning_point"
-    },
-    {
-      "id": "ch3",
-      "title": "June's Bright Spots",
-      "description": "Eldridge's grand slam, back-to-back homers from Devers and Bericoto, and Lee's clutch triple give Giants fans something to cheer in an otherwise mixed month.",
-      "startClipIndex": 9,
-      "endClipIndex": 15,
-      "tone": "triumph"
-    },
-    {
-      "id": "ch4",
-      "title": "Treading Water",
-      "description": "July's near-.500 play masks ongoing pitching struggles, with home runs surrendered by Webb and Smith keeping the Giants from turning a corner.",
-      "startClipIndex": 16,
-      "endClipIndex": 18,
       "tone": "struggle"
     },
     {
-      "id": "ch5",
-      "title": "August Fade",
-      "description": "A 10-18 August cements the Giants' losing campaign as Dylan Smith and the bullpen continue to surrender critical runs.",
-      "startClipIndex": 19,
+      "id": "ch3",
+      "title": "A Glimmer in June",
+      "description": "A 13-14 June brings the season's most electric offensive moments — Eldridge's grand slam, back-to-back Devers and Bericoto homers, and Lee's clutch triple — before the pitching gives it back.",
+      "startClipIndex": 9,
+      "endClipIndex": 15,
+      "tone": "turning_point"
+    },
+    {
+      "id": "ch4",
+      "title": "Second Half Slide",
+      "description": "July and August offer no relief at 12-13 and 10-18 respectively, as Dylan Smith absorbs multiple drubbings and Sam Hentges's late-game meltdown typifies a bullpen that cannot hold games.",
+      "startClipIndex": 16,
       "endClipIndex": 21,
       "tone": "struggle"
     },
     {
-      "id": "ch6",
-      "title": "Playing Out the String",
-      "description": "September offers little relief as pitching miscues and defensive errors pile up, though Jung Hoo Lee provides a few late-season highlights worth remembering.",
+      "id": "ch5",
+      "title": "September Fade",
+      "description": "An 8-16 September sees Carson Seymour hammered for a devastating three-run blast by Bo Bichette and an error that costs another close game, with Jung Hoo Lee's RBI double a rare consolation in a season spiraling toward 97 losses.",
       "startClipIndex": 22,
       "endClipIndex": 25,
-      "tone": "milestone"
+      "tone": "struggle"
     }
   ],
   "clips": [
@@ -619,5 +611,5 @@
     "division": "NL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-12T19:16:05.177Z"
+  "generatedAt": "2026-11-14T17:25:21.992Z"
 }

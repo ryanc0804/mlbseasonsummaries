@@ -1,44 +1,52 @@
 {
   "teamId": 114,
   "year": 2026,
-  "narrative": "The 2026 Cleveland Guardians were a team defined by resilience and frustrating near-misses, grinding out an 85-77 record in a season that swung between promise and peril. They opened the year in uncertain fashion, dropping their first series to Seattle as Gavin Williams and Cade Smith absorbed early punishment, then spent most of April treading water at .500. But even in those difficult early weeks, flashes of the team's ceiling appeared — Daniel Schneemann's grand slam, Brayan Rocchio's clutch home runs, and Chase DeLauter's breakout performances gave the fan base reasons to believe.\n\nMay was the season's high-water mark, when Cleveland surged to an 18-11 record and looked like a genuine division contender. Kyle Manzardo delivered a solo shot that punctuated that winning stretch, and the lineup showed the kind of balanced attack the front office had envisioned. Then June arrived like a cold front off Lake Erie. A brutal 10-15 month exposed real vulnerabilities in the bullpen — Cade Smith in particular was torched repeatedly, including a catastrophic outing on June 22nd that swung nearly 76 win probability points against the club. July and August were maddening in their consistency, nearly identical records that kept Cleveland in the playoff hunt without ever quite allowing them to seize control.\n\nSeptember was where the Guardians finally looked like themselves, posting a 16-9 mark to close the regular season. Brayan Rocchio emerged as the team's most clutch performer down the stretch, delivering a walk-off double on September 15th worth nearly 79 win probability points that became the season's defining moment. Petey Halpin chipped in a crucial three-run homer, and Angel Martínez's power surge down the final weeks helped lock up a playoff berth.\n\nThe postseason brought both exhilaration and heartbreak. Cleveland dispatched their Division Series opponent with a combination of José Ramírez's signature October heroics and Jo Adell's opportunistic hitting, advancing to the ALCS for the first time in years. But Tampa Bay proved to be a step too far — their pitching suffocated the Guardians' offense over five games, and Cleveland's bullpen, which had been a vulnerability all year, couldn't hold leads when it mattered most. A Chandler Simpson triple and a Junior Caminero double in the later games put the series out of reach, ending a season that will be remembered for its September surge, its October promise, and the painful question of what might have been.",
+  "narrative": "The 2026 Cleveland Guardians were a team defined by stubborn resilience and maddening inconsistency, a club that never quite broke through but never quit fighting either. They opened the year in fits and starts, splitting their March games and playing dead-even ball through April, all while their bullpen — particularly Cade Smith — kept finding ways to turn winnable games into disasters. The roster's young core showed flashes of brilliance, none more striking than Daniel Schneemann's grand slam and Brayan Rocchio's emerging power stroke, but every surge seemed to be answered by another gut-punch from the relief corps.\n\nMay was when Cleveland finally exhaled. The Guardians went 18-11, their best month of the season, riding timely hitting from Kyle Manzardo and Chase DeLauter to build a cushion in the standings. But June brought the wolves to the door — a 10-15 skid fueled in large part by a bullpen that simply couldn't hold leads, with Cade Smith's June implosions becoming a recurring nightmare. The All-Star break arrived as a merciful pause, and the Guardians limped to the second half knowing they had the talent to compete but a leaky back end that could unravel any lead.\n\nJuly through August saw Cleveland grind through .500 ball, carried largely by Brayan Rocchio's breakout season and a rotation that kept games close. Rocchio's walk-off two-run blast on July 2nd was the defining moment of the summer stretch, a reminder that this young shortstop had arrived as a bona fide middle-of-the-order force. When September came, the Guardians caught fire at exactly the right time, going 16-9 to earn an 85-win playoff berth — punctuated by Rocchio's clutch two-run double in a pennant-race game and timely contributions from unexpected names like Petey Halpin.\n\nThe postseason was a bittersweet conclusion to a complicated year. Cleveland dispatched their Division Series opponent with gritty, opportunistic baseball — Jo Adell's bases-clearing triple and a José Ramírez home run doing the heavy lifting — before running into a superior Tampa Bay club in the ALCS. The Rays proved too deep and too relentless, with Cleveland's pitching staff finally bending under the pressure of a long series. The Guardians fell in the Championship Series, their October run ending not with a whimper but with the sting of a team that believed it belonged, even if the last out said otherwise.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Rocky Beginnings",
-      "description": "Cleveland stumbles through March and a rocky April, absorbing bullpen disasters while searching for offensive identity.",
+      "title": "Early Turbulence",
+      "description": "Cleveland opens the year in choppy water, playing break-even ball while bullpen miscues and opponent heroics threaten to derail the season before it begins.",
       "startClipIndex": 0,
       "endClipIndex": 2,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "Sparks of Belief",
-      "description": "Late April hero moments — Schneemann's grand slam, Rocchio's bombs, and DeLauter's emergence — hint at the team's true ceiling.",
+      "title": "Young Guns Step Up",
+      "description": "Rocchio, DeLauter, and Schneemann provide big moments as Cleveland finds its footing in mid-to-late April and transitions into its best stretch of the season.",
       "startClipIndex": 3,
+      "endClipIndex": 7,
+      "tone": "turning_point"
+    },
+    {
+      "id": "ch3",
+      "title": "Winning Ugly in May",
+      "description": "The Guardians post their best month at 18-11, grinding out wins behind timely hitting from Manzardo and a rotation that kept the bullpen's flaws from fully exposing themselves.",
+      "startClipIndex": 8,
       "endClipIndex": 8,
       "tone": "triumph"
     },
     {
-      "id": "ch3",
-      "title": "The June Collapse",
-      "description": "An 18-11 May evaporates as the bullpen implodes in June, with Cade Smith suffering three devastating outings that nearly sink the season.",
+      "id": "ch4",
+      "title": "June Collapse and the Summer Grind",
+      "description": "A brutal 10-15 June — bookended by Cade Smith implosions — gives way to a grinding summer stretch as Rocchio's walk-off blast on July 2nd becomes the season's symbolic turning point.",
       "startClipIndex": 9,
       "endClipIndex": 14,
       "tone": "struggle"
     },
     {
-      "id": "ch4",
+      "id": "ch5",
       "title": "September Surge",
-      "description": "Brayan Rocchio leads a 16-9 closing run with clutch hit after clutch hit, forcing the Guardians into October baseball.",
+      "description": "The Guardians catch fire at 16-9 in September, with Rocchio's clutch double, Halpin's unexpected power, and a team-wide sense of urgency carrying them into the postseason.",
       "startClipIndex": 15,
       "endClipIndex": 22,
       "tone": "clutch"
     },
     {
-      "id": "ch5",
+      "id": "ch6",
       "title": "October's Promise and Pain",
-      "description": "The Guardians win a thrilling Division Series before Tampa Bay's pitching ends their ALCS run in heartbreaking fashion.",
+      "description": "Cleveland punches through the Division Series on the backs of Adell's triple and Ramírez's home run before the ALCS ends their run, the Rays proving one step too far for a team that had already given everything it had.",
       "startClipIndex": 23,
       "endClipIndex": 30,
       "tone": "turning_point"
@@ -725,5 +733,5 @@
     "division": "AL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-12T18:42:31.106Z"
+  "generatedAt": "2026-11-14T16:52:19.453Z"
 }

@@ -1,53 +1,45 @@
 {
   "teamId": 108,
   "year": 2026,
-  "narrative": "The 2026 Los Angeles Angels entered the season with cautious optimism, but April quickly dashed any early hopes. A 9-17 record in the first full month set the tone for what would become a painful summer in Anaheim. The bullpen struggled to hold leads, the lineup sputtered, and opponents feasted on Angel pitching at crucial moments. Jordan Romano's inability to close out games and a collapsed Joey Lucchesi outing in late April against Kansas City encapsulated everything wrong with this club's early identity — a team that couldn't protect its best chances.\n\nMay brought flickers of life. Zach Neto emerged as the team's offensive heartbeat, launching a go-ahead homer on May 18th that briefly stirred hope. Vaughn Grissom provided one of the season's most electric moments with a grand slam on May 26th, sending the Angel Stadium crowd into a frenzy. But the month still ended 11-17, undone by a Jorge Soler double-play ball at the worst possible moment and a bullpen that kept leaking runs. The Angels were talented enough to tease but not disciplined enough to sustain.\n\nJune offered the most encouraging stretch of the season, producing a 13-14 record that only tells part of the story. A wild June 1st saw Jose Siri launch a grand slam and Jorge Soler follow with a clutch triple, while Zach Neto continued his assault on opposing pitching with his 17th homer on June 21st. A memorable June 24th saw a late-inning rally fueled by Nolan Schanuel, Logan O'Hoppe, and Wade Meckler, the kind of sequence that briefly made Angels fans dream bigger. But July brought everything crashing back down — a 6-17 collapse that buried any remaining playoff whispers.\n\nAugust and September cemented the Angels' fate as one of baseball's most disappointing teams in 2026. Sammy Peralta's surrender of a grand slam to Edmundo Sosa on August 28th was perhaps the cruelest blow of the second half, a gut-punch that summed up a rotation unable to protect close games. Even in the final weeks, bright spots emerged — a Mike Trout single driving home a run in mid-September, a Vaughn Grissom homer on September 19th, and young Denzer Guzman showing promise — but at 62-100, the Angels are firmly entrenched in baseball's basement, left to look toward the future rather than October.",
+  "narrative": "The 2026 Los Angeles Angels entered the season with cautious optimism, but April quickly reminded everyone of the franchise's recent reality. The bullpen was exposed early and often — Jordan Romano's failures in mid-April proved especially damaging, including a crushing double that cost the team a winnable game — and the starting rotation couldn't consistently hold leads long enough for the offense to matter. By the end of April, the Angels had stumbled to a 9-17 record, already fighting to stay relevant in a loaded division.\n\nMay and June offered brief but genuine glimpses of hope. Zach Neto emerged as the team's most reliable offensive weapon, launching home runs that actually changed game outcomes. Vaughn Grissom delivered a grand slam that electrified the lineup, and a remarkable three-hit rally on June 24 — featuring clutch contributions from Wade Meckler, Nolan Schanuel, and Logan O'Hoppe — showed flashes of a cohesive offense. Jose Siri's grand slam on June 1 was another rare bright spot. The Angels went a surprising 13-14 in June, their most competitive month of the season, suggesting at least momentary stability.\n\nJuly unraveled whatever goodwill had been built. A 6-17 month was the worst of the year by winning percentage, and Kirby Yates continued to torch close games from the closer's role. The bullpen as a whole became the defining wound of the season — Ben Joyce, Sammy Peralta, Ryan Watson, and others gave away leads deep into late summer. August and September ground on with more of the same, the losses piling up and the roster cycling through options without finding answers. Edmundo Sosa's grand slam off Sammy Peralta in late August was perhaps the most deflating moment of the second half.\n\nBy the time September arrived, the Angels were a team playing out the string but still searching for individual moments of pride. Mike Trout's late-season single provided a nostalgic reminder of what greatness looks like in Anaheim, and Vaughn Grissom's September home run gave fans something to cheer in an otherwise empty stretch. The 2026 Angels will finish with a losing record well north of 100 losses, their season defined less by any single catastrophe than by the relentless accumulation of small failures — blown saves, squandered rallies, and a lineup that never quite found the consistency needed to compete.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "April Agony",
-      "description": "A brutal opening month sets a painful tone as the bullpen and rotation consistently fail to protect the Angels in high-leverage moments.",
+      "title": "Early Turbulence",
+      "description": "A brutal April sees the bullpen collapse repeatedly and the Angels fall into an early hole they cannot escape.",
       "startClipIndex": 0,
       "endClipIndex": 5,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "Sparks in the Dark",
-      "description": "May brings brief offensive eruptions from Neto and Grissom that tease a turnaround, but the Angels still can't string together consistent winning baseball.",
+      "title": "Sparks of Life",
+      "description": "May brings scattered heroics from Neto and Grissom, hinting at an offense capable of competing on its best days.",
       "startClipIndex": 6,
       "endClipIndex": 12,
       "tone": "turning_point"
     },
     {
       "id": "ch3",
-      "title": "June's Brief Bloom",
-      "description": "The Angels' best month of the season features clutch grand slams, late-inning rallies, and Zach Neto's continued brilliance carrying the offense.",
+      "title": "June's Brief Stand",
+      "description": "The Angels post their best month of the season, riding a clutch three-rally game and grand slams to a near-.500 record in June.",
       "startClipIndex": 13,
       "endClipIndex": 21,
       "tone": "triumph"
     },
     {
       "id": "ch4",
-      "title": "July Freefall",
-      "description": "A devastating 6-17 July extinguishes any remaining playoff hope as Kirby Yates and the bullpen repeatedly surrender critical leads.",
+      "title": "July Collapse",
+      "description": "A disastrous 6-17 July extinguishes any remaining playoff hope and exposes the team's systemic pitching failures.",
       "startClipIndex": 22,
       "endClipIndex": 23,
       "tone": "struggle"
     },
     {
       "id": "ch5",
-      "title": "Dog Days and Dead Ends",
-      "description": "August collapses, punctuated by a brutal grand slam surrendered by Sammy Peralta, leave the Angels staggering toward an ugly finish.",
+      "title": "Playing Out the String",
+      "description": "August and September bring more bullpen disasters and blown leads, though individual moments from Trout and Grissom offer faint dignity.",
       "startClipIndex": 24,
-      "endClipIndex": 28,
-      "tone": "struggle"
-    },
-    {
-      "id": "ch6",
-      "title": "September Salvage",
-      "description": "With the season lost, glimpses of the future emerge through Denzer Guzman, Vaughn Grissom, and a timely Mike Trout single as the Angels play out the string.",
-      "startClipIndex": 29,
       "endClipIndex": 33,
       "tone": "milestone"
     }
@@ -793,5 +785,5 @@
     "division": "AL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-14T16:59:21.877Z"
+  "generatedAt": "2026-11-15T17:36:39.886Z"
 }

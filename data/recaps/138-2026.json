@@ -1,47 +1,47 @@
 {
   "teamId": 138,
   "year": 2026,
-  "narrative": "The 2026 St. Louis Cardinals opened the year with genuine promise, riding a hot April to a 15-11 mark that briefly made Busch Stadium feel like a place where something special was brewing. Young contributors like JJ Wetherholt and Masyn Winn delivered clutch hits in the early going, and Jordan Walker emerged as the offensive centerpiece the organization had long hoped he would become. The bullpen was shaky in spots — Ryne Stanek's name appeared repeatedly on the wrong side of the ledger — but the offense covered enough sins to keep St. Louis in contention through the first two months.\n\nMay and June were a tale of inches and momentum swings. The Cardinals played nearly even ball across both months, their biggest moments splitting between Walker's rising power numbers, Lars Nootbaar's return igniting a mid-June spark, and relievers surrendering crushing home runs at the worst possible times. Iván Herrera and Yohel Pozo provided unexpected offensive contributions, keeping the roster from ever fully collapsing even when the pitching faltered. Through 75 games the Cardinals were a flawed but competitive ballclub, hovering around .500 and daring to imagine a second-half surge.\n\nJuly dismantled those hopes with brutal efficiency. A 10-18 record buried whatever goodwill the first half had earned, as opponent after opponent — Corbin Carroll, Pete Crow-Armstrong, Nolan Arenado — found Cardinal pitchers for game-turning blows. Gordon Graceffo and Luis Gastelum had their worst outings of the season during this stretch, and a costly Masyn Winn throwing error in mid-July symbolized the unraveling. The Cardinals were outscored and outplayed, sliding from the periphery of relevance into an uncomfortable position in the standings.\n\nAugust brought a slight steadying — a 14-14 mark that masked both heartbreaking defeats and genuine bright spots. A grand slam surrendered by Stanek on August 20th was answered almost immediately by a chaos-born rally keyed by a Wetherholt error that gifted St. Louis two runs and life. September has been a grind, Riley O'Brien's repeated late-game disasters — most painfully a minus-0.725 bomb surrendered to Randal Grichuk on September 12th — contrasting with Leo Bernal's late emergence as a feel-good story. At 77-85, the Cardinals' postseason hopes are functionally exhausted, but Bernal, Herrera, and Walker have given the fanbase something to watch through the final weeks.",
+  "narrative": "The 2026 St. Louis Cardinals opened the year with genuine promise, riding a hot April to a 15-11 record that suggested a team capable of competing in the National League Central. JJ Wetherholt announced himself as a key offensive piece right out of the gate, and Masyn Winn continued to flash the star potential that made him one of the organization's cornerstones. The early returns were encouraging enough that Cardinals fans allowed themselves to dream.\n\nMay and June were a tale of treading water — the club went a combined 26-25 over those two months, never quite pulling away but never fully sinking either. Jordan Walker emerged as the offensive heartbeat of the lineup, posting one highlight after another, while Lars Nootbaar's return and a timely two-run blast in early June gave the fanbase a jolt. The bullpen remained a liability, with relievers Ryne Stanek and JoJo Romero surrendering pivotal home runs at the worst moments, but the Cardinals found just enough offense to stay afloat.\n\nJuly unraveled everything. A brutal 10-18 month exposed the team's thin pitching depth and a bullpen that could not hold leads. Home runs allowed to Pete Crow-Armstrong, Nolan Arenado, Corbin Carroll, and others piled up like wreckage, and a Masyn Winn throwing error in mid-July epitomized a club that was coming apart at the seams. August offered a glimmer — Iván Herrera delivered the season's single most valuable hit with a walk-off double on July 29th that briefly steadied the ship, and JJ Wetherholt's gift from a Dane Myers error on August 20th helped claw back from a Matt McLain grand slam — but the bleeding continued, capped by a catastrophic September stretch where Riley O'Brien was torched repeatedly and the team fell to 77-85.\n\nIn the end, the Cardinals' 2026 season is the story of a club that had the offensive pieces — Walker's power, Herrera's clutch hitting, Wetherholt's on-base ability, and late-season sparks from rookies Leo Bernal — but simply could not find the pitching to match. With a 4.26 ERA and 749 runs allowed against 720 scored, the margin for error was always razor-thin, and by September it had vanished entirely. The Cardinals will head into the offseason needing substantial bullpen reinforcement if 2027 is going to look any different.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Early Sparks, Rocky Ground",
-      "description": "The Cardinals open the year with promising offensive moments but erratic bullpen outings, navigating a winning April on the strength of clutch hits from Wetherholt and Winn.",
+      "title": "Fast Start, Real Hope",
+      "description": "The Cardinals come out swinging in March and April, with Wetherholt, Winn, and Walker building early momentum despite some bullpen hiccups.",
       "startClipIndex": 0,
       "endClipIndex": 6,
-      "tone": "turning_point"
+      "tone": "triumph"
     },
     {
       "id": "ch2",
-      "title": "Treading Water",
-      "description": "May and June see the Cardinals play near-.500 baseball as Jordan Walker's power blossoms and Lars Nootbaar provides a jolt, but the roster struggles to separate from the pack.",
+      "title": "Staying Afloat",
+      "description": "May and June see the Cardinals play near-.500 ball, surviving on big offensive moments from Walker and a Lars Nootbaar home run that electrifies Busch Stadium.",
       "startClipIndex": 7,
       "endClipIndex": 14,
-      "tone": "triumph"
+      "tone": "turning_point"
     },
     {
       "id": "ch3",
       "title": "July Collapse",
-      "description": "A brutal 10-18 July exposes the team's pitching depth, with opposing hitters feasting on Cardinal relievers night after night and playoff dreams fading fast.",
+      "description": "A disastrous 10-18 July exposes the team's pitching vulnerabilities, as home runs pile up against an overmatched bullpen and the playoff window begins to close.",
       "startClipIndex": 15,
-      "endClipIndex": 22,
+      "endClipIndex": 21,
       "tone": "struggle"
     },
     {
       "id": "ch4",
-      "title": "Fighting to Stay Afloat",
-      "description": "August steadies the ship to .500 as wild momentum swings — including a grand slam surrendered and a gift rally gained on the same night — define a team playing for pride.",
-      "startClipIndex": 23,
+      "title": "Fighting Through August",
+      "description": "Iván Herrera and JJ Wetherholt provide clutch moments that keep a flicker of hope alive, even as the bullpen continues to give back gains at the worst times.",
+      "startClipIndex": 22,
       "endClipIndex": 31,
       "tone": "clutch"
     },
     {
       "id": "ch5",
-      "title": "Late-Season Fade and Silver Linings",
-      "description": "September unravels to a 9-15 mark as Riley O'Brien's late-game disasters pile up, but Leo Bernal's breakout and Iván Herrera's clutch homer offer something to build on heading into the offseason.",
+      "title": "September Fade",
+      "description": "Riley O'Brien and the Cardinals' pitching staff are punished relentlessly in September, though late heroics from Leo Bernal and Alec Burleson offer small consolation as the season winds down.",
       "startClipIndex": 32,
       "endClipIndex": 38,
-      "tone": "milestone"
+      "tone": "struggle"
     }
   ],
   "clips": [
@@ -893,5 +893,5 @@
     "division": "NL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-14T17:18:11.773Z"
+  "generatedAt": "2026-11-15T17:52:06.957Z"
 }

@@ -1,20 +1,20 @@
 {
   "teamId": 145,
   "year": 2026,
-  "narrative": "The 2026 Chicago White Sox arrived at the season opener carrying genuine optimism, and they nearly had it shattered immediately. On Opening Day, Seranthony Domínguez surrendered a devastating three-run blast to Christian Yelich that swung the win probability nearly 65 points in Milwaukee's favor, a harsh reminder that the South Side's bullpen remained a vulnerability. The team stumbled to a 1-4 March before steadying itself in April, with Derek Hill's bunt single and Tristan Peters' clutch follow-up line drive on April 3rd igniting an early comeback and setting the tone for what this offense could do in tight spots. Andrew Benintendi's three-run shot on April 23rd and Sam Antonacci's RBI triple on April 29th kept the Sox treading water at a respectable 13-13 through the month.\n\nMay became the White Sox's signature month, a torrid 18-10 run that announced this team as a legitimate contender. The twin bombs from Tristan Peters and Edgar Quero on May 17th — including Quero's go-ahead two-run shot with a WPA of 0.576 — blew open a pivotal mid-month game, while Munetaka Murakami's power continued to grow. The pinnacle came on May 29th when Miguel Vargas launched his 13th home run in what registered as the single highest-leverage moment of the entire regular season, a 0.852 WPA blast that essentially decided a game on its own. Braden Montgomery's first career postseason-caliber moment arrived on June 9th with an 0.832 WPA two-run shot, the kind of clutch hit that makes a roster believe. Even as the summer wore on through a grinding stretch of near-.500 baseball in June, July, and August, the White Sox continued to grind out wins, finishing the year 84-78 and earning a playoff berth.\n\nThe stretch run was a battle of inches. Grant Taylor surrendered a pair of crushing home runs — in July and again in September — while Sean Newcomb and other relievers had their difficult moments. But Randal Grichuk emerged as an unlikely September hero, launching a go-ahead solo blast on September 12th that swung 0.725 WPA and helped push the Sox toward the finish line. The offense showed its depth through 211 home runs and an 84-win campaign that earned them a date with the Cleveland Guardians in the American League Division Series.\n\nThe postseason was where the dream ran aground. Munetaka Murakami and Braden Montgomery provided heroic contributions in Games 1 and 2, but Cleveland's Jo Adell became a nightmare presence, tripling twice across the series to key Guardians rallies. Jordan Hicks allowed a José Ramírez two-run blast in Game 4, and the Guardians' depth proved too much for a White Sox squad that had spent so much energy just reaching October. Eliminated in the ALDS, the 2026 White Sox nonetheless closed the book on years of rebuilding with a winning season and a playoff appearance — a foundation for something bigger to come.",
+  "narrative": "The 2026 Chicago White Sox arrived with cautious optimism, and an ugly opening stretch — a 1-4 March punctuated by Christian Yelich's brutal three-run homer off Seranthony Domínguez on Opening Weekend — threatened to set the tone for another lost season. But the club steadied in April, finishing the month at an even 13-13 and flashing genuine clutch instincts, most memorably when Derek Hill's bunt single and Tristan Peters' follow-up line drive rescued a game on April 3rd and Andrew Benintendi's three-run blast capped a late comeback on the 23rd. The Sox were building something, even if nobody quite believed it yet.\n\nMay turned belief into conviction. An 18-10 record — the best month of the season — was powered by a lineup suddenly exploding with life. Edgar Quero and Tristan Peters went back-to-back on May 17th to blow a game open, Munetaka Murakami's power announced itself with a go-ahead shot on May 26th, and Miguel Vargas delivered the season's single most valuable swing, a walk-off blast on May 29th worth nearly nine-tenths of a win probability. The White Sox had found their identity: a deep, pop-heavy lineup capable of winning games in any inning.\n\nJune and July were a grind. The Sox went a combined 26-24 across those two months, playing competitive baseball without ever pulling away. Braden Montgomery's first career homer on June 9th was a genuine moment of electricity, Sam Antonacci's clutch single on June 22nd survived a Cleveland challenge and kept a win alive, but Grant Taylor surrendered a devastating two-run homer on July 2nd and the bullpen kept the team honest. August matched the pattern — 14-14 — with Benintendi, Chase Meidroth, and Tristan Peters all going deep in key spots while the pitching staff leaked just enough runs to prevent any cushion. Through it all, the Sox stayed above water, and when September arrived they were firmly in the playoff hunt, eventually finishing 84-78 and earning a Wild Card berth.\n\nThe ALDS brought the White Sox face-to-face with the Cleveland Guardians, and the matchup was unforgiving. Murakami homered in Game 1 and Braden Montgomery's sharp double pushed runs across in Game 2, but Jo Adell's triple in Game 3 broke open a close game and Cleveland's bullpen was suffocating. José Ramírez homered twice across the final two games, once off Jordan Hicks and once off Sean Burke, and the Guardians' depth proved to be the difference. A season that had exceeded nearly every expectation ended one round too soon, but for a franchise that had known little but losing in recent memory, 84 wins and a playoff appearance — however brief — felt like the foundation of something real.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Rough Start, Rocky Ground",
-      "description": "A brutal Opening Day homer and an early-season stumble set the tone for a team still finding its footing.",
+      "title": "Rough Start, Real Questions",
+      "description": "A dismal March and shaky opening weeks force the White Sox to prove they belong.",
       "startClipIndex": 0,
       "endClipIndex": 0,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "April Resilience",
-      "description": "Clutch hits from Hill, Peters, Benintendi, and Antonacci help the White Sox claw back to even and show their offensive identity.",
+      "title": "April Fight-Back",
+      "description": "Clutch hits from Hill, Peters, and Benintendi steady the ship and restore confidence.",
       "startClipIndex": 1,
       "endClipIndex": 4,
       "tone": "turning_point"
@@ -22,7 +22,7 @@
     {
       "id": "ch3",
       "title": "May Explosion",
-      "description": "An 18-10 month powered by back-to-back homers, Murakami's emerging power, and Vargas's season-defining blast vaults Chicago into the AL conversation.",
+      "description": "The White Sox catch fire with a franchise-best month, powered by Quero, Peters, and a Vargas walk-off for the ages.",
       "startClipIndex": 5,
       "endClipIndex": 9,
       "tone": "triumph"
@@ -30,15 +30,23 @@
     {
       "id": "ch4",
       "title": "Grinding Through Summer",
-      "description": "A grueling stretch of near-.500 baseball from June through September tests the roster's depth, with Grichuk's late heroics helping secure the playoff berth.",
+      "description": "June through August tests the Sox's resolve as wins and losses trade off in a relentless war of attrition.",
       "startClipIndex": 10,
-      "endClipIndex": 28,
+      "endClipIndex": 23,
       "tone": "clutch"
     },
     {
       "id": "ch5",
-      "title": "October Ends in Cleveland",
-      "description": "The White Sox make the ALDS but are undone by José Ramírez, Jo Adell, and their own postseason inexperience as the Guardians send them home.",
+      "title": "September Push",
+      "description": "The White Sox survive a gauntlet of late-season drama to clinch a postseason spot.",
+      "startClipIndex": 24,
+      "endClipIndex": 28,
+      "tone": "turning_point"
+    },
+    {
+      "id": "ch6",
+      "title": "October's End",
+      "description": "A hard-fought ALDS run ends at the hands of a Guardians squad led by an unstoppable José Ramírez.",
       "startClipIndex": 29,
       "endClipIndex": 36,
       "tone": "struggle"
@@ -852,5 +860,5 @@
     "division": "AL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-14T16:50:41.545Z"
+  "generatedAt": "2026-11-15T17:29:29.199Z"
 }

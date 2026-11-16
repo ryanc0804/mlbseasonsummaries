@@ -1,45 +1,37 @@
 {
   "teamId": 133,
   "year": 2026,
-  "narrative": "The 2026 Oakland Athletics arrived at the new season carrying a mixture of cautious optimism and familiar uncertainty. Opening week flashed both sides of that coin almost immediately: Shea Langeliers launched a go-ahead home run on March 27th only for the bullpen to surrender the lead within the same frame, and the very next day Michael Kelly watched Alejandro Kirk send a ball over the left-field wall to seal another loss. Yet when April's full ledger was written, Oakland stood at 16-10 — a genuine, encouraging fast start that suggested this group might be more than the sum of its troubled parts.\n\nMay and June brought a grinding reality check. The pitching staff bled runs in clusters, with Luis Medina surrendering two crushing singles to Chicago in a single June afternoon and Elvis Alvarado allowing back-to-back home runs on June 24th. Still, the offense showed flickers of life — Jeff McNeil and Tyler Soderstrom combining for big moments in late May, and a Cole Carrigg three-run shot off Justin Sterner on June 12th that the A's turned into a win. The 12-15 June record reflected a team treading water, unable to fully capitalize on offensive bursts but refusing to fully collapse either.\n\nJuly unraveled things decisively. A 5-19 monthly record represented the season's true breaking point, the stretch where the run differential gap between this team and the rest of the American League became impossible to paper over. August matched that futility at 8-20, and even though moments like Gunnar Henderson's three-run blast off Jeffrey Springs on August 30th provided highlight-reel material, they only underscored how often Oakland's pitching was asked to hold leads it simply could not protect. The 937 runs allowed and 5.51 ERA tell that story with brutal arithmetic.\n\nSeptember has offered the Athletics a chance to play with something approaching freedom. At 11-13 through the month, there are individual achievements worth celebrating — Lawrence Butler's 16th home run, Jacob Wilson's continued development — even as the season's final shape comes into focus. With a 64-98 record through the bulk of the year, Oakland's 2026 campaign reads as a chapter in a longer rebuild: one promising April to build on, too many summer meltdowns to ignore, and young pieces whose growth will determine whether next spring looks any different.",
+  "narrative": "The 2026 Oakland Athletics arrived at the new season with cautious optimism, and their March and April gave fans something to hold onto. Shea Langeliers set the tone on Opening Weekend with a go-ahead blast, and Nick Kurtz quickly established himself as the face of the franchise with timely extra-base hits and home runs. A strong 16-10 April suggested the rebuilding A's might be ahead of schedule, even as the bullpen leaked runs at crucial moments.\n\nMay and June told a more complicated story. The pitching staff — led by a rotation of young arms like J.T. Ginn, Luis Medina, and Hogan Harris — showed flashes of promise but repeatedly surrendered leads in high-leverage moments. The offense kept punching back, with Jeff McNeil, Tyler Soderstrom, and Lawrence Butler providing unexpected contributions, and the team finished June at 12-15, a disappointing but not disastrous mark. Elvis Alvarado emerged as a bullpen wildcard, both rescuing games and surrendering crushing home runs within the same week.\n\nJuly unraveled badly. A 5-19 record was the low point of the season, as the pitching staff cratered and the lineup could not keep pace with a punishing schedule. The August record of 8-20 compounded the misery, though scattered bright spots — Jacob Wilson's growing power, a Max Muncy double, and a José Suarez gem interrupted by a Ceddanne Rafaela grand slam — reminded observers that individual talents remained worth watching. The run differential ballooned to nearly 240 runs, a grim testament to the gap between this roster and the league's best.\n\nSeptember has offered a bittersweet coda. The A's have played winning baseball at 11-13 through mid-month, with Lawrence Butler belting his 16th home run and young pieces continuing to develop. But the numbers are what they are: at 64-98, Oakland's season has been a difficult education. The roster is young, the losses are real, and the work of building something sustainable in Sacramento's new home continues game by game.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "April Believers",
-      "description": "A fast 16-10 April ignites real hope in Oakland, even as the roster's flaws peek through in high-leverage moments.",
+      "title": "Opening Sparks",
+      "description": "Oakland bursts out of the gate with Langeliers homering on Opening Weekend and a hot April record that briefly raises expectations.",
       "startClipIndex": 0,
-      "endClipIndex": 8,
+      "endClipIndex": 7,
       "tone": "triumph"
     },
     {
       "id": "ch2",
-      "title": "Treading Water",
-      "description": "May and early June see the A's fight for every win, with the offense delivering bright spots but the pitching staff surrendering leads at a punishing rate.",
-      "startClipIndex": 9,
-      "endClipIndex": 15,
+      "title": "Promise and Potholes",
+      "description": "A winning April gives way to an uneven May and June as young arms falter in key moments even while the offense keeps the A's competitive.",
+      "startClipIndex": 8,
+      "endClipIndex": 25,
       "tone": "turning_point"
     },
     {
       "id": "ch3",
-      "title": "Cracks in the Foundation",
-      "description": "Late June's offensive rallies mask a staff that is beginning to come apart, setting the stage for a brutal summer collapse.",
-      "startClipIndex": 16,
-      "endClipIndex": 25,
+      "title": "Summer Freefall",
+      "description": "A brutal 5-19 July signals the season's true collapse, with the rotation and bullpen unable to hold leads against a punishing schedule.",
+      "startClipIndex": 26,
+      "endClipIndex": 31,
       "tone": "struggle"
     },
     {
       "id": "ch4",
-      "title": "Summer Freefall",
-      "description": "A combined 13-39 July-August record buries Oakland's season, as the bullpen and rotation are repeatedly torched in decisive moments.",
-      "startClipIndex": 26,
-      "endClipIndex": 30,
-      "tone": "struggle"
-    },
-    {
-      "id": "ch5",
-      "title": "Playing Out the String",
-      "description": "September offers modest redemption and individual milestones for a young roster already focused on what comes next.",
-      "startClipIndex": 31,
+      "title": "Finishing the Education",
+      "description": "September offers modest redemption as the A's play better baseball, but the final record reflects a long, painful year of growth for a franchise still rebuilding.",
+      "startClipIndex": 32,
       "endClipIndex": 37,
       "tone": "milestone"
     }
@@ -869,5 +861,5 @@
     "division": "AL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-15T17:37:52.069Z"
+  "generatedAt": "2026-11-16T20:55:27.816Z"
 }

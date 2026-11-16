@@ -1,28 +1,28 @@
 {
   "teamId": 142,
   "year": 2026,
-  "narrative": "The 2026 Minnesota Twins entered the season with cautious optimism, and that tension between hope and heartbreak defined their spring. April was a grind — a 13-15 record masked some genuinely dramatic moments, including Ryan Jeffers launching a grand slam and Austin Martin announcing himself as a spark plug in the lineup. But the bullpen was already flashing warning signs, and opposing hitters were finding gaps that would become recurring themes.\n\nMay and June brought more of the same uneven baseball. Joe Ryan surrendered a Murakami moonshot, Taylor Rogers watched Bryan Reynolds go deep at the worst possible moment, and Anthony Banda had a forgettable night against the Rockies. Yet the Twins were competitive — a combined 27-28 over those two months — with Brooks Lee's clutch extra-base hitting and Kody Clemens emerging as a surprising power source keeping Minnesota in the conversation.\n\nJuly was the season's high-water mark. The Twins went 15-9, their best month, and it was powered by two of the most electric moments of the year: Royce Lewis's return-to-form triple and Kody Clemens's walk-off grand slam that brought Target Field to its feet. For a few weeks, Minnesota looked like a team that could genuinely make noise. Then August arrived like a cold front off Lake Superior, the Twins went 10-17, and all those questions about the rotation and bullpen depth came flooding back.\n\nSeptember has been a fight for relevance. The Twins are 11-13 in the final month, still grinding through a schedule that has exposed their thin margins. Young arms like Yoendrys Gómez have had rough outings, the bullpen — particularly A.J. Minter — has continued to bleed runs at critical moments, but bright spots like Walker Jenkins's home run and Travis Adams's clutch double play keep the spark alive. At 77-85, the Twins find themselves on the outside looking in, but they are still playing meaningful baseball and refusing to let the season end quietly.",
+  "narrative": "The 2026 Minnesota Twins entered the season with cautious optimism, and April did little to settle the nerves. A rocky 1-3 March gave way to a 13-15 April that featured both gut-punch moments — a savage line drive from TJ Friedl off Byron Buxton that swung a game badly — and the kind of resilience that keeps a clubhouse together, like Austin Martin's clutch double and Ryan Jeffers' grand slam. The Twins were a team still searching for their identity, winning just enough to stay relevant but losing just enough to doubt themselves.\n\nMay and June told a similarly mixed story on paper, but the wins were there. Minnesota posted 13-15 and 14-13 marks across those months, buoyed by Brooks Lee's big double, Kody Clemens emerging as a surprising power source, and Alex Jackson delivering in the clutch. The bullpen remained a liability — Taylor Rogers' brutal home run allowed to Bryan Reynolds and Eric Orze's repeated struggles in high-leverage spots stung — but the offense found ways to answer. The Twins were grinding, not thriving.\n\nJuly was Minnesota's best month at 15-9, and it had a singular moment at its heart: Royce Lewis, back and swinging with authority, lacing a go-ahead triple in late July, followed days later by Kody Clemens' walk-off grand slam that may have been the loudest swing in the building all year. The Twins looked like a team catching fire at exactly the right time. August, however, was a cold splash of reality — a 10-17 collapse that erased much of the goodwill and left the team well below .500 heading into the final month.\n\nSeptember has been a battle for dignity and momentum. The Twins entered at 77-85, with young pieces like Walker Jenkins flashing their potential and veterans like Royce Lewis continuing to produce. The bullpen has remained a sore spot, with A.J. Minter and Yoendrys Gómez coughing up leads in critical moments. Minnesota's playoff math is essentially done, but the final weeks still offer something worth playing for — development, pride, and perhaps a glimpse of what 2027 could look like if the right pieces fall into place.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Turbulent Beginnings",
-      "description": "The Twins open the year with competitive but inconsistent play, riding Ryan Jeffers's grand slam and Austin Martin's pop while the bullpen springs early leaks.",
+      "title": "Rocky Beginnings",
+      "description": "A turbulent April sets the tone, with the Twins trading gut-punch losses for just enough clutch moments to stay afloat.",
       "startClipIndex": 0,
       "endClipIndex": 4,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "Treading Water",
-      "description": "May and June are marked by alternating heroics and heartbreaks as Minnesota stays afloat with a combined 27-28 record and the emergence of Kody Clemens as a power threat.",
+      "title": "Grinding Through the Dog Days",
+      "description": "May and June produced winning baseball despite bullpen disasters, as Clemens and Lee emerged and the offense kept punching back.",
       "startClipIndex": 5,
       "endClipIndex": 14,
       "tone": "turning_point"
     },
     {
       "id": "ch3",
-      "title": "The Summer Surge",
-      "description": "July becomes the season's defining month as the Twins go 15-9, fueled by Royce Lewis's electrifying triple and Kody Clemens's grand slam, giving Minnesota its most sustained burst of winning baseball.",
+      "title": "July Surge",
+      "description": "Royce Lewis' return and Kody Clemens' grand slam ignite Minnesota's best month, pushing the team to its high-water mark.",
       "startClipIndex": 15,
       "endClipIndex": 16,
       "tone": "triumph"
@@ -30,18 +30,18 @@
     {
       "id": "ch4",
       "title": "August Collapse",
-      "description": "The Twins stumble to a 10-17 mark in August as bullpen failures and rotation inconsistency erase the momentum built during their summer surge.",
+      "description": "A brutal 10-17 August washes away the summer momentum and effectively ends the Twins' playoff hopes.",
       "startClipIndex": 17,
       "endClipIndex": 17,
       "tone": "struggle"
     },
     {
       "id": "ch5",
-      "title": "Fighting to the End",
-      "description": "September brings a mix of costly losses and defiant moments — including Walker Jenkins's home run and a clutch Travis Adams double play — as the Twins battle through the final weeks with their playoff hopes hanging by a thread.",
+      "title": "Playing for the Future",
+      "description": "September sees young talent flash potential amid ongoing bullpen struggles, as the Twins play out the string with an eye toward 2027.",
       "startClipIndex": 18,
       "endClipIndex": 23,
-      "tone": "clutch"
+      "tone": "milestone"
     }
   ],
   "clips": [
@@ -572,5 +572,5 @@
     "division": "AL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-15T17:34:26.845Z"
+  "generatedAt": "2026-11-16T20:51:55.891Z"
 }

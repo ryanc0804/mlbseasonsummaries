@@ -1,44 +1,44 @@
 {
   "teamId": 135,
   "year": 2026,
-  "narrative": "The 2026 San Diego Padres arrived with championship ambitions and spent the first two months making believers out of everyone. April was electric — an 18-7 record fueled by clutch hits from Jackson Merrill, Manny Machado, and the emerging Gavin Sheets, with a roster that looked deep enough to carry a pennant run. The team was scoring, the rotation was holding, and Petco Park hummed with genuine October energy.\n\nMay and June brought turbulence. A 13-15 May and 11-15 June tested the roster's resolve, as late-inning surrenders and untimely opponent home runs piled up. Randy Vásquez gave up a grand slam to Moisés Ballesteros, Mason Miller couldn't hold leads in the closing weeks of June, and the Padres found themselves treading water through the summer's first heat. The .500 July that followed felt like a team trying to rediscover itself.\n\nWhat saved the season was a ferocious second-half surge. August went 17-11 and September blazed at 18-6 — the best month of the year — powered by Luis Campusano's clutch bat, Jackson Merrill's maturing power, and a rotation that settled into a reliable groove. A 91-win season and a postseason berth felt like destiny fulfilled, the kind of redemptive arc that breeds dangerous October clubs.\n\nThe playoffs, however, delivered a harsh verdict. After dispatching their Wild Card opponent on the strength of Gavin Sheets, the Padres ran into a Milwaukee Brewers squad in the NLDS that refused to yield. Jackson Chourio tormented San Diego's pitching staff across multiple games, Adrian Morejon's bullpen outings backfired, and a crushing Jackson Chourio single off Mason Miller in Game 2 all but closed the door. Jake Cronenworth's solo homer in Game 3 offered a brief flicker of hope, and Michael King's induced double play gave fans one last breath, but the Brewers won the series and sent San Diego home — a 91-win season ending not with a pennant but with a postseason lesson still unlearned.",
+  "narrative": "The 2026 San Diego Padres arrived with quiet confidence and announced themselves loudly. After a modest 1-4 March, they exploded in April, going 18-7 and establishing themselves as one of the National League's most dangerous teams. Jackson Merrill's walk-off double, Manny Machado's three-run blast, and a steady stream of clutch hits from Luis Campusano and Gavin Sheets set the tone: this was a team that could beat you in a dozen different ways. The rotation kept runs off the board while the lineup found timely power, and by month's end San Diego had the look of a division contender.\n\nMay and June told a more complicated story. The offense showed flashes — Nick Castellanos and Gavin Sheets delivering huge home runs, Fernando Tatis Jr. reminding everyone of his ceiling — but the pitching staff absorbed some brutal blows, including a Randy Vásquez grand slam disaster and a Mason Miller meltdown in late June. The Padres went a combined 24-30 over those two months, a painful stretch that dropped them back into the pack and raised real questions about their staying power. The bullpen, in particular, looked vulnerable when the moments got biggest.\n\nJuly was a wash at 13-13, but August and September were the months that defined the season. The Padres caught fire down the stretch, going 17-11 in August and a stunning 18-6 in September. Luis Campusano emerged as a late-season hero, punctuating the run with a two-run homer on September 4th. The rotation tightened, the defense steadied, and San Diego rolled into the postseason at 91-71, playing their best baseball of the year. The energy in Petco Park felt genuine and earned.\n\nOctober, though, proved one chapter too far. After dispatching their Wild Card opponent on the strength of a Gavin Sheets home run, the Padres ran into a Milwaukee Brewers club that was simply better in the moment. Jackson Chourio haunted them twice, William Contreras delivered a crushing blow off Adrian Morejon, and Mason Miller's single in Game 2 sent two runs home and effectively ended San Diego's season. A Jake Cronenworth home run in Game 3 kept hope alive briefly, and Michael King coaxed a momentum-shifting double play, but the Padres could not complete the comeback. The NLDS exit stung, but it could not fully erase what was a genuinely resurgent season built on character and a historic late-season surge.",
   "chapters": [
     {
       "id": "ch1",
       "title": "April Explosion",
-      "description": "The Padres storm out of the gate with an 18-7 April, powered by walk-off hits and clutch home runs from their core stars.",
+      "description": "The Padres storm out of the gate with an 18-7 April, fueled by clutch hits from Merrill, Machado, Campusano, and Sheets.",
       "startClipIndex": 0,
       "endClipIndex": 4,
       "tone": "triumph"
     },
     {
       "id": "ch2",
-      "title": "Rough Patch",
-      "description": "A 13-15 May and 11-15 June expose the team's vulnerabilities as late-inning collapses and opponent grand slams chip away at the early promise.",
+      "title": "Turbulent Middle Months",
+      "description": "May and June bring inconsistency and bullpen collapses, dropping the Padres to 24-30 over the two-month stretch.",
       "startClipIndex": 5,
-      "endClipIndex": 10,
+      "endClipIndex": 8,
       "tone": "struggle"
     },
     {
       "id": "ch3",
-      "title": "Treading Water",
-      "description": "A .500 July sees the Padres fighting to stay relevant, mixing gut-punch losses with just enough clutch moments to keep pace.",
-      "startClipIndex": 11,
+      "title": "Finding Footing",
+      "description": "Individual bright spots in June and a balanced July keep the Padres afloat as they search for their identity.",
+      "startClipIndex": 9,
       "endClipIndex": 14,
       "tone": "turning_point"
     },
     {
       "id": "ch4",
-      "title": "Second-Half Surge",
-      "description": "August and September erupt at a combined 35-17 clip as Campusano, Merrill, and the bullpen find their footing and carry the team to 91 wins.",
+      "title": "Late-Season Surge",
+      "description": "An 18-6 September run, anchored by Campusano's heroics and a lockdown rotation, launches the Padres into the postseason.",
       "startClipIndex": 15,
       "endClipIndex": 21,
       "tone": "triumph"
     },
     {
       "id": "ch5",
-      "title": "October's Bitter End",
-      "description": "The Padres advance past the Wild Card round before running into a relentless Brewers squad in the NLDS, with Jackson Chourio and San Diego's own bullpen proving to be their undoing.",
+      "title": "October's Heartbreak",
+      "description": "San Diego survives the Wild Card round but runs into Milwaukee's relentless lineup, falling in the NLDS on a series of crushing late-game blows.",
       "startClipIndex": 22,
       "endClipIndex": 29,
       "tone": "struggle"
@@ -705,5 +705,5 @@
     "division": "NL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-18T19:39:34.952Z"
+  "generatedAt": "2026-11-19T19:42:43.488Z"
 }

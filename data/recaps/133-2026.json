@@ -1,28 +1,28 @@
 {
   "teamId": 133,
   "year": 2026,
-  "narrative": "The 2026 Oakland Athletics arrived at the season opener carrying cautious optimism, and for a brief stretch they made believers out of their fans. March was a winning month, and April blossomed into the team's best stretch of the year at 16-10, powered by young sluggers like Nick Kurtz and Shea Langeliers providing the kind of thunder that suggested a franchise turning the corner. The bullpen and rotation were shaky, but the offense covered enough sins to keep Oakland in positive territory through the first quarter of the season.\n\nThe wheels began to wobble in May and June, months that produced a combined 23-32 record. The pitching staff bled runs at an alarming rate, with starters J.T. Ginn, Luis Medina, and Hogan Harris repeatedly getting torched in high-leverage moments. Even when the offense put together promising rallies — Jeff McNeil and Tyler Soderstrom delivering back-to-back fireworks in late May — the bullpen would surrender the lead before the night was over. Elvis Alvarado became a symbol of the club's Jekyll-and-Hyde identity, contributing both a clutch win-probability gain and two brutal home runs allowed in the same week of June.\n\nJuly and August represented the season's darkest chapter, a combined 13-39 collapse that effectively ended any mathematical hope. The pitching staff surrendered grand slams, opponents feasted on a leaky defense, and the offense went cold at the worst times. Brief bright spots — Jacob Wilson's seventh home run, a Max Muncy double in August — felt like isolated campfires in a widening darkness. The run differential ballooned to catastrophic proportions, with 937 runs allowed against only 699 scored, telling the story of a team whose 5.51 ERA simply could not be overcome.\n\nSeptember has offered the Athletics nothing but competitive pride and a few individual milestones. Lawrence Butler hit his sixteenth home run, Donovan Walton provided his own moment, and opponents continued to find holes in a depleted roster. At 64-98, Oakland is writing the final pages of a painful campaign, one that will likely serve as a cautionary tale about pitching depth while also pointing toward the genuine promise of Kurtz, Wilson, and Soderstrom as building blocks for whatever comes next.",
+  "narrative": "The 2026 Oakland Athletics arrived at the starting gate with cautious optimism, and the opening weeks offered just enough encouragement to keep the dream alive. A hot April — the team's best month at 16-10 — was anchored by big moments from Nick Kurtz and a roster that looked, for a brief stretch, like it might be turning a corner. Shea Langeliers set the tone in the season opener with a go-ahead blast, and even when the bullpen faltered, the offense found ways to answer back.\n\nBut the wheels began to wobble in May and June. A combined 23-32 stretch over those two months exposed the team's true ceiling: a rotation that couldn't hold leads, a bullpen that surrendered critical home runs at the worst moments, and an offense that was inconsistent despite flashes of brilliance from Tyler Soderstrom, Jeff McNeil, and Lawrence Butler. Luis Medina's rough outings in early June and a series of costly long balls surrendered by Elvis Alvarado told the story of a staff that simply couldn't stop the bleeding.\n\nJuly and August brought the season to its lowest points. The Athletics went a combined 13-39 across those two months, a stretch that effectively buried any lingering playoff hope. The bullpen was torched repeatedly, starters were knocked around, and even a few offensive fireworks from Jacob Wilson and Max Muncy couldn't paper over the damage. By the time late August arrived, the roster was clearly in survival mode, with young players accumulating experience that would have to pay dividends in future seasons.\n\nSeptember has offered a bittersweet coda. The team has played slightly more competitive baseball at 11-13, with Hogan Harris and Lawrence Butler providing some late-season highlights — though Butler's own home run on September 13th proved to be a walk-off wound in a loss. At 64-98, the Athletics are playing out the string, but several young cornerstones have shown why the future, however distant it may feel, is not without promise.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Early Promise",
-      "description": "Oakland opens the season with winning baseball in March and a hot April, powered by the long ball and flashes of young talent.",
+      "title": "Opening Day Sparks",
+      "description": "A fast-starting April gives Oakland real hope, with Langeliers and Kurtz providing the highlights of a 16-10 month.",
       "startClipIndex": 0,
       "endClipIndex": 8,
       "tone": "triumph"
     },
     {
       "id": "ch2",
-      "title": "Cracks in the Foundation",
-      "description": "May turns losing as the pitching staff begins giving back leads, even while the offense produces isolated heroics.",
+      "title": "May Cracks Appear",
+      "description": "An 11-17 May reveals the team's pitching vulnerabilities as big moments slip away and the wins become harder to find.",
       "startClipIndex": 9,
       "endClipIndex": 13,
       "tone": "turning_point"
     },
     {
       "id": "ch3",
-      "title": "June's Mixed Signals",
-      "description": "A 12-15 June is defined by the bullpen's inability to hold games, with Elvis Alvarado at the center of both the wins and the losses.",
+      "title": "June Fades",
+      "description": "A 12-15 June is defined by costly home runs allowed and a bullpen that can't protect slim leads, dimming playoff dreams.",
       "startClipIndex": 14,
       "endClipIndex": 25,
       "tone": "struggle"
@@ -30,7 +30,7 @@
     {
       "id": "ch4",
       "title": "Summer Collapse",
-      "description": "July and August combine for a brutal 13-39 record as the Athletics surrender runs in waves and fall out of any realistic contention.",
+      "description": "Back-to-back losing months in July and August — a combined 13-39 — send the Athletics into a full-blown tailspin with no rescue in sight.",
       "startClipIndex": 26,
       "endClipIndex": 31,
       "tone": "struggle"
@@ -38,7 +38,7 @@
     {
       "id": "ch5",
       "title": "Playing Out the String",
-      "description": "September offers little relief as Oakland absorbs more damaging losses while individual players chase personal milestones in a lost season.",
+      "description": "September provides a modest uptick in competitiveness, with young pieces flashing their potential even as the losses continue to mount.",
       "startClipIndex": 32,
       "endClipIndex": 37,
       "tone": "milestone"
@@ -869,5 +869,5 @@
     "division": "AL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-19T19:23:38.831Z"
+  "generatedAt": "2026-11-21T18:05:52.076Z"
 }

@@ -1,39 +1,47 @@
 {
   "teamId": 142,
   "year": 2026,
-  "narrative": "The 2026 Minnesota Twins entered the season with cautious optimism, but April proved to be a rocky foundation. The month-by-month ledger told a story of inconsistency from the jump — a losing April undermined by costly relief implosions and untimely hits surrendered at the worst moments. Eric Orze emerged as an early villain in the bullpen narrative, repeatedly coughing up leads in high-leverage spots, while the offense showed flashes of life through Austin Martin's emerging bat and Ryan Jeffers' grand slam power.\n\nMay and June were defined by a maddening equilibrium — the Twins were good enough to tread water but never quite good enough to pull away. Taylor Rogers' devastating blown save against Pittsburgh in late May was perhaps the season's gut-punch moment up to that point, a minus-0.80 WPA swing that encapsulated everything frustrating about this roster's inability to close games. Anthony Banda and Joe Ryan took their lumps against elite lineups, surrendering big flies to Yordan Alvarez and Hunter Goodman at critical junctures. Yet Kody Clemens quietly became one of the season's most reliable offensive weapons, delivering a three-run homer in June that kept the Twins alive in a game they had no business winning.\n\nJuly changed everything. With Royce Lewis returning to health and looking every bit like the player the organization had long envisioned, Minnesota posted their best month of the season at 15-9. Lewis's walk-off triple in late July was the kind of play that shifts a clubhouse's entire energy, and Kody Clemens punctuated the surge with a grand slam that ranks as the season's single most impactful hit. The Twins looked, for a brief and brilliant stretch, like a team capable of making a late push.\n\nAugust and September, however, told a sobering story. The offense sputtered, the bullpen — Orze, Minter, Gómez — continued to bleed runs at inopportune times, and a 10-17 August essentially buried any realistic playoff hopes. September has been a mix of competitive baseball and costly defeats, with Walker Jenkins offering a glimpse of the future and Travis Adams flashing some late-season value, but the Twins sit at 77-85 with the season winding down, a year that will be remembered as one of tantalizing moments that never quite coalesced into something sustained.",
+  "narrative": "The 2026 Minnesota Twins entered the season with modest expectations, and their early months did little to change that narrative. A rocky March gave way to an up-and-down April and May, with the team hovering around .500 as individual moments of brilliance — Ryan Jeffers' grand slam, Austin Martin's emerging bat — kept them afloat amid a bullpen that repeatedly let games slip away. Eric Orze emerged as an unwanted headliner in the wrong column, surrendering crucial hits in back-to-back rough outings, while Anthony Banda's struggles in key spots underscored a pitching staff that too often couldn't hold a lead.\n\nJune brought a split personality: the Twins went 14-13, good enough to tread water but not enough to inspire. Kody Clemens flashed genuine power, belting his 10th home run in a clutch spot, but Anthony Banda's late-game implosion against Colorado and Joe Ryan's inability to contain elite lineups — most painfully, surrendering a Yordan Alvarez grand slam on the final day of June — kept Minnesota from building any real momentum heading into the summer.\n\nJuly became the season's turning point. The Twins posted their best month at 15-9, fueled by a rejuvenated Royce Lewis, whose return brought an electricity that had been missing for stretches. His walk-off triple in late July and Kody Clemens' stunning grand slam on July 30 — a 0.927 WPA swing, the single biggest play of the season — announced that Minnesota still had a pulse. It was the kind of stretch that made believers out of doubters, even as the broader picture showed a team fighting above its true talent level.\n\nAugust cruelly answered the question of whether July's surge was sustainable: the Twins went 10-17, their worst month, as the pitching staff buckled and the offense went cold. September has offered a mixed reprieve — Walker Jenkins showed flashes of a bright future, Travis Adams contributed in unexpected ways, and Royce Lewis continued to produce in the middle of the order. But with a 77-85 record, the mathematical reality is sobering. The 2026 Twins are a team defined by their July glimpse of what could have been, a roster with real pieces but not quite enough depth to sustain a playoff push through the grind of 162 games.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Rocky Beginnings",
-      "description": "A losing April sets an unsteady tone, with the bullpen surrendering leads and the offense finding only sporadic answers.",
+      "title": "Early Turbulence",
+      "description": "A volatile April sees the Twins trade gut-punch moments with flashes of individual brilliance as the roster searches for its identity.",
       "startClipIndex": 0,
-      "endClipIndex": 4,
+      "endClipIndex": 3,
       "tone": "struggle"
     },
     {
       "id": "ch2",
       "title": "Treading Water",
-      "description": "May and June bring maddeningly even baseball, with blown saves and big flies allowed offset by Clemens and Martin stepping up at key moments.",
-      "startClipIndex": 5,
-      "endClipIndex": 14,
+      "description": "May brings familiar patterns — Orze and Banda falter in high-leverage spots, but Martin and Lee provide enough spark to keep Minnesota near .500.",
+      "startClipIndex": 4,
+      "endClipIndex": 8,
       "tone": "turning_point"
     },
     {
       "id": "ch3",
-      "title": "The Lewis Surge",
-      "description": "Royce Lewis returns to anchor a 15-9 July, sparked by a walk-off triple and Kody Clemens's season-defining grand slam.",
+      "title": "June's Split Verdict",
+      "description": "A winning month masked by late-inning disasters, including a Yordan Alvarez grand slam that closes June on the worst possible note.",
+      "startClipIndex": 9,
+      "endClipIndex": 14,
+      "tone": "struggle"
+    },
+    {
+      "id": "ch4",
+      "title": "The July Surge",
+      "description": "Royce Lewis returns to anchor a 15-9 run, with Kody Clemens' walk-off grand slam delivering the single most electrifying moment of the Twins' season.",
       "startClipIndex": 15,
       "endClipIndex": 16,
       "tone": "triumph"
     },
     {
-      "id": "ch4",
-      "title": "Fading in the Stretch",
-      "description": "A brutal August collapse and an inconsistent September extinguish playoff hopes, though young pieces like Walker Jenkins offer something to build on.",
+      "id": "ch5",
+      "title": "Fading in September",
+      "description": "After a brutal August collapse, September offers mixed signals — young talent like Walker Jenkins inspires hope even as the playoff window closes.",
       "startClipIndex": 17,
       "endClipIndex": 23,
-      "tone": "struggle"
+      "tone": "turning_point"
     }
   ],
   "clips": [
@@ -63,7 +71,7 @@
       "title": "Double — Austin Martin",
       "description": "Austin Martin doubles (3) on a ground ball to left fielder Will Benson. James Outman scores.",
       "playId": "35aabfa8-fb16-3ec3-a18e-6d3bd7f5542e",
-      "videoUrl": "https://sporty-clips.mlb.com/cU93MFFfWGw0TUFRPT1fQlFRQUJRWlNCd29BWGdBRFVBQUhWRlZWQUFBRVd3UUFCQUVHVWxjQ1Z3WlFCQUFE.mp4",
+      "videoUrl": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/20/d747b324-dce9c373-135162f3-csvm-diamondgcp-asset-4000K.mp4",
       "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/hietzuxjbgi9aognilm1.jpg",
       "date": "2026-04-19",
       "gamePk": 823718,
@@ -334,8 +342,7 @@
       "wpa": -0.621,
       "xwoba": 2,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/MTZOVllfWGw0TUFRPT1fQVFOUlVGY0JBbEFBWEZzQ1ZRQUhBUTlTQUZsWEJsUUFWd0FCVkZKV0FsWlVCZ0pY.mp4"
+      "gameType": "R"
     },
     {
       "id": "824175-39-4",
@@ -564,5 +571,5 @@
     "division": "AL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-19T19:19:58.342Z"
+  "generatedAt": "2026-11-21T18:01:11.329Z"
 }

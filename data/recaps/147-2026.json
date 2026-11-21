@@ -1,12 +1,12 @@
 {
   "teamId": 147,
   "year": 2026,
-  "narrative": "The 2026 New York Yankees arrived with expectations and mostly delivered, surging to a strong April on the strength of clutch hits and timely homers before the bullpen began to crack under pressure. José Caballero emerged as an unlikely catalyst in the early going, delivering back-to-back enormous doubles that swung games, while Amed Rosario provided one of the season's biggest early swings with a three-run blast. The team weathered a rocky stretch through late April and into May, when closer David Bednar became a liability — surrendering walk-off and late-inning home runs in rapid succession — and a 12-14 June record threatened to let the division slip away.\n\nThe Yankees righted the ship through the summer. Jazz Chisholm Jr. delivered a go-ahead two-run blast in July that ranks among the season's most electric moments, Ben Rice continued his breakout campaign with timely extra-base hits, and the rotation kept runs off the board to the tune of a 3.23 ERA. August and September were productive months — 16-12 and 15-8 respectively — punctuated by Austin Wells and Anthony Volpe delivering clutch knocks down the stretch. The offense generated 223 home runs, and while the team's .720 OPS was modest, the pitching staff consistently kept them in ballgames.\n\nThe late-season stumbles were real but manageable. Paul Blackburn surrendered a soul-crushing two-run home run in early September, and Brent Headrick gave up a Nolan Arenado grand slam in the season's final week that stung — but by then, the Yankees had already secured their postseason berth. They cruised through the Wild Card round with Luis García Jr. punctuating the clincher, setting up a Division Series matchup that would prove to be their undoing.\n\nThe ALDS was a brief, brutal affair. Max Fried labored in Game 2, surrendering home runs to Ryan Vilade and Victor Mesa Jr. in a losing effort, while Cam Schlittler and the supporting cast couldn't hold leads. Spencer Jones flashed promise with a clutch double, and Anthony Volpe had a fan-interference call overturn a would-be homer into a double — the kind of luck that felt emblematic of a postseason that never quite got going. The Yankees' season ended not with a bang but with Trent Grisham swinging through strike three, leaving 93 wins and genuine promise behind — and a long winter to wonder what might have been.",
+  "narrative": "The 2026 New York Yankees arrived with familiar ambitions and delivered a compelling if ultimately incomplete season. They burst out of the gate with a 4-1 March and built momentum through April, going 16-10 on the strength of clutch contributions from unlikely heroes — José Caballero came up huge twice in the same week, Amed Rosario delivered a walk-off three-run shot, and the bullpen held its ground in tight spots. It was a team playing with an infectious, collective energy, and by the end of April it felt like something special was forming in the Bronx.\n\nMay and June told a more complicated story. The bullpen, led by David Bednar, began to crack under pressure — Bednar surrendered three separate home runs that each swung the game decisively away from New York, and the team posted a 12-14 June that dropped them into uncomfortable territory. Yet even in the murk, Ben Rice was emerging as a genuine offensive force, Ben Rice's bat kept flashing, and Paul Goldschmidt provided steadying veteran pop. The Yankees were winning at a rate that kept them in contention, but the margin for error was shrinking.\n\nJuly reignited everything. Jazz Chisholm Jr. announced himself with a go-ahead two-run blast on July 10th, Trent Grisham followed the very next day, and Ben Rice capped a three-game tear with a clutch triple on July 12th. The team went 14-11 in July and 16-12 in August, closing the stretch run with a blistering 15-8 September that locked up a Wild Card berth. Luis García Jr. was a consistent power presence, Austin Wells came through in big moments, and Anthony Volpe provided the kind of steady, multi-faceted offense that defined the late-season push. The Yankees finished 93-68, a genuinely good ball club.\n\nThe postseason, however, proved to be a different story. After navigating the Wild Card round, the Yankees ran into a Tampa Bay squad that was disciplined and dangerous in the ALDS. Max Fried labored in Game 2, surrendering home runs to Ryan Vilade and Victor Mesa Jr. in the same game that swung the momentum decisively toward Tampa. A contested fan-interference call that turned a Volpe home run into a double encapsulated the bad luck and heartbreak that defined October. Spencer Jones flashed future star potential, but the lineup couldn't string together the kind of sustained offense that had carried them all summer. A promising 93-win season ended with the Yankees watching October baseball from home, left to wonder what might have been with a healthier bullpen and a little more October fortune.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Early Promise",
-      "description": "The Yankees roar out of the gate in April, with Caballero, Rosario, and Grisham delivering clutch hits in a 16-10 month.",
+      "title": "Early Believers",
+      "description": "The Yankees ignite April with clutch heroics from Rosario, Caballero, and the lineup's supporting cast, building a 16-10 record and genuine optimism.",
       "startClipIndex": 0,
       "endClipIndex": 6,
       "tone": "triumph"
@@ -14,39 +14,31 @@
     {
       "id": "ch2",
       "title": "Bednar's Burden",
-      "description": "May turns rocky as David Bednar blows critical late-inning leads in a string of painful losses, testing the team's depth.",
+      "description": "David Bednar and the bullpen falter repeatedly in May and June, allowing critical home runs that drag the team to a 12-14 June and raise serious questions.",
       "startClipIndex": 7,
-      "endClipIndex": 10,
+      "endClipIndex": 14,
       "tone": "struggle"
     },
     {
       "id": "ch3",
-      "title": "Treading Water",
-      "description": "A 12-14 June sees the Yankees grind through close games, with Goldschmidt and Rice providing just enough offense to stay afloat.",
-      "startClipIndex": 11,
-      "endClipIndex": 14,
+      "title": "The July Spark",
+      "description": "Jazz Chisholm Jr., Trent Grisham, and Ben Rice explode across three straight games in July, reigniting the offense and steadying the ship.",
+      "startClipIndex": 15,
+      "endClipIndex": 17,
       "tone": "turning_point"
     },
     {
       "id": "ch4",
-      "title": "Midsummer Surge",
-      "description": "Jazz Chisholm ignites a July hot streak and the Yankees play their best baseball of the summer, pulling away in the standings.",
-      "startClipIndex": 15,
-      "endClipIndex": 17,
+      "title": "Finishing Strong",
+      "description": "The Yankees close the regular season with a dominant 15-8 September surge, powered by big hits from Wells, Volpe, and Rice to lock up a Wild Card spot.",
+      "startClipIndex": 18,
+      "endClipIndex": 25,
       "tone": "triumph"
     },
     {
       "id": "ch5",
-      "title": "Finishing Strong",
-      "description": "August and September see the Yankees grind to 93 wins despite late-season hiccups, with Wells and Volpe delivering down the stretch.",
-      "startClipIndex": 18,
-      "endClipIndex": 25,
-      "tone": "clutch"
-    },
-    {
-      "id": "ch6",
-      "title": "October's End",
-      "description": "The Yankees dispatch the Wild Card round before Max Fried and the ALDS opponents deliver a swift, painful postseason exit.",
+      "title": "October's Cruel Ending",
+      "description": "The Yankees reach the ALDS but fall to Tampa Bay as Max Fried is battered by home runs, a fan-interference reversal stings, and the season ends in bitter disappointment.",
       "startClipIndex": 26,
       "endClipIndex": 33,
       "tone": "struggle"
@@ -71,8 +63,7 @@
       "wpa": -0.398,
       "xwoba": 0.875,
       "eventType": "double",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/N3l6bkdfWGw0TUFRPT1fVkFKWUFGTlZWQUlBQ0FSVVZRQUhWUVVBQUZnQ0IxWUFVUVpRQWxZQ1ZBVUJVVk5W.mp4"
+      "gameType": "R"
     },
     {
       "id": "823567-68-8",
@@ -795,5 +786,5 @@
     "division": "AL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-19T19:11:04.255Z"
+  "generatedAt": "2026-11-21T17:50:14.773Z"
 }

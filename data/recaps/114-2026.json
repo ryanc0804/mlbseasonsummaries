@@ -1,44 +1,52 @@
 {
   "teamId": 114,
   "year": 2026,
-  "narrative": "The 2026 Cleveland Guardians were a team defined by resilience and frustrating inconsistency, never quite able to separate themselves from the pack until the calendar flipped to September. They opened the year going 3-3 in March before settling into a perfectly mediocre April at 13-13, a month bookended by costly bullpen implosions from Cade Smith and Connor Brogdon but salvaged in part by Daniel Schneemann's grand slam and Brayan Rocchio's emerging power. The team's true identity began to crystallize in May, when they went 18-11 to post their best month of the season, riding starter efficiency and timely hitting like Kyle Manzardo's solo shot to build a cushion they would desperately need.\n\nJune nearly unraveled everything. A 10-15 record in that month exposed real vulnerabilities in the bullpen, with Cade Smith surrendering three crushing hits across the month and Matt Festa giving up a three-run Altuve blast to the Astros. July was similarly maddening at 12-13, punctuated by both Gavin Williams struggling and Brayan Rocchio delivering the season's single biggest positive play — a walk-off two-run homer on July 2nd that momentarily steadied the ship. August steadied at 13-13, unremarkable but survivable, before September brought the Guardians roaring to life at 16-9, with Rocchio's two-run double on September 15th registering as the second-highest WPA play of the entire regular season.\n\nThe postseason was a hard-fought, emotionally draining ride. Cleveland dispatched their Division Series opponent with contributions from Jo Adell's clutch triple and José Ramírez's home run in Games 2 and 3, earning a berth in the ALCS that felt like validation for a full season of grinding. But the Championship Series proved a bridge too far, as Gavin Williams was torched for a Chandler Simpson triple in Game 4 and the Tampa Bay bullpen exploited Cleveland's thin margin for error. Richie Palacios delivered a backbreaking double in Game 6 off Tim Herrin that effectively closed the door on Cleveland's October dream.\n\nIn the end, the 2026 Guardians finished 85-77 with a +11 run differential that suggested a team right at their true talent level — good enough to win a division title and claim a playoff series, but not quite equipped to advance to the World Series. Brayan Rocchio was the season's heartbeat, appearing in five of the top positive-WPA plays and announcing himself as a bona fide star. The bullpen's reliability issues, particularly from Cade Smith, remained the team's Achilles heel. This was a season that will be remembered as a promising foundation — the kind of near-miss that fuels a dynasty or haunts a franchise depending on what comes next.",
+  "narrative": "The 2026 Cleveland Guardians were a team defined by resilience and frustration in equal measure — a club that never quite separated itself from the pack but found a way to reach October anyway. They stumbled out of the gate in March and April, finishing the first two months at a combined 16-16, with the bullpen — particularly Cade Smith — giving away leads at the worst moments. But the roster flashed its potential in those early weeks too, with Brayan Rocchio emerging as an unlikely offensive catalyst and Chase DeLauter making a case for a bigger role.\n\nMay was the turning point. The Guardians went 18-11, their best month of the year, and players like Kyle Manzardo began delivering the power the lineup needed. June brought the season's lowest moment, a brutal stretch where the pen imploded repeatedly and the team fell to 10-15, but Cleveland refused to fold. July and August were grinding, near-.500 months, but the wins kept coming in bunches when it mattered most — none bigger than Rocchio's walk-off blast on July 2nd that swung the largest win probability of any single play all year.\n\nSeptember was Cleveland's closing argument. Going 16-9, the Guardians punched their ticket to the postseason on the strength of a lineup that had finally found its identity. Rocchio's late-season double on September 15th, Petey Halpin's clutch home run a day later, and Angel Martínez's power surge gave the team genuine momentum heading into October. The young core looked ready for a deep run.\n\nIn the playoffs, Cleveland dispatched their Division Series opponent with grit and timely hitting — Ramírez's home run and Jo Adell's triple were highlights — before running into a buzzsaw in the ALCS. The Tampa Bay Rays proved too deep, and the Guardians' thin pitching staff, with Gavin Williams and Daniel Espino giving up key hits, couldn't hold leads when it mattered most. A promising season ended one round short of the World Series, but the foundation was clearly in place.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Rocky Start, Familiar Struggles",
-      "description": "Cleveland opens the year in fits and starts, going a combined 16-16 through March and April as bullpen miscues threaten to sink early momentum.",
+      "title": "Shaky Footing",
+      "description": "The Guardians open the season at .500, with the bullpen surrendering big leads and the offense searching for consistency.",
       "startClipIndex": 0,
       "endClipIndex": 7,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "May Surge",
-      "description": "The Guardians catch fire in May, posting an 18-11 record behind timely hitting and a rotation that finally delivers consistent length.",
+      "title": "Finding Their Stride",
+      "description": "An 18-11 May powered by Manzardo and the young core signals that Cleveland is a legitimate contender.",
       "startClipIndex": 8,
       "endClipIndex": 8,
       "tone": "triumph"
     },
     {
       "id": "ch3",
-      "title": "Summer Spiral",
-      "description": "A brutal June and an up-and-down July expose Cleveland's fragility, with the bullpen surrendering leads and the offense going cold at the worst moments.",
+      "title": "June Swoon",
+      "description": "A 10-15 June exposes the bullpen's fragility as Cade Smith and Matt Festa repeatedly squander close games.",
       "startClipIndex": 9,
-      "endClipIndex": 14,
+      "endClipIndex": 12,
       "tone": "struggle"
     },
     {
       "id": "ch4",
-      "title": "Rocchio Rises, Season Saved",
-      "description": "Brayan Rocchio emerges as Cleveland's most clutch performer, anchoring a late-season charge that salvages the year and locks up a postseason berth.",
-      "startClipIndex": 15,
-      "endClipIndex": 22,
+      "title": "Rocchio Rises",
+      "description": "Brayan Rocchio's walk-off blast sparks a grinding but steady summer stretch that keeps Cleveland in the hunt.",
+      "startClipIndex": 13,
+      "endClipIndex": 14,
       "tone": "turning_point"
     },
     {
       "id": "ch5",
-      "title": "October's Promise and Pain",
-      "description": "The Guardians win a hard-fought Division Series before running into a wall in the ALCS, where late-inning breakdowns finally end their run.",
+      "title": "September Push",
+      "description": "A 16-9 September surge, fueled by Rocchio's clutch hitting, Halpin's heroics, and Martínez's power, carries Cleveland to the postseason.",
+      "startClipIndex": 15,
+      "endClipIndex": 22,
+      "tone": "triumph"
+    },
+    {
+      "id": "ch6",
+      "title": "October's Edge",
+      "description": "The Guardians win the Division Series before falling to the Rays in the ALCS, their thin pitching unable to hold late leads.",
       "startClipIndex": 23,
       "endClipIndex": 30,
       "tone": "clutch"
@@ -105,8 +113,7 @@
       "wpa": -0.454,
       "xwoba": 0.739,
       "eventType": "double",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/ckR3V2VfWGw0TUFRPT1fVjFSVFZWZFZWVlFBQ2xWVVh3QUhWd05RQUFBRUFnY0FDZ1FIVkFwVFZ3c0VCQU1F.mp4"
+      "gameType": "R"
     },
     {
       "id": "824454-61-7",
@@ -298,8 +305,7 @@
       "wpa": -0.489,
       "xwoba": 1.953,
       "eventType": "home_run",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/UUFLeTlfWGw0TUFRPT1fQXdOVlVGVU5Bd0FBQ3dZR1h3QUhVRkJVQUZrRlVnSUFWbDBIQ1ZZRUJGZFVDUWRl.mp4"
+      "gameType": "R"
     },
     {
       "id": "824583-86-10",
@@ -725,5 +731,5 @@
     "division": "AL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-19T19:16:20.356Z"
+  "generatedAt": "2026-11-21T17:56:54.653Z"
 }

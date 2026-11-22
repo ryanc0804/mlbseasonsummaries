@@ -1,20 +1,20 @@
 {
   "teamId": 138,
   "year": 2026,
-  "narrative": "The 2026 St. Louis Cardinals opened the year with a jolt of optimism, posting a 3-2 mark in the spring series before carrying that energy into a strong April at 15-11. JJ Wetherholt announced himself as a difference-maker early, delivering a walk-off single on Opening Day weekend, while Masyn Winn and Yohel Pozo provided crucial late-game moments that kept St. Louis near the top of the division standings. The offense found its footing in fits and starts, but the team's ability to manufacture runs in big spots masked some early bullpen volatility from the likes of Ryne Stanek and JoJo Romero.\n\nMay and June brought a leveling off — a combined 26-25 record that felt like treading water, but masked genuine individual brilliance. Jordan Walker was quietly becoming one of the team's most reliable run producers, piling up doubles at a remarkable clip and reaching his 20th home run by Independence Day. Lars Nootbaar's return and a clutch two-run shot in June gave the club a needed spark, and Nolan Gorman added pop from the middle of the order. This was a team good enough to stay in contention, even as the pitching staff cycled through growing pains.\n\nJuly unraveled everything. The Cardinals went a disastrous 10-18, undone by a bullpen that surrendered leads in the cruelest ways — Masyn Winn's throwing error gifting Atlanta a run, Luis Gastelum and Gordon Graceffo getting torched for multi-run homers, and a Vaughn Grissom double that ended a winnable game. The month exposed structural weaknesses that front-office optimism had papered over, and by the time August arrived, the Cardinals were fighting to stay relevant rather than to contend.\n\nAugust and September told a bittersweet final chapter. Riley O'Brien became the face of late-season heartbreak, surrendering crushing home runs to Kyle Schwarber and Randal Grichuk at the worst moments. Yet amid the fade, genuine brightness emerged in young players — Iván Herrera delivered the season's highest-WPA play with a go-ahead double in late July, then launched a three-run homer in September, and rookie Leo Bernal offered a glimpse of the future with a pair of clutch contributions in the final weeks. The Cardinals finished 77-85, a team caught between rebuilding and competing, with just enough talent to dream on heading into the offseason.",
+  "narrative": "The 2026 St. Louis Cardinals opened the year with a jolt of optimism, navigating a scrappy March and a winning April on the strength of timely hits from young cornerstones JJ Wetherholt, Masyn Winn, and Jordan Walker. The offense showed real teeth in those early weeks, and the roster seemed to be growing into something cohesive — a squad that could scratch out wins even when the bullpen leaked runs.\n\nMay and June told a more complicated story. The team hovered right around .500, with Walker and Yohel Pozo providing clutch knocks and Lars Nootbaar delivering the season's most impactful positive play to that point with a go-ahead homer in early June. But the relief corps — particularly Riley O'Brien, Ryne Stanek, and JoJo Romero — kept surrendering leads at the worst moments, leaving the Cardinals perpetually treading water despite flashes of genuine promise.\n\nJuly became the season's breaking point. A stunning 10-18 record buried whatever playoff hopes had flickered, as a parade of opposition home runs off the Cardinals' overworked bullpen made the month feel like a slow-motion disaster. Iván Herrera's clutch double against the Cubs on July 29th offered a rare bright spot, but Pete Crow-Armstrong had already stolen that game earlier in the same inning, and the month's damage was done. The Cardinals had fallen out of contention.\n\nAugust and September brought the grim arithmetic of a losing team trying to find meaning in meaningless games. Riley O'Brien continued to be a liability, surrendering crushing homers to Kyle Schwarber, Randal Grichuk, and others. Yet there were genuine glimmers — Wetherholt's error-aided rally on August 20th, Herrera's three-run shot on September 4th, and late-season contributions from rookie Leo Bernal, whose line-drive single and home run in September hinted at better days ahead for a franchise still searching for its identity at 77-85.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Fast Start, Big Swings",
-      "description": "St. Louis opens the season with energy and clutch hits, posting a winning record through April behind Wetherholt, Winn, and Pozo.",
+      "title": "Early Promise",
+      "description": "The Cardinals play winning baseball through April, buoyed by timely hits from their young core.",
       "startClipIndex": 0,
       "endClipIndex": 6,
       "tone": "triumph"
     },
     {
       "id": "ch2",
-      "title": "Staying Afloat",
-      "description": "A .500-ish stretch in May and June sees Jordan Walker emerge as a consistent force while the team fights to stay in contention.",
+      "title": "Treading Water",
+      "description": "May and June see the Cardinals hover around .500, with big clutch moments offset by costly bullpen failures.",
       "startClipIndex": 7,
       "endClipIndex": 14,
       "tone": "turning_point"
@@ -22,26 +22,18 @@
     {
       "id": "ch3",
       "title": "July Collapse",
-      "description": "A brutal 10-18 July exposes bullpen fragility, with errors, blown leads, and a parade of opposing home runs sinking the Cardinals.",
+      "description": "A brutal 10-18 July shatters any postseason dreams as opposing hitters feast on a beleaguered bullpen.",
       "startClipIndex": 15,
-      "endClipIndex": 21,
+      "endClipIndex": 22,
       "tone": "struggle"
     },
     {
       "id": "ch4",
-      "title": "Fighting Through the Fade",
-      "description": "August brings more heartbreak from a leaky bullpen, but Iván Herrera's clutch double sparks a late moment of defiance amid a dwindling season.",
-      "startClipIndex": 22,
-      "endClipIndex": 31,
-      "tone": "clutch"
-    },
-    {
-      "id": "ch5",
-      "title": "Seeds of the Future",
-      "description": "Late September losses pile up as Riley O'Brien absorbs painful defeats, but Leo Bernal and Iván Herrera offer hopeful signs for what's next in St. Louis.",
-      "startClipIndex": 32,
+      "title": "Playing Out the String",
+      "description": "August and September bring more bullpen heartbreak but offer glimpses of hope from Iván Herrera and rookie Leo Bernal.",
+      "startClipIndex": 23,
       "endClipIndex": 38,
-      "tone": "milestone"
+      "tone": "struggle"
     }
   ],
   "clips": [
@@ -893,5 +885,5 @@
     "division": "NL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-21T18:23:13.216Z"
+  "generatedAt": "2026-11-22T18:31:43.529Z"
 }

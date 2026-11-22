@@ -1,12 +1,12 @@
 {
   "teamId": 111,
   "year": 2026,
-  "narrative": "The 2026 Boston Red Sox began their season with a jolt of optimism when Wilyer Abreu launched a home run on Opening Day, but the bullpen quickly undercut that early energy. Greg Weissert surrendered a punishing three-run shot the very next afternoon, and the rotation was no safer — Aroldis Chapman and Garrett Whitlock each found themselves victimized during a rough April road stretch that left Boston at 11-15 at month's end, already chasing the division leaders.\n\nMay and June brought stability rather than explosion. Zack Kelly's double-play gem against Houston briefly steadied the ship, and Willson Contreras provided a signature moment with a go-ahead two-run blast that swung a half-game by more than half a win. The team went a combined 25-28 over those two months, never generating real momentum — just enough to stay close to the Wild Card line. Chapman continued to bleed runs in June, highlighted by a catastrophic late-inning triple that cost Boston a winnable game, but Masataka Yoshida's clutch double late in the month reminded fans that this lineup had teeth when it needed them.\n\nJuly was the season's defining chapter. The Red Sox went a stunning 21-4, their best month in years, fueled by Wilyer Abreu's power surge, Ceddanne Rafaela's grand slam, and a lineup that finally clicked into gear. August extended that confidence — the team went 17-12 — with Nick Sogard emerging as an unlikely hero, delivering a go-ahead double in a pennant-race game, and Jarren Duran crushing a grand slam of his own. Even when Chapman and Wyatt Olds let leads slip, the offense kept answering, and Boston ground out enough wins to secure their postseason berth with a Trevor Story three-run shot in mid-September.\n\nThe Wild Card round against the Yankees, however, proved to be a brief and sobering end. Payton Tolle and Erik Miller struggled to hold leads across the two-game set, Ben Rice's homer and Luis García Jr.'s shot off Sonny Gray deflated comeback bids, and Boston's offense — so explosive in summer — could not deliver the knockout blow. Willson Contreras hit a reviewed home run to keep one game alive, but the Yankees advanced, leaving the Red Sox to reflect on a season that peaked magnificently in July and fell just short when October arrived.",
+  "narrative": "The 2026 Boston Red Sox opened the year with promise but quickly found themselves in a familiar early-season hole, stumbling to a 1-4 March and an 11-15 April as the bullpen proved unreliable and opponents' big hits came at the worst moments. Greg Weissert's pair of costly home runs allowed in late March and early April set an ominous tone, and the team looked like a squad that might spend the summer fighting for relevance rather than a playoff spot.\n\nMay and June brought a stabilization but little more — a 13-14 May and 12-14 June kept Boston hovering near .500. Bright spots emerged in the clutch, including Willson Contreras's towering two-run blast in mid-May and Masataka Yoshida's timely doubles work, but Aroldis Chapman's growing struggles in high-leverage situations — coughing up hits and extra bases at critical junctures — prevented the team from fully turning the corner. The Red Sox entered the All-Star break without a clear identity.\n\nJuly changed everything. Boston went an extraordinary 21-4, the best month on the team's ledger in years, powered by Wilyer Abreu's emerging star turn, Ceddanne Rafaela's grand slam heroics, and a rotation that suddenly locked in with a 3.54 ERA backing them up. August carried the momentum forward at 17-12, with Nick Sogard's clutch doubles and Jarren Duran's grand slam keeping the wins coming even as Chapman continued to bleed runs in relief. Trevor Story's three-run blast in mid-September — his first fully healthy stretch in years — felt like a coronation, and the team finished 87-75 to secure a Wild Card berth.\n\nOctober, however, was brief and painful. Facing the Yankees in the Wild Card round, the Red Sox split the first two games but could not overcome a lineup that kept chipping away. Erik Miller and Sonny Gray each surrendered critical home runs in Games 1 and 2, and while Willson Contreras provided one last moment of magic with a homer in Game 2, it was not enough. The season ended on the wrong side of a Wild Card exit, leaving a talented core hungry for a deeper run in 2027.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Opening Stumbles",
-      "description": "An electric Opening Day homer by Abreu is quickly erased by bullpen collapses and a rough road trip that leaves Boston under .500 through April.",
+      "title": "A Rocky Start",
+      "description": "Early bullpen implosions and opponent home runs sink Boston through the first weeks of the season.",
       "startClipIndex": 0,
       "endClipIndex": 4,
       "tone": "struggle"
@@ -14,31 +14,31 @@
     {
       "id": "ch2",
       "title": "Treading Water",
-      "description": "Boston plays competitive but uninspiring baseball through May and June, winning just enough to stay in Wild Card contention while Chapman and the bullpen remain liabilities.",
+      "description": "Boston grinds through May and June near .500, finding occasional clutch moments but unable to string wins together consistently.",
       "startClipIndex": 5,
       "endClipIndex": 11,
       "tone": "turning_point"
     },
     {
       "id": "ch3",
-      "title": "The July Surge",
-      "description": "The Red Sox catch fire with a franchise-best 21-4 July, powered by Abreu's home runs and Rafaela's grand slam as the lineup finally clicks into an unstoppable force.",
+      "title": "The July Explosion",
+      "description": "A historic 21-4 July transforms the Red Sox from a middling team into a legitimate playoff contender.",
       "startClipIndex": 12,
-      "endClipIndex": 15,
+      "endClipIndex": 14,
       "tone": "triumph"
     },
     {
       "id": "ch4",
-      "title": "Holding the Line",
-      "description": "Boston stays hot into August and September, surviving bullpen hiccups with clutch performances from Sogard, Duran, and Story to secure their Wild Card spot.",
-      "startClipIndex": 16,
+      "title": "Holding On",
+      "description": "Boston wins the August and September stretch run behind clutch hits and grand slams, securing a Wild Card spot despite continued bullpen vulnerabilities.",
+      "startClipIndex": 15,
       "endClipIndex": 23,
       "tone": "clutch"
     },
     {
       "id": "ch5",
-      "title": "October's Brief Stay",
-      "description": "The Wild Card round against New York brings two hard-fought games, but home runs off Miller and Gray prove too much to overcome and Boston's season ends in the first round.",
+      "title": "October Ends Too Soon",
+      "description": "The Red Sox push the Yankees in the Wild Card round but fall short, with home runs allowed proving their undoing once again.",
       "startClipIndex": 24,
       "endClipIndex": 31,
       "tone": "struggle"
@@ -169,7 +169,8 @@
       "wpa": 0.391,
       "xwoba": 0.245,
       "eventType": "double_play",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/ZFhsN2JfWGw0TUFRPT1fQVFSWEFsTUZBbGNBV2dNTFVnQUhDRkFGQUZoVEJWQUFWbEJSVVFVQ0FRWUhWQUpX.mp4"
     },
     {
       "id": "824769-82-10",
@@ -324,7 +325,7 @@
       "title": "Home Run — Wilyer Abreu",
       "description": "Wilyer Abreu homers (15) on a fly ball to right center field. Ceddanne Rafaela scores.",
       "playId": "a397a93a-fc84-3c45-a257-0b72a89bbc81",
-      "videoUrl": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/18/e8bc6022-ffc7e7ae-13d8fc2b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "videoUrl": "https://sporty-clips.mlb.com/akR2NEFfWGw0TUFRPT1fVndKWVV3VU5WVk1BWGdFS1VnQUhVZ0pUQUFBSFZsWUFBZ2NDQWxJTkNGRUhVd3BY.mp4",
       "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/v1784424029/mlb/cggkb9qow0emivythinz.jpg",
       "date": "2026-07-18",
       "gamePk": 824738,
@@ -464,7 +465,8 @@
       "wpa": -0.389,
       "xwoba": 0,
       "eventType": "strikeout",
-      "gameType": "R"
+      "gameType": "R",
+      "videoUrl": "https://sporty-clips.mlb.com/TDY1WDlfWGw0TUFRPT1fQXdWVkJWTU1CUWNBQUZZQVZnQUhBVlZXQUZrTVcxTUFVVmNHVkFNQ0F3ZGRVZ0VG.mp4"
     },
     {
       "id": "823826-84-11",
@@ -736,5 +738,5 @@
     "division": "AL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-21T17:48:00.058Z"
+  "generatedAt": "2026-11-22T18:02:37.844Z"
 }

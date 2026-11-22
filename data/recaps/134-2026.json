@@ -1,47 +1,47 @@
 {
   "teamId": 134,
   "year": 2026,
-  "narrative": "The 2026 Pittsburgh Pirates opened the year with cautious optimism, but March and early April proved rocky. A Luis Robert Jr. three-run blast on Opening Weekend set the tone for a bullpen that would bleed leads all season, and the first month ended just 2-3. April brought more drama than comfort — Gregory Soto and Dennis Santana combined for several gut-punch moments, including a brutal late-game single that let the Cubs walk out of PNC Park winners — yet the Pirates clawed to a respectable 14-13 mark by month's end, surviving more than thriving.\n\nMay and June told a tale of two halves. Bryan Reynolds delivered the season's most electric individual moment on May 29th, a walk-off two-run homer that electrified the home crowd and briefly made Pittsburgh feel like a contender. Henry Davis added a grand slam in early June, and young Tyler Callihan announced himself with a three-run shot. But the relief corps kept undermining those heroics — Yohan Ramírez, Evan Sisk, and Gregory Soto each surrendered critical extra-base hits — and a crushing Eugenio Suárez three-run homer at the hands of Soto on June 27th capped a 11-15 June that sent Pittsburgh skidding toward .500.\n\nJuly and August were the quiet grind. The Pirates hovered around break-even, never finding a sustained streak in either direction. Esmerlyn Valdez's grand slam and a sharp double play turned by Gregory Soto gave fans reasons to believe on July 11th, and Brandon Lowe — emerging as the team's most consistent power source — launched home runs in clutch spots throughout August, including back-to-back bombs on August 19th with Rafael Flores Jr. But the roster's thin margins were exposed in losses to the Dodgers and Reds, and an 12-15 August reinforced that this was a team fighting for respect rather than a division title.\n\nSeptember, however, became Pittsburgh's finest chapter. The Pirates went 15-9 down the stretch, riding Lowe's torrid power surge — his 33rd homer on September 19th — and Flores Jr.'s emerging bat. With a final record sitting at 82-80, the Pirates finished above .500 for the first time in years. The season ended on a sour note when Mason Montgomery surrendered a two-run blast to Eduardo Valencia late in the final week, but by then Pittsburgh had already written a story worth telling: a team that wobbled, found its footing, and refused to quit.",
+  "narrative": "The 2026 Pittsburgh Pirates opened the season with a stumble, dropping three of their first five games in March before steadying themselves in April. The early going was defined by bullpen volatility — Gregory Soto, Yohan Ramírez, and others surrendering leads at critical moments — yet the Pirates still finished April at 14-13, a respectable mark that spoke to a roster capable of grinding out wins even when the relief corps was leaking. The opening month set a recurring theme: Pittsburgh would rarely make anything easy on itself.\n\nMay became the Pirates' best month of the first half, as the offense surged to a 16-12 record. Bryan Reynolds delivered one of the season's most electric moments with a go-ahead two-run homer on May 29th, a blast that registered as the highest positive WPA play on the entire ledger. Henry Davis also began to announce himself with a grand slam in early June, and the lineup's depth — Nick Gonzales, Marcell Ozuna, Jhostynxon Garcia — showed it could punish mistakes. But June and July proved to be the season's valley, with a combined 23-28 record that included a brutal Gregory Soto three-run homer surrender on June 27th and a Mason Montgomery-related collapse in mid-June. The Pirates hovered frustratingly close to .500 without ever building separation.\n\nAugust and September would define Pittsburgh's character. After another rough August at 12-15, the Pirates caught fire down the stretch, going 15-9 in September to push their final record to 82-80. Brandon Lowe emerged as the team's signature power bat, clubbing home runs seemingly every week through the final two months, including his 33rd of the year in a clutch September 19th win. Rafael Flores Jr. added two timely blasts in the final week, and even a late scare — Eduardo Valencia's two-run shot off Carmen Mlodzinski on September 26th — couldn't fully derail a team that had found its footing just when it mattered most. With 82 wins, the Pirates have positioned themselves on the edge of relevance, their September surge keeping postseason hopes alive as the calendar turns to October.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Rough Beginnings",
-      "description": "A rocky March and turbulent April test Pittsburgh's resolve as the bullpen bleeds leads and the Pirates struggle to stay above water.",
+      "title": "Rocky Beginnings",
+      "description": "The Pirates stumble out of the gate in March and April, with the bullpen surrendering key leads but the offense keeping Pittsburgh afloat at 16-16 through the first six weeks.",
       "startClipIndex": 0,
       "endClipIndex": 7,
       "tone": "struggle"
     },
     {
       "id": "ch2",
-      "title": "Reynolds Sparks a Charge",
-      "description": "Bryan Reynolds delivers the season's signature moment with a walk-off homer, lifting May to a winning record even as the relief corps keeps things uncomfortable.",
+      "title": "Reynolds Ignites a Hot May",
+      "description": "Bryan Reynolds' mammoth homer caps the season's best month as Pittsburgh surges to 16-12 in May, the offense finally living up to its potential.",
       "startClipIndex": 8,
       "endClipIndex": 11,
-      "tone": "clutch"
+      "tone": "triumph"
     },
     {
       "id": "ch3",
-      "title": "June's Broken Promise",
-      "description": "Grand slams and clutch home runs can't offset a bullpen collapse and a Eugenio Suárez crusher that sends Pittsburgh tumbling to 11-15 on the month.",
+      "title": "Midsummer Turbulence",
+      "description": "A brutal June and July stretch — marked by blown saves, a Soto three-run blast, and a costly double-play — sinks Pittsburgh to its lowest point of the season at 23-28 combined.",
       "startClipIndex": 12,
       "endClipIndex": 20,
       "tone": "struggle"
     },
     {
       "id": "ch4",
-      "title": "Grinding Through Summer",
-      "description": "July and August bring a steady churn of near-.500 baseball, with Valdez's grand slam, Lowe's power surge, and Cruz's home run keeping Pittsburgh alive but never quite surging.",
+      "title": "Finding Their Footing",
+      "description": "Esmerlyn Valdez's grand slam and Bryan Reynolds' solo shot highlight a July that, despite a losing record, begins to reveal the team's resilience and offensive firepower.",
       "startClipIndex": 21,
-      "endClipIndex": 28,
+      "endClipIndex": 27,
       "tone": "turning_point"
     },
     {
       "id": "ch5",
-      "title": "September Surge",
-      "description": "The Pirates catch fire in September, going 15-9 behind Brandon Lowe's 33rd homer and Rafael Flores Jr.'s breakout, finishing above .500 and leaving the door open for more.",
-      "startClipIndex": 29,
+      "title": "Lowe Powers a September Surge",
+      "description": "Brandon Lowe, Rafael Flores Jr., and Oneil Cruz fuel a 15-9 September as Pittsburgh fights its way to 82-80 and keeps its postseason fate tantalizingly open.",
+      "startClipIndex": 28,
       "endClipIndex": 33,
-      "tone": "triumph"
+      "tone": "clutch"
     }
   ],
   "clips": [
@@ -785,5 +785,5 @@
     "division": "NL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-21T18:21:47.699Z"
+  "generatedAt": "2026-11-22T18:30:31.396Z"
 }

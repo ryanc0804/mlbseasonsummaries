@@ -1,44 +1,44 @@
 {
   "teamId": 141,
   "year": 2026,
-  "narrative": "The 2026 Toronto Blue Jays opened their season with a dramatic early swing, dropping a tough opener when Shea Langeliers took Jeff Hoffman deep before Andrés Giménez answered with a clutch single, and then Alejandro Kirk's Opening Weekend home run set an optimistic early tone. But April revealed the team's true vulnerabilities — a 10-16 month defined by Jeff Hoffman's repeated struggles on the mound, with opposing batters carving him up for singles and doubles in key moments that turned winnable games into losses.\n\nMay offered cautious hope. The Blue Jays played nearly .500 ball at 15-14, anchored by a moment that briefly made believers out of everyone: Daulton Varsho's grand slam on May 13th, a swing that electrified Rogers Centre and represented exactly the kind of offensive explosion Toronto needed. June, however, brought turbulence. The team went 11-15 as the rotation cracked — Louis Varland and Braydon Fisher were victimized for a string of damaging home runs, and the month's high-leverage moments tilted decisively against the Blue Jays. A Brandon Valenzuela double provided one bright spot, but the narrative of June was largely one of pitching fragility.\n\nAugust proved to be the season's most compelling chapter. The Blue Jays surged to 17-11, their best month of the year, powered by unlikely heroes. Nathan Lukes emerged as a clutch performer, homering twice in key August moments, and Andrés Giménez continued to deliver in the biggest spots with timely doubles. The offense finally looked cohesive, and the pitching held together long enough to string wins together. It was a glimpse of what this roster could be when everything clicked simultaneously.\n\nSeptember has been a mixed finish to a complicated year. The Blue Jays sit at 79-83, still mathematically alive in the wild card picture depending on how the standings fall. Kazuma Okamoto delivered a stunning three-run blast on September 14th — his 33rd homer — to keep hopes flickering, but Tyler Rogers surrendering Pete Alonso's 40th home run on September 21st served as a painful reminder of the team's bullpen fragility. The Blue Jays are a club that has shown genuine flashes of excellence but has consistently been undone by high-leverage pitching breakdowns throughout the year.",
+  "narrative": "The 2026 Toronto Blue Jays opened the year with the kind of dramatic whiplash that would come to define their season. A strong March — capped by Alejandro Kirk's go-ahead homer on Opening Weekend and Andrés Giménez's clutch single — gave way to a brutal April in which Jeff Hoffman repeatedly struggled to escape tight situations, surrendering key hits that turned close games into losses. By month's end, Toronto sat at 14-17, already scrambling to stay relevant in a competitive division.\n\nMay brought a measure of hope. Daulton Varsho's grand slam in mid-month was the signature moment of a 15-14 stretch that kept the Jays' head above water, though Hoffman's issues persisted into the month's second half. June proved more turbulent, as a rotating cast of young pitchers — Louis Varland and Braydon Fisher chief among them — took their lumps against powerful lineups, allowing home runs and clutch hits that pushed Toronto to 11-15 for the month. The lone bright spots were Brandon Valenzuela's timely extra-base hit and Nathan Lukes quietly emerging as a productive bat off the bench.\n\nJuly was more of the same struggle, the Blue Jays managing only 11-13 as the roster searched for an identity. Then August arrived, and something clicked. A 17-11 record — the best month of the season — was powered by genuine contributions from unlikely sources: Nathan Lukes launched two meaningful home runs, Giménez delivered clutch doubles, and the offense strung together enough big innings to give the pitching staff some breathing room. The turnaround felt real, if late.\n\nSeptember has been a mixed bag of promise and heartbreak. Kazuma Okamoto's three-run blast on September 14th — his 33rd homer of the year — stands as one of the season's most electric moments, while Pete Alonso's late go-ahead shot off Tyler Rogers on September 21st served as a painful reminder of how thin the margins remain. At 79-83 with games still to play, the Blue Jays find themselves in a familiar place: good enough to dream, not quite good enough to deliver.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Opening Swings",
-      "description": "A wild opening series sets the tone: Toronto battles back from an Hoffman implosion thanks to Giménez and Kirk's clutch performances.",
+      "title": "Opening Weekend Fireworks",
+      "description": "Toronto's season begins with high drama — a painful Hoffman start quickly answered by Kirk's clutch homer and Giménez's heroics.",
       "startClipIndex": 0,
       "endClipIndex": 2,
       "tone": "turning_point"
     },
     {
       "id": "ch2",
-      "title": "April's Growing Pains",
-      "description": "A brutal 10-16 April exposes Jeff Hoffman's struggles on the mound as opposing batters repeatedly cash in during key moments.",
+      "title": "April Holes and May Lifelines",
+      "description": "Hoffman's struggles sink the Jays in April, but Varsho's grand slam in May sparks just enough life to keep the season afloat.",
       "startClipIndex": 3,
-      "endClipIndex": 5,
+      "endClipIndex": 7,
       "tone": "struggle"
     },
     {
       "id": "ch3",
-      "title": "Varsho's Slam and June's Cracks",
-      "description": "Varsho's grand slam sparks optimism in May, but a rocky June sees the rotation battered and Toronto sliding back below .500.",
-      "startClipIndex": 6,
+      "title": "June's Pitching Pains",
+      "description": "Young arms Varland and Fisher take their lumps as opponents crush late-game pitching, though Valenzuela and Lukes provide rare bright spots.",
+      "startClipIndex": 8,
       "endClipIndex": 13,
       "tone": "struggle"
     },
     {
       "id": "ch4",
       "title": "August Surge",
-      "description": "The Blue Jays catch fire with a 17-11 August, as Nathan Lukes and Andrés Giménez carry the offense through the team's best stretch of the season.",
+      "description": "The Blue Jays post their best month of the season at 17-11, with Lukes and Giménez leading an unexpected offensive revival.",
       "startClipIndex": 14,
       "endClipIndex": 16,
       "tone": "triumph"
     },
     {
       "id": "ch5",
-      "title": "September's Last Stand",
-      "description": "Okamoto's towering home run briefly reignites playoff hope, but late bullpen collapses keep Toronto on the wrong side of the bubble.",
+      "title": "September's Final Push",
+      "description": "Okamoto's power and Giménez's consistency keep Toronto fighting, even as late-game losses to teams like the Mets threaten to close the door on the season.",
       "startClipIndex": 17,
       "endClipIndex": 20,
       "tone": "clutch"
@@ -504,5 +504,5 @@
     "division": "AL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-22T18:06:38.724Z"
+  "generatedAt": "2026-11-23T22:18:44.334Z"
 }

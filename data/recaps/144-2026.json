@@ -1,44 +1,52 @@
 {
   "teamId": 144,
   "year": 2026,
-  "narrative": "The 2026 Atlanta Braves entered the season with expectations and delivered from the opening gun, sprinting out of the gate with a blistering 19-8 April powered by a balanced attack and timely hitting. Dominic Smith's two-run double in mid-April and Matt Olson's ninth-inning blast to close out the month set the tone: this was a deep, dangerous lineup that could hurt opponents in a variety of ways. The pitching staff, anchored by a 3.63 ERA, gave the offense plenty of chances to shine, and through the first two months the Braves looked like a legitimate division powerhouse.\n\nJune proved to be the team's one soft spot, a painful 9-15 stretch that threatened to unravel the momentum built over the spring. The bullpen, and closer Raisel Iglesias in particular, became a source of genuine anxiety — back-to-back blown saves in June and early July exposed a vulnerability that opposing offenses were eager to exploit. Yet even in those dark weeks, Ozzie Albies delivered a walk-off two-run shot on June 20th that served as a reminder of the team's resilience, and the month-by-month record shows the Braves never truly collapsed, bouncing back with a 16-11 July.\n\nThe second half belonged to Michael Harris II, Sean Murphy, and a cast of contributors who steadied the ship. Harris racked up extra-base hits all summer long, Murphy provided crucial late-game heroics in September, and an unlikely pair — Ha-Seong Kim and Drake Baldwin — came through repeatedly in clutch moments down the stretch. Ronald Acuña Jr.'s grand slam on September 19th was the punctuation mark on a 94-win regular season, a statement that Atlanta was not just a postseason participant but a legitimate threat.\n\nThe playoffs, however, told a different story. The Braves dispatched the Wild Card round against Philadelphia in a heart-pounding two-game set, with Austin Riley's three-run homer proving to be the decisive blow despite late Philadelphia resistance. But the NLDS against the Dodgers exposed the limits of the roster, as a Robert Suarez-led eighth-inning rally in Game 1 set the tone for a series that slipped away. The October dream ended in the Division Series, leaving a talented Braves squad to wonder what might have been — and to look ahead to 2027 with a roster still built to compete.",
+  "narrative": "The 2026 Atlanta Braves arrived with championship aspirations and spent the first two months making believers out of everyone. A scorching April — 19 wins against just 8 losses — set the tone immediately, powered by Matt Olson's prodigious home run pace and a lineup that could hurt you in a dozen different ways. Dominic Smith's two-run double in mid-April and Olson's ninth homer of the season at month's end were emblematic of a team that felt inevitable, and May kept the energy alive at 18-10 with Michael Harris II emerging as a star force in center field.\n\nJune brought the first real test. The Braves stumbled to a 9-15 mark, their worst month of the season, as the bullpen — particularly closer Raisel Iglesias — became a source of anxiety rather than comfort. Iglesias surrendered a walk-off two-run shot to Braden Montgomery on June 9th that swung nearly a full win of probability in the wrong direction, and the rotation showed cracks too. It was the kind of month that separates contenders from pretenders, and for a stretch it was unclear which category Atlanta belonged to.\n\nThe Braves answered emphatically. July and August combined for a sterling 33-22 record as the offense rediscovered its rhythm and new contributors stepped forward. Ozzie Albies' massive two-run blast on June 20th had already signaled a turn, and through the summer Ha-Seong Kim and Drake Baldwin provided unexpected punch while Harris continued to do damage with extra-base hits. A September grand slam from a returning Ronald Acuña Jr. — his 20th of the year — felt like punctuation on a 94-win regular season that earned the Braves a Wild Card berth.\n\nThe postseason was a tale of heroics and heartbreak compressed into a few unforgettable days. Austin Riley delivered a stunning three-run homer in the Wild Card round to push Atlanta through the Philadelphia Phillies, but the NLDS against the Dodgers proved a bridge too far. Robert Suarez's single in Game 1 keyed a two-run rally that swung the series momentum early, and Atlanta never fully recovered. The 2026 Braves were a legitimately great team — 94 wins, a 3.63 ERA, 204 home runs — who ran into a buzzsaw in October, leaving a city to wonder how close they truly were.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Out of the Gates Flying",
-      "description": "Atlanta storms through April and May with a dominant 37-18 combined record, powered by timely hitting and Matt Olson's emerging power surge.",
+      "title": "April Assault",
+      "description": "The Braves explode out of the gate with a dominant April, led by Matt Olson's power and a lineup firing on all cylinders.",
       "startClipIndex": 0,
-      "endClipIndex": 6,
+      "endClipIndex": 1,
       "tone": "triumph"
     },
     {
       "id": "ch2",
-      "title": "June Swoon",
-      "description": "A brutal 9-15 June exposes bullpen cracks, with Raisel Iglesias delivering the month's most damaging blow in a crushing walk-off loss.",
-      "startClipIndex": 7,
-      "endClipIndex": 8,
-      "tone": "struggle"
+      "title": "May Momentum",
+      "description": "Atlanta keeps rolling into May as Michael Harris II steps into stardom and the offense stays relentless.",
+      "startClipIndex": 2,
+      "endClipIndex": 2,
+      "tone": "triumph"
     },
     {
       "id": "ch3",
-      "title": "Bouncing Back",
-      "description": "Atlanta rebounds with a strong 16-11 July, winning ugly through Iglesias misfires and Owen Murphy rough outings while the offense stays afloat.",
-      "startClipIndex": 9,
+      "title": "The June Stumble",
+      "description": "A brutal 9-15 June exposes bullpen vulnerabilities and tests the Braves' championship mettle.",
+      "startClipIndex": 3,
+      "endClipIndex": 7,
+      "tone": "struggle"
+    },
+    {
+      "id": "ch4",
+      "title": "Summer Resurgence",
+      "description": "Atlanta rights the ship through July and August, winning 33 of 55 games behind clutch contributions from across the roster.",
+      "startClipIndex": 8,
       "endClipIndex": 15,
       "tone": "turning_point"
     },
     {
-      "id": "ch4",
-      "title": "Second-Half Surge",
-      "description": "Michael Harris II, Sean Murphy, Ha-Seong Kim, and Drake Baldwin carry Atlanta to a dominant August-September stretch that clinches a postseason berth.",
+      "id": "ch5",
+      "title": "September Surge",
+      "description": "Acuña's grand slam headlines a strong September finish as the Braves lock up a Wild Card spot and head to October with momentum.",
       "startClipIndex": 16,
       "endClipIndex": 22,
       "tone": "clutch"
     },
     {
-      "id": "ch5",
-      "title": "October's Promise and Pain",
-      "description": "The Braves survive a tense Wild Card round on Austin Riley's heroics, only to see their NLDS dreams extinguished by the Dodgers.",
+      "id": "ch6",
+      "title": "October's Edge",
+      "description": "Riley's Wild Card heroics carry Atlanta past Philadelphia, but the Dodgers end the dream in the NLDS.",
       "startClipIndex": 23,
       "endClipIndex": 30,
       "tone": "struggle"
@@ -728,5 +736,5 @@
     "division": "NL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-22T18:20:04.167Z"
+  "generatedAt": "2026-11-23T22:33:54.776Z"
 }

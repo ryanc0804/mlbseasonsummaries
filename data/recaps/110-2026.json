@@ -1,44 +1,44 @@
 {
   "teamId": 110,
   "year": 2026,
-  "narrative": "The 2026 Baltimore Orioles entered the season carrying the expectations of a franchise that had re-established itself as a contender, but the year quickly proved to be a grinding, uneven affair. April set the tone with a .500 record that masked real volatility — Pete Alonso's early power and Adley Rutschman's first home run of the year provided hope, but the bullpen and defense were already flashing warning signs, costing games in brutal fashion.\n\nMay and June represented the low watermark of the season. The team went a combined 24-32 over those two months, with costly blown leads, grand slams surrendered, and a catastrophic late-inning collapse against the Dodgers in June that swung nearly a full win of probability in a single pitch. The bullpen — particularly Andrew Kittredge and Keegan Akin — was a recurring source of pain, and the rotation showed little ability to absorb the damage. Through the season's first half, Baltimore looked less like a contender and more like a team treading water.\n\nJuly changed everything. The Orioles went 15-8 in a stunning reversal, powered by Jeremiah Jackson's emerging star turn, Coby Mayo's thunder at third base, and a lineup that finally started clicking in unison. The winning continued into August at 15-13, far from perfect but enough to keep the season's larger possibilities alive. This stretch reminded observers why this roster had been built with optimism — when the young core clicked, the Orioles were a genuinely dangerous team.\n\nSeptember has brought the season back down to earth at 10-13, with the bullpen again coughing up leads and the offense going cold at inopportune moments. At 79-82, Baltimore's playoff hopes are hanging by the thinnest of threads, but the final days of the regular season still offer a chance for one last turn of fortune. The story of 2026 is not yet finished.",
+  "narrative": "The 2026 Baltimore Orioles opened their season with the kind of swashbuckling energy that made them believe this year could be special. Through April, big bats like Pete Alonso, Adley Rutschman, and the emerging Jeremiah Jackson delivered clutch hits and home runs that kept the club competitive in a balanced month that ended 13-13. The roster showed flashes of genuine star power, but the bullpen — particularly Andrew Kittredge — and the rotation's vulnerability to big innings were warning signs that would grow louder as the summer arrived.\n\nMay and June were the season's most damaging stretch on paper, but the story was more complicated than the losses suggest. A brutal June that went 11-16 featured some of the year's most painful moments: a devastating Ryan Helsley-era blown save against Los Angeles, a Keegan Akin nightmare in Anaheim, and multiple grand slams surrendered by the pitching staff. The bullpen became a genuine liability, turning leads into losses at the worst possible times. Yet even in the darkness, hitters like Colton Cowser, Samuel Basallo, and Jeremiah Jackson were flashing the talent that would eventually ignite a turnaround.\n\nJuly changed everything. The Orioles went 15-8, their best month of the season, riding timely hitting from Coby Mayo, Dylan Beavers, and Jackson to claw back into relevance. That winning momentum carried into a solid August at 15-13, with Gunnar Henderson and Basallo providing power and Pete Alonso continuing to anchor the middle of the order. The team had found something — an identity built on offensive depth and clutch situational hitting that papered over the still-shaky pitching.\n\nSeptember, however, has been an uneven denouement. At 10-13 through the final weeks, the Orioles have struggled to maintain the July magic, with the bullpen surrendering late-game leads and the rotation showing fatigue. At 79-82, Baltimore's playoff hopes are on life support, but the month-by-month arc of this season — from mediocre start to promising surge to September fade — tells the story of a team with genuine talent that hasn't yet found the consistency to compete at the highest level.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Early Promise, Early Doubts",
-      "description": "A .500 April filled with big moments on both sides of the ledger sets an uncertain tone for the Orioles' season.",
+      "title": "Cautious Optimism",
+      "description": "The Orioles trade blows with opponents through a competitive April, with Alonso, Rutschman, and Jackson showing the offensive ceiling this roster can reach.",
       "startClipIndex": 0,
       "endClipIndex": 6,
-      "tone": "turning_point"
+      "tone": "triumph"
     },
     {
       "id": "ch2",
-      "title": "The Floor Falls Out",
-      "description": "May and June turn into an extended nightmare as the bullpen implodes and the offense can't keep pace with the damage.",
+      "title": "Bullpen on Fire — Wrong Kind",
+      "description": "May brings scattered bright spots but the Orioles bleed runs through errors and blown leads as the pitching staff begins to crack under pressure.",
       "startClipIndex": 7,
-      "endClipIndex": 12,
+      "endClipIndex": 11,
       "tone": "struggle"
     },
     {
       "id": "ch3",
-      "title": "June Salvage Operations",
-      "description": "Late June offers brief flickers of hope as the Orioles string together clutch hits, but costly collapses keep piling up.",
-      "startClipIndex": 13,
+      "title": "June Collapse",
+      "description": "An 11-16 June is defined by grand slams surrendered, late-inning disasters, and a bullpen that cannot hold the line, pushing the season toward crisis.",
+      "startClipIndex": 12,
       "endClipIndex": 19,
-      "tone": "clutch"
+      "tone": "struggle"
     },
     {
       "id": "ch4",
-      "title": "The July Surge",
-      "description": "Baltimore catches fire with a 15-8 July, with Jeremiah Jackson and Coby Mayo leading a lineup that finally comes alive.",
+      "title": "The July Revival",
+      "description": "Going 15-8 in July, Baltimore rediscovers its identity behind clutch hits from Mayo, Beavers, and Jackson, turning what looked like a lost season into a genuine race.",
       "startClipIndex": 20,
       "endClipIndex": 26,
-      "tone": "triumph"
+      "tone": "turning_point"
     },
     {
       "id": "ch5",
-      "title": "Fading in the Stretch",
-      "description": "A solid August gives way to a stumbling September as the bullpen falters again and the Orioles fight to stay relevant.",
+      "title": "Fading Light",
+      "description": "A solid August gives way to a difficult September, as the bullpen's fragility and late-game stumbles leave the Orioles fighting to stay relevant in the standings.",
       "startClipIndex": 27,
       "endClipIndex": 32,
       "tone": "struggle"
@@ -767,5 +767,5 @@
     "division": "AL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-23T22:12:53.645Z"
+  "generatedAt": "2026-11-25T20:06:13.384Z"
 }

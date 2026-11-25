@@ -1,52 +1,44 @@
 {
   "teamId": 143,
   "year": 2026,
-  "narrative": "The 2026 Philadelphia Phillies were a team that never quite found a consistent identity, lurching between brilliance and frustration across a 162-game season before ultimately falling short in October. They stumbled out of the gate in March and April, posting a combined 12-19 record, yet sprinkled in enough clutch moments — Edmundo Sosa's walk-off single on April 1st, a remarkable three-game explosion against San Francisco on April 30th — to keep the fanbase from completely giving up. The roster was talented enough to tease greatness, even when results refused to cooperate.\n\nMay and June became the season's heartbeat. An 18-10 May powered by Bryson Stott's growing confidence at the plate and Justin Crawford's emergence gave the clubhouse renewed belief, while June's 18-9 record — anchored by an extraordinary June 23rd comeback and Derek Hill's walk-off blast the following day — was the finest stretch of baseball the Phillies played all year. Kyle Schwarber's 30th home run on June 28th felt like a coronation. The team looked like a genuine division contender rather than a wild card hopeful.\n\nJuly brought the reckoning. A 9-15 month exposed every crack in the roster — aging veterans grinding through the dog days, a bullpen that too often snatched defeat from the jaws of victory — and threatened to undo everything May and June had built. August answered with the season's most dominant month, a stunning 21-7 run fueled by Derek Hill's grand slam, Edmundo Sosa's own bases-clearing blast, and a renewed sense of collective purpose. It was the kind of August that makes a city believe in October.\n\nSeptember, however, drained that belief drop by drop. A 10-14 collapse — punctuated by a brutal three-game stretch on September 11th when Brooks Raley and Jonathan Bowlan couldn't hold late leads — left the Phillies limping into the Wild Card as a wounded team. Against Atlanta, they traded punches across three tense games: J.T. Realmuto's clutch triple in Game One, Bryce Harper's postseason home run in Game Two, Alec Bohm's late swing in a desperate Game Three. But Austin Riley's three-run blast off Jhoan Duran in the Wild Card and Michael Harris II's decisive home run off Aaron Nola ended Philadelphia's season in heartbreak, a fitting if painful punctuation mark on a year defined by breathtaking highs and devastating lows.",
+  "narrative": "The 2026 Philadelphia Phillies were a team defined by stunning peaks and frustrating valleys, ultimately finishing 88-74 — good enough for a Wild Card berth but not for a deep October run. They opened the year sputtering, going just 12-19 through the first two months as the lineup struggled to find consistency and the bullpen proved unreliable in key moments. But the seeds of something special were being planted: Bryson Stott was emerging as a force in the middle of the order, Brandon Marsh was providing big hits early, and the roster was beginning to cohere.\n\nThe turning point arrived in late April and carried straight through June, when the Phillies caught fire. A stunning three-homer night on June 23rd — capped by Stott's two-run blast — and Derek Hill's walk-off grand slam the following day announced that this was no longer a merely decent team. Kyle Schwarber slugged his 30th homer on June 28th, Edmundo Sosa delivered clutch two-run shots throughout the summer, and the Phillies went a remarkable 39-16 across May, June, and a torrid August. That August run, which saw the team go 21-7, was perhaps the most dominant stretch of baseball in Philadelphia in years.\n\nThe collapse of September cast a shadow over all of it. After going 21-7 in August, the Phillies went just 10-14 to close the regular season. The bullpen, which had carried them through so many summer wins, began to fray badly. Brooks Raley was torched on September 11th in a brutal series of late-inning surrenders, and Jhoan Duran — a nemesis all year — struck again in the closing weeks. The team limped into the Wild Card as a wounded but still dangerous squad.\n\nThe postseason lasted three games and told a painful story in miniature. J.T. Realmuto's clutch triple and Alec Bohm's homer in Game 2 gave fans hope, but Austin Riley's three-run blast off Jhoan Duran in Game 1 set the tone. When Aaron Nola — beloved ace — was tagged for a Michael Harris II three-run shot in a decisive Game 3 moment, the curtain fell. The 2026 Phillies were a team that proved they could be great during a two-month stretch but never fully answered the question of whether they could be great when it mattered most.",
   "chapters": [
     {
       "id": "ch1",
       "title": "A Rocky Start",
-      "description": "The Phillies stumble through March and April with a 12-19 combined record, surviving on scattered clutch moments.",
+      "description": "The Phillies stumble out of the gate in March and April, posting a 12-19 record while searching for offensive consistency.",
       "startClipIndex": 0,
-      "endClipIndex": 5,
+      "endClipIndex": 2,
       "tone": "struggle"
     },
     {
       "id": "ch2",
       "title": "Catching Fire",
-      "description": "An 18-10 May powered by Bryson Stott and Justin Crawford's emergence gives Philadelphia real momentum heading into summer.",
-      "startClipIndex": 6,
-      "endClipIndex": 9,
+      "description": "A late-April explosion ignites a prolonged hot streak, with Stott, Schwarber, and Sosa leading a 36-19 run through May and June.",
+      "startClipIndex": 3,
+      "endClipIndex": 17,
       "tone": "triumph"
     },
     {
       "id": "ch3",
-      "title": "June Glory",
-      "description": "An 18-9 June — highlighted by a wild multi-homer comeback on June 23rd and Derek Hill's walk-off the next day — lifts the Phillies to their seasonal peak.",
-      "startClipIndex": 10,
-      "endClipIndex": 16,
-      "tone": "clutch"
+      "title": "The August Surge",
+      "description": "Derek Hill's grand slam and Edmundo Sosa's clutch blasts power a historic 21-7 August that cements the Phillies' playoff position.",
+      "startClipIndex": 18,
+      "endClipIndex": 26,
+      "tone": "triumph"
     },
     {
       "id": "ch4",
-      "title": "Dog Days and Redemption",
-      "description": "A brutal 9-15 July gives way to a franchise-best 21-7 August, as Derek Hill's grand slam and Edmundo Sosa's heroics save the season.",
-      "startClipIndex": 17,
-      "endClipIndex": 26,
-      "tone": "turning_point"
-    },
-    {
-      "id": "ch5",
       "title": "September Fade",
-      "description": "A 10-14 September collapse, marred by back-to-back blown leads, leaves the Phillies limping into the postseason.",
+      "description": "The bullpen unravels and the offense goes cold, as the Phillies stumble to a 10-14 record and limp toward October.",
       "startClipIndex": 27,
       "endClipIndex": 31,
       "tone": "struggle"
     },
     {
-      "id": "ch6",
+      "id": "ch5",
       "title": "October's Cruel Exit",
-      "description": "The Phillies battle Atlanta across three tense Wild Card games before Austin Riley and Michael Harris II end their season in devastating fashion.",
+      "description": "Brief flashes of postseason brilliance from Realmuto and Bohm cannot overcome Austin Riley's crusher and a final Aaron Nola heartbreak against Atlanta.",
       "startClipIndex": 32,
       "endClipIndex": 39,
       "tone": "clutch"
@@ -930,5 +922,5 @@
     "division": "NL East",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-23T22:37:50.165Z"
+  "generatedAt": "2026-11-25T20:31:35.905Z"
 }

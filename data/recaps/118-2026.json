@@ -1,12 +1,12 @@
 {
   "teamId": 118,
   "year": 2026,
-  "narrative": "The 2026 Kansas City Royals entered the season with legitimate hopes of building on recent momentum, but April quickly exposed the gap between ambition and reality. The pitching staff was porous from the jump, with the bullpen — particularly Lucas Erceg — repeatedly surrendering leads in critical moments, and a 10-17 April record set a hole the club would spend all summer trying to escape. The lone bright spots were Salvador Perez's vintage power, a stunning Lane Thomas three-run blast, and Bobby Witt Jr. continuing to announce himself as one of the game's premier players.\n\nMay and June brought more of the same frustration. The bullpen remained the team's Achilles heel, with blown saves and late-inning disasters piling up. Yet the Royals also showed flashes of resilience — Carter Jensen emerging as a surprise contributor, Michael Massey thumping home runs, and Jac Caglianone announcing himself as a legitimate offensive threat. A 13-14 June hinted at the competitive club buried somewhere inside a roster that too often sabotaged itself with untimely pitching implosions.\n\nJuly proved to be the cruelest month. Alex Lange was torched repeatedly, John Schreiber surrendered a devastating three-run blast, and Matt Strahm gave up a grand slam that essentially served as a tombstone for any realistic postseason hopes. The bullpen's ERA soared, the losses mounted to 11-14, and the season's ceiling came into painful focus. What made it sting was the offense showing genuine pop — Nick Loftin, Michael Massey, and others providing moments of genuine excitement amid the wreckage.\n\nAugust offered the season's most unexpected chapter: a 16-11 record that represented the Royals' best month of the year. Tyler Tolbert and Bobby Witt Jr. delivered clutch hits, the offense sustained rallies, and the team played with an energy that had been absent for months. It couldn't fully resurrect the season, and September's 7-17 collapse ensured a 69-93 finish that reflects a team still searching for the right combination of starting pitching and bullpen stability to match its offensive potential. The foundation — led by Witt, Perez, and a growing crop of young bats — remains worth building on.",
+  "narrative": "The 2026 Kansas City Royals entered the season with optimism built around a core of young talent, but April quickly revealed the gap between expectation and reality. The team stumbled to a 10-17 mark in the month's full slate, undone by a bullpen that couldn't hold leads and an offense that produced in bursts but not with consistency. Salvador Perez's three-run blast and Bobby Witt Jr.'s timely hit gave fans something to cheer, but the relief corps — particularly Lucas Erceg — repeatedly surrendered leads in crushing fashion, and the month ended as a demoralizing stretch that set the tone for a difficult summer.\n\nMay and June offered little relief, with the Royals posting a combined 23-32 record across those two months. The bullpen remained the story, as Erceg continued to be a liability in high-leverage spots and the rotation couldn't consistently keep Kansas City in games. Bright spots like Jac Caglianone's clutch hitting and scattered contributions from Kyle Isbel and Bobby Witt Jr. kept the offense respectable, but a team allowing runs at an alarming rate was always fighting uphill. June's 13-14 mark felt like a minor moral victory, hinting that the roster might be stabilizing even as the standings told a grimmer tale.\n\nJuly proved to be the cruelest month, defined by a bullpen in freefall. Alex Lange surrendered multiple gut-punch home runs, John Schreiber gave up a devastating three-run shot, and Matt Strahm's grand slam surrender against Minnesota on July 30th — a 0.927 WPA swing — was perhaps the single most deflating moment of the season. The Royals went 11-14 in July but felt far worse than that, their losses arriving in the most painful ways possible. August, however, brought a surprising reversal: a 16-11 record, the team's best month, fueled by timely contributions from Tyler Tolbert, Michael Massey, and a Bobby Witt Jr. who kept finding ways to deliver.\n\nSeptember has been an unforgiving return to earth, with the Royals sitting at 7-17 in the month as the season winds down. John Rave's home run in early September and Vinnie Pasquantino's blast on September 20th provided fleeting highlights, but the bullpen surrendered key moments once again, and Carter Jensen's 27th home run late in the month serves more as a showcase of individual growth than a team rallying point. At 69-93, the Royals' season has been defined by an offense that showed flashes of power — 170 home runs, a team built to compete — undermined by a 4.77 ERA and a bullpen that too often gave the game away in the moments that mattered most.",
   "chapters": [
     {
       "id": "ch1",
       "title": "Early Promise, Early Pain",
-      "description": "The Royals open the season with flashes of offensive brilliance but the bullpen immediately signals trouble, producing a brutal 10-17 April.",
+      "description": "April's emotional swings set the tone as Salvador Perez and Bobby Witt Jr. provide heroics, but the bullpen repeatedly surrenders leads in gut-wrenching fashion.",
       "startClipIndex": 0,
       "endClipIndex": 9,
       "tone": "struggle"
@@ -14,31 +14,31 @@
     {
       "id": "ch2",
       "title": "Treading Water",
-      "description": "May and June see the Royals grind through .500 baseball in June while young bats like Caglianone and Jensen offer glimmers of hope amid persistent bullpen failures.",
+      "description": "May and early June see the Royals grind through a losing stretch, with scattered offensive bright spots unable to overcome a leaky pitching staff.",
       "startClipIndex": 10,
       "endClipIndex": 15,
-      "tone": "turning_point"
+      "tone": "struggle"
     },
     {
       "id": "ch3",
-      "title": "July Meltdown",
-      "description": "The bullpen collapses spectacularly in July — including a Strahm grand slam and an Erceg triple disaster — burying any remaining postseason dreams.",
+      "title": "The Bullpen Burns",
+      "description": "July becomes the season's darkest chapter as Alex Lange, John Schreiber, and Matt Strahm surrender crushing home runs, culminating in a grand slam that nearly breaks the team's spirit.",
       "startClipIndex": 16,
-      "endClipIndex": 23,
+      "endClipIndex": 24,
       "tone": "struggle"
     },
     {
       "id": "ch4",
-      "title": "August Surge",
-      "description": "The Royals put together their best month of the season at 16-11, with Tolbert, Witt, and the offense finally stringing together winning baseball.",
-      "startClipIndex": 24,
+      "title": "August Revival",
+      "description": "The Royals post their best month at 16-11, with Tyler Tolbert, Michael Massey, and Bobby Witt Jr. delivering clutch hits that briefly rekindle hope.",
+      "startClipIndex": 25,
       "endClipIndex": 26,
       "tone": "triumph"
     },
     {
       "id": "ch5",
       "title": "September Fade",
-      "description": "A 7-17 September collapse closes the book on a disappointing 69-93 campaign, though Carter Jensen's late home run provides a small reason for future optimism.",
+      "description": "The Royals stumble through a difficult September, with individual milestones from John Rave, Vinnie Pasquantino, and Carter Jensen punctuating an otherwise bleak finish to a disappointing season.",
       "startClipIndex": 27,
       "endClipIndex": 31,
       "tone": "struggle"
@@ -746,5 +746,5 @@
     "division": "AL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-25T20:18:02.192Z"
+  "generatedAt": "2026-11-27T19:47:58.974Z"
 }

@@ -1,55 +1,47 @@
 {
   "teamId": 158,
   "year": 2026,
-  "narrative": "The 2026 Milwaukee Brewers announced themselves immediately. On Opening Day, Christian Yelich launched a three-run home run that set the tone for a franchise-defining season, and even when the first week produced a few gut punches — a blown lead here, a rough outing there — Milwaukee rattled off a 4-1 March to announce they were built for October. April proved bumpier, with the team finishing 12-13, but the talent was undeniable: Gary Sánchez was providing pop, Brice Turang was maturing into a reliable catalyst, and the roster had enough depth to absorb early stumbles.\n\nMay changed everything. The Brewers went 19-7, their best month of the season, riding big hits from Turang, Jackson Chourio, and a rotation that suddenly locked in. Even when Abner Uribe's bullpen outings went sideways — most painfully a May 13th grand slam that surrendered a massive swing in win probability — Milwaukee kept winning anyway, the mark of a genuinely good team. June and July sustained the surge: 17-10 and 16-10 respectively, with Aaron Ashby's rough stretches offset by William Contreras's emerging power and timely contributions throughout the lineup. By the All-Star break, the Brewers were clearly one of the best teams in baseball.\n\nThe stretch run from August through the final week of September was steady rather than spectacular. The Brewers went 17-12 in August, weathering home run balls allowed by Logan Henderson and Antonio Senzatela, before closing September at a scorching 18-6 to cement their place as the class of the NL. Jackson Chourio's September home run and William Contreras's clutch double down the stretch embodied a team that simply would not be denied. With 103 wins in hand, Milwaukee entered the postseason not as a hopeful contender but as a juggernaut.\n\nThe playoffs lived up to the billing. In the Division Series, Chourio delivered a stunning two-run single that swung the series decisively, and the Brewers dispatched their opponents with the calm efficiency of a team that had been winning close games all year. The Championship Series against the Dodgers was harder — Will Smith's two-run double in Game 1 showed how dangerous Los Angeles could be — but Jake Bauers answered with a home run that steadied the ship. In the World Series, Cooper Pratt's unexpected solo shot provided a spark, and though Shane Drohan was tested late, Milwaukee's bullpen and roster depth ultimately prevailed. The 2026 Brewers won 103 games and a World Series title, one of the finest seasons in franchise history.",
+  "narrative": "The 2026 Milwaukee Brewers announced themselves immediately. On Opening Day, Christian Yelich launched a three-run homer that set the tone for what would become a historic season. The Brewers stumbled out of April at 12-13, their early flashes of brilliance undermined by shaky bullpen work and a few painful blown leads, but the roster's depth and offensive firepower were clearly present — waiting to ignite.\n\nIgnite they did. Beginning in May, Milwaukee reeled off a stunning 19-7 month that transformed the franchise's trajectory. Jackson Chourio emerged as a force, Brice Turang homered his way into the lineup's heart, and William Contreras delivered timeshare-busting moments behind the plate. The Brewers carried that momentum into summer, posting 17-10 records in both June and July. Even as Aaron Ashby absorbed brutal home run balls and Abner Uribe surrendered critical shots, the offense kept answering — none more dramatically than Contreras's three-run blast on July 19th, a 0.707 WPA thunderclap that swung a game Milwaukee refused to lose.\n\nAugust and September brought the refinement of a pennant-winning machine. The rotation and bullpen sharpened, the lineup deepened, and Milwaukee sealed the division with an 18-6 September that left no doubt. Jackson Chourio's 22nd home run on September 8th, a two-run shot that felt like a coronation, encapsulated a team playing its best baseball precisely when the calendar demanded it. By the end of the regular season, the Brewers had scored 832 runs and posted a 3.51 ERA, a 103-win club built for October.\n\nThe postseason was a showcase of composure. Chourio's walk-off single in the Division Series — scoring two and swinging win probability by 0.736 — was the defining image of a team that never flinched. Through the Championship Series against the Dodgers and into a dramatic World Series, Milwaukee navigated chaos with poise. Even when Shane Drohan's shaky Game 1 start let Tampa Bay's lineup creep close, Cooper Pratt's home run earlier that night had given the Brewers a cushion they never fully surrendered. When the final out was recorded, Milwaukee had completed one of the most dominant seasons in franchise history, a 103-win World Series championship earned through depth, resilience, and a roster that peaked precisely when it mattered most.",
   "chapters": [
     {
       "id": "ch1",
       "title": "Opening Statement",
-      "description": "Yelich's Opening Day blast signals Milwaukee's championship intentions, even as early stumbles hint at the road ahead.",
+      "description": "Yelich announces the season with a thunderous Opening Day homer, though early stumbles keep the Brewers below .500 through April.",
       "startClipIndex": 0,
-      "endClipIndex": 2,
-      "tone": "triumph"
+      "endClipIndex": 7,
+      "tone": "turning_point"
     },
     {
       "id": "ch2",
-      "title": "April Growing Pains",
-      "description": "A .480 April record exposes real vulnerabilities in the bullpen and lineup, but emerging contributors keep the Brewers afloat.",
-      "startClipIndex": 3,
-      "endClipIndex": 7,
-      "tone": "struggle"
-    },
-    {
-      "id": "ch3",
-      "title": "The May Explosion",
-      "description": "A 19-7 May transforms Milwaukee into a runaway freight train, with Turang, Chourio, and Contreras all stepping into starring roles.",
+      "title": "May Awakening",
+      "description": "A blistering 19-7 May transforms Milwaukee from a struggling team into a genuine contender, powered by Chourio and Turang.",
       "startClipIndex": 8,
       "endClipIndex": 10,
       "tone": "triumph"
     },
     {
-      "id": "ch4",
-      "title": "Grinding Through Summer",
-      "description": "The Brewers win ugly through June, July, and August, absorbing Ashby's rough outings and bullpen heartbreaks while still piling up victories.",
+      "id": "ch3",
+      "title": "Midsummer Grind",
+      "description": "The Brewers win ugly through June and July, surviving bullpen miscues and clutch hits from Contreras and Mitchell to hold their ground.",
       "startClipIndex": 11,
-      "endClipIndex": 26,
-      "tone": "turning_point"
+      "endClipIndex": 21,
+      "tone": "clutch"
     },
     {
-      "id": "ch5",
-      "title": "September Surge",
-      "description": "An 18-6 September close, powered by Chourio's home run and Contreras's clutch hits, locks up 103 wins and the NL's best record.",
-      "startClipIndex": 27,
+      "id": "ch4",
+      "title": "Pennant Push",
+      "description": "A dominant August and September stretch — capped by Chourio's 22nd homer — locks up the division and sends Milwaukee into October riding peak momentum.",
+      "startClipIndex": 22,
       "endClipIndex": 29,
       "tone": "triumph"
     },
     {
-      "id": "ch6",
+      "id": "ch5",
       "title": "October Champions",
-      "description": "From Chourio's series-turning NLDS single to Pratt's World Series spark, the Brewers navigate the postseason gauntlet and claim the Commissioner's Trophy.",
+      "description": "From Chourio's series-turning single in the NLDS to Pratt's World Series homer, the Brewers navigate the postseason with championship poise and claim Milwaukee's crown.",
       "startClipIndex": 30,
       "endClipIndex": 37,
-      "tone": "clutch"
+      "tone": "milestone"
     }
   ],
   "clips": [
@@ -123,6 +115,8 @@
       "title": "Single — Garrett Mitchell",
       "description": "Red Sox challenged (tag play), call on the field was upheld: Garrett Mitchell singles on a line drive to left fielder Roman Anthony. Brice Turang scores. Christian Yelich scores. Garrett Mitchell to 3rd. Throwing error by left fielder Roman Anthony.",
       "playId": "76992318-a329-3abc-8570-8234b9ae1dad",
+      "videoUrl": "https://sporty-clips.mlb.com/UUFNT3FfWGw0TUFRPT1fQVFkWVhWWUhWd29BV1ZFQVh3QUhVRlFGQUZrQVZGRUFDbGNHQkZFTVVGWlVWRk1D.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/muijtp1xiprbokpkb2bm.jpg",
       "date": "2026-04-06",
       "gamePk": 824783,
       "atBatNumber": 74,
@@ -136,8 +130,7 @@
       "wpa": 0.368,
       "xwoba": 0.921,
       "eventType": "single",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/UUFNT3FfWGw0TUFRPT1fQVFkWVhWWUhWd29BV1ZFQVh3QUhVRlFGQUZrQVZGRUFDbGNHQkZFTVVGWlVWRk1D.mp4"
+      "gameType": "R"
     },
     {
       "id": "823804-61-7",
@@ -593,6 +586,8 @@
       "title": "Single — Jake Bauers",
       "description": "Jake Bauers singles on a ground ball to right fielder Kyle Tucker. Jackson Chourio scores. Garrett Mitchell to 3rd.",
       "playId": "1b06c78c-0773-3c14-aae0-091892e16960",
+      "videoUrl": "https://sporty-clips.mlb.com/V0FXYW9fWGw0TUFRPT1fQjFOUlVnY0RYbEVBQ0ZVRlZRQUhVZ2RTQUFCVUJsRUFBbHdFQ0FvSFZBSlRDUVJX.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/xny6khzmq8p5pc0cgzyj.jpg",
       "date": "2026-08-13",
       "gamePk": 823915,
       "atBatNumber": 72,
@@ -606,8 +601,7 @@
       "wpa": 0.392,
       "xwoba": 0.209,
       "eventType": "single",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/V0FXYW9fWGw0TUFRPT1fQjFOUlVnY0RYbEVBQ0ZVRlZRQUhVZ2RTQUFCVUJsRUFBbHdFQ0FvSFZBSlRDUVJX.mp4"
+      "gameType": "R"
     },
     {
       "id": "823585-66-9",
@@ -658,6 +652,8 @@
       "title": "Double — William Contreras",
       "description": "William Contreras doubles (27) on a line drive to center fielder Rece Hinds. Brice Turang scores.",
       "playId": "2a6c1f2c-3ebb-31bc-b0fd-025bda41d155",
+      "videoUrl": "https://sporty-clips.mlb.com/WU8ydnlfWGw0TUFRPT1fQkZCWEIxVlNWRkVBQ3dkUUJBQUhBRlFGQUFNRkJRVUFBbGNBVWxkVUJRSUJBUWRU.mp4",
+      "thumbnailUrl": "https://img.mlbstatic.com/mlb-images/image/upload/w_800,h_448,f_jpg,c_fill,g_auto/mlb/fsaih6jzawz5rtdr5wyp.jpg",
       "date": "2026-09-18",
       "gamePk": 824790,
       "atBatNumber": 77,
@@ -671,8 +667,7 @@
       "wpa": 0.374,
       "xwoba": 0.822,
       "eventType": "double",
-      "gameType": "R",
-      "videoUrl": "https://sporty-clips.mlb.com/WU8ydnlfWGw0TUFRPT1fQkZCWEIxVlNWRkVBQ3dkUUJBQUhBRlFGQUFNRkJRVUFBbGNBVWxkVUJRSUJBUWRU.mp4"
+      "gameType": "R"
     },
     {
       "id": "823412-63-8",
@@ -881,5 +876,5 @@
     "division": "NL Central",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-25T20:37:37.383Z"
+  "generatedAt": "2026-11-27T20:04:49.501Z"
 }

@@ -1,47 +1,55 @@
 {
   "teamId": 136,
   "year": 2026,
-  "narrative": "The 2026 Seattle Mariners opened the year with genuine promise, riding a wave of early heroics from an unlikely source. Cole Young, the young infielder, announced himself with a pair of go-ahead home runs and a clutch late-game single, while Julio Rodríguez chipped in timely hits to help Seattle break even through the opening weeks. The team's 3-3 March and 13-13 April record masked how competitive those games were, with the offense finding ways to manufacture wins even as the bullpen, particularly Andrés Muñoz, began showing troubling signs in high-leverage moments.\n\nMay brought a modest winning record and a brief sense that the Mariners might be turning a corner, but June and July told a harsher story. The rotation and bullpen repeatedly surrendered leads at the worst possible times, and a brutal three-game stretch in early June saw the pitching staff shelled for multiple late-inning rallies. July was the low point of the season at 9-15, as Muñoz continued to struggle in save situations and the offense couldn't consistently overcome the run prevention problems that had plagued the club all year.\n\nAugust and September offered flashes of what this roster could be. Randy Arozarena delivered the season's single most valuable hit, a go-ahead two-run blast that swung a game decisively in Seattle's favor in late August. Dominic Canzone and Josh Naylor provided pop in the middle of the order, and Julio Rodríguez closed the year strong with a three-run homer in September. But those individual highlights couldn't paper over the cumulative damage done by a leaky bullpen and a run differential of minus-58 that painted an honest picture of the club's standing.\n\nAt 76-86, the Mariners find themselves watching October from home, a disappointing result for a franchise that had harbored playoff hopes entering the year. The season's story is ultimately one of potential undermined by consistency — a young core headlined by Cole Young and Rodríguez that showed enough to believe in, surrounded by a supporting cast and bullpen that simply gave too many games away when it mattered most.",
+  "narrative": "The 2026 Seattle Mariners opened the year with genuine promise, riding the breakout bat of Cole Young and a clutch early performance from Julio Rodríguez to post a .500 record through April. Young announced himself as a cornerstone, homering twice in the season's first two weeks and delivering a walk-off-style single late in the month, while Josh Naylor chipped in timely hits to keep Seattle in games. The rotation and bullpen were inconsistent but manageable, and the club looked like a team that could fight for a wild card berth well into summer.\n\nMay carried the Mariners above .500 for the only time in the season's second half, finishing 15-13 for the month on the strength of some offensive fireworks — Josh Naylor's grand slam in June punctuated a stretch where the lineup felt capable of erupting at any moment. But the bullpen, and Andrés Muñoz in particular, began to crack under pressure. High-leverage blown saves in May, June, and beyond turned potential wins into demoralizing losses, and the damage those games inflicted on the standings proved nearly impossible to overcome.\n\nJuly was where the season quietly broke. A 9-15 record buried Seattle in the standings, and while Cole Young and Dominic Canzone offered flashes of power, the pitching staff surrendered too many big moments — including a three-run shot off Eduard Bazardo and Shohei Ohtani doubling home a run against Muñoz in a loss to Los Angeles. August brought more of the same misery, as Muñoz surrendered multiple leads and Bryce Miller gave up a grand slam to the Cubs. Randy Arozarena's two-run homer on August 22nd was the season's single highest-WPA play and briefly reignited hope, but it couldn't stop the bleeding.\n\nSeptember offered a small measure of redemption, the Mariners playing 12-12 ball and finishing with a measure of dignity. Julio Rodríguez's three-run blast on September 10th gave fans something to cheer, even as Muñoz continued to torch late-game leads down the stretch. At 76-86, Seattle finishes well below .500, a season defined by a leaky bullpen, a Cole Young coming-out party, and just enough offensive brilliance to dream — but never quite enough to contend.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Young Guns Ignite",
-      "description": "Cole Young and Julio Rodríguez carry Seattle through the opening weeks with a string of clutch hits and home runs that give the Mariners early momentum.",
+      "title": "Young Guns Fire Early",
+      "description": "Cole Young and Julio Rodríguez power Seattle to a promising .500 start in March and April.",
       "startClipIndex": 0,
-      "endClipIndex": 2,
+      "endClipIndex": 7,
       "tone": "triumph"
     },
     {
       "id": "ch2",
-      "title": "Staying Afloat",
-      "description": "A mixed April sees the Mariners tread water at .500, with big individual moments offset by the first signs of bullpen vulnerability from Andrés Muñoz.",
-      "startClipIndex": 3,
+      "title": "Above Water",
+      "description": "The Mariners post their best month at 15-13 in May, with Naylor's grand slam headlining a stretch of competitive baseball.",
+      "startClipIndex": 8,
       "endClipIndex": 8,
-      "tone": "turning_point"
+      "tone": "clutch"
     },
     {
       "id": "ch3",
-      "title": "Cracks in the Foundation",
-      "description": "A brutal early June stretch exposes the pitching staff's weaknesses as the Mariners slip below .500 and the season's playoff window begins to narrow.",
+      "title": "Cracks in the Dam",
+      "description": "June's bullpen failures and a rough series in Baltimore signal the beginning of a deeper collapse.",
       "startClipIndex": 9,
       "endClipIndex": 13,
       "tone": "struggle"
     },
     {
       "id": "ch4",
-      "title": "Treading Water in July",
-      "description": "A 9-15 July represents the season's nadir, with Muñoz blowing key saves and the offense unable to compensate for a bullpen that keeps surrendering leads.",
+      "title": "July Freefall",
+      "description": "A 9-15 July sinks Seattle's postseason hopes as the bullpen and rotation both falter under pressure.",
       "startClipIndex": 14,
-      "endClipIndex": 20,
+      "endClipIndex": 17,
       "tone": "struggle"
     },
     {
       "id": "ch5",
-      "title": "Late Sparks, Fading Hopes",
-      "description": "Arozarena's dramatic two-run homer and Rodríguez's September surge give Seattle fans something to cheer, but the Mariners can't overcome their season-long run differential deficit.",
-      "startClipIndex": 21,
+      "title": "Arozarena's Moment, Muñoz's Month",
+      "description": "August swings between Randy Arozarena's season-best heroics and Andrés Muñoz's most damaging blown saves.",
+      "startClipIndex": 18,
+      "endClipIndex": 23,
+      "tone": "turning_point"
+    },
+    {
+      "id": "ch6",
+      "title": "Playing Out the String",
+      "description": "A 12-12 September offers modest dignity, with Julio Rodríguez homering and the club finishing stronger than it played all summer.",
+      "startClipIndex": 24,
       "endClipIndex": 26,
-      "tone": "clutch"
+      "tone": "milestone"
     }
   ],
   "clips": [
@@ -637,5 +645,5 @@
     "division": "AL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-25T20:24:56.225Z"
+  "generatedAt": "2026-11-27T19:53:57.522Z"
 }

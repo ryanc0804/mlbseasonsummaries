@@ -1,53 +1,45 @@
 {
   "teamId": 133,
   "year": 2026,
-  "narrative": "The 2026 Oakland Athletics arrived at the starting line with something to prove, and for a brief, shining stretch they looked capable of surprising the American League West. Opening weekend featured both a Shea Langeliers blast that ignited hope and a crushing opponent single that doused it, setting the template for a season that would oscillate between promise and heartbreak. March ended 1-4, but April became the team's best month, a 16-10 surge powered by Nick Kurtz emerging as a legitimate offensive force and a bullpen that — despite its worst moments — still found ways to strand runners and steal wins.\n\nMay and June told a more complicated story. The pitching staff, led by a rotation that allowed nearly a run more per game than league average, became a revolving door of high-leverage disasters. J.T. Ginn, Luis Medina, and Jonah Heim's bat against Oakland arms became recurring villains in the team's highlight reel. Yet even here there were genuine bright spots: Jeff McNeil and Tyler Soderstrom delivered back-to-back clutch performances on May 20th, and Elvis Alvarado showed flashes of late-inning reliability before his own struggles mounted. The team went a combined 23-32 across May and June, treading water but never truly sinking.\n\nJuly broke the Athletics. A brutal 5-19 mark shattered whatever optimism remained from the spring, and August at 8-20 confirmed the season's true trajectory. The pitching continued to hemorrhage runs — the team ERA of 5.51 tells only part of the story — and while individual moments of offense, including a Jacob Wilson home run and a José Suarez grand slam yielded on July 27th, couldn't paper over the structural gaps on the mound. Max Muncy chipped in a timely double in August, but the bullpen repeatedly failed to protect leads, and the lineup's 699 runs scored couldn't come close to offsetting 937 allowed.\n\nSeptember arrived as a coda rather than a comeback, with the Athletics finishing 11-13 to close out what became a 64-98 campaign. The month offered a few individual milestones — Lawrence Butler's 16th home run, Carlos Cortes reaching double digits — but also delivered some of the season's most gut-wrenching late-game implosions. Donovan Walton's own home run hurt his team on September 11th, and Elvis Alvarado surrendered Junior Caminero's 41st of the year down the stretch, symbols of a season in which talent was present in flashes but consistency remained elusive throughout.",
+  "narrative": "The 2026 Oakland Athletics arrived at the new season with cautious optimism, and for a brief stretch they made believers out of their fanbase. March ended on a high note thanks to Shea Langeliers launching a clutch homer, and April proved to be the team's best month, finishing 16-10 as Nick Kurtz emerged as a legitimate power threat and the bullpen found ways to grind out wins even when the late innings got dicey. For a moment, Sacramento's adopted big-leaguers looked like they might be building something real.\n\nMay and June brought the first signs of regression. The pitching staff — anchored by a rotation that frequently surrendered big flies at the worst moments — began to buckle under the weight of a grueling schedule. Starters like J.T. Ginn, Luis Medina, and Hogan Harris gave up pivotal home runs and clutch hits that turned close games into losses, and the month-by-month records reflected the slide: 11-17 in May, 12-15 in June. There were individual bright spots — Jeff McNeil, Tyler Soderstrom, and Elvis Alvarado all authored moments that kept games alive — but the roster's depth was thin and the margins were razor-thin in all the wrong ways.\n\nJuly proved to be the cruelest month, a 5-19 collapse that effectively buried whatever playoff hopes had lingered. August was only marginally better at 8-20 as the bullpen continued to hemorrhage runs and the opposition took full advantage of a porous ERA that ballooned past 5.50 on the season. Bright moments like Jacob Wilson's home run and José Suarez surrendering a Ceddanne Rafaela grand slam captured the team's paradox: flashes of individual production surrounded by systemic pitching failure.\n\nSeptember has offered some measure of pride if not results, with the A's playing closer to .500 at 11-13 through the month's midpoint. Lawrence Butler's home run on September 13th — a clip that actually hurt the team, as it appears in an opponent's box score context — and Carlos Cortes connecting late in the year illustrate the roster's raw pieces. At 64-98 and with the season winding down, Oakland is not yet mathematically eliminated from relevance in the standings' bottom tiers, but the story of 2026 is one of a franchise still searching for the combination of pitching depth and lineup consistency that can turn potential into wins.",
   "chapters": [
     {
       "id": "ch1",
-      "title": "Opening Weekend Whiplash",
-      "description": "Oakland's first two games set the tone for the season — a Langeliers homer sparks hope before the bullpen surrenders the lead in both contests.",
+      "title": "Green Shoots in March and April",
+      "description": "Shea Langeliers and Nick Kurtz power a surprising 16-10 April that gives Oakland fans genuine reason for hope.",
       "startClipIndex": 0,
-      "endClipIndex": 2,
-      "tone": "turning_point"
-    },
-    {
-      "id": "ch2",
-      "title": "April's Best Baseball",
-      "description": "A 16-10 April record marks the high-water mark of the season, fueled by Nick Kurtz's breakout and a team that finds ways to win close games.",
-      "startClipIndex": 3,
       "endClipIndex": 8,
       "tone": "triumph"
     },
     {
-      "id": "ch3",
-      "title": "Treading Water in May and June",
-      "description": "The team stays afloat with a combined 23-32 record over two months, mixing genuine offensive sparks with a rotation and bullpen that can't stay healthy or consistent.",
+      "id": "ch2",
+      "title": "Cracks in the Foundation",
+      "description": "May's 11-17 record exposes the pitching staff's fragility as big flies and clutch hits pile up against Oakland starters.",
       "startClipIndex": 9,
-      "endClipIndex": 25,
+      "endClipIndex": 13,
       "tone": "struggle"
     },
     {
+      "id": "ch3",
+      "title": "June's Fleeting Moments",
+      "description": "Individual heroics from Elvis Alvarado and Lawrence Butler can't mask a 12-15 month as the rotation continues to wobble.",
+      "startClipIndex": 14,
+      "endClipIndex": 25,
+      "tone": "turning_point"
+    },
+    {
       "id": "ch4",
-      "title": "The July Collapse",
-      "description": "A catastrophic 5-19 July exposes the team's pitching depth problems and officially ends any hope of a competitive second half.",
+      "title": "The July Freefall",
+      "description": "A devastating 5-19 July buries Oakland's postseason hopes as the bullpen and rotation collapse in unison.",
       "startClipIndex": 26,
-      "endClipIndex": 27,
+      "endClipIndex": 28,
       "tone": "struggle"
     },
     {
       "id": "ch5",
-      "title": "August Fade",
-      "description": "An 8-20 August cements the Athletics' fate as one of the league's worst teams, with the bullpen surrendering leads and the lineup unable to compensate.",
-      "startClipIndex": 28,
-      "endClipIndex": 31,
-      "tone": "struggle"
-    },
-    {
-      "id": "ch6",
-      "title": "September Epilogue",
-      "description": "A modest 11-13 September offers individual milestones and a few bright performances, but the season ends as a painful reminder of how far the rebuild still has to go.",
-      "startClipIndex": 32,
+      "title": "Playing Out the String",
+      "description": "With the season lost, August and September become a showcase for individual talent on a team that allowed 937 runs and counting.",
+      "startClipIndex": 29,
       "endClipIndex": 37,
       "tone": "milestone"
     }
@@ -877,5 +869,5 @@
     "division": "AL West",
     "divisionRank": 0
   },
-  "generatedAt": "2026-11-25T20:23:33.109Z"
+  "generatedAt": "2026-11-27T19:52:39.762Z"
 }
